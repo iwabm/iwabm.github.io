@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Masaki Iwabuchi | 岩渕 正樹</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>http://iwabm.github.io/blog/</link>
     <description>Recent content in Blogs on Masaki Iwabuchi | 岩渕 正樹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 May 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://iwabm.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hugo&#43;Bootstrap&#43;Github Pagesでブログはじめました</title>
-      <link>http://localhost:1313/blog/Hugo&#43;Bootstrap&#43;Github_Pages/</link>
+      <link>http://iwabm.github.io/blog/Hugo&#43;Bootstrap&#43;Github_Pages/</link>
       <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/Hugo&#43;Bootstrap&#43;Github_Pages/</guid>
+      <guid>http://iwabm.github.io/blog/Hugo&#43;Bootstrap&#43;Github_Pages/</guid>
       <description>&lt;p&gt;Hugo+Bootstrap+Github Pagesでブログはじめました。（tumblrから乗り換え）&lt;br/&gt;
 なかなか難しい。できることを確かめながら約3日(作業時間15h程度)でサンプルテーマにインスパイアされながらTopとAbout Me、Blogページのデザインを整えて一応の公開までこぎつけた。&lt;br/&gt;
 &lt;br/&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Masaki Iwabuchi | 岩渕 正樹</title>
-    <link>http://localhost:1313/</link>
+    <link>http://iwabm.github.io/</link>
     <description>Recent content on Masaki Iwabuchi | 岩渕 正樹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 May 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://iwabm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hugo&#43;Bootstrap&#43;Github Pagesでブログはじめました</title>
-      <link>http://localhost:1313/blog/Hugo&#43;Bootstrap&#43;Github_Pages/</link>
+      <link>http://iwabm.github.io/blog/Hugo&#43;Bootstrap&#43;Github_Pages/</link>
       <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/Hugo&#43;Bootstrap&#43;Github_Pages/</guid>
+      <guid>http://iwabm.github.io/blog/Hugo&#43;Bootstrap&#43;Github_Pages/</guid>
       <description>&lt;p&gt;Hugo+Bootstrap+Github Pagesでブログはじめました。（tumblrから乗り換え）&lt;br/&gt;
 なかなか難しい。できることを確かめながら約3日(作業時間15h程度)でサンプルテーマにインスパイアされながらTopとAbout Me、Blogページのデザインを整えて一応の公開までこぎつけた。&lt;br/&gt;
 &lt;br/&gt;
@@ -28,30 +28,30 @@
     
     <item>
       <title>Masaki Iwabuchi | 岩渕 正樹</title>
-      <link>http://localhost:1313/about/me/</link>
+      <link>http://iwabm.github.io/about/me/</link>
       <pubDate>Fri, 29 May 2015 17:26:43 +0900</pubDate>
       
-      <guid>http://localhost:1313/about/me/</guid>
-      <description>&lt;p&gt;dummy markdown&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Photo 1</title>
-      <link>http://localhost:1313/photo/Photo1/</link>
-      <pubDate>Wed, 17 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/photo/Photo1/</guid>
+      <guid>http://iwabm.github.io/about/me/</guid>
       <description>&lt;p&gt;dummy markdown&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Photo 2</title>
-      <link>http://localhost:1313/photo/Photo2/</link>
+      <link>http://iwabm.github.io/photo/Photo2/</link>
       <pubDate>Wed, 17 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/photo/Photo2/</guid>
+      <guid>http://iwabm.github.io/photo/Photo2/</guid>
+      <description>&lt;p&gt;dummy markdown&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photo 1</title>
+      <link>http://iwabm.github.io/photo/Photo1/</link>
+      <pubDate>Wed, 17 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/photo/Photo1/</guid>
       <description>&lt;p&gt;dummy markdown&lt;/p&gt;
 </description>
     </item>
