@@ -1,0 +1,37 @@
+#social-icon-white a {
+  display: block;
+  float: left;
+  margin: 0 5px 5px 0;
+  padding: 0;
+  color: #ffffff;
+}
+#social-icon-white i {
+  width: 50px;
+  height: 50px;
+  margin: 0;
+  border: 1px solid #ffffff;
+  border-radius: 50%;
+  line-height: 50px;
+  text-align: center;
+}
+#social-icon-white i:before { padding 0; line-height: 50px; }
+#social-icon-white a:hover i { background: #333333; }
+
+#social-icon-color a {
+  display: block;
+  float: left;
+  margin: 0 5px 5px 0;
+  padding: 0;
+  color: #fff;
+}
+#social-icon-color i {
+  width: 50px;
+  height: 50px;
+  margin: 0;
+  border-radius: 50%;
+  background: #333333;
+  line-height: 50px;
+  text-align: center;
+}
+#social-icon-color i:before { padding 0; line-height: 50px; }
+#social-icon-color a:hover i { background: #999999; }

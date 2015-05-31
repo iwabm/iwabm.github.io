@@ -1,0 +1,9 @@
+{{ range .Site.Params.social }}
+	<li>
+	<div id="social-icon-white">
+		<a href="{{ .url }}">
+			<i class="fa fa-{{ .icon }} fa-2x"></i>
+		</a>
+	</div>
+	</li>
+{{ end }}

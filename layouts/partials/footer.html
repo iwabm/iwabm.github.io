@@ -1,0 +1,59 @@
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <p>Stay In Touch:</p>
+                {{ range .Site.Params.social }}
+                    <ul class="list-inline contact-social-buttons pull-left">
+                    <li>
+                    <div id="social-icon-color">
+                        <a href="{{ .url }}">
+                            <i class="fa fa-{{ .icon }} fa-2x"></i>
+                        </a>
+                    </div>
+                    </li>
+                    </ul>
+                {{ end }}
+            </div>            
+            <div class="col-md-6">
+                <ul class="list-inline text-right">
+                    <li>
+                        <a class="page-scroll" href="#intro">Home</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a class="page-scroll" href="#about">About Me</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <!--
+                    <li>
+                        <a class="page-scroll" href="#services">Photo</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Design</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    -->
+                    <li>
+                        <a class="page-scroll" href="#contact">Blog</a>
+                    </li>                   
+                    <!--
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Journey</a>
+                    </li>
+                -->
+                </ul>
+                <br>
+                <p class="text-muted small text-right">Powered by <a href="http://gohugo.io/">Hugo</a>.
+                    Hosted by <a href="https://pages.github.com/">Github Pages.</a>
+                <p class="copyright text-muted small text-right">Copyright &copy; {{ .Site.Params.author }} All Rights Reserved</p>
+            </div>
+        </div>
+    </div>
+</footer>
+{{ partial "js.html" . }}
+</body>
+</html>
