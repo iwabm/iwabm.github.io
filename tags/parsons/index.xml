@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Masaki Iwabuchi | 岩渕 正樹</title>
-    <link>http://iwabm.github.io/blog/</link>
-    <description>Recent content in Blogs on Masaki Iwabuchi | 岩渕 正樹</description>
+    <title>Parsons on Masaki Iwabuchi | 岩渕 正樹</title>
+    <link>http://iwabm.github.io/tags/parsons/</link>
+    <description>Recent content in Parsons on Masaki Iwabuchi | 岩渕 正樹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://iwabm.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://iwabm.github.io/tags/parsons/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>デザインのサマースクール選び</title>
@@ -116,23 +116,6 @@ SVAもサマープログラムがあります。SVAのプログラムはデザ�
 &lt;/ul&gt;
 
 &lt;p&gt;何かご意見や問い合わせ等がございましたら、お気軽にコメントください。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hugo&#43;Bootstrap&#43;Github Pagesでブログはじめました</title>
-      <link>http://iwabm.github.io/blog/2015/05/31/hugobootstrapgithub-pages%E3%81%A7%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</link>
-      <pubDate>Sun, 31 May 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/blog/2015/05/31/hugobootstrapgithub-pages%E3%81%A7%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/</guid>
-      <description>&lt;p&gt;Hugo+Bootstrap+Github Pagesでブログはじめました。（tumblrから乗り換え）&lt;br /&gt;
-なかなか難しい。できることを確かめながら約3日(作業時間15h程度)でサンプルテーマにインスパイアされながらTopとAbout Me、Blogページのデザインを整えて一応の公開までこぎつけた。&lt;/p&gt;
-
-&lt;p&gt;どこにどのファイルを置くと個別の記事がレンダリングされるのか、公式のDocを見ながらやるもなかなかうまく行かず、そこでかなり
-時間を使ってしまった。まだまだ日本語の解説記事も少ないようなので、そのあたりは運用が軌道に乗ってきたら簡単な解説でもしようと思います。
-とりあえずマークダウンで記事が書けるのは良い。&lt;/p&gt;
-
-&lt;p&gt;本当は写真ブログにしたくて、もっと載せたいコンテンツがあるんだけど、画像の扱いがまたひと悶着ありそうだなぁと思ったので一旦テキストベースのコンテンツを公開できる状態でリリースした。これから徐々に機能拡張していければと思います。&lt;/p&gt;
 </description>
     </item>
     
