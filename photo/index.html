@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
-    <base href="http://iwabm.github.io/">
+    <base href="http://localhost:1313/">
     <title>Photos</title>
 
     
@@ -17,6 +17,8 @@
     <link href="/css/iwabm-theme.css" rel="stylesheet">
     <link href="/css/social-icon.css" rel="stylesheet">
     <link rel="stylesheet" href="css/creative.css" type="text/css">
+     <link rel="stylesheet" type="text/css" href="css/slick.css"/>
+     <link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>
 
     
     <link href="/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -51,6 +53,9 @@
                 <li>
                     <a href="/about/me/"><i class="fa fa-user fa-2x"></i></a>
                 </li>
+                <li>
+                    <a href="/photo/"><i class="fa fa-camera-retro fa-2x"></i></a>
+                </li>
                 
                 <li>
                     <a href="/blog/"><i class="fa fa-pencil-square-o fa-2x"></i></a>
@@ -66,22 +71,37 @@
 
 
 
-<section class="container content-section text-left" id="blog-list">
-    <div class="row no-gutter index-blog-box col-sm-10 col-sm-offset-1">
+<section class="container content-section text-left" id="photo-list">
+    <div class="row no-gutter index-blog-box col-sm-8 col-sm-offset-2">
         <div class="row">
-            <div class="col-sm-8">
-                <i class="fa fa-star-o fa-2x section-title"></i>
-                <h3 class="section-title">Related Posts</h3>
+            <div class="col-sm-12">
+                <i class="fa fa-camera-retro fa-2x section-title"></i>
+                <h3 class="section-title">All Photo Works</h3>
             </div>
         </div>
-        <div class="row">
-            
-            
-            
-            
-            
+    </div>
+</section>
+
+<section class="no-padding" id="photo">
+        <div class="container-fluid">
+            <div class="row no-gutter">
+                
+                
+                    <div class="col-lg-6 col-md-6 col-sm-6">
+                        <a href="http://localhost:1313/photo/2014/tokyo-christmas-collection/" class="portfolio-box">
+                            <img src="http://localhost:1313//img/photo/eyecatch/2014_TCC.jpg" class="img-responsive" alt="Tokyo Christmas Collection">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-name">Tokyo Christmas Collection</div>
+                                    <div class="project-category text-faded">(2014)</div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                
+                
+            </div>
         </div>
-    </div>                      
 </section>
 
 
@@ -159,12 +179,17 @@
                     </li>
                     <li class="footer-menu-divider">&sdot;</li>
                     <li>
-                        <a class="page-scroll" href="#about">About Me</a>
+                        <a class="page-scroll" href="/about/me/">About Me</a>
                     </li>
                     <li class="footer-menu-divider">&sdot;</li>
+                    <li>
+                        <a class="page-scroll" href="/photo/">Photo</a>
+                    </li>
+                    <li class="footer-menu-divider">&sdot;</li>
+                    <li>
                     
                     <li>
-                        <a class="page-scroll" href="#contact">Blog</a>
+                        <a class="page-scroll" href="/blog/">Blog</a>
                     </li>                   
                     
                 </ul>
@@ -177,7 +202,8 @@
     </div>
 </footer>
 
-<script src="/js/jquery-1.11.0.js"></script>
+<script src="/js/jquery-1.11.3.min.js"></script>
+
 
 
 <script src="/js/jquery.easing.min.js"></script>
@@ -191,8 +217,21 @@
 
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 
+<script src="/js/slick.min.js"></script>
+<script>
+    $(document).ready(function(){
+    	$('.carousel-fade').slick({
+    		fade: true,
+    		cssEase: 'linear'
+    	});
+    });
+</script>
 
 
 
-</body>
+
+<script data-no-instant>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>
