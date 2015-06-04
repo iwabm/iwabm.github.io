@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>デザイン留学 on Masaki Iwabuchi | 岩渕 正樹</title>
-    <link>http://localhost:1313/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%95%99%E5%AD%A6/</link>
+    <link>http://iwabm.github.io/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%95%99%E5%AD%A6/</link>
     <description>Recent content in デザイン留学 on Masaki Iwabuchi | 岩渕 正樹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 03 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%95%99%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://iwabm.github.io/tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%95%99%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2ヶ月でTOEFL80点を取る勉強法1</title>
-      <link>http://localhost:1313/blog/2015/06/03/2%E3%83%B6%E6%9C%88%E3%81%A7toefl80%E7%82%B9%E3%82%92%E5%8F%96%E3%82%8B%E5%8B%89%E5%BC%B7%E6%B3%951/</link>
+      <link>http://iwabm.github.io/blog/2015/06/03/2%E3%83%B6%E6%9C%88%E3%81%A7toefl80%E7%82%B9%E3%82%92%E5%8F%96%E3%82%8B%E5%8B%89%E5%BC%B7%E6%B3%951/</link>
       <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/06/03/2%E3%83%B6%E6%9C%88%E3%81%A7toefl80%E7%82%B9%E3%82%92%E5%8F%96%E3%82%8B%E5%8B%89%E5%BC%B7%E6%B3%951/</guid>
+      <guid>http://iwabm.github.io/blog/2015/06/03/2%E3%83%B6%E6%9C%88%E3%81%A7toefl80%E7%82%B9%E3%82%92%E5%8F%96%E3%82%8B%E5%8B%89%E5%BC%B7%E6%B3%951/</guid>
       <description>&lt;p&gt;アメリカのサマースクールを受講するにあたり、ほぼ唯一準備が必要なのがTOEFLです。&lt;br /&gt;
 大学の通常の学位・修士コースの受験より点数は低く設定されており、パーソンズでは79点、SVAでは65点以上が必要になります。アメリカのトップ大学に行くには100-105点が必要と言われているのに比べれば、私が行くパーソンズの80点は簡単に思えますが、TOEFLの試験形式が特殊なため、無勉強ではなかなか届かない点数だと思います。&lt;br /&gt;
 TOEFLの攻略ブログは色々な方が書かれていると思いますので、ここでは2ヶ月で80点を取るための勉強法について書きます。それ以上の点数を目標としている方は別の記事を参照ください。本記事では、全体のスケジュール感や勉強時間について書きます。　　&lt;/p&gt;
@@ -86,10 +86,10 @@ Readingは20分からさらに余裕を持って18分程度を目安に解くよ
     
     <item>
       <title>デザインのサマースクール選び</title>
-      <link>http://localhost:1313/blog/2015/06/02/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E9%81%B8%E3%81%B3/</link>
+      <link>http://iwabm.github.io/blog/2015/06/02/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E9%81%B8%E3%81%B3/</link>
       <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/06/02/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E9%81%B8%E3%81%B3/</guid>
+      <guid>http://iwabm.github.io/blog/2015/06/02/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E9%81%B8%E3%81%B3/</guid>
       <description>&lt;p&gt;デザインを学ぼうと思った時、色々利用できるプログラムがあります。&lt;/p&gt;
 
 &lt;ol&gt;
@@ -158,10 +158,10 @@ SVAもサマープログラムがあります。SVAのプログラムはデザ�
     
     <item>
       <title>Parsons Summer School留学体験記　はじめに</title>
-      <link>http://localhost:1313/blog/2015/06/01/parsons-summer-school%E7%95%99%E5%AD%A6%E4%BD%93%E9%A8%93%E8%A8%98%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</link>
+      <link>http://iwabm.github.io/blog/2015/06/01/parsons-summer-school%E7%95%99%E5%AD%A6%E4%BD%93%E9%A8%93%E8%A8%98%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/2015/06/01/parsons-summer-school%E7%95%99%E5%AD%A6%E4%BD%93%E9%A8%93%E8%A8%98%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</guid>
+      <guid>http://iwabm.github.io/blog/2015/06/01/parsons-summer-school%E7%95%99%E5%AD%A6%E4%BD%93%E9%A8%93%E8%A8%98%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</guid>
       <description>&lt;p&gt;このカテゴリの記事は、2015年7月から約1ヶ月、アメリカ、ニューヨークのパーソンズ美術大学(The New School Parsons School of Design)にGraphic Designの留学をする筆者が、その1ヶ月の体験を記録をするものです。&lt;/p&gt;
 
 &lt;p&gt;筆者は、修士卒業後IBMのUCD(ユーザー・センタード・デザイン)部門にて、ユーザー視点のWebデザイン、UX(ユーザー・エクスペリエンス)コンサルティングに従事しています。&lt;/p&gt;

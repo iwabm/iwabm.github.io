@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Masaki Iwabuchi | 岩渕 正樹</title>
-    <link>http://localhost:1313/about/</link>
+    <link>http://iwabm.github.io/about/</link>
     <description>Recent content in Abouts on Masaki Iwabuchi | 岩渕 正樹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 May 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://iwabm.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Masaki Iwabuchi | 岩渕 正樹</title>
-      <link>http://localhost:1313/about/me/</link>
+      <link>http://iwabm.github.io/about/me/</link>
       <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/me/</guid>
+      <guid>http://iwabm.github.io/about/me/</guid>
       <description>&lt;p&gt;dummy markdown&lt;/p&gt;
 </description>
     </item>
