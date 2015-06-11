@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://iwabm.github.io/</loc>
-    <lastmod>2015-06-05T00:00:00+00:00</lastmod>
+    <lastmod>2015-12-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://iwabm.github.io/blog/2015/12/31/inspiration-2015-%E9%9A%8F%E6%99%82%E6%9B%B4%E6%96%B0/</loc>
+    <lastmod>2015-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -45,6 +50,11 @@
   <url>
     <loc>http://iwabm.github.io/photo/2014/tokyo-christmas-collection/</loc>
     <lastmod>2014-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://iwabm.github.io/photo/2013/rainy-day-tokyo/</loc>
+    <lastmod>2013-12-23T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

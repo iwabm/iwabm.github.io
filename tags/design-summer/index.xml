@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design Summer on Masaki Iwabuchi | 岩渕 正樹</title>
-    <link>http://iwabm.github.io/tags/design-summer/</link>
+    <link>http://localhost:1313/tags/design-summer/</link>
     <description>Recent content in Design Summer on Masaki Iwabuchi | 岩渕 正樹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Jun 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://iwabm.github.io/tags/design-summer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/design-summer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>デザインのサマースクール選び</title>
-      <link>http://iwabm.github.io/blog/2015/06/02/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E9%81%B8%E3%81%B3/</link>
+      <link>http://localhost:1313/blog/2015/06/02/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E9%81%B8%E3%81%B3/</link>
       <pubDate>Tue, 02 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://iwabm.github.io/blog/2015/06/02/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E9%81%B8%E3%81%B3/</guid>
+      <guid>http://localhost:1313/blog/2015/06/02/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E9%81%B8%E3%81%B3/</guid>
       <description>&lt;p&gt;デザインを学ぼうと思った時、色々利用できるプログラムがあります。&lt;/p&gt;
 
 &lt;ol&gt;
@@ -78,44 +78,6 @@ SVAもサマープログラムがあります。SVAのプログラムはデザ�
 
 &lt;p&gt;色々なプログラムがありますが、期間と費用を考慮し、サマースクールの場合は基本的にはTOEFLがあれば好きな所へ行けますので、準備は英語に集中して勉強すればよいということになります。&lt;br /&gt;
 ということで第1志望をParsonsのGraphic Design IIのコースとして、次はTOEFL79点突破を目指して英語の勉強を始めました。次はTOEFLの短期攻略のための記事を書きます。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Parsons Summer School留学体験記　はじめに</title>
-      <link>http://iwabm.github.io/blog/2015/06/01/parsons-summer-school%E7%95%99%E5%AD%A6%E4%BD%93%E9%A8%93%E8%A8%98%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/blog/2015/06/01/parsons-summer-school%E7%95%99%E5%AD%A6%E4%BD%93%E9%A8%93%E8%A8%98%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/</guid>
-      <description>&lt;p&gt;このカテゴリの記事は、2015年7月から約1ヶ月、アメリカ、ニューヨークのパーソンズ美術大学(The New School Parsons School of Design)にGraphic Designの留学をする筆者が、その1ヶ月の体験を記録をするものです。&lt;/p&gt;
-
-&lt;p&gt;筆者は、修士卒業後IBMのUCD(ユーザー・センタード・デザイン)部門にて、ユーザー視点のWebデザイン、UX(ユーザー・エクスペリエンス)コンサルティングに従事しています。&lt;/p&gt;
-
-&lt;p&gt;工学のバックグラウンドを基礎に、一般にはWebやアプリケーションの企画と呼ばれる部分で、Webのコンセプト決めから、ペルソナを利用したコンテンツ設計、情報構造と導線の設計まで、主に「論理的なデザイン」を担当しています。&lt;br /&gt;
-しかし現在、デザイン思考やサービスデザイン、アジャイルなど、コンセプトやアイデアを素早くプロトタイピングで実装し、反復しながらものづくりをしていく考え方が進んでおり、人材としても1人で企画と実装、デザインとエンジニアリング、論理的なデザインと感性的なデザインという異なる領域を回遊できるスキルが求められています。&lt;/p&gt;
-
-&lt;p&gt;筆者も1人でそのサイクルを回せる能力を身につけるべく、工学のバックグラウンドを基礎にデザインを学び、クリエイティブの領域にスキルを拡張したいと思いました。そこで、2015年7月から約1ヶ月、ニューヨークのパーソンズ美術大学にてグラフィックデザインのサマープログラムの受講を予定しています。&lt;br /&gt;
-筆者は美術の学位は持っておらず、新鮮な気持ちで体験した内容を残せるのではと思い、また、あまりNYのデザイン系のサマープログラムのブログは無く、価値ある情報が残せると思い、留学の記録をしたいと思います。&lt;br /&gt;
-今後は以下のような記事を書く予定です。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;留学準備&lt;br /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;学校選び&lt;br /&gt;
-　 - 2ヶ月でTOEFL80点を取る勉強法&lt;br /&gt;
-　 - ビザや各種申請について&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;留学中～帰国後&lt;br /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Parsonsのデザインサマープログラムと成果物&lt;br /&gt;
-　 - NYでの生活と発見&lt;br /&gt;
-　 - ビジネス、デザイン、エンジニアリングの関係について&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;何かご意見や問い合わせ等がございましたら、お気軽にコメントください。&lt;/p&gt;
 </description>
     </item>
     

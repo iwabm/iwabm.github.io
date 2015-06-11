@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="岩渕正樹オフィシャルサイト。UXデザイナー、写真家である筆者がデザイン、アート、テクノロジー、ビジネス、写真などに関するブログや作品を発信します。">
+    <meta name="author" content="Masaki Iwabuchi, 岩渕正樹, 岩淵正樹, いわぶちまさき">
     <base href="http://iwabm.github.io/">
     <title>デザインのサマースクール選び</title>
 
@@ -30,7 +30,7 @@
     
 
 </head>
-<body>
+<body onload="run();">
 
 
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -75,7 +75,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <i class="fa fa-pencil-square-o fa-2x section-title"></i>
-                <h3 class="section-title">デザインのサマースクール選び</h3>
+                <h1 class="section-title">デザインのサマースクール選び</h1>
             </div>
         </div>
         <div class="row">
@@ -89,23 +89,9 @@
 <ul class="post-tags pull-right">
   
     <li>
-        <a href="http://iwabm.github.io//tags/parsons">
+        <a href="http://iwabm.github.io//tags/%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%BA%E7%95%99%E5%AD%A6%E8%A8%98">
             <i class="fa fa-tags"></i>
-            Parsons
-        </a>
-    </li>
-  
-    <li>
-        <a href="http://iwabm.github.io//tags/design-summer">
-            <i class="fa fa-tags"></i>
-            Design Summer
-        </a>
-    </li>
-  
-    <li>
-        <a href="http://iwabm.github.io//tags/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E7%95%99%E5%AD%A6">
-            <i class="fa fa-tags"></i>
-            デザイン留学
+            パーソンズ留学記
         </a>
     </li>
   
@@ -113,9 +99,9 @@
 </aside>
             </div>
         </div>
-        <div class="row blog-content">
-            <div class="col-sm-12">
-        	   <p><p>デザインを学ぼうと思った時、色々利用できるプログラムがあります。</p>
+        <div class="row blog-box">
+            <div class="col-sm-12 blog-content">
+        	<p>デザインを学ぼうと思った時、色々利用できるプログラムがあります。</p>
 
 <ol>
 <li>日本または海外の美大・大学院で学位・修士を取る
@@ -178,7 +164,7 @@ SVAもサマープログラムがあります。SVAのプログラムはデザ�
 
 <p>色々なプログラムがありますが、期間と費用を考慮し、サマースクールの場合は基本的にはTOEFLがあれば好きな所へ行けますので、準備は英語に集中して勉強すればよいということになります。<br />
 ということで第1志望をParsonsのGraphic Design IIのコースとして、次はTOEFL79点突破を目指して英語の勉強を始めました。次はTOEFLの短期攻略のための記事を書きます。</p>
- </p>
+
             </div>
         </div>
         <div class="row">
@@ -323,7 +309,21 @@ SVAもサマープログラムがあります。SVAのプログラムはデザ�
 <script src="js/landing-page.js"></script>
 
 
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script src="/js/rainyday.js"></script>
+<script>
+    function run() {
+        var engine = new RainyDay({
+            element: 'background',
+            blur: 10,
+            opacity: 1,
+            fps: 30
+        });
+        engine.trail = engine.TRAIL_SMUDGE;
+        engine.VARIABLE_GRAVITY_ANGLE = Math.PI / 9;
+        engine.rain([ [0, 2, 200], [3, 3, 1] ], 100);
+    }
+</script>
+
 
 <script src="/js/slick.min.js"></script>
 <script>
@@ -344,6 +344,7 @@ SVAもサマープログラムがあります。SVAのプログラムはデザ�
       });
     });
 </script>
+
 
 
 

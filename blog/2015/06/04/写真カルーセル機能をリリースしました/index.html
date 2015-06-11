@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="岩渕正樹オフィシャルサイト。UXデザイナー、写真家である筆者がデザイン、アート、テクノロジー、ビジネス、写真などに関するブログや作品を発信します。">
+    <meta name="author" content="Masaki Iwabuchi, 岩渕正樹, 岩淵正樹, いわぶちまさき">
     <base href="http://iwabm.github.io/">
     <title>写真カルーセル機能をリリースしました</title>
 
@@ -30,7 +30,7 @@
     
 
 </head>
-<body>
+<body onload="run();">
 
 
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -75,7 +75,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <i class="fa fa-pencil-square-o fa-2x section-title"></i>
-                <h3 class="section-title">写真カルーセル機能をリリースしました</h3>
+                <h1 class="section-title">写真カルーセル機能をリリースしました</h1>
             </div>
         </div>
         <div class="row">
@@ -89,16 +89,9 @@
 <ul class="post-tags pull-right">
   
     <li>
-        <a href="http://iwabm.github.io//tags/diary">
+        <a href="http://iwabm.github.io//tags/release">
             <i class="fa fa-tags"></i>
-            diary
-        </a>
-    </li>
-  
-    <li>
-        <a href="http://iwabm.github.io//tags/engineering">
-            <i class="fa fa-tags"></i>
-            engineering
+            release
         </a>
     </li>
   
@@ -106,14 +99,14 @@
 </aside>
             </div>
         </div>
-        <div class="row blog-content">
-            <div class="col-sm-12">
-        	   <p><p>写真カルーセル機能をリリースしました。ヘッダのカメラのアイコンや、トップページに並んでいる写真をクリックしてご覧ください。<br />
+        <div class="row blog-box">
+            <div class="col-sm-12 blog-content">
+        	<p>写真カルーセル機能をリリースしました。ヘッダのカメラのアイコンや、トップページに並んでいる写真をクリックしてご覧ください。<br />
 実装にはbootstrap純正の機能ではなく、より柔軟な表現が可能なslick.jsを使いました。
 世の中には便利なjsがいっぱいあるので、1機能実装するくらい1日あれば簡単にできますが、もう少し個性ある表現
 （自分の見せたい見せ方で写真を見せること）ができたらと思います。この辺は今後の拡張の課題。奥へ奥へ写真を辿るような見せ方とかしたいです。<br />
 また、イメージを貼るのはマークダウンではやりづらい気もしました。imgにclass指定が必要だったため、スマートではないですがmdファイル側に今はclass指定をしています。この辺りもソースをそのうち綺麗にしたいです。（と言って放置するパターン・・）</p>
- </p>
+
             </div>
         </div>
         <div class="row">
@@ -258,7 +251,21 @@
 <script src="js/landing-page.js"></script>
 
 
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script src="/js/rainyday.js"></script>
+<script>
+    function run() {
+        var engine = new RainyDay({
+            element: 'background',
+            blur: 10,
+            opacity: 1,
+            fps: 30
+        });
+        engine.trail = engine.TRAIL_SMUDGE;
+        engine.VARIABLE_GRAVITY_ANGLE = Math.PI / 9;
+        engine.rain([ [0, 2, 200], [3, 3, 1] ], 100);
+    }
+</script>
+
 
 <script src="/js/slick.min.js"></script>
 <script>
@@ -279,6 +286,7 @@
       });
     });
 </script>
+
 
 
 

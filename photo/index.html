@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="岩渕正樹オフィシャルサイト。UXデザイナー、写真家である筆者がデザイン、アート、テクノロジー、ビジネス、写真などに関するブログや作品を発信します。">
+    <meta name="author" content="Masaki Iwabuchi, 岩渕正樹, 岩淵正樹, いわぶちまさき">
     <base href="http://iwabm.github.io/">
     <title>Photos</title>
 
@@ -30,7 +30,7 @@
     
 
 </head>
-<body>
+<body onload="run();">
 
 
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -76,7 +76,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <i class="fa fa-camera-retro fa-2x section-title"></i>
-                <h3 class="section-title">All Photo Works</h3>
+                <h1 class="section-title">All Photo Works</h1>
             </div>
         </div>
     </div>
@@ -108,6 +108,20 @@
                                 <div class="portfolio-box-caption-content">
                                     <div class="project-name">Tokyo Christmas Collection</div>
                                     <div class="project-category text-faded">(2014)</div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                
+                
+                
+                    <div class="col-lg-6 col-md-6 col-sm-6">
+                        <a href="http://iwabm.github.io/photo/2013/rainy-day-tokyo/" class="portfolio-box">
+                            <img src="http://iwabm.github.io//img/photo/eyecatch/2013_RDT.jpg" class="img-responsive" alt="rainy day tokyo">
+                            <div class="portfolio-box-caption">
+                                <div class="portfolio-box-caption-content">
+                                    <div class="project-name">rainy day tokyo</div>
+                                    <div class="project-category text-faded">(2013)</div>
                                 </div>
                             </div>
                         </a>
@@ -229,7 +243,21 @@
 <script src="js/landing-page.js"></script>
 
 
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script src="/js/rainyday.js"></script>
+<script>
+    function run() {
+        var engine = new RainyDay({
+            element: 'background',
+            blur: 10,
+            opacity: 1,
+            fps: 30
+        });
+        engine.trail = engine.TRAIL_SMUDGE;
+        engine.VARIABLE_GRAVITY_ANGLE = Math.PI / 9;
+        engine.rain([ [0, 2, 200], [3, 3, 1] ], 100);
+    }
+</script>
+
 
 <script src="/js/slick.min.js"></script>
 <script>
@@ -250,6 +278,7 @@
       });
     });
 </script>
+
 
 
 

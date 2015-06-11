@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Night on Masaki Iwabuchi | 岩渕 正樹</title>
-    <link>http://iwabm.github.io/tags/night/</link>
+    <link>http://localhost:1313/tags/night/</link>
     <description>Recent content in Night on Masaki Iwabuchi | 岩渕 正樹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 23 Dec 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://iwabm.github.io/tags/night/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/night/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tokyo Christmas Collection</title>
-      <link>http://iwabm.github.io/photo/2014/tokyo-christmas-collection/</link>
+      <link>http://localhost:1313/photo/2014/tokyo-christmas-collection/</link>
       <pubDate>Tue, 23 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://iwabm.github.io/photo/2014/tokyo-christmas-collection/</guid>
+      <guid>http://localhost:1313/photo/2014/tokyo-christmas-collection/</guid>
       <description>&lt;div class=&#34;photo-caption&#34;&gt;
 クリスマスで東京と日本人を定義するプロジェクト&lt;br/&gt;
 &lt;br/&gt;
@@ -22,16 +22,16 @@ Japanese people in Tokyo are defined by Christmas. (10 Pictures)
 &lt;/div&gt;
 
 &lt;div class=&#34;carousel-fade&#34;&gt;
-  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://iwabm.github.io/img/photo/2014_TCC/1.jpg&#34;&gt;&lt;/div&gt;
-  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://iwabm.github.io/img/photo/2014_TCC/2.jpg&#34;&gt;&lt;/div&gt;
-  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://iwabm.github.io/img/photo/2014_TCC/3.jpg&#34;&gt;&lt;/div&gt;
-  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://iwabm.github.io/img/photo/2014_TCC/4.jpg&#34;&gt;&lt;/div&gt;
-  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://iwabm.github.io/img/photo/2014_TCC/5.jpg&#34;&gt;&lt;/div&gt;  
-  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://iwabm.github.io/img/photo/2014_TCC/6.jpg&#34;&gt;&lt;/div&gt;
-  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://iwabm.github.io/img/photo/2014_TCC/7.jpg&#34;&gt;&lt;/div&gt;
-  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://iwabm.github.io/img/photo/2014_TCC/8.jpg&#34;&gt;&lt;/div&gt;
-  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://iwabm.github.io/img/photo/2014_TCC/9.jpg&#34;&gt;&lt;/div&gt;
-  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://iwabm.github.io/img/photo/2014_TCC/10.jpg&#34;&gt;&lt;/div&gt;  
+  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://localhost:1313/img/photo/2014_TCC/1.jpg&#34;&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://localhost:1313/img/photo/2014_TCC/2.jpg&#34;&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://localhost:1313/img/photo/2014_TCC/3.jpg&#34;&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://localhost:1313/img/photo/2014_TCC/4.jpg&#34;&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://localhost:1313/img/photo/2014_TCC/5.jpg&#34;&gt;&lt;/div&gt;  
+  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://localhost:1313/img/photo/2014_TCC/6.jpg&#34;&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://localhost:1313/img/photo/2014_TCC/7.jpg&#34;&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://localhost:1313/img/photo/2014_TCC/8.jpg&#34;&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://localhost:1313/img/photo/2014_TCC/9.jpg&#34;&gt;&lt;/div&gt;
+  &lt;div&gt;&lt;img class=&#34;img-single&#34; src=&#34;http://localhost:1313/img/photo/2014_TCC/10.jpg&#34;&gt;&lt;/div&gt;  
 &lt;/div&gt;
 </description>
     </item>

@@ -5,8 +5,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="岩渕正樹オフィシャルサイト。UXデザイナー、写真家である筆者がデザイン、アート、テクノロジー、ビジネス、写真などに関するブログや作品を発信します。">
+    <meta name="author" content="Masaki Iwabuchi, 岩渕正樹, 岩淵正樹, いわぶちまさき">
     <base href="http://iwabm.github.io/">
     <title>Hugo&#43;Bootstrap&#43;Github Pagesでブログはじめました</title>
 
@@ -30,7 +30,7 @@
     
 
 </head>
-<body>
+<body onload="run();">
 
 
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
@@ -75,7 +75,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <i class="fa fa-pencil-square-o fa-2x section-title"></i>
-                <h3 class="section-title">Hugo&#43;Bootstrap&#43;Github Pagesでブログはじめました</h3>
+                <h1 class="section-title">Hugo&#43;Bootstrap&#43;Github Pagesでブログはじめました</h1>
             </div>
         </div>
         <div class="row">
@@ -89,9 +89,16 @@
 <ul class="post-tags pull-right">
   
     <li>
-        <a href="http://iwabm.github.io//tags/diary">
+        <a href="http://iwabm.github.io//tags/hugo">
             <i class="fa fa-tags"></i>
-            diary
+            hugo
+        </a>
+    </li>
+  
+    <li>
+        <a href="http://iwabm.github.io//tags/release">
+            <i class="fa fa-tags"></i>
+            release
         </a>
     </li>
   
@@ -99,9 +106,9 @@
 </aside>
             </div>
         </div>
-        <div class="row blog-content">
-            <div class="col-sm-12">
-        	   <p><p>Hugo+Bootstrap+Github Pagesでブログはじめました。（tumblrから乗り換え）<br />
+        <div class="row blog-box">
+            <div class="col-sm-12 blog-content">
+        	<p>Hugo+Bootstrap+Github Pagesでブログはじめました。（tumblrから乗り換え）<br />
 なかなか難しい。できることを確かめながら約3日(作業時間15h程度)でサンプルテーマにインスパイアされながらTopとAbout Me、Blogページのデザインを整えて一応の公開までこぎつけた。</p>
 
 <p>どこにどのファイルを置くと個別の記事がレンダリングされるのか、公式のDocを見ながらやるもなかなかうまく行かず、そこでかなり
@@ -109,7 +116,7 @@
 とりあえずマークダウンで記事が書けるのは良い。</p>
 
 <p>本当は写真ブログにしたくて、もっと載せたいコンテンツがあるんだけど、画像の扱いがまたひと悶着ありそうだなぁと思ったので一旦テキストベースのコンテンツを公開できる状態でリリースした。これから徐々に機能拡張していければと思います。</p>
- </p>
+
             </div>
         </div>
         <div class="row">
@@ -254,7 +261,21 @@
 <script src="js/landing-page.js"></script>
 
 
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script src="/js/rainyday.js"></script>
+<script>
+    function run() {
+        var engine = new RainyDay({
+            element: 'background',
+            blur: 10,
+            opacity: 1,
+            fps: 30
+        });
+        engine.trail = engine.TRAIL_SMUDGE;
+        engine.VARIABLE_GRAVITY_ANGLE = Math.PI / 9;
+        engine.rain([ [0, 2, 200], [3, 3, 1] ], 100);
+    }
+</script>
+
 
 <script src="/js/slick.min.js"></script>
 <script>
@@ -275,6 +296,7 @@
       });
     });
 </script>
+
 
 
 

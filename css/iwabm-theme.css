@@ -21,6 +21,14 @@ h6 {
     font-weight: 600;
 }
 
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
 .title {
 	margin-top: 4px;
 }
@@ -225,10 +233,13 @@ h6 {
 
 .section-title{
 	display:inline;
+    margin-left:6px;
 }
 
-h3.section-title{
-	margin-left:6px;
+h2.section-title{
+    display:inline;
+    margin-left:6px;
+    font-size: 24px;
 }
 
 /* [Module] Recent Blog Post*/
@@ -261,7 +272,7 @@ h3.section-title{
 	margin-top: 80px;
 }
 
-.blog-content {
+.blog-box {
 	margin-top: 40px;
 }
 
@@ -288,7 +299,10 @@ h3.section-title{
 .img-single {
     width: 100%;
 }
-
+.img-vertical {
+    width: 100%;
+    margin-bottom: 20px;
+}
 
 /*! About Section */
 #about-me {
