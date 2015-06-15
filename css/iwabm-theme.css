@@ -304,6 +304,42 @@ h2.section-title{
     margin-bottom: 20px;
 }
 
+.img-tile-row {
+    margin-bottom: 40px;
+}
+
+.img-tile {
+    border-width: 2px;
+    -moz-border-image:url(../img/photo/frame.jpg) 6 6 round;
+    -webkit-border-image:url(../img/photo/frame.jpg) 6 6 round;
+    -o-border-image:url(../img/photo/frame.jpg) 6 6 round;
+    background: url(../img/photo/frame.jpg) 6 6 round;
+}
+
+.img-tile img {
+    padding: 10px 10px 10px 10px;
+    width: 100%;
+}
+
+.img-tile-caption {
+    width: 80%;
+    background-color: #f5f5dc;
+    margin: 10px auto 60px auto;
+}
+
+.img-tile-caption p{
+    text-align: center;
+    position: relative;
+    font-size: 12px;
+}
+
+.img-tile-shadow
+{
+    -webkit-box-shadow: 0 10px 4px -8px #777;
+    -moz-box-shadow: 0 10px 4px -8px #777;
+    box-shadow: 0 10px 4px -8px #777;
+}
+
 /*! About Section */
 #about-me {
 	margin-top: 80px;
