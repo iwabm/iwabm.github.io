@@ -310,6 +310,7 @@ h2.section-title{
 
 .img-tile {
     border-width: 2px;
+        text-align: center;
     -moz-border-image:url(../img/photo/frame.jpg) 6 6 round;
     -webkit-border-image:url(../img/photo/frame.jpg) 6 6 round;
     -o-border-image:url(../img/photo/frame.jpg) 6 6 round;
@@ -319,6 +320,10 @@ h2.section-title{
 .img-tile img {
     padding: 10px 10px 10px 10px;
     width: 100%;
+}
+
+img.img-tile-vertical {
+    width:56%;
 }
 
 .img-tile-caption {
