@@ -6,22 +6,8 @@
     <description>Recent content in Release on Masaki Iwabuchi.web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://iwabm.github.io/tags/release/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>写真カルーセル機能をリリースしました</title>
-      <link>http://iwabm.github.io/blog/2015/06/04/%E5%86%99%E7%9C%9F%E3%82%AB%E3%83%AB%E3%83%BC%E3%82%BB%E3%83%AB%E6%A9%9F%E8%83%BD%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</link>
-      <pubDate>Thu, 04 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/blog/2015/06/04/%E5%86%99%E7%9C%9F%E3%82%AB%E3%83%AB%E3%83%BC%E3%82%BB%E3%83%AB%E6%A9%9F%E8%83%BD%E3%82%92%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</guid>
-      <description>&lt;p&gt;写真カルーセル機能をリリースしました。ヘッダのカメラのアイコンや、トップページに並んでいる写真をクリックしてご覧ください。&lt;br /&gt;
-実装にはbootstrap純正の機能ではなく、より柔軟な表現が可能なslick.jsを使いました。
-世の中には便利なjsがいっぱいあるので、1機能実装するくらい1日あれば簡単にできますが、もう少し個性ある表現
-（自分の見せたい見せ方で写真を見せること）ができたらと思います。この辺は今後の拡張の課題。奥へ奥へ写真を辿るような見せ方とかしたいです。&lt;br /&gt;
-また、イメージを貼るのはマークダウンではやりづらい気もしました。imgにclass指定が必要だったため、スマートではないですがmdファイル側に今はclass指定をしています。この辺りもソースをそのうち綺麗にしたいです。（と言って放置するパターン・・）&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Hugo&#43;Bootstrap&#43;Github Pagesでブログはじめました</title>
