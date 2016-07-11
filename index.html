@@ -1,91 +1,66 @@
 <!DOCTYPE html>
 <html>
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="岩渕正樹オフィシャルサイト。UXデザイナー、写真家である筆者がデザイン、アート、テクノロジー、ビジネス、写真などに関するブログや作品を発信します。">
     <meta name="author" content="Masaki Iwabuchi, 岩渕正樹, 岩淵正樹, いわぶちまさき">
-    <base href="http://iwabm.github.io/">
     <meta name="distribution" content="global" />
     <meta name="language" content="en" />
-    <meta content='width=device-width, initial-scale=1.0' name='viewport' />
+    <base href="http://localhost:1313/" />
     <title>Masaki Iwabuchi.web</title>
-
     
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    
+    
+    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+    
+    
+        <link rel="stylesheet" href="css/pure/side-menu.css">
+        <link rel="stylesheet" href="css/pure/gallery-grid.css">
+        <link rel="stylesheet" href="css/pure/gallery.css">
+        <link rel="stylesheet" href="css/pure/portfolio.css">
+    
 
     
     <link href="/css/iwabm-theme.css" rel="stylesheet">
     <link href="/css/social-icon.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/slick.css"/>
     <link rel="stylesheet" type="text/css" href="css/slick-theme.css"/>   
-
     
     <link href="/font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/earlyaccess/notosansjapanese.css" rel="stylesheet" type="text/css">
-
     
     
     
 
 </head>
 <body>
-
-
-<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-    <div class="container">
-        
-        <div class="navbar-header page-scroll">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-                <div class="title">
-                <a class="page-scroll navbar-brand" href="#intro">iwabm on github</a>
-                </div>
-        </div>
-        
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a href="/about/me/"><i class="fa fa-user fa-2x"></i></a>
-                </li>
-                <li>
-                    <a href="/photo/"><i class="fa fa-camera-retro fa-2x"></i></a>
-                </li>
-                
-                <li>
-                    <a href="/blog/"><i class="fa fa-pencil-square-o fa-2x"></i></a>
-                </li>
-                             
-            </ul>
-        </div>
-        
-    </div>
+<div id="layout">
     
-</nav>
+    <a href="#menu" id="menuLink" class="menu-link">
+        
+        <span></span>
+    </a>
 
-<section id="intro">
-	
-	<div class="intro-header">
-	    <div class="container">
-		<div class="row">
-		    <div class="col-lg-12">
-			<div class="intro-message">
-			    <h1>Masaki Iwabuchi.web</h1>
-			    <h3>There is no time like the present.</h3>
-			    <hr class="intro-divider">
-			    <ul class="list-inline intro-social-buttons">
-				
+    <div id="menu">
+        <div class="pure-menu custom-restricted-width">
+            <a class="pure-menu-heading" href="#">Masaki Iwabuchi</a>
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item"><a href="/cv" class="pure-menu-link">CV</a></li>
+                <li class="pure-menu-item"><a href="/portfolio" class="pure-menu-link">Portfolio</a></li>
+                <li class="pure-menu-item"><a href="/journey" class="pure-menu-link">Journey</a></li>
+                
+                <li class="pure-menu-item"><a href="/contact" class="pure-menu-link">Contact</a></li>
+            </ul>        
+            <div class="pure-menu-bottom">
+                <ul>
+
 	<li>
 	<div id="social-icon-white">
 		<a href="https://twitter.com/powergradation">
-			<i class="fa fa-twitter fa-2x"></i>
+			<i class="fa fa-twitter fa-1x"></i>
 		</a>
 	</div>
 	</li>
@@ -93,7 +68,7 @@
 	<li>
 	<div id="social-icon-white">
 		<a href="https://www.facebook.com/masaki.iwabuchi">
-			<i class="fa fa-facebook fa-2x"></i>
+			<i class="fa fa-facebook fa-1x"></i>
 		</a>
 	</div>
 	</li>
@@ -101,7 +76,7 @@
 	<li>
 	<div id="social-icon-white">
 		<a href="https://instagram.com/iwabm">
-			<i class="fa fa-instagram fa-2x"></i>
+			<i class="fa fa-instagram fa-1x"></i>
 		</a>
 	</div>
 	</li>
@@ -109,7 +84,7 @@
 	<li>
 	<div id="social-icon-white">
 		<a href="https://github.com/iwabm">
-			<i class="fa fa-github fa-2x"></i>
+			<i class="fa fa-github fa-1x"></i>
 		</a>
 	</div>
 	</li>
@@ -117,7 +92,7 @@
 	<li>
 	<div id="social-icon-white">
 		<a href="https://jp.linkedin.com/pub/masaki-iwabuchi/26/6b4/716">
-			<i class="fa fa-linkedin fa-2x"></i>
+			<i class="fa fa-linkedin fa-1x"></i>
 		</a>
 	</div>
 	</li>
@@ -125,358 +100,151 @@
 	<li>
 	<div id="social-icon-white">
 		<a href="mailto:ituki1059@gmail.com">
-			<i class="fa fa-envelope-o fa-2x"></i>
+			<i class="fa fa-envelope-o fa-1x"></i>
 		</a>
 	</div>
 	</li>
 
-			    </ul>
-			</div>
-		    </div>
-		</div>
-	    </div>
-	    
-	</div>
-	
-</section>
-
-
-<section id="about-index">
-	<div class="container content-section text-center">
-		<div class="row">
-			<div class="about-index-box col-lg-8 col-lg-offset-2">
-				<div class="about-index-title">
-					<i class="fa fa-user fa-2x section-title"></i>
-					<a href="http://iwabm.github.io//about/me">
-						<h2 class="about-index-box section-title">About Me</h2>
-					</a>
-				</div>
-				<h4>User Experience Designer @IBM Design</h4>
-				<h4>Photographer, Creative Thinker</h4>
-			</div>
-		</div>
-	</div>
-</section>
-<section class="no-padding" id="photo">
-        <div class="container-fluid">
-            <div class="row no-gutter">
-                
-                
-                
-                
-	                <div class="col-lg-6 col-md-6 col-sm-6">
-						<a href="http://iwabm.github.io/photo/2015/accuracy-of-devaju/" class="portfolio-box">
-						    <img src="http://iwabm.github.io//img/photo/eyecatch/2015_DEJ.jpg" class="img-responsive" alt="Accuracy of Devaju">
-						    <div class="portfolio-box-caption">
-						        <div class="portfolio-box-caption-content">
-						            <div class="project-name">Accuracy of Devaju</div>
-						            <div class="project-category text-faded">(2015)</div>
-						            
-						        </div>
-						    </div>
-						</a>
-					</div>
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-	                <div class="col-lg-6 col-md-6 col-sm-6">
-						<a href="http://iwabm.github.io/photo/2014/tokyo-christmas-collection/" class="portfolio-box">
-						    <img src="http://iwabm.github.io//img/photo/eyecatch/2014_TCC.jpg" class="img-responsive" alt="Tokyo Christmas Collection">
-						    <div class="portfolio-box-caption">
-						        <div class="portfolio-box-caption-content">
-						            <div class="project-name">Tokyo Christmas Collection</div>
-						            <div class="project-category text-faded">(2014)</div>
-						            
-						        </div>
-						    </div>
-						</a>
-					</div>
-                
-                
-                
-	                <div class="col-lg-6 col-md-6 col-sm-6">
-						<a href="http://iwabm.github.io/photo/2013/rainy-day-tokyo/" class="portfolio-box">
-						    <img src="http://iwabm.github.io//img/photo/eyecatch/2013_RDT.jpg" class="img-responsive" alt="rainy day tokyo">
-						    <div class="portfolio-box-caption">
-						        <div class="portfolio-box-caption-content">
-						            <div class="project-name">rainy day tokyo</div>
-						            <div class="project-category text-faded">(2013)</div>
-						            
-						        </div>
-						    </div>
-						</a>
-					</div>
-                
-                
-                
-                
-                
-	                <div class="col-lg-6 col-md-6 col-sm-6">
-						<a href="http://iwabm.github.io/photo/2007/journey-for-something/" class="portfolio-box">
-						    <img src="http://iwabm.github.io//img/photo/eyecatch/2007_JFS.jpg" class="img-responsive" alt="journey for something">
-						    <div class="portfolio-box-caption">
-						        <div class="portfolio-box-caption-content">
-						            <div class="project-name">journey for something</div>
-						            <div class="project-category text-faded">(2007-)</div>
-						            
-						        </div>
-						    </div>
-						</a>
-					</div>
-                
-                
-                
-	                <div class="col-lg-6 col-md-6 col-sm-6">
-						<a href="http://iwabm.github.io/photo/2006/the-beautiful-world/" class="portfolio-box">
-						    <img src="http://iwabm.github.io//img/photo/eyecatch/2006_TBW.jpg" class="img-responsive" alt="the beautiful world">
-						    <div class="portfolio-box-caption">
-						        <div class="portfolio-box-caption-content">
-						            <div class="project-name">the beautiful world</div>
-						            <div class="project-category text-faded">(2006-)</div>
-						            
-						        </div>
-						    </div>
-						</a>
-					</div>
-                
-                
-                	<div class="col-lg-6 col-md-6 col-sm-6">
-						<a href="/photo/" class="portfolio-box">
-						    <img src="/img/photo/eyecatch/hugo.png" class="img-responsive" alt="All Photo Works">
-						    <div class="portfolio-box-caption">
-						        <div class="portfolio-box-caption-content">
-						        	<i class="fa fa-camera-retro fa-2x section-title"></i>
-                					<h3 class="section-title">All Photo Works</h3>
-						        </div>
-						    </div>
-						</a>
-					</div>
-            </div>
-        </div>
-</section>
- 
-<section class="no-padding" id="blog-index">
-    <div class="container content-section">
-        <div class="row no-gutter index-blog-box col-sm-8 col-sm-offset-2">
-            <div class="row">
-                <div class="col-sm-8">
-                    <i class="fa fa-pencil-square-o fa-2x section-title"></i>
-                    <h2 class="section-title">Recent Blog Post</h2>
-                </div>
-                <div class="col-sm-4">
-                    <h4 class="text-right"><a href="http://iwabm.github.io//blog/">> All Posts</a></h4>
-                </div>
-            </div>
-            <div class="row">
-                
-                
-                    <div class="col-sm-8">
-                        <h4 class="index-inline-box"><a href="http://iwabm.github.io/blog/2015/12/31/inspiration-2015-%E9%9A%8F%E6%99%82%E6%9B%B4%E6%96%B0/">Inspiration 2015 (随時更新)</a></h4>
-                   </div>
-                    <div class="col-sm-4">
-                        <h4 class="text-right text-muted">
-                            <small>Dec 31, 2015</small>
-                        </h4>
-                    </div>
-                
-                
-                
-                
-                
-                    <div class="col-sm-8">
-                        <h4 class="index-inline-box"><a href="http://iwabm.github.io/blog/2015/06/03/2%E3%83%B6%E6%9C%88%E3%81%A7toefl80%E7%82%B9%E3%82%92%E5%8F%96%E3%82%8B%E5%8B%89%E5%BC%B7%E6%B3%951/">2ヶ月でTOEFL80点を取る勉強法1</a></h4>
-                   </div>
-                    <div class="col-sm-4">
-                        <h4 class="text-right text-muted">
-                            <small>Jun 3, 2015</small>
-                        </h4>
-                    </div>
-                
-                
-                
-                    <div class="col-sm-8">
-                        <h4 class="index-inline-box"><a href="http://iwabm.github.io/blog/2015/06/02/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%81%AE%E3%82%B5%E3%83%9E%E3%83%BC%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E9%81%B8%E3%81%B3/">デザインのサマースクール選び</a></h4>
-                   </div>
-                    <div class="col-sm-4">
-                        <h4 class="text-right text-muted">
-                            <small>Jun 2, 2015</small>
-                        </h4>
-                    </div>
-                
-                
-                
-                    <div class="col-sm-8">
-                        <h4 class="index-inline-box"><a href="http://iwabm.github.io/blog/2015/06/01/parsons-summer-school%E7%95%99%E5%AD%A6%E4%BD%93%E9%A8%93%E8%A8%98%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB/">Parsons Summer School留学体験記　はじめに</a></h4>
-                   </div>
-                    <div class="col-sm-4">
-                        <h4 class="text-right text-muted">
-                            <small>Jun 1, 2015</small>
-                        </h4>
-                    </div>
-                
-                
-                
-                    <div class="col-sm-8">
-                        <h4 class="index-inline-box"><a href="http://iwabm.github.io/blog/2015/05/31/hugobootstrapgithub-pages%E3%81%A7%E3%83%96%E3%83%AD%E3%82%B0%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/">Hugo&#43;Bootstrap&#43;Github Pagesでブログはじめました</a></h4>
-                   </div>
-                    <div class="col-sm-4">
-                        <h4 class="text-right text-muted">
-                            <small>May 31, 2015</small>
-                        </h4>
-                    </div>
-                
-                
-                
-                
-            </div>
-            <div class="row">
-                <div class="col-sm-12">
-                <br/>          
-                <ul class="post-tags">
-                    
-                    <li><a href="/tags/hugo">
-                        <i class="fa fa-tags"></i>hugo
-                    </a></li>
-                    
-                    <li><a href="/tags/release">
-                        <i class="fa fa-tags"></i>release
-                    </a></li>
-                    
-                    <li><a href="/tags/toefl">
-                        <i class="fa fa-tags"></i>toefl
-                    </a></li>
-                    
-                    <li><a href="/tags/%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%94%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3">
-                        <i class="fa fa-tags"></i>インスピレーション
-                    </a></li>
-                    
-                    <li><a href="/tags/%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%BA%E7%95%99%E5%AD%A6%E8%A8%98">
-                        <i class="fa fa-tags"></i>パーソンズ留学記
-                    </a></li>
-                    
-                </ul>
-                </div>
-            </div>
-        </div>                      
-    </div>
-</section>
-
-<section id="map-index">
-	<div class="row">
-		<div class="col-lg-12">
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/iwabm.8b01fa72/attribution,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoiaXdhYm0iLCJhIjoiMTk5ODliMTI2ZGI5NDQyN2UzNjMzM2VjNWUzZmI1ODMifQ.71ISc3BhhN2OeAX0hurrcA'></iframe>
-		</div>
-	</div>
-</section>
-
-
-
-<footer>
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <p>Stay In Touch:</p>
-                
-                    <ul class="list-inline contact-social-buttons pull-left">
-                    <li>
-                    <div id="social-icon-color">
-                        <a href="https://twitter.com/powergradation">
-                            <i class="fa fa-twitter fa-2x"></i>
-                        </a>
-                    </div>
-                    </li>
-                    </ul>
-                
-                    <ul class="list-inline contact-social-buttons pull-left">
-                    <li>
-                    <div id="social-icon-color">
-                        <a href="https://www.facebook.com/masaki.iwabuchi">
-                            <i class="fa fa-facebook fa-2x"></i>
-                        </a>
-                    </div>
-                    </li>
-                    </ul>
-                
-                    <ul class="list-inline contact-social-buttons pull-left">
-                    <li>
-                    <div id="social-icon-color">
-                        <a href="https://instagram.com/iwabm">
-                            <i class="fa fa-instagram fa-2x"></i>
-                        </a>
-                    </div>
-                    </li>
-                    </ul>
-                
-                    <ul class="list-inline contact-social-buttons pull-left">
-                    <li>
-                    <div id="social-icon-color">
-                        <a href="https://github.com/iwabm">
-                            <i class="fa fa-github fa-2x"></i>
-                        </a>
-                    </div>
-                    </li>
-                    </ul>
-                
-                    <ul class="list-inline contact-social-buttons pull-left">
-                    <li>
-                    <div id="social-icon-color">
-                        <a href="https://jp.linkedin.com/pub/masaki-iwabuchi/26/6b4/716">
-                            <i class="fa fa-linkedin fa-2x"></i>
-                        </a>
-                    </div>
-                    </li>
-                    </ul>
-                
-                    <ul class="list-inline contact-social-buttons pull-left">
-                    <li>
-                    <div id="social-icon-color">
-                        <a href="mailto:ituki1059@gmail.com">
-                            <i class="fa fa-envelope-o fa-2x"></i>
-                        </a>
-                    </div>
-                    </li>
-                    </ul>
-                
-            </div>            
-            <div class="col-md-6">
-                <ul class="list-inline text-right">
-                    <li>
-                        <a class="page-scroll" href="#intro">Home</a>
-                    </li>
-                    <li class="footer-menu-divider">&sdot;</li>
-                    <li>
-                        <a class="page-scroll" href="/about/me/">About Me</a>
-                    </li>
-                    <li class="footer-menu-divider">&sdot;</li>
-                    <li>
-                        <a class="page-scroll" href="/photo/">Photo</a>
-                    </li>
-                    <li class="footer-menu-divider">&sdot;</li>
-                    <li>
-                    
-                    <li>
-                        <a class="page-scroll" href="/blog/">Blog</a>
-                    </li>                   
-                    
-                </ul>
-                <br>
-                <p class="text-muted small text-right">Powered by <a href="http://gohugo.io/">Hugo</a>.
-                    Hosted by <a href="https://pages.github.com/">Github Pages.</a>
-                <p class="copyright text-muted small text-right">Copyright &copy; Masaki Iwabuchi All Rights Reserved</p>
+</ul>
+<div class="bottom-credit">
+    <p>Masaki Iwabuchi © 2016</p>
+</div>
             </div>
         </div>
     </div>
-</footer>
+
+    <div class="pure-g">
+        <div class="photo-box u-1 u-med-1-3 u-lrg-1-4">
+                <img src="/img/iceland.gif" alt="Beach">
+        </div>
+
+        
+        
+        
+            <div class="photo-box u-1 u-med-1-2 u-lrg-1-3">
+                <a href="http://localhost:1313/portfolio/2016/fictional-real-real-fiction/">
+                    <img src="http://localhost:1313/img/portfolio/eyecatch/2016_FIC.jpg" alt="Fictional real, real fiction">
+                    <aside class="photo-box-caption">
+                        <span>Fictional real, real fiction (2016)</span>
+                    </aside>
+                </a>
+            </div>
+        
+        
+        
+        
+        
+            <div class="photo-box u-1 u-med-1-2 u-lrg-1-3">
+                <a href="http://localhost:1313/portfolio/2015/am300-lower-east-side/">
+                    <img src="http://localhost:1313/img/portfolio/eyecatch/2015_AM3.jpg" alt="am3:00 Lower East Side">
+                    <aside class="photo-box-caption">
+                        <span>am3:00 Lower East Side (2015)</span>
+                    </aside>
+                </a>
+            </div>
+        
+        
+        
+        
+        
+            <div class="photo-box u-1 u-med-1-2 u-lrg-1-3">
+                <a href="http://localhost:1313/portfolio/2015/accuracy-of-devaju/">
+                    <img src="http://localhost:1313/img/portfolio/eyecatch/2015_DEJ.jpg" alt="Accuracy of Devaju">
+                    <aside class="photo-box-caption">
+                        <span>Accuracy of Devaju (2015)</span>
+                    </aside>
+                </a>
+            </div>
+        
+        
+        
+
+        <div class="text-box u-1 u-med-2-3 u-lrg-3-4">
+            <div class="l-box">
+                <h1 class="text-box-head">MASAKI IWABUCHI.WEB</h1>
+                <p class="text-box-subhead">Doubt common sense. </p>
+            </div>
+        </div>
+
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+            <div class="photo-box u-1 u-med-1-2 u-lrg-1-3">
+                <a href="http://localhost:1313/journey/2014_peru/">
+                    <img src="http://localhost:1313/img/journey/eyecatch/2014_PE.jpg" alt="Cusco, Peru">
+                    <aside class="photo-box-caption">
+                        <span>Cusco, Peru (2014)</span>
+                    </aside>
+                </a>
+            </div>
+        
+        
+        
+            <div class="photo-box u-1 u-med-1-2 u-lrg-1-3">
+                <a href="http://localhost:1313/journey/2014_mexico/">
+                    <img src="http://localhost:1313/img/journey/eyecatch/2014_MX.jpg" alt="Toluca, Mexico">
+                    <aside class="photo-box-caption">
+                        <span>Toluca, Mexico (2014)</span>
+                    </aside>
+                </a>
+            </div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+            <div class="photo-box u-1 u-med-1-2 u-lrg-1-3">
+                <a href="http://localhost:1313/journey/2013_bali/">
+                    <img src="http://localhost:1313/img/journey/eyecatch/2013_BA.jpg" alt="Bali, Indonesia">
+                    <aside class="photo-box-caption">
+                        <span>Bali, Indonesia (2013)</span>
+                    </aside>
+                </a>
+            </div>
+        
+        
+        
+            <div class="photo-box u-1 u-med-1-2 u-lrg-1-3">
+                <a href="http://localhost:1313/journey/2013_finland/">
+                    <img src="http://localhost:1313/img/journey/eyecatch/2013_FI.jpg" alt="Helsinki, Finland">
+                    <aside class="photo-box-caption">
+                        <span>Helsinki, Finland (2013)</span>
+                    </aside>
+                </a>
+            </div>
+        
+        
+        
+            <div class="photo-box u-1 u-med-1-2 u-lrg-1-3">
+                <a href="http://localhost:1313/journey/2013_iceland/">
+                    <img src="http://localhost:1313/img/journey/eyecatch/2013_IC.jpg" alt="Reykjavik, Iceland">
+                    <aside class="photo-box-caption">
+                        <span>Reykjavik, Iceland (2013)</span>
+                    </aside>
+                </a>
+            </div>
+        
+        
+
+        <div class="photo-box u-1 u-med-1-3 u-lrg-1-4">
+                <img src="/img/rain.gif" alt="Beach">
+        </div>
+
+    </div>
+</div>
 
 <script src="/js/jquery-1.11.3.min.js"></script>
 
@@ -570,8 +338,9 @@
   ga('send', 'pageview');
 
 </script>
+<script src="/js/pure/ui.js"></script>
 <script data-no-instant>document.write('<script src="http://'
         + (location.host || 'localhost').split(':')[0]
-		+ ':80/livereload.js?mindelay=10"></'
+		+ ':1313/livereload.js?mindelay=10"></'
         + 'script>')</script></body>
 </html>
