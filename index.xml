@@ -17,52 +17,52 @@
       <guid>http://iwabm.github.io/portfolio/2016/fictional-real-real-fiction/</guid>
       <description>&lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;{{ .Site.BaseURL }}/img/portfolio/photo/2016_fictional/1.jpg&#34; alt=&#34;FIC1&#34;&gt;
+        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/1.jpg&#34; alt=&#34;FIC1&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;{{ .Site.BaseURL }}/img/portfolio/photo/2016_fictional/2.jpg&#34; alt=&#34;FIC2&#34;&gt;
+        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/2.jpg&#34; alt=&#34;FIC2&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;{{ .Site.BaseURL }}/img/portfolio/photo/2016_fictional/3.jpg&#34; alt=&#34;FIC3&#34;&gt;
+        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/3.jpg&#34; alt=&#34;FIC3&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;{{ .Site.BaseURL }}/img/portfolio/photo/2016_fictional/4.jpg&#34; alt=&#34;FIC4&#34;&gt;
+        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/4.jpg&#34; alt=&#34;FIC4&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;{{ .Site.BaseURL }}/img/portfolio/photo/2016_fictional/5.jpg&#34; alt=&#34;FIC5&#34;&gt;
+        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/5.jpg&#34; alt=&#34;FIC5&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;{{ .Site.BaseURL }}/img/portfolio/photo/2016_fictional/6.jpg&#34; alt=&#34;FIC6&#34;&gt;
+        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/6.jpg&#34; alt=&#34;FIC6&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;{{ .Site.BaseURL }}/img/portfolio/photo/2016_fictional/7.jpg&#34; alt=&#34;FIC7&#34;&gt;
+        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/7.jpg&#34; alt=&#34;FIC7&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;{{ .Site.BaseURL }}/img/portfolio/photo/2016_fictional/8.jpg&#34; alt=&#34;FIC8&#34;&gt;
+        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/8.jpg&#34; alt=&#34;FIC8&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;{{ .Site.BaseURL }}/img/portfolio/photo/2016_fictional/9.jpg&#34; alt=&#34;FIC9&#34;&gt;
+        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/9.jpg&#34; alt=&#34;FIC9&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;{{ .Site.BaseURL }}/img/portfolio/photo/2016_fictional/10.jpg&#34; alt=&#34;FIC10&#34;&gt;
+        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/10.jpg&#34; alt=&#34;FIC10&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 </description>
@@ -360,10 +360,10 @@
     
     <item>
       <title>rainy day tokyo</title>
-      <link>http://iwabm.github.io/cv/cv/</link>
+      <link>http://iwabm.github.io/contact/contact/</link>
       <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://iwabm.github.io/cv/cv/</guid>
+      <guid>http://iwabm.github.io/contact/contact/</guid>
       <description>&lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
         &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/1.jpg&#34; alt=&#34;RDT1&#34;&gt;
@@ -429,10 +429,10 @@
     
     <item>
       <title>rainy day tokyo</title>
-      <link>http://iwabm.github.io/contact/contact/</link>
+      <link>http://iwabm.github.io/cv/cv/</link>
       <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://iwabm.github.io/contact/contact/</guid>
+      <guid>http://iwabm.github.io/cv/cv/</guid>
       <description>&lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
         &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/1.jpg&#34; alt=&#34;RDT1&#34;&gt;
