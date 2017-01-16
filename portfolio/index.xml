@@ -10,212 +10,874 @@
     <atom:link href="http://iwabm.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Fictional real, real fiction</title>
-      <link>http://iwabm.github.io/portfolio/2016/fictional-real-real-fiction/</link>
+      <title>Fictional Real, Real Fiction</title>
+      <link>http://iwabm.github.io/portfolio/photography/2016/fictional-real-real-fiction/</link>
       <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://iwabm.github.io/portfolio/2016/fictional-real-real-fiction/</guid>
+      <guid>http://iwabm.github.io/portfolio/photography/2016/fictional-real-real-fiction/</guid>
       <description>&lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/1.jpg&#34; alt=&#34;FIC1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_FIC/1.jpg&#34; alt=&#34;FIC1&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/2.jpg&#34; alt=&#34;FIC2&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_FIC/2.jpg&#34; alt=&#34;FIC2&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/3.jpg&#34; alt=&#34;FIC3&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_FIC/3.jpg&#34; alt=&#34;FIC3&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_FIC/7.jpg&#34; alt=&#34;FIC7&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/4.jpg&#34; alt=&#34;FIC4&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_FIC/4.jpg&#34; alt=&#34;FIC4&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/5.jpg&#34; alt=&#34;FIC5&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_FIC/5.jpg&#34; alt=&#34;FIC5&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/6.jpg&#34; alt=&#34;FIC6&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_FIC/6.jpg&#34; alt=&#34;FIC6&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/7.jpg&#34; alt=&#34;FIC7&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_FIC/8.jpg&#34; alt=&#34;FIC8&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/8.jpg&#34; alt=&#34;FIC8&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_FIC/9.jpg&#34; alt=&#34;FIC9&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/9.jpg&#34; alt=&#34;FIC9&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2016_fictional/10.jpg&#34; alt=&#34;FIC10&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_FIC/10.jpg&#34; alt=&#34;FIC10&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>am3:00 Lower East Side</title>
-      <link>http://iwabm.github.io/portfolio/2015/am300-lower-east-side/</link>
-      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      <title>WOWOW</title>
+      <link>http://iwabm.github.io/portfolio/graphics/2016/wowow/</link>
+      <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://iwabm.github.io/portfolio/2015/am300-lower-east-side/</guid>
-      <description>&lt;div class=&#34;photo-item-first&#34;&gt;
+      <guid>http://iwabm.github.io/portfolio/graphics/2016/wowow/</guid>
+      <description>&lt;!--
+    レイアウトテンプレートのタイプ: type 
+    permalink用 config.toml内 :section/:slug/:year/:title 
+    ソート用: date
+    画面表示用: category
+--&gt;
+
+&lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2015_am300/1.jpg&#34; alt=&#34;am3001&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/1.jpg&#34; alt=&#34;RDT1&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2015_am300/2.jpg&#34; alt=&#34;am3002&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/21.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Concept: &lt;/b&gt;Readers are interested in the contents as if they are watching TV program and can react and share them easily.&lt;/p&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2015_am300/3.jpg&#34; alt=&#34;am3003&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/2.jpg&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Design Process: &lt;/b&gt;&lt;/p&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2015_am300/4.jpg&#34; alt=&#34;am3004&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/3.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/5.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/6.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Campaign Planning: &lt;/b&gt;&lt;/p&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2015_am300/5.jpg&#34; alt=&#34;am3005&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/20.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Design Prototype: &lt;/b&gt;&lt;/p&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2015_am300/6.jpg&#34; alt=&#34;am3006&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/4.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/23.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/22.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Mail and Landing Page Design: &lt;/b&gt;&lt;/p&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/portfolio/photo/2015_am300/7.jpg&#34; alt=&#34;am3007&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Accuracy of Devaju</title>
-      <link>http://iwabm.github.io/portfolio/2015/accuracy-of-devaju/</link>
-      <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/portfolio/2015/accuracy-of-devaju/</guid>
-      <description>&lt;div class=&#34;photo-item-first&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/1.jpg&#34; alt=&#34;DEJ1&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/2.jpg&#34; alt=&#34;DEJ2&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/3.jpg&#34; alt=&#34;DEJ3&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/4.jpg&#34; alt=&#34;DEJ4&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/5.jpg&#34; alt=&#34;DEJ5&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/6.jpg&#34; alt=&#34;DEJ6&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/7.jpg&#34; alt=&#34;DEJ7&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/8.jpg&#34; alt=&#34;DEJ8&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/9.jpg&#34; alt=&#34;DEJ9&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/10.jpg&#34; alt=&#34;DEJ10&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/11.jpg&#34; alt=&#34;DEJ11&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/12.jpg&#34; alt=&#34;DEJ12&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/13.jpg&#34; alt=&#34;DEJ13&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/14.jpg&#34; alt=&#34;DEJ14&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/15.jpg&#34; alt=&#34;DEJ15&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/16.jpg&#34; alt=&#34;DEJ16&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/17.jpg&#34; alt=&#34;DEJ17&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/18.jpg&#34; alt=&#34;DEJ18&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/19.jpg&#34; alt=&#34;DEJ19&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/7.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/8.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Data Measuring and Analizing: &lt;/b&gt;&lt;/p&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item-last&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2015_DEJ/20.jpg&#34; alt=&#34;DEJ20&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/9.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_WOW/10.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Next Step Action: &lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Photography 100 years after</title>
+      <link>http://iwabm.github.io/portfolio/photography/2016/photography-100-years-after/</link>
+      <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/portfolio/photography/2016/photography-100-years-after/</guid>
+      <description>&lt;div class=&#34;photo-item-first&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_AFT/1.jpg&#34; alt=&#34;FIC1&#34;&gt;
+        &lt;p&gt;This is the normal way of life in the 22nd century. Children is playing in a &#34;virtual forest&#34;.&lt;br&gt;
+        &lt;b&gt;Are these images our future dreamed life?&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_AFT/2.jpg&#34; alt=&#34;FIC2&#34;&gt;
+        &lt;p&gt;This is the normal way of life in the 22nd century. I reviewed my lifemoment archives and found my external memory failed to save one second of my life.&lt;br&gt;
+        &lt;b&gt;What will be the difference between our &#39;&#39;memories’’ and &#39;&#39;records‘‘?&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_AFT/3.jpg&#34; alt=&#34;FIC3&#34;&gt;
+        &lt;p&gt;This is the normal way of life in the 22nd century. Most of the time we spend in a virtual world and we begin not to rely on our physical existences.&lt;br&gt;
+        &lt;b&gt;Can we discard our physical sense completely?&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_AFT/4.jpg&#34; alt=&#34;FIC4&#34;&gt;
+        &lt;p&gt;This is the normal way of life in the 22nd century. Today is the Super moon for the first time in 100 years!&lt;br&gt;
+        &lt;b&gt;How many things will remain after 100 years?&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_AFT/5.jpg&#34; alt=&#34;FIC5&#34;&gt;
+        &lt;p&gt;This is the normal way of life in the 22nd century. Finally, new media displaced photography and this is the final day of photography. I decided to shoot my robotic wife.&lt;br&gt;
+        &lt;b&gt;What do you want to shoot in your last moment?&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item-last&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_AFT/6.jpg&#34; alt=&#34;FIC6&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_AFT/7.jpg&#34; alt=&#34;FIC7&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2016_AFT/8.jpg&#34; alt=&#34;FIC8&#34;&gt;
+        &lt;p&gt;Exhibited in Art Photograph Group Show Part. 27, RECTO VERSO GALLERY, Tokyo, Japan, Feb 2016&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IBM Studio Board</title>
+      <link>http://iwabm.github.io/portfolio/graphics/2016/ibm-studio-board/</link>
+      <pubDate>Sat, 23 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/portfolio/graphics/2016/ibm-studio-board/</guid>
+      <description>&lt;!--
+    レイアウトテンプレートのタイプ: type 
+    permalink用 config.toml内 :section/:slug/:year/:title 
+    ソート用: date
+    画面表示用: category
+--&gt;
+
+&lt;div class=&#34;photo-item-first&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/1.jpg&#34; alt=&#34;RDT1&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/2.jpg&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/3.jpg&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;We respect traditional IBM design philosophy.&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/4.jpg&#34; alt=&#34;RDT4&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/5.jpg&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;p&gt;And also we reflect and show new IBM design environment and culture.&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/11.jpg&#34; alt=&#34;RDT6&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/12.jpg&#34; alt=&#34;RDT7&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/13.jpg&#34; alt=&#34;RDT6&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/14.jpg&#34; alt=&#34;RDT7&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/15.jpg&#34; alt=&#34;RDT6&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/16.jpg&#34; alt=&#34;RDT7&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/17.jpg&#34; alt=&#34;RDT6&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/18.jpg&#34; alt=&#34;RDT7&#34;&gt;     
+        &lt;p&gt;I mixed these two tides and continued prototyping with senior designers, and finally delivered the entrance board.&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item-last&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/8.png&#34; alt=&#34;RDT6&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/9.jpg&#34; alt=&#34;RDT7&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/10.jpg&#34; alt=&#34;RDT7&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2016_BOA/4.jpg&#34; alt=&#34;RDT4&#34;&gt;
+        &lt;p&gt;I reflected atmosphere of studio, such as colorful chair and posting sticky notes culture.&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inageya</title>
+      <link>http://iwabm.github.io/portfolio/concept/2016/inageya/</link>
+      <pubDate>Sat, 23 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/portfolio/concept/2016/inageya/</guid>
+      <description>&lt;!--
+    レイアウトテンプレートのタイプ: type 
+    permalink用 config.toml内 :section/:slug/:year/:title 
+    ソート用: date
+    画面表示用: category
+--&gt;
+
+&lt;div class=&#34;photo-item-first&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/1.jpg&#34; alt=&#34;RDT1&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;div class=&#34;youtube&#34;&gt;
+            &lt;iframe width=&#34;100%&#34; height=&#34;auto&#34; src=&#34;https://www.youtube.com/embed/_dXOVveMYrY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+        &lt;br&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/3.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Concept: &lt;/b&gt;Customers and their families can turn their household worries into fun and create their sustainable local communities together.&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/2.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Design Process: &lt;/b&gt;Using IBM Design Thinking, we designed a strategic concept of a future supermarket.&lt;/p&gt; 
+    &lt;/div&gt;           
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/4.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/5.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/6.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Persona and Empathy Map&lt;/b&gt;&lt;/p&gt;        
+    &lt;/div&gt;           
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/7.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/8.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;As-Is Scenario Map and Pain Point Defining&lt;/b&gt;&lt;/p&gt; 
+    &lt;/div&gt;           
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/9.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/10.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Big Idea&lt;/b&gt;&lt;/p&gt; 
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/11.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/12.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Future Speculation&lt;/b&gt;&lt;/p&gt; 
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/15.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/16.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/14.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/13.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Technology Research and Prioritization&lt;/b&gt;&lt;/p&gt; 
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/18.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/17.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/19.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/20.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Who-What-Wow and Iterative Playbacks&lt;/b&gt;&lt;/p&gt; 
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/21.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-100 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/22.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/23.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Define Hills&lt;/b&gt;&lt;/p&gt; 
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/24.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/25.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Feedback Grid and Define Next Action&lt;/b&gt;&lt;/p&gt; 
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item-last&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2016_INA/26.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;‘‘ I’ve never seen these sexy concepts come to life only in 2 days. ’’&lt;/b&gt; - Executive of Inageya&lt;/p&gt;
+        &lt;p&gt;&lt;b&gt;‘‘ We need to get all our teams working like this one. ’’&lt;/b&gt; - Manager of corporate planning division of Inageya&lt;/p&gt;
+        
+    &lt;/div&gt;           
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MHI</title>
+      <link>http://iwabm.github.io/portfolio/serviceandux/2016/mhi/</link>
+      <pubDate>Sat, 23 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/portfolio/serviceandux/2016/mhi/</guid>
+      <description>&lt;!--
+    レイアウトテンプレートのタイプ: type 
+    permalink用 config.toml内 :section/:slug/:year/:title 
+    ソート用: date
+    画面表示用: category
+--&gt;
+
+&lt;div class=&#34;photo-item-first&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/1.jpg&#34; alt=&#34;RDT1&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/60.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/61.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/62.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Concept: &lt;/b&gt;MHI engineers can inspect and take action for risks of their projects in advance without long industry experience.&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/2.jpg&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Design Process &lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/20.png&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/21.png&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Persona Defining &lt;/b&gt;&lt;/p&gt;     
+    &lt;/div&gt;           
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/50.png&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/51.jpg&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/52.png&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/53.png&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/54.png&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/55.png&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/56.png&#34; alt=&#34;RDT5&#34;&gt; 
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/57.png&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Design Ideation and Iterative Polishment &lt;/b&gt;&lt;/p&gt;      
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/3.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/7.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/8.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/4.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/5.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Visual and Interaction Mockup &lt;/b&gt;&lt;/p&gt; 
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/11.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/10.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/16.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/12.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/13.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/14.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/15.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Design Guideline &lt;/b&gt;&lt;/p&gt; 
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/90.jpg&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2016_MHI/91.jpg&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Agile Development and Retrospective &lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uber</title>
+      <link>http://iwabm.github.io/portfolio/serviceandux/2015/uber/</link>
+      <pubDate>Thu, 06 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/portfolio/serviceandux/2015/uber/</guid>
+      <description>&lt;!--
+    レイアウトテンプレートのタイプ: type 
+    permalink用 config.toml内 :section/:slug/:year/:title 
+    ソート用: date
+    画面表示用: category
+--&gt;
+
+&lt;div class=&#34;photo-item-first&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/1.jpg&#34; alt=&#34;RDT1&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/2.jpg&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;p&gt;&lt;b&gt;concept: &lt;/b&gt;A driver and a rider can meet 100% accuracy without inconvenience using a translating function.&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/3.jpg&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Design Process&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/4.png&#34; alt=&#34;RDT4&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/5.png&#34; alt=&#34;RDT4&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/6.png&#34; alt=&#34;RDT4&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Learn Methodology&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/9.png&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Stakeholder Interview and Business Goal Setting&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/10.jpg&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/11.jpg&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/12.jpg&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/13.jpg&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/14.jpg&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;p&gt;&lt;b&gt;User Research: &lt;/b&gt;Using AEIOU Worksheet invented by IDEO, we actually used Uber at the JFK airport and observe interactions as a rider.&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/15.jpg&#34; alt=&#34;RDT12&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/20.png&#34; alt=&#34;RDT12&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/16.jpg&#34; alt=&#34;RDT12&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Analysing Insights and Problem Defining&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/21.png&#34; alt=&#34;RDT12&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/22.png&#34; alt=&#34;RDT12&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/17.jpg&#34; alt=&#34;RDT12&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/18.jpg&#34; alt=&#34;RDT12&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Solution Design&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item-last&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/23.jpg&#34; alt=&#34;RDT12&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_UBE/24.jpg&#34; alt=&#34;RDT12&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Customer Journey and Final Presentation&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AM3:00, Lower East Side</title>
+      <link>http://iwabm.github.io/portfolio/photography/2015/am300-lower-east-side/</link>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/portfolio/photography/2015/am300-lower-east-side/</guid>
+      <description>&lt;div class=&#34;photo-item-first&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_AM3/1.jpg&#34; alt=&#34;am3001&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_AM3/2.jpg&#34; alt=&#34;am3002&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_AM3/3.jpg&#34; alt=&#34;am3003&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_AM3/4.jpg&#34; alt=&#34;am3004&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_AM3/5.jpg&#34; alt=&#34;am3005&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_AM3/6.jpg&#34; alt=&#34;am3006&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_AM3/7.jpg&#34; alt=&#34;am3005&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_AM3/8.jpg&#34; alt=&#34;am3006&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_AM3/9.jpg&#34; alt=&#34;am3007&#34;&gt;
+        &lt;p&gt;Exhibited in New City Art Fair (in EINSTEIN STUDIO booth), hpgrp Gallery, New York, USA, Mar 2016&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parsons Summer</title>
+      <link>http://iwabm.github.io/portfolio/graphics/2015/parsons-summer/</link>
+      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/portfolio/graphics/2015/parsons-summer/</guid>
+      <description>&lt;!--
+    レイアウトテンプレートのタイプ: type 
+    permalink用 config.toml内 :section/:slug/:year/:title 
+    ソート用: date
+    画面表示用: category
+--&gt;
+
+&lt;div class=&#34;photo-item-first&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/1.jpg&#34; alt=&#34;RDT1&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/2.jpg&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/3.jpg&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Poster Design:&lt;/b&gt; Using only type, made a poster which explains how to do something specific. I’ve dealt with “How to Ride NYC Subway“. I’ve used subway-like iconic circles and rectlinear text to conjure up subway in NYC.&lt;br&gt;
+        &lt;br&gt;
+        &lt;b&gt;Design Focus:&lt;/b&gt; Typography, Shape, Positive &amp; Negative, B&amp;W&lt;br&gt;
+        &lt;b&gt;Design Tool:&lt;/b&gt; Adobe Illustrator&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/4.jpg&#34; alt=&#34;RDT4&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/5.jpg&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;p&gt;I’ve expressed the winding journey. The way is up and down. Time and weather always change; come and go. In some sense, it means a journey of our life.&lt;/p&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/6.jpg&#34; alt=&#34;RDT6&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Bookjacket Design:&lt;/b&gt; Designed a book jacket &amp; matching slipcase reflecting the meaning of title of a novel. I’ve dealt with “Journey Without Maps“ by Graham Greene. I’ve imagined a long journey of letters and made a manual cut-and-paste design.&lt;br&gt;
+        &lt;br&gt;
+        &lt;b&gt;Design Focus:&lt;/b&gt; Typography, Shape, Positive &amp; Negative, Unity, B&amp;W&lt;br&gt;
+        &lt;b&gt;Design Tool:&lt;/b&gt; Adobe Photoshop, Adobe Illustrator&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/7.jpg&#34; alt=&#34;RDT7&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Book Design:&lt;/b&gt; Designed 12-pages self-cover book based on Coney Island wandering. I’ve taken so many photos of Coney Island and dealt with materials I’ve found. Magenta rectangles are highlights to show each material.&lt;br&gt;
+        &lt;br&gt;
+        &lt;b&gt;Design Focus:&lt;/b&gt; Typography, Photography, Positive &amp; Negative, Unity, 1-Color&lt;br&gt;
+        &lt;b&gt;Design Tool:&lt;/b&gt; Adobe Photoshop, Adobe InDesign&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/18.jpg&#34; alt=&#34;RDT8&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Timeline Design:&lt;/b&gt; Took the poster I’ve designed and added a time element using the Timeline Panel in Photoshop. I’ve designed the 70 sec movie which introduces steps to ride subway in NYC. Numbers in circles conjure up images of icons of subway in NYC.&lt;br&gt;
+        &lt;br&gt;
+        &lt;b&gt;Design Focus:&lt;/b&gt; Typography, Motion, Sound, Color&lt;br&gt;
+        &lt;b&gt;Design Tool:&lt;/b&gt;Adobe Photoshop&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/9.jpg&#34; alt=&#34;RDT9&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/20.jpg&#34; alt=&#34;RDT10&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/21.jpg&#34; alt=&#34;RDT10&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/23.jpg&#34; alt=&#34;RDT10&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/22.jpg&#34; alt=&#34;RDT10&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/25.jpg&#34; alt=&#34;RDT10&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/24.jpg&#34; alt=&#34;RDT10&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Application Design:&lt;/b&gt; Designed App and Poster which introduce 5 spots of Coney Island. I’ve dealt with 5 flowers of Coney Island. This App introduces images and locations of flowers. I’ve imagined vivid colors of flowers as a ribbon and designed screens vertically.&lt;br&gt;
+        &lt;br&gt;
+        &lt;b&gt;Design Focus:&lt;/b&gt; Typography, Photography, Positive &amp; Negative, Unity, 1-Color&lt;br&gt;
+        &lt;b&gt;Design Tool:&lt;/b&gt; Adobe Photoshop, Adobe Muse&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item-last&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/11.jpg&#34; alt=&#34;RDT11&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/gra/2015_PAR/12.jpg&#34; alt=&#34;RDT12&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Identity Design:&lt;/b&gt; Designed graphic identity for a festival event celebrating a neighborhood in NYC. I’ve dealt with Japanese Food Festival in East Village. I’ve used chopsticks as a symbol of this event and designed an envelope, invitation letter, bag, badge and small goods. To produce Japanese atomosphere, I’ve used Japanese papers and stereoscopic gimmicks like Ninja.&lt;br&gt;
+        &lt;br&gt;
+        &lt;b&gt;Design Focus:&lt;/b&gt; Typography, Unity, Texture, Material, Color&lt;br&gt;
+        &lt;b&gt;Design Tool:&lt;/b&gt; Adobe Photoshop, Adobe Illustator&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accuracy of Deja-vu</title>
+      <link>http://iwabm.github.io/portfolio/photography/2015/accuracy-of-deja-vu/</link>
+      <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/portfolio/photography/2015/accuracy-of-deja-vu/</guid>
+      <description>&lt;div class=&#34;photo-item-first&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/1.jpg&#34; alt=&#34;DEJ1&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/2.jpg&#34; alt=&#34;DEJ2&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/3.jpg&#34; alt=&#34;DEJ3&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/4.jpg&#34; alt=&#34;DEJ4&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/5.jpg&#34; alt=&#34;DEJ5&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/6.jpg&#34; alt=&#34;DEJ6&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/7.jpg&#34; alt=&#34;DEJ7&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/8.jpg&#34; alt=&#34;DEJ8&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/9.jpg&#34; alt=&#34;DEJ9&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/10.jpg&#34; alt=&#34;DEJ10&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/11.jpg&#34; alt=&#34;DEJ11&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/12.jpg&#34; alt=&#34;DEJ12&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/13.jpg&#34; alt=&#34;DEJ13&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/14.jpg&#34; alt=&#34;DEJ14&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/15.jpg&#34; alt=&#34;DEJ15&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/16.jpg&#34; alt=&#34;DEJ16&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/17.jpg&#34; alt=&#34;DEJ17&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/18.jpg&#34; alt=&#34;DEJ18&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/19.jpg&#34; alt=&#34;DEJ19&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item-last&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2015_DEJ/20.jpg&#34; alt=&#34;DEJ20&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Daifuku</title>
+      <link>http://iwabm.github.io/portfolio/serviceandux/2015/daifuku/</link>
+      <pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/portfolio/serviceandux/2015/daifuku/</guid>
+      <description>&lt;!--
+    レイアウトテンプレートのタイプ: type 
+    permalink用 config.toml内 :section/:slug/:year/:title 
+    ソート用: date
+    画面表示用: category
+--&gt;
+
+&lt;div class=&#34;photo-item-first&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/1.jpg&#34; alt=&#34;DAIFUKU1&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/2.jpg&#34; alt=&#34;DAIFUKU2&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Concept:&lt;/b&gt; Customers can know DAIFUKU&#39;s strength intuitively and get same services from anywhere in the world.&lt;/p&gt;
+    &lt;/div&gt;         
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/3.jpg&#34; alt=&#34;DAIFUKU3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Design Process:&lt;/b&gt; Based on User Centered Design approach, we redesigned not only front-end but also overall service ecosystem in collaboration with a business strategist and an infrastructure architect.&lt;/p&gt;
+    &lt;/div&gt;         
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/4.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/5.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/6.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-50-right &#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/7.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Competitive Analysis &lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/8.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/9.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Stakeholder Interview and Set Business Goal &amp; KPI &lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/10.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/12.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/13.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/14.png&#34; alt=&#34;DAIFUKU4&#34;&gt;        
+        &lt;p&gt;&lt;b&gt;Persona and Customer Journey: &lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/15.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/16.png&#34; alt=&#34;DAIFUKU4&#34;&gt;       
+        &lt;p&gt;&lt;b&gt;Site Concept &lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/17.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/20.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/21.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Site Structure and Contents Design: &lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/29.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/30.jpg&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Wireframe Design: &lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/31.png&#34; alt=&#34;DAIFUKU3&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/32.png&#34; alt=&#34;DAIFUKU3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Visual Mockup Discussion: &lt;/b&gt;We proposed various patterns and defined a tone and manner.&lt;/p&gt;
+    &lt;/div&gt;         
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/22.png&#34; alt=&#34;DAIFUKU3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Interaction Mockup Discussion: &lt;/b&gt;Using prototyping tools, we defined motions of navigation and interaction.&lt;/p&gt;
+    &lt;/div&gt;         
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/23.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/24.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/36.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Final Mockup Image&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+
+&lt;div class=&#34;photo-item-last&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/40.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/41.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/42.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2015_DAI/43.png&#34; alt=&#34;DAIFUKU4&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Overall Service Ecosystem Redesign:&lt;/b&gt; We also designed a global organization, an operation flow and an infrastracture / back-end system.&lt;/p&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 </description>
@@ -223,127 +885,311 @@
     
     <item>
       <title>Tokyo Christmas Collection</title>
-      <link>http://iwabm.github.io/portfolio/2014/tokyo-christmas-collection/</link>
+      <link>http://iwabm.github.io/portfolio/photography/2014/tokyo-christmas-collection/</link>
       <pubDate>Tue, 23 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://iwabm.github.io/portfolio/2014/tokyo-christmas-collection/</guid>
+      <guid>http://iwabm.github.io/portfolio/photography/2014/tokyo-christmas-collection/</guid>
       <description>&lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2014_TCC/1.jpg&#34; alt=&#34;DEJ1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2014_TCC/1.jpg&#34; alt=&#34;DEJ1&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2014_TCC/2.jpg&#34; alt=&#34;DEJ1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2014_TCC/2.jpg&#34; alt=&#34;DEJ1&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2014_TCC/3.jpg&#34; alt=&#34;DEJ1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2014_TCC/3.jpg&#34; alt=&#34;DEJ1&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2014_TCC/4.jpg&#34; alt=&#34;DEJ1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2014_TCC/4.jpg&#34; alt=&#34;DEJ1&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2014_TCC/5.jpg&#34; alt=&#34;DEJ1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2014_TCC/5.jpg&#34; alt=&#34;DEJ1&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2014_TCC/6.jpg&#34; alt=&#34;DEJ1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2014_TCC/6.jpg&#34; alt=&#34;DEJ1&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2014_TCC/7.jpg&#34; alt=&#34;DEJ1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2014_TCC/7.jpg&#34; alt=&#34;DEJ1&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2014_TCC/8.jpg&#34; alt=&#34;DEJ1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2014_TCC/9.jpg&#34; alt=&#34;DEJ1&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2014_TCC/9.jpg&#34; alt=&#34;DEJ1&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item-first&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2014_TCC/10.jpg&#34; alt=&#34;DEJ1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2014_TCC/10.jpg&#34; alt=&#34;DEJ1&#34;&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
-      <title>rainy day tokyo</title>
-      <link>http://iwabm.github.io/portfolio/2013/rainy-day-tokyo/</link>
-      <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
+      <title>IBM CSC</title>
+      <link>http://iwabm.github.io/portfolio/concept/2014/ibm-csc/</link>
+      <pubDate>Mon, 23 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://iwabm.github.io/portfolio/2013/rainy-day-tokyo/</guid>
-      <description>&lt;div class=&#34;photo-item-first&#34;&gt;
+      <guid>http://iwabm.github.io/portfolio/concept/2014/ibm-csc/</guid>
+      <description>&lt;!--
+    レイアウトテンプレートのタイプ: type 
+    permalink用 config.toml内 :section/:slug/:year/:title 
+    ソート用: date
+    画面表示用: category
+--&gt;
+
+&lt;div class=&#34;photo-item-first&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/1.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/1.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Concept: &lt;/b&gt;Victims can know what they should do by themselves when damaged and get support immediately.&lt;/p&gt;        
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/2.jpg&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/3.jpg&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Design Process&lt;/b&gt;&lt;/p&gt; 
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/3.jpg&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/4.png&#34; alt=&#34;RDT4&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/5.png&#34; alt=&#34;RDT4&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/6.png&#34; alt=&#34;RDT4&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/7.png&#34; alt=&#34;RDT4&#34;&gt; 
+        &lt;p&gt;&lt;b&gt;Global Data Research&lt;/b&gt;&lt;/p&gt;        
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/4.jpg&#34; alt=&#34;RDT4&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/8.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Business Goal Setting&lt;/b&gt;&lt;/p&gt;  
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/5.jpg&#34; alt=&#34;RDT5&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/2.jpg&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Field Observing and Staff Interview&lt;/b&gt;&lt;/p&gt;  
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/6.jpg&#34; alt=&#34;RDT6&#34;&gt;
+        &lt;img class=&#34;img-33 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/10.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-33-c margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/11.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-33 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/12.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/13.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Analize Insights and Problem Defining&lt;/b&gt;&lt;/p&gt;  
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/7.jpg&#34; alt=&#34;RDT7&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/8.jpg&#34; alt=&#34;RDT8&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/9.jpg&#34; alt=&#34;RDT9&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/10.jpg&#34; alt=&#34;RDT10&#34;&gt;
-    &lt;/div&gt;           
-&lt;/div&gt;
-&lt;div class=&#34;photo-item&#34;&gt;
-    &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/11.jpg&#34; alt=&#34;RDT11&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/14.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/20.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/21.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/22.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/23.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/24.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/25.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/26.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/27.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/28.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/29.png&#34; alt=&#34;RDT2&#34;&gt;        
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/30.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/31.png&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Solution Design and Strategy/Roadmap Planning&lt;/b&gt;&lt;/p&gt;  
     &lt;/div&gt;           
 &lt;/div&gt;
 &lt;div class=&#34;photo-item-last&#34;&gt;
     &lt;div class=&#34;photo-detail&#34;&gt;
-        &lt;img src=&#34;http://iwabm.github.io/img/photo/2013_RDT/12.jpg&#34; alt=&#34;RDT12&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/32.jpg&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/33.jpg&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/con/2014_CSC/35.jpg&#34; alt=&#34;RDT2&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Final Presentation&lt;/b&gt;&lt;/p&gt;  
+    &lt;/div&gt;           
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rainy Day Tokyo</title>
+      <link>http://iwabm.github.io/portfolio/photography/2013/rainy-day-tokyo/</link>
+      <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/portfolio/photography/2013/rainy-day-tokyo/</guid>
+      <description>&lt;div class=&#34;photo-item-first&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2013_RDT/1.jpg&#34; alt=&#34;RDT1&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2013_RDT/2.jpg&#34; alt=&#34;RDT2&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2013_RDT/3.jpg&#34; alt=&#34;RDT3&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2013_RDT/4.jpg&#34; alt=&#34;RDT4&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2013_RDT/5.jpg&#34; alt=&#34;RDT5&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2013_RDT/6.jpg&#34; alt=&#34;RDT6&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2013_RDT/7.jpg&#34; alt=&#34;RDT7&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2013_RDT/8.jpg&#34; alt=&#34;RDT8&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2013_RDT/9.jpg&#34; alt=&#34;RDT9&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2013_RDT/10.jpg&#34; alt=&#34;RDT10&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2013_RDT/11.jpg&#34; alt=&#34;RDT11&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item-last&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/pho/2013_RDT/12.jpg&#34; alt=&#34;RDT12&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sundai</title>
+      <link>http://iwabm.github.io/portfolio/serviceandux/2012/sundai/</link>
+      <pubDate>Sun, 23 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/portfolio/serviceandux/2012/sundai/</guid>
+      <description>&lt;!--
+    レイアウトテンプレートのタイプ: type 
+    permalink用 config.toml内 :section/:slug/:year/:title 
+    ソート用: date
+    画面表示用: category
+--&gt;
+
+&lt;div class=&#34;photo-item-first&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/1.jpg&#34; alt=&#34;RDT1&#34;&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/2.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;concept: &lt;/b&gt;Students can get helpful personalized information and keep motivation throughout end-to-end college entrance examination process.&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/3.jpg&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Design Process&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/4.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/5.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/6.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/7.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Competitive Analysis&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/8.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/10.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Stakeholder Interview&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/11.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/13.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/20.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-50-right&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/21.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Journey Map&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/12.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/15.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Site Concept and Contents Design&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/17.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-33&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/25.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-33-c&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/26.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-33&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/27.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Site Structure and Wireframes&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/16.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Workflow Design&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-100&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/40.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Visual Design&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-33 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/31.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-33-c margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/30.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-33 margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/32.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;img class=&#34;img-80&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/43.png&#34; alt=&#34;RDT1&#34;&gt;
+        &lt;p&gt;&lt;b&gt;Front Development and Data Transition&lt;/b&gt;&lt;/p&gt;
+    &lt;/div&gt;           
+&lt;/div&gt;
+&lt;div class=&#34;photo-item-last&#34;&gt;
+    &lt;div class=&#34;photo-detail&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/60.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/61.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-left margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/62.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/54.png&#34; alt=&#34;RDT3&#34;&gt; 
+        &lt;img class=&#34;img-50-left&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/50.png&#34; alt=&#34;RDT3&#34;&gt;
+        &lt;img class=&#34;img-50-right margin&#34; src=&#34;http://iwabm.github.io/img/pf/ser/2012_SUN/52.png&#34; alt=&#34;RDT3&#34;&gt;        &lt;p&gt;&lt;b&gt;Style/Coding Guideline and Operation Manual&lt;/b&gt;&lt;/p&gt;
     &lt;/div&gt;           
 &lt;/div&gt;
 </description>
