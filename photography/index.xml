@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Masaki Iwabuchi</copyright>
-    <lastBuildDate>Sun, 05 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sanja Festival</title>
+      <link>http://iwabm.github.io/photography/2017_sanja/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/photography/2017_sanja/</guid>
+      <description>2017, Photography Sanja Festival in the twilight
+      </description>
+    </item>
     
     <item>
       <title>Fictional Real, Real Fiction</title>
