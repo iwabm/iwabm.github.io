@@ -2,208 +2,131 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://iwabm.github.io/</loc>
-    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://example.org/portfolio/concept/2016_inageya/</loc>
+    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/cv/</loc>
-    <lastmod>2016-12-14T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/digital-media/2009_limpidual/</loc>
+    <lastmod>2009-03-23T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/photography/2016/fictional-real-real-fiction/</loc>
+    <loc>https://example.org/contact/</loc>
+    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/about/</loc>
+    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/portfolio/concept/2014_csc/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/photography/2016_fictional/</loc>
     <lastmod>2016-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/graphics/2016/wowow/</loc>
-    <lastmod>2016-04-23T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/graphics/2016_wowow/</loc>
+    <lastmod>2016-04-23T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/photography/2016/photography-100-years-after/</loc>
+    <loc>https://example.org/photography/2016_after/</loc>
     <lastmod>2016-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/graphics/2016/ibm-studio-board/</loc>
-    <lastmod>2016-01-23T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/graphics/2016_studio/</loc>
+    <lastmod>2016-02-23T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/concept/2016/inageya/</loc>
-    <lastmod>2016-01-23T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/service--ux/2015_uber/</loc>
+    <lastmod>2015-08-06T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/serviceandux/2015/uber/</loc>
-    <lastmod>2015-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/portfolio/photography/2015/am300-lower-east-side/</loc>
+    <loc>https://example.org/photography/2015_am3/</loc>
     <lastmod>2015-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/graphics/2015/parsons-summer/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/graphics/2015_parsons/</loc>
+    <lastmod>2015-07-23T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/photography/2015/accuracy-of-deja-vu/</loc>
+    <loc>https://example.org/photography/2015_dejavu/</loc>
     <lastmod>2015-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/serviceandux/2015/daifuku/</loc>
-    <lastmod>2015-01-23T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/service--ux/2015_daifuku/</loc>
+    <lastmod>2015-01-23T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/photography/2014/tokyo-christmas-collection/</loc>
+    <loc>https://example.org/photography/2014_christmas/</loc>
     <lastmod>2014-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/journey/2014_peru/</loc>
-    <lastmod>2014-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/portfolio/concept/2014/ibm-csc/</loc>
-    <lastmod>2014-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2014_mexico/</loc>
-    <lastmod>2014-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/portfolio/photography/2013/rainy-day-tokyo/</loc>
+    <loc>https://example.org/photography/2013_rainyday/</loc>
     <lastmod>2013-12-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/journey/2013_bali/</loc>
-    <lastmod>2013-08-18T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/service--ux/2012_sundai/</loc>
+    <lastmod>2012-09-23T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/journey/2013_finland/</loc>
-    <lastmod>2013-05-18T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/service--ux/2011_compage/</loc>
+    <lastmod>2011-07-23T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/journey/2013_iceland/</loc>
-    <lastmod>2013-05-14T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/service--ux/2010_soundpic/</loc>
+    <lastmod>2010-12-23T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/journey/2012_NY/</loc>
-    <lastmod>2012-11-14T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/digital-media/2007_syncing/</loc>
+    <lastmod>2007-07-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/serviceandux/2012/sundai/</loc>
-    <lastmod>2012-09-23T00:00:00+00:00</lastmod>
+    <loc>https://example.org/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/journey/2012_morrocco/</loc>
-    <lastmod>2012-01-14T00:00:00+00:00</lastmod>
+    <loc>https://example.org/photography/</loc>
+    <lastmod>2016-06-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/journey/2011_taiwan/</loc>
-    <lastmod>2011-11-14T00:00:00+00:00</lastmod>
+    <loc>https://example.org/portfolio/</loc>
+    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/journey/2011_malta/</loc>
-    <lastmod>2011-11-12T00:00:00+00:00</lastmod>
+    <loc>https://example.org/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/serviceandux/2011/compage/</loc>
-    <lastmod>2011-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/portfolio/serviceandux/2010/soundpic/</loc>
-    <lastmod>2010-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2010_netherland/</loc>
-    <lastmod>2010-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2010_luxemburg/</loc>
-    <lastmod>2010-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2010_bergium/</loc>
-    <lastmod>2010-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2009_guam/</loc>
-    <lastmod>2009-11-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2009_germany/</loc>
-    <lastmod>2009-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2009_china/</loc>
-    <lastmod>2009-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/portfolio/digitalmedia/2009/limpidual-touch/</loc>
-    <lastmod>2009-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2008_la/</loc>
-    <lastmod>2008-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2007_czech/</loc>
-    <lastmod>2007-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2007_austria/</loc>
-    <lastmod>2007-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2007_hungary/</loc>
-    <lastmod>2007-12-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/portfolio/digitalmedia/2007/syncing-floor/</loc>
-    <lastmod>2007-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2006_thebeautifulworld/</loc>
-    <lastmod>2006-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/contact/</loc>
+    <loc>https://example.org/</loc>
+    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
