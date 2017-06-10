@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>iwabm on github</title>
-    <link>https://example.org/</link>
+    <link>http://iwabm.github.io/</link>
     <description>Recent content on iwabm on github</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Masaki Iwabuchi</copyright>
     <lastBuildDate>Sat, 23 Jan 2016 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://iwabm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Inageya</title>
-      <link>https://example.org/portfolio/concept/2016_inageya/</link>
+      <link>http://iwabm.github.io/portfolio/concept/2016_inageya/</link>
       <pubDate>Sat, 23 Jan 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/concept/2016_inageya/</guid>
+      <guid>http://iwabm.github.io/portfolio/concept/2016_inageya/</guid>
       <description>info: Designed a concept of next-generation supermarket in 2020 using IBM Design Thinking. concept: Customers and their families can turn their household worries into fun and create their sustainable local communities together. challenge: Under a situation that society and family structures are changing and a role of supermarket also needs to change in Japan, clients were struggling for planning a strong concept of next-generation supermarket in 2020 with consideration for a sustainable ecosystem and of course customer-first.</description>
     </item>
     
     <item>
       <title>LimpiDual Touch</title>
-      <link>https://example.org/portfolio/digital-media/2009_limpidual/</link>
+      <link>http://iwabm.github.io/portfolio/digital-media/2009_limpidual/</link>
       <pubDate>Mon, 23 Mar 2009 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/digital-media/2009_limpidual/</guid>
+      <guid>http://iwabm.github.io/portfolio/digital-media/2009_limpidual/</guid>
       <description>2009, Interactive Media
 Academic Work
 Designed and proposed interactive limpid display with dual-sided touch sensing. concept: Users can interact from the rear side of the display without a finger occlusion problem. challenge: Direct-touch input enables intuitive operation and touch panels have been mounted on various devices. However, finger occlusion becomes one of the problems when a user touches the display from the front side. approach: I’ve proposed the emerging interactive transparent display named ‘‘LimpiDual Touch’’.</description>
@@ -34,10 +34,10 @@ Designed and proposed interactive limpid display with dual-sided touch sensing. 
     
     <item>
       <title>IBM CSC</title>
-      <link>https://example.org/portfolio/concept/2014_csc/</link>
+      <link>http://iwabm.github.io/portfolio/concept/2014_csc/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/concept/2014_csc/</guid>
+      <guid>http://iwabm.github.io/portfolio/concept/2014_csc/</guid>
       <description>2014, Pro Bono Consulting
 Professional Work
 Joined IBM international volunteering activity and tackled with the Gender Violence Problem in Mexico. Challenge IBM CSC(Corporate Service Corp) is 1 month pro bono consulting program for developing countries addressing Energy, Economic development, Transportation, Education and Healthcare. I’ve applied this program and tackled with the problem of Gender Violence(GV) in Mexico. The 5 IBMers from UK, Germany, India, Taiwan and Japan(me) have worked for IAPEM(Institution of Public Admin.</description>
@@ -45,10 +45,10 @@ Joined IBM international volunteering activity and tackled with the Gender Viole
     
     <item>
       <title>Fictional Real, Real Fiction</title>
-      <link>https://example.org/photography/2016_fictional/</link>
+      <link>http://iwabm.github.io/photography/2016_fictional/</link>
       <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/photography/2016_fictional/</guid>
+      <guid>http://iwabm.github.io/photography/2016_fictional/</guid>
       <description> 2016, Photography Facts like fiction and fiction like facts.
 I am seeking for something on the border of them both.
 Which side are we living on?
@@ -57,20 +57,20 @@ Which side are we living on?
     
     <item>
       <title>WOWOW</title>
-      <link>https://example.org/portfolio/graphics/2016_wowow/</link>
+      <link>http://iwabm.github.io/portfolio/graphics/2016_wowow/</link>
       <pubDate>Sat, 23 Apr 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/graphics/2016_wowow/</guid>
+      <guid>http://iwabm.github.io/portfolio/graphics/2016_wowow/</guid>
       <description>type: portfolio slug: graphics category: Graphics title: WOWOW year: 2015 pjoutput: Mail Marketing Campaign
 concept: Readers are interested in the contents as if they are watching TV program and can react and share them easily. challenge: To promote programs personally and efficiently, clients wanted to develop an advanced marketing solution using IBM technology. In the first step of this roadmap, clients wanted to explore the possibilities of IBM solutions and know potential target areas.</description>
     </item>
     
     <item>
       <title>Photography 100 years after</title>
-      <link>https://example.org/photography/2016_after/</link>
+      <link>http://iwabm.github.io/photography/2016_after/</link>
       <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/photography/2016_after/</guid>
+      <guid>http://iwabm.github.io/photography/2016_after/</guid>
       <description>2016, Photography After 100 years, which landscapes will we take? Will photography be still alive?
 This is a project that comes from questions.
 This is a speculative and experimental imagination for our future 22nd century.
@@ -81,20 +81,20 @@ Are these images our future dreamed life?
     
     <item>
       <title>IBM Studio Board</title>
-      <link>https://example.org/portfolio/graphics/2016_studio/</link>
+      <link>http://iwabm.github.io/portfolio/graphics/2016_studio/</link>
       <pubDate>Tue, 23 Feb 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/graphics/2016_studio/</guid>
+      <guid>http://iwabm.github.io/portfolio/graphics/2016_studio/</guid>
       <description>type: portfolio layout: template_photo slug: graphics category: Graphics title: IBM Studio Board year: 2016 pjoutput: Graphic Design
 concept: Customers can know DAIFUKU&amp;rsquo;s strength intuitively and get same services from anywhere in the world. desc: We respect traditional IBM design philosophy. And also we reflect and show new IBM design environment and culture. I mixed these two tides and continued prototyping with senior designers, and finally delivered the entrance board. workcat: Professional Work pjtype: Card Design period: 12&amp;frasl;2015 - 01/2016 role: Graphic Designer team: Sole Project release: 01/2016 - until now</description>
     </item>
     
     <item>
       <title>Uber</title>
-      <link>https://example.org/portfolio/service--ux/2015_uber/</link>
+      <link>http://iwabm.github.io/portfolio/service--ux/2015_uber/</link>
       <pubDate>Thu, 06 Aug 2015 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/service--ux/2015_uber/</guid>
+      <guid>http://iwabm.github.io/portfolio/service--ux/2015_uber/</guid>
       <description>2015, iOS App Concept
 Academic Work
 Designed new feature for mobile app of UBER in the 5-weeks Summer MFA Interaction Design Program (User Research Methods course) in School of Visual Arts, US. concept: A driver and a rider can meet 100% accuracy without inconvenience using a translating function. challenge: Joined 5 weeks MFA Interaction Design Program of User Research Methods in SVA, US. Woriking in teams, we’ve joined a real project with Uber and proposed UX to solve current issues.</description>
@@ -102,10 +102,10 @@ Designed new feature for mobile app of UBER in the 5-weeks Summer MFA Interactio
     
     <item>
       <title>AM3:00, Lower East Side</title>
-      <link>https://example.org/photography/2015_am3/</link>
+      <link>http://iwabm.github.io/photography/2015_am3/</link>
       <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/photography/2015_am3/</guid>
+      <guid>http://iwabm.github.io/photography/2015_am3/</guid>
       <description> 2016, Photography AM3:00, midnight landscape in NYC
         Publication New Japan Photo Exhibition, Midoriso 2, Tokyo, Japan, Mar 2016
 New City Art Fair (in EINSTEIN STUDIO booth), hpgrp Gallery, New York, USA, Mar 2016 </description>
@@ -113,20 +113,20 @@ New City Art Fair (in EINSTEIN STUDIO booth), hpgrp Gallery, New York, USA, Mar 
     
     <item>
       <title>Parsons Summer</title>
-      <link>https://example.org/portfolio/graphics/2015_parsons/</link>
+      <link>http://iwabm.github.io/portfolio/graphics/2015_parsons/</link>
       <pubDate>Thu, 23 Jul 2015 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/graphics/2015_parsons/</guid>
+      <guid>http://iwabm.github.io/portfolio/graphics/2015_parsons/</guid>
       <description>type: portfolio layout: template_photo slug: graphics category: Graphics title: Parsons Summer year: 2015 pjoutput: Graphic Design
 desc: To learn basic skills and philosophy of graphic design, I Took 3-weeks Advanced Graphic Design Summer Program in Parsons the new school of Design, US. During intensive 3-weeks project-based course, I delivered 6 projects; Poster Design, Bookjacket Design, Book Design, Timeline Design, App Design and Identity Design. workcat: Academic Work pjtype: Graphic Design period: 2015&amp;frasl;07 role: Designer team: Summer Program release: n/a</description>
     </item>
     
     <item>
       <title>Accuracy of Deja-vu</title>
-      <link>https://example.org/photography/2015_dejavu/</link>
+      <link>http://iwabm.github.io/photography/2015_dejavu/</link>
       <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/photography/2015_dejavu/</guid>
+      <guid>http://iwabm.github.io/photography/2015_dejavu/</guid>
       <description>2015, Photography Sometimes I feel as if I&amp;rsquo;ve seen a place that I have visited before.
 When I had this feeling in Tokyo and Osaka, which are representative cities of the East and West of Japan, I tried to find what made me feel that way.
 This is my way to test my feeling of deja vu and also of seeking out something unique in these cities.
@@ -135,10 +135,10 @@ This is my way to test my feeling of deja vu and also of seeking out something u
     
     <item>
       <title>Daifuku</title>
-      <link>https://example.org/portfolio/service--ux/2015_daifuku/</link>
+      <link>http://iwabm.github.io/portfolio/service--ux/2015_daifuku/</link>
       <pubDate>Fri, 23 Jan 2015 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/service--ux/2015_daifuku/</guid>
+      <guid>http://iwabm.github.io/portfolio/service--ux/2015_daifuku/</guid>
       <description>2015, Corporate Website
 Professional Work
 Designed global corporate website of DAIFUKU, the second largest material handling company in the world. Service Concept Customers can know DAIFUKU&amp;rsquo;s strength intuitively and get same services from anywhere in the world.
@@ -147,30 +147,30 @@ Challenge Clients’ website was obsoleted and clients wanted to enhance their b
     
     <item>
       <title>Tokyo Christmas Collection</title>
-      <link>https://example.org/photography/2014_christmas/</link>
+      <link>http://iwabm.github.io/photography/2014_christmas/</link>
       <pubDate>Tue, 23 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/photography/2014_christmas/</guid>
+      <guid>http://iwabm.github.io/photography/2014_christmas/</guid>
       <description>2014, Photography Are Japanese in Tokyo defined by Christmas?
            </description>
     </item>
     
     <item>
       <title>Rainy Day Tokyo</title>
-      <link>https://example.org/photography/2013_rainyday/</link>
+      <link>http://iwabm.github.io/photography/2013_rainyday/</link>
       <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/photography/2013_rainyday/</guid>
+      <guid>http://iwabm.github.io/photography/2013_rainyday/</guid>
       <description>2013, Photography My nostalgic memories are always in the rain. They are brilliant in my heart forever.
             </description>
     </item>
     
     <item>
       <title>Sundai</title>
-      <link>https://example.org/portfolio/service--ux/2012_sundai/</link>
+      <link>http://iwabm.github.io/portfolio/service--ux/2012_sundai/</link>
       <pubDate>Sun, 23 Sep 2012 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/service--ux/2012_sundai/</guid>
+      <guid>http://iwabm.github.io/portfolio/service--ux/2012_sundai/</guid>
       <description>2012, Corporate Websiteg
 Professional Work
 Redesigned comprehensive online user experience for SUNDAI, one of the largest preparatory school in Japan. concept: Students can get helpful personalized information and keep motivation throughout end-to-end college entrance examination process. challenge: Clients’ website was obsoleted and clients wanted to grow their core customers using current web technologies and usability disciplines. Of course they’d like to reach these objectives in an efficient operation. approach: The project has reformed an overall user experience of “SUNDAI” website and delivered the new visual design for PCs and smartphones.</description>
@@ -178,10 +178,10 @@ Redesigned comprehensive online user experience for SUNDAI, one of the largest p
     
     <item>
       <title>CompAge</title>
-      <link>https://example.org/portfolio/service--ux/2011_compage/</link>
+      <link>http://iwabm.github.io/portfolio/service--ux/2011_compage/</link>
       <pubDate>Sat, 23 Jul 2011 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/service--ux/2011_compage/</guid>
+      <guid>http://iwabm.github.io/portfolio/service--ux/2011_compage/</guid>
       <description>2014, Pro Bono Consulting
 Private Work
 Designed and implemented a social competition service for visual designers using social APIs. concept: Designers can show their talents and get work in a social platform. challenge: Many Japanese startups need impressive graphics for their businesses but almost all companies don’t have in-house designers. I wanted to support these companies and provide the field in which designers can show their talents. approach: Using CompAge, clients can hold graphic design competitions easily and cheaply.</description>
@@ -189,10 +189,10 @@ Designed and implemented a social competition service for visual designers using
     
     <item>
       <title>SoundPic</title>
-      <link>https://example.org/portfolio/service--ux/2010_soundpic/</link>
+      <link>http://iwabm.github.io/portfolio/service--ux/2010_soundpic/</link>
       <pubDate>Thu, 23 Dec 2010 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/service--ux/2010_soundpic/</guid>
+      <guid>http://iwabm.github.io/portfolio/service--ux/2010_soundpic/</guid>
       <description>2010, iOS App
 Private Work
 Designed a prototype of camera App which records sounds and pictures simultaneously. concept: People can record their memories vividly, share them quickly. challenge: To record our memories more vividly, we often use video. However, sometimes video isn’t convenient because file size is very large to record, save and share. approach: We came up with the idea to take a picture with audio. When a user release the shutter, he can take a picture with 4 sec sounds simultaneously.</description>
@@ -200,10 +200,10 @@ Designed a prototype of camera App which records sounds and pictures simultaneou
     
     <item>
       <title>Syncing Floor</title>
-      <link>https://example.org/portfolio/digital-media/2007_syncing/</link>
+      <link>http://iwabm.github.io/portfolio/digital-media/2007_syncing/</link>
       <pubDate>Thu, 05 Jul 2007 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/digital-media/2007_syncing/</guid>
+      <guid>http://iwabm.github.io/portfolio/digital-media/2007_syncing/</guid>
       <description>2007, Interactive Installation
 Private Work
 Exhibited the interactive installation which connects 2 distant exhibition sites. info: Exhibited the interactive installation which connects 2 distant exhibition sites. concept: Visitors can feel the bustle of the exhibition site inconspicuously. challenge: I decided to join a media art exhibition in the Univ. of Tokyo. This exhibition has 2 distant sites so I utilized this characteristic and I planned to visualize an atmosphere of the sites.</description>

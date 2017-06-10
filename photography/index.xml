@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photographies on iwabm on github</title>
-    <link>https://example.org/photography/</link>
+    <link>http://iwabm.github.io/photography/</link>
     <description>Recent content in Photographies on iwabm on github</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Masaki Iwabuchi</copyright>
     <lastBuildDate>Sun, 05 Jun 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.org/photography/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://iwabm.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fictional Real, Real Fiction</title>
-      <link>https://example.org/photography/2016_fictional/</link>
+      <link>http://iwabm.github.io/photography/2016_fictional/</link>
       <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/photography/2016_fictional/</guid>
+      <guid>http://iwabm.github.io/photography/2016_fictional/</guid>
       <description> 2016, Photography Facts like fiction and fiction like facts.
 I am seeking for something on the border of them both.
 Which side are we living on?
@@ -26,10 +26,10 @@ Which side are we living on?
     
     <item>
       <title>Photography 100 years after</title>
-      <link>https://example.org/photography/2016_after/</link>
+      <link>http://iwabm.github.io/photography/2016_after/</link>
       <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/photography/2016_after/</guid>
+      <guid>http://iwabm.github.io/photography/2016_after/</guid>
       <description>2016, Photography After 100 years, which landscapes will we take? Will photography be still alive?
 This is a project that comes from questions.
 This is a speculative and experimental imagination for our future 22nd century.
@@ -40,10 +40,10 @@ Are these images our future dreamed life?
     
     <item>
       <title>AM3:00, Lower East Side</title>
-      <link>https://example.org/photography/2015_am3/</link>
+      <link>http://iwabm.github.io/photography/2015_am3/</link>
       <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/photography/2015_am3/</guid>
+      <guid>http://iwabm.github.io/photography/2015_am3/</guid>
       <description> 2016, Photography AM3:00, midnight landscape in NYC
         Publication New Japan Photo Exhibition, Midoriso 2, Tokyo, Japan, Mar 2016
 New City Art Fair (in EINSTEIN STUDIO booth), hpgrp Gallery, New York, USA, Mar 2016 </description>
@@ -51,10 +51,10 @@ New City Art Fair (in EINSTEIN STUDIO booth), hpgrp Gallery, New York, USA, Mar 
     
     <item>
       <title>Accuracy of Deja-vu</title>
-      <link>https://example.org/photography/2015_dejavu/</link>
+      <link>http://iwabm.github.io/photography/2015_dejavu/</link>
       <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/photography/2015_dejavu/</guid>
+      <guid>http://iwabm.github.io/photography/2015_dejavu/</guid>
       <description>2015, Photography Sometimes I feel as if I&amp;rsquo;ve seen a place that I have visited before.
 When I had this feeling in Tokyo and Osaka, which are representative cities of the East and West of Japan, I tried to find what made me feel that way.
 This is my way to test my feeling of deja vu and also of seeking out something unique in these cities.
@@ -63,20 +63,20 @@ This is my way to test my feeling of deja vu and also of seeking out something u
     
     <item>
       <title>Tokyo Christmas Collection</title>
-      <link>https://example.org/photography/2014_christmas/</link>
+      <link>http://iwabm.github.io/photography/2014_christmas/</link>
       <pubDate>Tue, 23 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/photography/2014_christmas/</guid>
+      <guid>http://iwabm.github.io/photography/2014_christmas/</guid>
       <description>2014, Photography Are Japanese in Tokyo defined by Christmas?
            </description>
     </item>
     
     <item>
       <title>Rainy Day Tokyo</title>
-      <link>https://example.org/photography/2013_rainyday/</link>
+      <link>http://iwabm.github.io/photography/2013_rainyday/</link>
       <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/photography/2013_rainyday/</guid>
+      <guid>http://iwabm.github.io/photography/2013_rainyday/</guid>
       <description>2013, Photography My nostalgic memories are always in the rain. They are brilliant in my heart forever.
             </description>
     </item>
