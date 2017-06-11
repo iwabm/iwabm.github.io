@@ -2,10 +2,20 @@
 .img-pf-photo-50 {
   max-width: 49%;
 }
+.img-pf-photo-75 {
+  max-width: 74%;
+}
 
 .credit-single {
   font-size: 14px;
 }
+
+.pf-caption {
+  font-size: 14px;
+  text-align: center;
+  margin-top: 10px;
+}
+
 .text-center {
   text-align: center;
 }
@@ -20,7 +30,7 @@
   margin-bottom: 5px;
 }
 
-/* carousel */
+/* carousel custom*/
 .owl-carousel {
 position: relative;
 }
