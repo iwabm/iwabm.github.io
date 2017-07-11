@@ -1,4 +1,12 @@
 /* your styles go here */
+.img-solo {
+  margin-top: 40px;
+}
+
+.img-intext {
+  margin-top: 25px;
+}
+
 .img-pf-photo-50 {
   max-width: 49%;
 }
@@ -6,8 +14,14 @@
   max-width: 74%;
 }
 
-.credit-single {
+.img-cv {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.content-column-content p.credit-single {
   font-size: 14px;
+  color: #999999;
 }
 
 .pf-caption {
@@ -33,6 +47,8 @@
 /* carousel custom*/
 .owl-carousel {
 position: relative;
+margin-top: 25px;
+margin-bottom: 40px;
 }
 .owl-prev,
 .owl-next {
