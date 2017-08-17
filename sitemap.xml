@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://iwabm.github.io/portfolio/concept/2017_speculative/</loc>
+    <lastmod>2017-08-05T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://iwabm.github.io/photography/2017_sanja/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
   </url>
@@ -55,6 +60,11 @@
   <url>
     <loc>http://iwabm.github.io/journey/2014_mexico/</loc>
     <lastmod>2014-06-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://iwabm.github.io/portfolio/concept/2014_csc/</loc>
+    <lastmod>2014-06-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -191,7 +201,7 @@
   
   <url>
     <loc>http://iwabm.github.io/portfolio/</loc>
-    <lastmod>2015-01-23T18:25:22+05:30</lastmod>
+    <lastmod>2017-08-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -202,7 +212,7 @@
   
   <url>
     <loc>http://iwabm.github.io/</loc>
-    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
