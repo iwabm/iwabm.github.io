@@ -8,8 +8,27 @@
   margin-bottom: 3.6em;
 }
 
-.narrow {
-  margin-top: 0em;
+.img-withspace {
+  margin-top: 2.7em;
+  margin-bottom: 3.6em;
+}
+
+.img-narrowspace {
+  margin-top: 1.2em;
+  margin-bottom: 1.2em;
+}
+
+.photo-caption {
+  margin-top: 1.8em;
+  margin-bottom: 1.2em;
+  line-height: 1.8;
+}
+
+.photo-caption-center {
+  margin-top: 1.8em;
+  margin-bottom: 1.2em;
+  line-height: 1.8;
+  text-align: center;
 }
 
 .img-pf-photo-33 {
@@ -21,6 +40,7 @@
 }
 .img-pf-photo-75 {
   max-width: 74%;
+  margin: 0 auto;
 }
 
 .img-cv {
@@ -37,12 +57,6 @@
   color: #888888;
 }
 
-.pf-caption {
-  font-size: 14px;
-  text-align: center;
-  margin-top: 10px;
-}
-
 .text-center {
   text-align: center;
 }
@@ -57,11 +71,17 @@
   margin-bottom: 5px;
 }
 
+/* disqus */
+.disqus {
+margin-top: 4.2em;
+margin-bottom: 3em; 
+}
+
 /* carousel custom*/
 .owl-carousel {
-position: relative;
-margin-top: 25px;
-margin-bottom: 40px;
+  position: relative;
+  margin-top: 3.3em;
+  margin-bottom: 3.5em; 
 }
 .owl-prev,
 .owl-next {
@@ -78,7 +98,7 @@ right: 0;
 
 .owl-theme .owl-nav [class*=owl-] {
     background: #ff7473;
-    opacity: 0.7;
+    opacity: 0.3;
     border-radius: 5px;
 }
 
