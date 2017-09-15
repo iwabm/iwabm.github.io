@@ -13,9 +13,29 @@
   margin-bottom: 3.6em;
 }
 
+.img-default {
+  margin-top: 2.7em;
+  margin-bottom: 3.6em;
+}
+
 .img-narrowspace {
   margin-top: 1.2em;
   margin-bottom: 1.2em;
+}
+
+.img-narrow {
+  margin-top: 1.2em;
+  margin-bottom: 1.2em;
+}
+
+.img-t-narrow {
+  margin-top: 1.2em;
+  margin-bottom: 3.6em;
+}
+
+.img-b-narrow {
+  margin-top: 2.7em;
+  margin-top: 1.2em;
 }
 
 .photo-caption {
