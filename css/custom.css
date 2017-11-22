@@ -3,6 +3,11 @@
   margin-top: 40px;
 }
 
+.img-h4 {
+  margin-top: 1.7em;
+  margin-bottom: 3.4em;
+}
+
 .img-intext {
   margin-top: 2.7em;
   margin-bottom: 3.6em;
@@ -56,7 +61,7 @@
 }
 
 .img-pf-photo-50 {
-  max-width: 49%;
+  max-width: 49%; 
 }
 .img-pf-photo-75 {
   max-width: 74%;
@@ -70,6 +75,21 @@
 
 .video {
   margin-top: 30px;
+}
+
+.youtube {
+  position: relative;
+  width: 100%;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  padding-top: 56.25%;
+}
+.youtube iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
 }
 
 .content-column-content p.credit-single {
