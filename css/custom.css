@@ -129,6 +129,11 @@ margin-bottom: 2.4em;
   float: right;
 }
 
+.clear {
+    clear:both;　/*floatの解除、ここがポイント*/
+}
+
+
 /* disqus */
 .disqus {
 margin-top: 6em;
