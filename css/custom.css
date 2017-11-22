@@ -111,6 +111,24 @@
   margin-bottom: 5px;
 }
 
+.pagenation {
+margin-top: 6em;
+margin-bottom: 2.4em; 
+}
+
+.left_align {
+  float: left;
+}
+
+.center_align {
+  width: 100%;
+  text-align: center;
+}
+
+.right_align {
+  float: right;
+}
+
 /* disqus */
 .disqus {
 margin-top: 6em;

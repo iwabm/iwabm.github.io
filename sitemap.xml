@@ -219,6 +219,12 @@
   </url>
   
   <url>
+    <loc>http://iwabm.github.io/tags/pf/</loc>
+    <lastmod>2017-08-05T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://iwabm.github.io/photography/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -232,6 +238,7 @@
   
   <url>
     <loc>http://iwabm.github.io/tags/</loc>
+    <lastmod>2017-08-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   

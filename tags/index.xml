@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Masaki Iwabuchi</copyright>
+    <lastBuildDate>Sat, 05 Aug 2017 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pf</title>
+      <link>http://iwabm.github.io/tags/pf/</link>
+      <pubDate>Sat, 05 Aug 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/tags/pf/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
