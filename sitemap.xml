@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://iwabm.github.io/portfolio/concept/2016_inageya/</loc>
+    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://iwabm.github.io/portfolio/digital-media/2009_limpidual/</loc>
+    <lastmod>2009-03-23T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://iwabm.github.io/portfolio/concept/2017_speculative/</loc>
     <lastmod>2017-08-05T18:25:22+05:30</lastmod>
   </url>
@@ -40,11 +50,6 @@
   <url>
     <loc>http://iwabm.github.io/portfolio/graphics/2016_studio/</loc>
     <lastmod>2016-02-23T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/portfolio/concept/2016_inageya/</loc>
-    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -143,11 +148,6 @@
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/service--ux/2011_compage/</loc>
-    <lastmod>2011-07-23T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://iwabm.github.io/journey/2010_netherland/</loc>
     <lastmod>2010-11-12T00:00:00+00:00</lastmod>
   </url>
@@ -175,11 +175,6 @@
   <url>
     <loc>http://iwabm.github.io/journey/2009_china/</loc>
     <lastmod>2009-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/portfolio/digital-media/2009_limpidual/</loc>
-    <lastmod>2009-03-23T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -225,7 +220,7 @@
   
   <url>
     <loc>http://iwabm.github.io/tags/pf/</loc>
-    <lastmod>2017-08-05T18:25:22+05:30</lastmod>
+    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -237,19 +232,19 @@
   
   <url>
     <loc>http://iwabm.github.io/portfolio/</loc>
-    <lastmod>2017-08-05T18:25:22+05:30</lastmod>
+    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://iwabm.github.io/tags/</loc>
-    <lastmod>2017-08-05T18:25:22+05:30</lastmod>
+    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://iwabm.github.io/</loc>
-    <lastmod>2017-08-05T18:25:22+05:30</lastmod>
+    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
