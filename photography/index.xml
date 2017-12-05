@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Masaki Iwabuchi</copyright>
-    <lastBuildDate>Sat, 13 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SMILE</title>
+      <link>http://iwabm.github.io/photography/2017_smile/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://iwabm.github.io/photography/2017_smile/</guid>
+      <description>2017, Photography </description>
+    </item>
     
     <item>
       <title>SANJA FESTIVAL</title>
@@ -62,9 +71,11 @@ New City Art Fair (in EINSTEIN STUDIO booth), hpgrp Gallery, New York, USA, Mar 
       <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://iwabm.github.io/photography/2015_dejavu/</guid>
-      <description>2015, Photography                     Personal Question:
-Where does the deja-vu feeling come from? Sometimes I feel as if I&amp;rsquo;ve seen a place that I have visited before.
-When I had this feeling in Tokyo and Osaka, which are representative cities of the East and West of Japan, I tried to find what made me feel that way.</description>
+      <description>2015, Photography Personal Question:
+Where does the deja-vu feeling come from? This is a private project that comes from questions.
+Sometimes I feel as if I&#39;ve seen a place that I have visited before.
+When I had this feeling in Tokyo and Osaka, which are representative cities of the East and West of Japan, I tried to find what made me feel that way.
+This is my way to test my feeling of deja vu and also of seeking out something unique in these cities.</description>
     </item>
     
     <item>
