@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://iwabm.github.io/portfolio/concept/2016_inageya/</loc>
-    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://iwabm.github.io/portfolio/digital-media/2009_limpidual/</loc>
     <lastmod>2015-03-23T18:25:22+05:30</lastmod>
   </url>
@@ -30,11 +25,6 @@
   <url>
     <loc>http://iwabm.github.io/photography/2017_sanja/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/portfolio/service--ux/2016_mhi/</loc>
-    <lastmod>2016-12-06T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -235,7 +225,7 @@
   
   <url>
     <loc>http://iwabm.github.io/tags/pf/</loc>
-    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
+    <lastmod>2015-03-23T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -247,19 +237,19 @@
   
   <url>
     <loc>http://iwabm.github.io/portfolio/</loc>
-    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
+    <lastmod>2015-03-23T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://iwabm.github.io/tags/</loc>
-    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
+    <lastmod>2015-03-23T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://iwabm.github.io/</loc>
-    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
+    <lastmod>2015-03-23T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
