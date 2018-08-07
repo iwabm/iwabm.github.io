@@ -1,4 +1,43 @@
-/* your styles go here */
+/* TOP Page */
+.top-logo {
+  width: 40px;
+}
+
+.welcome-container {
+  padding-top: 3em;
+  padding-bottom: 1em;
+  text-align: center;
+}
+
+.welcome-h2 {
+  padding-top: 1em;
+  text-align: center;
+}
+
+.welcome-caption {
+  padding-top: 1em;
+  padding-bottom: 1.5em;
+  line-height: 2.5;
+  font-size:0.875em;
+}
+
+.welcome-link a{
+  border: 1px solid #ff7473;
+  border-radius: 5px;
+  font-size:0.875em;
+  font-weight: 500;
+  padding: 0.5em 1em 0.5em 1em;
+  text-decoration: none;
+  color: #ff0413;
+
+}
+
+.welcome-link a:hover{
+ background-color: #ff7473;
+ color: #ffffff;
+}
+
+/* */
 .img-solo {
   margin-top: 40px;
 }
@@ -68,8 +107,11 @@
   margin: 0 auto;
 }
 
+.myprofile {
+  padding-left: 30px;
+}
+
 .img-cv {
-  margin-top: 30px;
   margin-bottom: 20px;
 }
 

@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Works on iwabm on github</title>
+    <title>Works on Masa Iwabuchi</title>
     <link>http://iwabm.github.io/work/</link>
-    <description>Recent content in Works on iwabm on github</description>
+    <description>Recent content in Works on Masa Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Jan 2016 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C-EPCO</title>
+      <link>http://iwabm.github.io/work/service--ux/2017_cepco/</link>
+      <pubDate>Mon, 06 Nov 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/service--ux/2017_cepco/</guid>
+      <description>2017, New Business Development | Professiona Work
+ DESIGN QUESTION:
+How should the role of an energy company change with focusing on a customer experience? In 2016, the deregulation of the electric power industry in Japan started on a full scale and a lot of emerging companies have been entering into the electtricity market. Chubu Electric Power Company (C-EPCO) must shift to a new paradigm of customer service to improve their retention capability.</description>
+    </item>
     
     <item>
       <title>INAGEYA</title>
@@ -22,35 +33,14 @@ What is &amp;ldquo;beyond&amp;rdquo; supermarket? In a situation that society an
     </item>
     
     <item>
-      <title>LimpiDual Touch</title>
-      <link>http://iwabm.github.io/work/digital-media/2009_limpidual/</link>
-      <pubDate>Mon, 23 Mar 2015 18:25:22 +0530</pubDate>
+      <title>Daifuku</title>
+      <link>http://iwabm.github.io/work/service--ux/2015_daifuku/</link>
+      <pubDate>Fri, 23 Jan 2015 18:25:22 +0530</pubDate>
       
-      <guid>http://iwabm.github.io/work/digital-media/2009_limpidual/</guid>
-      <description>2009, Interactive Media | Academic Work
-Design Question:
-If we can display information on a transparent surface, how will our experience change? Direct-touch input enables intuitive operation, and touch panels have been mounted on various devices. However, finger occlusion becomes one of the problems when a user touches the display from the front side. Here, inspired from SF movies, one idea to solve this problem is to use &amp;ldquo;transparent&amp;rdquo; display.</description>
-    </item>
-    
-    <item>
-      <title>IBM CSC</title>
-      <link>http://iwabm.github.io/work/concept/2014_csc/</link>
-      <pubDate>Thu, 05 Jun 2014 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/concept/2014_csc/</guid>
-      <description>2014, Pro Bono Consulting | Professional Work Design Question:
-How do we establish a preferable future vision on a social level? IBM CSC(Corporate Service Corp) is one-month pro bono consulting program for developing countries addressing Energy, Economic Development, Transportation, Education, and Healthcare. I participated in the IBM pro bono Corporate Service Corps, addressing social issues in developing countries. I was one of a cross-border global IBM team in Mexico that sought to tackle the problems of gender violence by collaborating with the Mexico State Public Administration.</description>
-    </item>
-    
-    <item>
-      <title>C-EPCO</title>
-      <link>http://iwabm.github.io/work/service--ux/2017_cepco/</link>
-      <pubDate>Mon, 06 Nov 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/service--ux/2017_cepco/</guid>
-      <description>2017, New Business Development | Professiona Work
-Design Question:
-How should the role of an energy company change with focusing on a customer experience? In 2016, the deregulation of the electric power industry in Japan started on a full scale and a lot of emerging companies have been entering into the electtricity market. Chubu Electric Power Company (C-EPCO) must shift to a new paradigm of customer service to improve their retention capability.</description>
+      <guid>http://iwabm.github.io/work/service--ux/2015_daifuku/</guid>
+      <description>2015, Corporate Website | Professional Work Design Question:
+How do we build awareness for a global unified brand? Clients thought their website was becoming obsolete and wanted to enhance their brand using current web technologies and user-centered disciplines. And Daifuku has 20 branches in the world, so they wanted to provide global integrated contents and operations.
+Service Ecosystem Design Based on a service design approach, we designed and proposed from a business organization to UX / UI and an infrastructure.</description>
     </item>
     
     <item>
@@ -62,6 +52,18 @@ How should the role of an energy company change with focusing on a customer expe
       <description>2017, Design Process Study
 Private Work
 Personal research of the experience design process in the 21st Century Speculative Fusion of Design and Science This is my own thought of the speculative fusion of design and science. In the business field, we have been creating probable futures using industrial solutions. Currently, through a collaboration with designers, technologists and business strategists, we can imagine and develop further plausible futures based on emerging technologies.</description>
+    </item>
+    
+    <item>
+      <title>MHI</title>
+      <link>http://iwabm.github.io/work/service--ux/2016_mhi/</link>
+      <pubDate>Tue, 06 Dec 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/service--ux/2016_mhi/</guid>
+      <description>2015, Enterprise Service | Professiona Work
+Design Question:
+How can MHI engineers make the RFP inspection process more effectively? RFP inspection is important work for Mitsubishi Heavy Industries, Ltd. (MHI) engineers to estimate risks in advance and deliver the project in a healthy way. However, it needs much knowledge and takes long time to do it accurately under the pressure of a deadline.
+Experience Design based on Observing MHI is looking for developing a cognitive application platform like ‘‘Artificial Advisor’’ that will issues that engineers face during the inspection.</description>
     </item>
     
     <item>
@@ -79,21 +81,6 @@ error in my memory  This is the normal way of life in the 22nd century.</descrip
     </item>
     
     <item>
-      <title>IBM STUDIO BOARD</title>
-      <link>http://iwabm.github.io/work/graphics/2016_studio/</link>
-      <pubDate>Tue, 23 Feb 2016 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/graphics/2016_studio/</guid>
-      <description>2016, Graphic Design | Professional Work Design Question:
-How do we IBM designers communicate our new design culture to clients? Of course, we respect traditional IBM design philosophy. Additionally, we reflect new IBM design environment and culture. Design and Prototyping Apply to the atmosphere of our Tokyo studio Credit Project contribution: Concept, Develop, Deliver
-Period: 12/2015 - 01/2016
-Role: Graphic Designer
-Method: Design Thinking
-Team: Sole Project
-Release: 01/2016 - until now</description>
-    </item>
-    
-    <item>
       <title>Uber</title>
       <link>http://iwabm.github.io/work/service--ux/2015_uber/</link>
       <pubDate>Thu, 06 Aug 2015 18:25:22 +0530</pubDate>
@@ -103,17 +90,6 @@ Release: 01/2016 - until now</description>
 Design Question:
 How can we improve the experience of Uber drivers? Joined 5 weeks MFA Interaction Design Program of User Research Methods in SVA, US. Woriking in teams, we’ve joined a real project with Uber and proposed UX to solve current issues. I’ve learned the fundamentals of user research techniques and the sense of UX in collaboration with global students.
 Teacher: Jodi Leo, VP of Product Design at CapTap</description>
-    </item>
-    
-    <item>
-      <title>PARSONS SUMMER</title>
-      <link>http://iwabm.github.io/work/graphics/2015_parsons/</link>
-      <pubDate>Thu, 23 Jul 2015 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/graphics/2015_parsons/</guid>
-      <description>2015, Graphic Design | Academic Work To be a versatile designer:
-Learn World-Class Visual Communication Skills To learn basic skills and philosophy of graphic design, I Took 3-weeks Advanced Graphic Design Summer Program in Parsons the new school of Design, US. During intensive 3-weeks project-based course, I delivered 6 projects; Poster Design, Bookjacket Design, Book Design, Timeline Design, App Design and Identity Design.
-Poster Design Using only type, made a poster which explains how to do something specific.</description>
     </item>
     
     <item>
@@ -130,14 +106,24 @@ This is my way to test my feeling of deja vu and also of seeking out something u
     </item>
     
     <item>
-      <title>Daifuku</title>
-      <link>http://iwabm.github.io/work/service--ux/2015_daifuku/</link>
-      <pubDate>Fri, 23 Jan 2015 18:25:22 +0530</pubDate>
+      <title>IBM CSC</title>
+      <link>http://iwabm.github.io/work/concept/2014_csc/</link>
+      <pubDate>Thu, 05 Jun 2014 18:25:22 +0530</pubDate>
       
-      <guid>http://iwabm.github.io/work/service--ux/2015_daifuku/</guid>
-      <description>2015, Corporate Website | Professional Work Design Question:
-How do we build awareness for a global unified brand? Clients thought their website was becoming obsolete and wanted to enhance their brand using current web technologies and user-centered disciplines. And Daifuku has 20 branches in the world, so they wanted to provide global integrated contents and operations.
-Service Ecosystem Design Based on a service design approach, we designed and proposed from a business organization to UX / UI and an infrastructure.</description>
+      <guid>http://iwabm.github.io/work/concept/2014_csc/</guid>
+      <description>2014, Pro Bono Consulting | Professional Work Design Question:
+How do we establish a preferable future vision on a social level? IBM CSC(Corporate Service Corp) is one-month pro bono consulting program for developing countries addressing Energy, Economic Development, Transportation, Education, and Healthcare. I participated in the IBM pro bono Corporate Service Corps, addressing social issues in developing countries. I was one of a cross-border global IBM team in Mexico that sought to tackle the problems of gender violence by collaborating with the Mexico State Public Administration.</description>
+    </item>
+    
+    <item>
+      <title>LimpiDual Touch</title>
+      <link>http://iwabm.github.io/work/digital-media/2009_limpidual/</link>
+      <pubDate>Mon, 23 Mar 2009 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/digital-media/2009_limpidual/</guid>
+      <description>2009, Interactive Media | Academic Work
+Design Question:
+If we can display information on a transparent surface, how will our experience change? Direct-touch input enables intuitive operation, and touch panels have been mounted on various devices. However, finger occlusion becomes one of the problems when a user touches the display from the front side. Here, inspired from SF movies, one idea to solve this problem is to use &amp;ldquo;transparent&amp;rdquo; display.</description>
     </item>
     
   </channel>
