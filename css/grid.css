@@ -466,7 +466,7 @@ display: none;
     display: grid;
     grid-gap: 0px;
     padding: 0;
-    grid-template-columns: 40px 3fr 1.5fr 40px;
+    grid-template-columns: 40px 4fr 3fr 40px;
     grid-template-rows: 25px auto auto 75px;
     overflow: hidden;
   }
@@ -606,7 +606,7 @@ display: none;
 
 
 .welcome-link {
-  margin-top: 30px;
+  margin-top: 10px;
   padding-top: 1em;
 }
 
