@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product on Masa Iwabuchi</title>
+    <link>http://iwabm.github.io/tags/product/</link>
+    <description>Recent content in Product on Masa Iwabuchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Mar 2009 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://iwabm.github.io/tags/product/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LimpiDual Touch</title>
+      <link>http://iwabm.github.io/work/digital-media/2009_limpidual/</link>
+      <pubDate>Mon, 23 Mar 2009 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/digital-media/2009_limpidual/</guid>
+      <description>2009, Interactive Media | Academic Work
+Design Question:
+If we can display information on a transparent surface, how will our experience change? Direct-touch input enables intuitive operation, and touch panels have been mounted on various devices. However, finger occlusion becomes one of the problems when a user touches the display from the front side. Here, inspired from SF movies, one idea to solve this problem is to use &amp;ldquo;transparent&amp;rdquo; display.</description>
+    </item>
+    
+  </channel>
+</rss>

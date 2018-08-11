@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ux/Ui on Masa Iwabuchi</title>
+    <link>http://iwabm.github.io/tags/ux/ui/</link>
+    <description>Recent content in Ux/Ui on Masa Iwabuchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Nov 2017 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://iwabm.github.io/tags/ux/ui/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C-EP</title>
+      <link>http://iwabm.github.io/work/service--ux/2017_cepco/</link>
+      <pubDate>Mon, 06 Nov 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/service--ux/2017_cepco/</guid>
+      <description>2017, New Business Development | Professiona Work
+ DESIGN QUESTION:
+How should the role of an energy company change with focusing on a customer experience? In 2016, the deregulation of the electric power industry in Japan started on a full scale and a lot of emerging companies have been entering into the electtricity market. Chubu Electric Power Company (C-EPCO) must shift to a new paradigm of customer service to improve their retention capability.</description>
+    </item>
+    
+    <item>
+      <title>Daifuku</title>
+      <link>http://iwabm.github.io/work/service--ux/2015_daifuku/</link>
+      <pubDate>Fri, 23 Jan 2015 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/service--ux/2015_daifuku/</guid>
+      <description>2015, Corporate Website | Professional Work Design Question:
+How do we build awareness for a global unified brand? Clients thought their website was becoming obsolete and wanted to enhance their brand using current web technologies and user-centered disciplines. And Daifuku has 20 branches in the world, so they wanted to provide global integrated contents and operations.
+Service Ecosystem Design Based on a service design approach, we designed and proposed from a business organization to UX / UI and an infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>MHI</title>
+      <link>http://iwabm.github.io/work/service--ux/2016_mhi/</link>
+      <pubDate>Tue, 06 Dec 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/service--ux/2016_mhi/</guid>
+      <description>2015, Enterprise Service | Professiona Work
+Design Question:
+How can MHI engineers make the RFP inspection process more effectively? RFP inspection is important work for Mitsubishi Heavy Industries, Ltd. (MHI) engineers to estimate risks in advance and deliver the project in a healthy way. However, it needs much knowledge and takes long time to do it accurately under the pressure of a deadline.
+Experience Design based on Observing MHI is looking for developing a cognitive application platform like ‘‘Artificial Advisor’’ that will issues that engineers face during the inspection.</description>
+    </item>
+    
+    <item>
+      <title>Uber</title>
+      <link>http://iwabm.github.io/work/service--ux/2015_uber/</link>
+      <pubDate>Thu, 06 Aug 2015 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/service--ux/2015_uber/</guid>
+      <description>2015, Experience Concept | Academic Work
+Design Question:
+How can we improve the experience of Uber drivers? Joined 5 weeks MFA Interaction Design Program of User Research Methods in SVA, US. Woriking in teams, we’ve joined a real project with Uber and proposed UX to solve current issues. I’ve learned the fundamentals of user research techniques and the sense of UX in collaboration with global students.
+Teacher: Jodi Leo, VP of Product Design at CapTap</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,17 +5,17 @@ COPYRIGHT
 */
 .copyright {
   color: #999999;
-  font-size: 13px;
+  font-size: 12px;
 }
 .copyright p.credit {
   margin-bottom: 10px;
-  font-size: 15px;
+  font-size: 12px;
 }
 .copyright p.credit a {
   color: #999999;
 }
 @media (max-width: 991px) {
   .copyright p.credit {
-    font-size: 13px;
+    font-size: 12px;
   }
 }

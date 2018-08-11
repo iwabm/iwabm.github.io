@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speculative on Masa Iwabuchi</title>
+    <link>http://iwabm.github.io/tags/speculative/</link>
+    <description>Recent content in Speculative on Masa Iwabuchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Aug 2017 18:25:22 +0530</lastBuildDate>
+    
+	<atom:link href="http://iwabm.github.io/tags/speculative/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Speculative Thinking</title>
+      <link>http://iwabm.github.io/work/concept/2017_speculative/</link>
+      <pubDate>Sat, 05 Aug 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/concept/2017_speculative/</guid>
+      <description>2017, Design Process Study
+Private Work
+Personal research of the experience design process in the 21st Century Speculative Fusion of Design and Science This is my own thought of the speculative fusion of design and science. In the business field, we have been creating probable futures using industrial solutions. Currently, through a collaboration with designers, technologists and business strategists, we can imagine and develop further plausible futures based on emerging technologies.</description>
+    </item>
+    
+  </channel>
+</rss>
