@@ -4,7 +4,7 @@ body {
   left:0;
   margin: 0;
   overflow-x: hidden;
-  background-color: #f4f4f4;
+  background-color: #ffffff;
   -webkit-font-smoothing: antialiased;
   font-family: "Theinhardt-L","Helvetica-Light","HelveticaNeue-Light","Arial","Verdana","Roboto-Light","MS PGothic",sans-serif;
   /*letter-spacing: 0.06em;*/
@@ -711,8 +711,15 @@ display: none;
   color: #fff;
   text-decoration: none;
 }*/
+
+.img-link-text h4{
+  font-weight: 700;
+  color: #ffffff;
+}
+
 .img-link .img-link-text a{
   text-decoration: none;
+  color: #ffffff;
 }
 .img-link .img-link-text p {
   color: #fff;
