@@ -182,7 +182,7 @@ display: none;
 }
 #barger-background {
     background-color: #333; /*黒背景部分背景色*/
-    display: block;
+    display: none;
     height: 100%;
     opacity: 0;
     position: fixed;
@@ -199,6 +199,7 @@ display: none;
 }
 
 #barger-menu:hover + #barger-background {
+    display: block;
     opacity: 0.5; /*黒背景部分透過度*/
     z-index: 999;
 }
@@ -207,7 +208,7 @@ display: none;
     margin-top: 100px;
   }
  
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   #sidebar-mobile {
     display: none;
     }
@@ -316,7 +317,7 @@ display: none;
   display: grid;
   grid-template-columns: 1fr;
   grid-row-gap: 40px;
-  padding: 20px 20px 20px 20px;
+  padding: 20px 35px 20px 35px;
 }
 .tag-grid {
   text-align: center;
@@ -337,7 +338,7 @@ display: none;
 }
 
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   .top-grid {
     display: grid;
     grid-gap: 0px;
@@ -455,7 +456,7 @@ display: none;
   .list-grid {
     display: grid;
     grid-gap: 0px;
-    grid-template-columns: repeat(3, minmax(200px, 1fr));
+    grid-template-columns: repeat(2, minmax(270px, 1fr));
   }
 
   .list-item {
@@ -726,6 +727,10 @@ display: none;
   font-size: 15px;
   line-height: 1.5;
 }
+.img-link-text p.desc{
+  font-size: 19px;
+  font-weight: 700;
+}
 
 /* SINGLE PAGE ARRANGEMENTS */
 .single-container h1 {
@@ -901,7 +906,7 @@ fieldset[disabled] .btn-ghost.active {
     margin-bottom: 20px;
   }
 }
-@media (min-width: 768px) {
+@media (min-width: 769px) {
   .sign-up-form .form-control {
     width: 350px;
   }
