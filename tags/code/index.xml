@@ -6,10 +6,29 @@
     <description>Recent content in Code on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2009 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 14 Aug 2018 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Artificial ephemerality</title>
+      <link>http://iwabm.github.io/work/graphics/2018_processing/</link>
+      <pubDate>Tue, 14 Aug 2018 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/graphics/2018_processing/</guid>
+      <description>  2018, Generative art | Academic Work
+ Press &amp;ldquo;S&amp;rdquo; to save the current screenshot to your desktop.
+Press &amp;ldquo;P&amp;rdquo; to pause the generation process.
+  Credit Project contribution: Concept, Design, Build
+Period: 08/2018 (1 Week)
+Role: Maker, Coder
+Method: Moodboard, Research, Iterative coding
+Team: By myself
+Device: PC, Mobile
+Technology: processing, p5.js
+Product Release: 08/2018 (release 1) </description>
+    </item>
     
     <item>
       <title>LimpiDual Touch</title>
