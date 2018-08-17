@@ -16,7 +16,7 @@ var timecount, stemstart, stemend, livetime, finaltime, decay, reset;  // = [];
 // }
 
 function setup() {
-  var canvas = createCanvas(600, 450);
+  var canvas = createCanvas(windowWidth, 450);
   canvas.parent('p5Canvas-forlist'); // define showing positon in the website
 
   background(25,25,25);
