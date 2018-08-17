@@ -18,7 +18,7 @@ function preload() {
 }
 
 function setup() {
-  var canvas = createCanvas(windowWidth, windowHeight);
+  var canvas = createCanvas(600, 600);
   canvas.parent('p5Canvas'); // define showing positon in the website
 
   background(25,25,25);
