@@ -6,10 +6,41 @@
     <description>Recent content in Works on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Aug 2018 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/work/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C-EP CONSUMER SERVICES</title>
+      <link>http://iwabm.github.io/work/service--ux/2017_cepco/</link>
+      <pubDate>Mon, 06 Nov 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/service--ux/2017_cepco/</guid>
+      <description>2017, New Business Development | Professiona Work
+  DESIGN QUESTION: How should the role of an energy company change with focusing on a customer experience? In 2016, the deregulation of the electric power industry in Japan started on a full scale and a lot of emerging companies have been entering into the electtricity market. Chubu Electric Power Company (C-EPCO) must shift to a new paradigm of customer service to improve their retention capability.</description>
+    </item>
+    
+    <item>
+      <title>Daifuku Experience</title>
+      <link>http://iwabm.github.io/work/service--ux/2015_daifuku/</link>
+      <pubDate>Fri, 23 Jan 2015 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/service--ux/2015_daifuku/</guid>
+      <description>2015, Corporate Website | Professional Work Design Question: How do we build awareness for a global unified brand? Clients thought their website was becoming obsolete and wanted to enhance their brand using current web technologies and user-centered disciplines. And Daifuku has 20 branches in the world, so they wanted to provide global integrated contents and operations.
+Service Ecosystem Design Based on a service design approach, we designed and proposed from a business organization to UX / UI and an infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>LimpiDual Touch</title>
+      <link>http://iwabm.github.io/work/digital-media/2009_limpidual/</link>
+      <pubDate>Mon, 23 Mar 2009 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/digital-media/2009_limpidual/</guid>
+      <description>2009, Interactive Media | Academic Work
+Design Question:
+If we can display information on a transparent surface, how will our experience change? Direct-touch input enables intuitive operation, and touch panels have been mounted on various devices. However, finger occlusion becomes one of the problems when a user touches the display from the front side. Here, inspired from SF movies, one idea to solve this problem is to use &amp;ldquo;transparent&amp;rdquo; display.</description>
+    </item>
     
     <item>
       <title>Artificial Ephemerality</title>
@@ -28,47 +59,6 @@ Team: By myself
 Device: PC, Mobile
 Technology: processing, p5.js
 Product Release: 08/2018 (release 1)</description>
-    </item>
-    
-    <item>
-      <title>C-EP</title>
-      <link>http://iwabm.github.io/work/service--ux/2017_cepco/</link>
-      <pubDate>Mon, 06 Nov 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/service--ux/2017_cepco/</guid>
-      <description>2017, New Business Development | Professiona Work
-  DESIGN QUESTION: How should the role of an energy company change with focusing on a customer experience? In 2016, the deregulation of the electric power industry in Japan started on a full scale and a lot of emerging companies have been entering into the electtricity market. Chubu Electric Power Company (C-EPCO) must shift to a new paradigm of customer service to improve their retention capability.</description>
-    </item>
-    
-    <item>
-      <title>INAGEYA</title>
-      <link>http://iwabm.github.io/work/concept/2016_inageya/</link>
-      <pubDate>Sat, 23 Jan 2016 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/concept/2016_inageya/</guid>
-      <description>2016, Strategic Concept | Professional Work Design Question:
-What is &amp;ldquo;beyond&amp;rdquo; supermarket? In a situation that society and family structures are changing, a role of supermarket also needs to change in Japan. Clients were struggling for planning a strong concept of a next-generation supermarket in 2020 with consideration for a sustainable ecosystem and of course customer-first. Design Thinking: Dive into &amp;ldquo;the customer&amp;rdquo; Using IBM Design Thinking, we supported to ideate a brand-new future user experience and defined the concept of next-gen supermarket only in 2 days intensive design camp.</description>
-    </item>
-    
-    <item>
-      <title>Daifuku</title>
-      <link>http://iwabm.github.io/work/service--ux/2015_daifuku/</link>
-      <pubDate>Fri, 23 Jan 2015 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/service--ux/2015_daifuku/</guid>
-      <description>2015, Corporate Website | Professional Work Design Question: How do we build awareness for a global unified brand? Clients thought their website was becoming obsolete and wanted to enhance their brand using current web technologies and user-centered disciplines. And Daifuku has 20 branches in the world, so they wanted to provide global integrated contents and operations.
-Service Ecosystem Design Based on a service design approach, we designed and proposed from a business organization to UX / UI and an infrastructure.</description>
-    </item>
-    
-    <item>
-      <title>LimpiDual Touch</title>
-      <link>http://iwabm.github.io/work/digital-media/2009_limpidual/</link>
-      <pubDate>Mon, 23 Mar 2009 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/digital-media/2009_limpidual/</guid>
-      <description>2009, Interactive Media | Academic Work
-Design Question:
-If we can display information on a transparent surface, how will our experience change? Direct-touch input enables intuitive operation, and touch panels have been mounted on various devices. However, finger occlusion becomes one of the problems when a user touches the display from the front side. Here, inspired from SF movies, one idea to solve this problem is to use &amp;ldquo;transparent&amp;rdquo; display.</description>
     </item>
     
     <item>
@@ -110,6 +100,16 @@ Release: 01/2016 - until now</description>
     </item>
     
     <item>
+      <title>INAGEYA</title>
+      <link>http://iwabm.github.io/work/concept/2016_inageya/</link>
+      <pubDate>Sat, 23 Jan 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/concept/2016_inageya/</guid>
+      <description>2016, Strategic Concept | Professional Work Design Question:
+What is &amp;ldquo;beyond&amp;rdquo; supermarket? In a situation that society and family structures are changing, a role of supermarket also needs to change in Japan. Clients were struggling for planning a strong concept of a next-generation supermarket in 2020 with consideration for a sustainable ecosystem and of course customer-first. Design Thinking: Dive into &amp;ldquo;the customer&amp;rdquo; Using IBM Design Thinking, we supported to ideate a brand-new future user experience and defined the concept of next-gen supermarket only in 2 days intensive design camp.</description>
+    </item>
+    
+    <item>
       <title>Uber</title>
       <link>http://iwabm.github.io/work/service--ux/2015_uber/</link>
       <pubDate>Thu, 06 Aug 2015 18:25:22 +0530</pubDate>
@@ -122,7 +122,7 @@ Teacher: Jodi Leo, VP of Product Design at CapTap</description>
     </item>
     
     <item>
-      <title>IBM CSC</title>
+      <title>IBM Corporate Service Corps</title>
       <link>http://iwabm.github.io/work/concept/2014_csc/</link>
       <pubDate>Thu, 05 Jun 2014 18:25:22 +0530</pubDate>
       
