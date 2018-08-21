@@ -4,6 +4,11 @@
   margin: 2em auto;
   position: relative;
 }
+.wrapper-single {
+  max-width: 60em;
+  margin: 1em auto;
+  position: relative;
+}
 
 input {
   display: none;
@@ -55,11 +60,14 @@ article img {
 }
 .slider-dot-control label {
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 6px;
   display: inline-block;
   width: 10px;
   height: 10px;
   background: #757575;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #757575;
   -webkit-transition: all 0.3s;
   -moz-transition: all 0.3s;
   transition: all 0.3s;

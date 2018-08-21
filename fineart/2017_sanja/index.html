@@ -21,7 +21,8 @@
 <link href="http://iwabm.github.io/css/grid.css" rel="stylesheet">
 <link href="http://iwabm.github.io/css/social.css" rel="stylesheet">
 <link href="http://iwabm.github.io/css/copyright.css" rel="stylesheet">
-<link href="http://iwabm.github.io/css/slideshow.css" rel="stylesheet">
+<link href="http://iwabm.github.io/css/slick.css" rel="stylesheet">
+<link href="http://iwabm.github.io/css/slick-theme.css" rel="stylesheet">
 <link rel="shortcut icon" href="http://iwabm.github.io/img/favicon.png">
 
 
@@ -206,56 +207,28 @@ if (!doNotTrack) {
   <div class="single-grid">
     
     <div class="single-container">
-       <h1>SANJA FESTIVAL</h1>
-       <h6>2017, Photography</h6>
 
-<div class="wrapper">
-    <input checked type=radio name="slider" id="slide1" />
-    <input type=radio name="slider" id="slide2" />
-    <input type=radio name="slider" id="slide3" />
-    <input type=radio name="slider" id="slide4" />
-    <input type=radio name="slider" id="slide5" />
-
-<div class="slider-wrapper">
-  <div class=inner>
-    <article>
-  <img src="/img/pf/pho/2017_SAN/1.jpg" class="fineart">
-</article>
-    <article>
-  <img src="/img/pf/pho/2017_SAN/2.jpg" class="fineart">
-</article>
-    <article>
-  <img src="/img/pf/pho/2017_SAN/3.jpg" class="fineart">
-</article>
-    <article>
-  <img src="/img/pf/pho/2017_SAN/4.jpg" class="fineart">
-</article>
-    <article>
-  <img src="/img/pf/pho/2017_SAN/5.jpg" class="fineart">
-</article>
-  </div>
-  <!-- .inner -->
+       <div class="slider slider-fineart">
+  <ul class="slider-item">
+    <li><img src="/img/pf/pho/2017_SAN/1.jpg"></li>
+    <li><img src="/img/pf/pho/2017_SAN/2.jpg"></li>
+    <li><img src="/img/pf/pho/2017_SAN/3.jpg"></li>
+    <li><img src="/img/pf/pho/2017_SAN/4.jpg"></li>
+    <li><img src="/img/pf/pho/2017_SAN/5.jpg"></li>   
+  </ul>
+  <ul class="slider-thumb">
+    <li><img src="/img/pf/pho/2017_SAN/1.jpg"></li>
+    <li><img src="/img/pf/pho/2017_SAN/2.jpg"></li>
+    <li><img src="/img/pf/pho/2017_SAN/3.jpg"></li>
+    <li><img src="/img/pf/pho/2017_SAN/4.jpg"></li>
+    <li><img src="/img/pf/pho/2017_SAN/5.jpg"></li>   
+  </ul>
 </div>
-<!-- .slider-wrapper -->
 
-  <div class="slider-prev-next-control">
-    <label for=slide1></label>
-    <label for=slide2></label>
-    <label for=slide3></label>
-    <label for=slide4></label>
-    <label for=slide5></label>   
-  </div>
-  <!-- .slider-prev-next-control -->
-
-  <div class="slider-dot-control">
-    <label for=slide1></label>
-    <label for=slide2></label>
-    <label for=slide3></label>
-    <label for=slide4></label>
-    <label for=slide5></label>    
-  </div>
-  <!-- .slider-dot-control -->
-</div>      
+<div class="single-title">
+  <h1>Sanja Festival</h1>
+  <h6>2017, Photography<br></h6>
+</div>
 
 <p>Sanja Matsuri (三社祭, literally &ldquo;Three Shrine Festival&rdquo;), or Sanja Festival, is one of the three great Shinto festivals in Tokyo. It is considered one of the wildest and largest. The festival is held in honor of the three men who established and founded Sensō-ji. Sanja Matsuri is held on the third weekend of every May at Asakusa Shrine. Its prominent parades revolve around three mikoshi (portable shrines referenced in the festival&rsquo;s name), as well as traditional music and dancing. Over the course of three days, the festival attracts 1.5 to 2 million locals and tourists every year.</p>
 
@@ -516,11 +489,15 @@ if (!doNotTrack) {
   <div id="overlay"></div>
 </div>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.1/p5.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.1/addons/p5.sound.min.js"></script>
 <script src="http://iwabm.github.io/js/imagesloaded.pkgd.min.js"></script>
 <script src="http://iwabm.github.io/js/front.js"></script>
 <script src="http://iwabm.github.io/js/processing.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="http://iwabm.github.io/js/slick_custom.js"></script>
 </body>
 </html>

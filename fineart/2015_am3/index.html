@@ -21,7 +21,8 @@
 <link href="http://iwabm.github.io/css/grid.css" rel="stylesheet">
 <link href="http://iwabm.github.io/css/social.css" rel="stylesheet">
 <link href="http://iwabm.github.io/css/copyright.css" rel="stylesheet">
-<link href="http://iwabm.github.io/css/slideshow.css" rel="stylesheet">
+<link href="http://iwabm.github.io/css/slick.css" rel="stylesheet">
+<link href="http://iwabm.github.io/css/slick-theme.css" rel="stylesheet">
 <link rel="shortcut icon" href="http://iwabm.github.io/img/favicon.png">
 
 
@@ -206,78 +207,43 @@ if (!doNotTrack) {
   <div class="single-grid">
     
     <div class="single-container">
-       <h1>AM3:00, LOWER EAST SIDE</h1>
+
        
 
-<h6>2016, Photography</h6>
-
-<div class="wrapper">
-    <input checked type=radio name="slider" id="slide1" />
-    <input type=radio name="slider" id="slide2" />
-    <input type=radio name="slider" id="slide3" />
-    <input type=radio name="slider" id="slide4" />
-    <input type=radio name="slider" id="slide5" />
-    <input type=radio name="slider" id="slide6" />
-    <input type=radio name="slider" id="slide7" />
-
-<div class="slider-wrapper">
-  <div class=inner>
-        <article>
-  <img src="/img/pf/pho/2015_AM3/1.jpg" class="fineart">
-</article>
-        <article>
-  <img src="/img/pf/pho/2015_AM3/2.jpg" class="fineart">
-</article>
-        <article>
-  <img src="/img/pf/pho/2015_AM3/3.jpg" class="fineart">
-</article>
-        <article>
-  <img src="/img/pf/pho/2015_AM3/4.jpg" class="fineart">
-</article>
-        <article>
-  <img src="/img/pf/pho/2015_AM3/5.jpg" class="fineart">
-</article>
-        <article>
-  <img src="/img/pf/pho/2015_AM3/6.jpg" class="fineart">
-</article>
-        <article>
-  <img src="/img/pf/pho/2015_AM3/7.jpg" class="fineart">
-</article>
-  </div>
-  <!-- .inner -->
+<div class="slider slider-fineart">
+  <ul class="slider-item">
+    <li><img src="/img/pf/pho/2015_AM3/1.jpg"></li>
+    <li><img src="/img/pf/pho/2015_AM3/2.jpg"></li>
+    <li><img src="/img/pf/pho/2015_AM3/3.jpg"></li>
+    <li><img src="/img/pf/pho/2015_AM3/4.jpg"></li>
+    <li><img src="/img/pf/pho/2015_AM3/5.jpg"></li>
+    <li><img src="/img/pf/pho/2015_AM3/6.jpg"></li>
+    <li><img src="/img/pf/pho/2015_AM3/7.jpg"></li>
+  </ul>
+  <ul class="slider-thumb">
+    <li><img src="/img/pf/pho/2015_AM3/1.jpg"></li>
+    <li><img src="/img/pf/pho/2015_AM3/2.jpg"></li>
+    <li><img src="/img/pf/pho/2015_AM3/3.jpg"></li>
+    <li><img src="/img/pf/pho/2015_AM3/4.jpg"></li>
+    <li><img src="/img/pf/pho/2015_AM3/5.jpg"></li>
+    <li><img src="/img/pf/pho/2015_AM3/6.jpg"></li>
+    <li><img src="/img/pf/pho/2015_AM3/7.jpg"></li>    
+  </ul>
 </div>
-<!-- .slider-wrapper -->
 
-  <div class="slider-prev-next-control">
-    <label for=slide1></label>
-    <label for=slide2></label>
-    <label for=slide3></label>
-    <label for=slide4></label>
-    <label for=slide5></label>
-    <label for=slide6></label>
-    <label for=slide7></label>  
-  </div>
-  <!-- .slider-prev-next-control -->
-
-  <div class="slider-dot-control">
-    <label for=slide1></label>
-    <label for=slide2></label>
-    <label for=slide3></label>
-    <label for=slide4></label>
-    <label for=slide5></label>
-    <label for=slide6></label>
-    <label for=slide7></label>   
-  </div>
-  <!-- .slider-dot-control -->
+<div class="single-title">
+  <h1>TOKYO CHRISTMAS COLLECTION</h1>
+  <h6>2014, Photography<br></h6>
 </div>
 
 <p>AM3:00, midnight landscape in NYC</p>
 
 <h2 id="publication">Publication</h2>
 
-<p>New Japan Photo Exhibition, Midoriso 2, Tokyo, Japan, Mar 2016.</p>
-
-<p>New City Art Fair (in EINSTEIN STUDIO booth), hpgrp Gallery, New York, USA, Mar 2016.</p>
+<ul>
+<li>New Japan Photo Exhibition, Midoriso 2, Tokyo, Japan, Mar 2016.</li>
+<li>New City Art Fair (in EINSTEIN STUDIO booth), hpgrp Gallery, New York, USA, Mar 2016.</li>
+</ul>
 
 <p><img src="/img/pf/pho/2015_AM3/8.jpg" alt="FIC7" class="img-ingrid">
 <img src="/img/pf/pho/2015_AM3/9.jpg" alt="FIC7" class="img-ingrid"></p>
@@ -539,11 +505,15 @@ if (!doNotTrack) {
   <div id="overlay"></div>
 </div>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.1/p5.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.1/addons/p5.sound.min.js"></script>
 <script src="http://iwabm.github.io/js/imagesloaded.pkgd.min.js"></script>
 <script src="http://iwabm.github.io/js/front.js"></script>
 <script src="http://iwabm.github.io/js/processing.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script src="http://iwabm.github.io/js/slick_custom.js"></script>
 </body>
 </html>
