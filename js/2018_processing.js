@@ -24,13 +24,13 @@ function setup() {
   background(25,25,25);
   walker.push(new Walker);
   reset = true;
-  stop = false;
+  stop = true;
 
   for (var i=0; i<WALKERNUM; i++) {
       walker[i] = [];
   }
 
-  file1.loop();
+  // file1.loop();
 }
 
 function draw() {
@@ -55,7 +55,9 @@ function draw() {
     stemend   = random(150, 400);
     livetime  = random(700, 900);
     finaltime = 0;
-    file2.play();
+    if(stop == false) {
+      file2.play();
+    }
     decay     = false;
     reset     = false;
   }   
@@ -78,7 +80,9 @@ function draw() {
     timecount++;
   } else if(timecount > livetime && timecount < livetime+150){
       if(decay == false){
-        file3.play();
+        if(stop == false) {
+          file3.play();
+        }
         decay = true;
         
       }
@@ -117,7 +121,16 @@ function keyPressed() {
         loop();
         stop = false;
       }
-  } 
+  } else if (key == 't' || key == 'T') {
+      if(stop == false){
+        file1.stop();
+        stop = true;
+      } else {
+        file1.play();
+        loop();
+        stop = false;
+      }
+  }
 }
 
 function Walker() {
