@@ -114,16 +114,6 @@ b {
   color: #000;
 }
 
-p.welcome-caption {
-  padding-top: 0.5em;
-  font-size: 0.9em;
-}
-
-p.welcome-caption b{
-  font-weight: 600;
-  text-transform: uppercase;
-}
-
 a {
   text-decoration: none;
   color: #000;
@@ -132,25 +122,21 @@ a:hover {
   color: #ff7473;
 }
 
-.welcome-link {
-  margin-top: 0.75em;
-  padding-top: 1em;
-}
-
 .welcome-link a{
-  border: 1px solid #ff7473;
+  
   border-radius: 5px;
   font-size: 0.9em;
   font-weight: 500;
   padding: 0.25em 0.75em 0.25em 0.75em;
   text-decoration: none;
-  color: #ff0413;
+  background-color: #ff7473;
+  color: #fff;
 
 }
 
 .welcome-link a:hover{
- background-color: #ff7473;
- color: #ffffff;
+ background-color: #ffffff;
+ color: #ff7473;
  /*font-weight: 700;*/
  -webkit-transition: all 0.1s ease-out;
  -moz-transition: all 0.1s ease-out;
@@ -398,8 +384,7 @@ display: none;
     grid-column: 4 / span 9; 
     /* text-align: center; */
     margin-top: 0px;
-    margin-bottom: 40px;
-    text-align: right;
+    text-align: center;
   }
 
   .top-work1-container {
@@ -547,7 +532,7 @@ display: none;
     grid-gap: 0px;
     padding: 20px 20px 20px 20px;
     grid-template-columns: 5vw 1fr 1fr 5vw;
-    grid-template-rows: 4vh auto auto auto 4vh;
+    grid-template-rows: 2vh auto auto auto 4vh;
     overflow: hidden;
   }
   .single-container {
@@ -1100,6 +1085,10 @@ margin-bottom: 2.4em;
 }
 
 
+.top-slider-container {
+  padding-top: 1em;
+}
+
 .slider {
   padding-top: 1.5em;
 }
@@ -1124,12 +1113,54 @@ margin-bottom: 2.4em;
   padding-bottom: 1em;
 }
 
-ul.slider-item img{
+.top-image-text {
+  position: absolute;
+  width: 100%;
+  margin: -27.5% 0 0 -15%;
+  padding-left: 0;
+  text-align: center;
+}
+
+.top-image-text p{
+  font-size: 1.5em;
+  line-height: 1.5em; 
+  color: white;
+  mix-blend-mode: lighten;
+}
+.top-image-text b{
+  color: white;
+}
+
+p.welcome-caption {
+  padding-top: 0.5em;
+  padding-bottom: 0;
+  font-size: 1em;
+}
+
+p.welcome-caption b{
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+ul.slider-item img {
   width: 100%;
   height: auto;
   position: relative;
   display: block;
   margin: auto 0 auto 0;
+}
+
+.filter{
+  background: #000;
+}
+
+ul.top-slider img{
+  width: 100%;
+  height: auto;
+  position: relative;
+  display: block;
+  margin: auto 0 auto 0;
+  opacity: 0.6;
 }
 
 
