@@ -123,7 +123,7 @@ a:hover {
 }
 
 .welcome-link a{
-  
+  border: 1px solid #ff7473;
   border-radius: 5px;
   font-size: 0.9em;
   font-weight: 500;
@@ -131,12 +131,13 @@ a:hover {
   text-decoration: none;
   background-color: #ff7473;
   color: #fff;
+  right: 0;
 
 }
 
 .welcome-link a:hover{
  background-color: #ffffff;
- color: #ff7473;
+ color: #ff0413;
  /*font-weight: 700;*/
  -webkit-transition: all 0.1s ease-out;
  -moz-transition: all 0.1s ease-out;
@@ -363,14 +364,28 @@ display: none;
 
 
 @media (min-width: 767px) {
-  .top-grid {
+/*  .top-grid {
     display: grid;
     grid-gap: 0px;
     padding: 0;
     grid-template-columns: 30px 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 40px;
     grid-template-rows: 50px auto auto auto auto auto auto auto auto auto 50px;
     grid-row-gap: 30px;
-  }
+  }*/
+
+  .top-grid {
+    display: grid;
+    grid-gap: 0px;
+    /*padding: 20px 20px 20px 20px;*/
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    overflow: hidden;
+  } 
+  .top-container {
+    grid-row: 2 / span 1;
+    grid-column: 1 / span 2;
+    position: relative;
+  }   
 
   .top-item {
     background: #ddd;
@@ -1113,12 +1128,29 @@ margin-bottom: 2.4em;
   padding-bottom: 1em;
 }
 
-.top-image-text {
+/*.top-image-text {
   position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  margin:0;
+  padding:0;
+}
+*/
+.bar-multiple-align {
+  display: table;
   width: 100%;
-  margin: -27.5% 0 0 -15%;
-  padding-left: 0;
-  text-align: center;
+}
+
+.left {
+  display: table-cell;
+  text-align: left;
+}
+.right {
+  display: table-cell;
+  text-align: right;
 }
 
 .top-image-text p{
@@ -1131,10 +1163,12 @@ margin-bottom: 2.4em;
   color: white;
 }
 
-p.welcome-caption {
+h1.welcome-caption {
   padding-top: 0.5em;
   padding-bottom: 0;
   font-size: 1em;
+  color: #555;
+  font-weight: 200;
 }
 
 p.welcome-caption b{
@@ -1160,7 +1194,7 @@ ul.top-slider img{
   position: relative;
   display: block;
   margin: auto 0 auto 0;
-  opacity: 0.6;
+  /*opacity: 0.6;*/
 }
 
 
