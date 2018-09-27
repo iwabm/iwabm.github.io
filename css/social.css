@@ -27,8 +27,8 @@ p.social a {
   font-size: 15px;
   text-align: center;
   vertical-align: bottom;
-  border: solid 1px #999999;
-  color: #999999;
+  border: solid 1px #fff;
+  color: #fff;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
