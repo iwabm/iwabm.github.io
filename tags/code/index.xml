@@ -6,7 +6,7 @@
     <description>Recent content in Code on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2009 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 23 Dec 2015 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,29 +14,31 @@
     <item>
       <title>LimpiDual Touch</title>
       <link>http://iwabm.github.io/work/digital-media/2009_limpidual/</link>
-      <pubDate>Mon, 23 Mar 2009 18:25:22 +0530</pubDate>
+      <pubDate>Wed, 23 Dec 2015 18:25:22 +0530</pubDate>
       
       <guid>http://iwabm.github.io/work/digital-media/2009_limpidual/</guid>
-      <description>LIMPIDUAL TOUCH Interaction Design | 2009, Academic Work
-  What if we can display information on a transparent surface? Direct-touch input enables intuitive operation, and touch panels have been mounted on various devices. However, finger occlusion becomes one of the problems when a user touches the display from the front side. Here, inspired from SF movies, one idea to solve this problem is to use &amp;ldquo;transparent&amp;rdquo; display. Additionally, we can imagine various scenarios if we can display information on a transparent surface.</description>
+      <description>LIMPIDUAL TOUCH Interaction Design | 2009, Academic Work  Objective What if we can display information on a transparent surface? Direct-touch input enables intuitive operation, and touch panels have been mounted on various devices. However, finger occlusion becomes one of the problems when a user touches the display from the front side. Here, inspired from SF movies, one idea to solve this problem is to use &amp;ldquo;transparent&amp;rdquo; display. Additionally, we can imagine various scenarios if we can display information on a transparent surface.</description>
     </item>
     
     <item>
       <title>Artificial Ephemerality</title>
       <link>http://iwabm.github.io/work/graphics/2018_processing/</link>
-      <pubDate>Tue, 14 Aug 2018 18:25:22 +0530</pubDate>
+      <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
       
       <guid>http://iwabm.github.io/work/graphics/2018_processing/</guid>
-      <description>Artificial Ephemerality Generative Art | 2018, Academic Work
-     -- - Press &#34;S&#34; to save the current screenshot to your desktop.
+      <description>Artificial Ephemerality Generative Art | 2018, Academic Work  Objective How do we express “ephemerality” artificially?    -- - Press &#34;S&#34; to save the current screenshot to your desktop.
 - Press &#34;T&#34; to turn on/off the music.
-- Press &#34;P&#34; to pause the generation process.   Phase: Concept, Design, Build
-Period: 08/2018 (1 Week)
-Team: Sole Project
-Role: Maker, Coder
-What I did: Define Experience Concept
-Method: Moodboard, Research, Iterative coding
-Technology: processing, p5.</description>
+- Press &#34;P&#34; to pause the generation process.  Phase
+Concept, Design, Build
+Period
+08/2018 (1 Week)
+Team
+Sole Project
+Role
+Maker, Coder
+What I did
+Define Experience Concept
+-- Method</description>
     </item>
     
   </channel>

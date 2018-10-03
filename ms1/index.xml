@@ -6,10 +6,20 @@
     <description>Recent content in Ms1s on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Sep 2018 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 30 Sep 2018 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/ms1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>4D: Collective Aroma</title>
+      <link>http://iwabm.github.io/ms1/2018_4d/</link>
+      <pubDate>Sun, 30 Sep 2018 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/ms1/2018_4d/</guid>
+      <description>3D: Collective Juice Physical Prototype | 2018, Academic Work
+           </description>
+    </item>
     
     <item>
       <title>3D: Collective Juice</title>

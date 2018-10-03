@@ -72,7 +72,7 @@
     color: #fff;
     background: #ff7473;
 
-    border-style: solid;
+    border-style: none;
     border-radius: 1.5vw;
     border-width: 1px;
     padding: 0 0.35em 0 0.35em;
@@ -197,12 +197,12 @@
 
     content: '•';
     text-align: center;
-    color: #dddddd;
+    color: #777;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
 .slick-dots li.slick-active button:before
 {
-    color: black;
+    color: white;
 }
