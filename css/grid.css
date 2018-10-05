@@ -16,17 +16,17 @@ body {
 }
 
 .bg {
-   background-image: url("../img/hanabi2.gif");
+   background-image: url("../img/hanabi3.gif");
    background-attachment: scroll;
    background-size: 100vw auto;
    background-repeat: no-repeat;
-   background-position: 0 5vh;
+   background-position: 0 0;
    z-index: 0;
    position: relative;
 }
 .bg::before{
   content: '';
-  background-color: rgba(0,0,0,0.6);
+  background-color: rgba(0,0,0,0.65);
   position: absolute;
   z-index: -1;
   top: 0;
