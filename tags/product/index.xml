@@ -6,10 +6,19 @@
     <description>Recent content in Product on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Dec 2015 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2017 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/tags/product/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Collective Juice</title>
+      <link>http://iwabm.github.io/work/digital-media/2018_collective/</link>
+      <pubDate>Sat, 30 Sep 2017 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/digital-media/2018_collective/</guid>
+      <description>COLLECTIVE JUICE Interaction Design | 2018, Academic Work  Objective What is the new interaction of the QA conversation during the AI era? Everyday we are googling many questions and we can get answer immediately. Also, recently AI can answer more and more sophisticated questions. However, I think still there are things that can only be answered by people such as fuzzy, real-time and people-oriented questions. I would like to focus on and play with these types of questions.</description>
+    </item>
     
     <item>
       <title>LimpiDual Touch</title>
