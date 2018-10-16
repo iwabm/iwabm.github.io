@@ -6,19 +6,19 @@
     <description>Recent content in Ms1s on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Sep 2018 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 15 Oct 2018 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/ms1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>4D: Collective Aroma</title>
-      <link>http://iwabm.github.io/ms1/2018_4d/</link>
-      <pubDate>Sun, 30 Sep 2018 18:25:22 +0530</pubDate>
+      <title>MJ Button: Public Intervention Project</title>
+      <link>http://iwabm.github.io/ms1/2018_highline/</link>
+      <pubDate>Mon, 15 Oct 2018 18:25:22 +0530</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_4d/</guid>
-      <description>4D: Collective Aroma Physical Prototype | 2018, Academic Work
-           </description>
+      <guid>http://iwabm.github.io/ms1/2018_highline/</guid>
+      <description>  -- MJ Button Interaction Design | 2018, Academic Work
+  Observation, Research, Ideation                                          Prototype                    Test: Iteration 1      Test: Iteration 2      Test: Iteration 3      Test: Iteration 4      Future Iteration  </description>
     </item>
     
     <item>
@@ -29,6 +29,16 @@
       <guid>http://iwabm.github.io/ms1/2018_5d/</guid>
       <description> 5D: Collective Transition Physical Prototype | 2018, Academic Work
          Interactive Prototype in the classroom Sorry, your browser doesn&#39;t support embedded videos.       </description>
+    </item>
+    
+    <item>
+      <title>4D: Collective Aroma</title>
+      <link>http://iwabm.github.io/ms1/2018_4d/</link>
+      <pubDate>Sat, 29 Sep 2018 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/ms1/2018_4d/</guid>
+      <description>4D: Collective Aroma Physical Prototype | 2018, Academic Work
+           </description>
     </item>
     
     <item>
