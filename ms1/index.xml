@@ -6,10 +6,20 @@
     <description>Recent content in Ms1s on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Oct 2018 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 19 Oct 2018 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/ms1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Biography</title>
+      <link>http://iwabm.github.io/ms1/2018_career/</link>
+      <pubDate>Fri, 19 Oct 2018 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/ms1/2018_career/</guid>
+      <description>Biography 2018, Academic Work
+  Masaki is an interaction and service designer based in NY. His work examines the reciprocal relationships between science, technology and their influence on human identity, subjectivity, and collective culture. He holds the MFA degree in Design and Technology at Parsons School of Design. Previously he worked at IBM for 10 years as a UX designer.</description>
+    </item>
     
     <item>
       <title>MJ Button: Public Intervention Project</title>
