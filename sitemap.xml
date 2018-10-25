@@ -113,6 +113,11 @@
   </url>
   
   <url>
+    <loc>http://iwabm.github.io/code/2018_threejs/</loc>
+    <lastmod>2018-03-14T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://iwabm.github.io/work/graphics/2018_processing/</loc>
     <lastmod>2018-02-14T18:25:22+05:30</lastmod>
   </url>
@@ -289,6 +294,12 @@
   </url>
   
   <url>
+    <loc>http://iwabm.github.io/code/</loc>
+    <lastmod>2018-03-14T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://iwabm.github.io/fineart/</loc>
     <lastmod>2017-12-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -296,7 +307,7 @@
   
   <url>
     <loc>http://iwabm.github.io/tags/graphic/</loc>
-    <lastmod>2018-02-14T18:25:22+05:30</lastmod>
+    <lastmod>2018-03-14T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
