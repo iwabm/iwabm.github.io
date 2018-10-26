@@ -76,7 +76,7 @@
       <guid>http://iwabm.github.io/work/concept/2018_singular/</guid>
       <description>-- Human experience for Transhuman Speculative Design | 2018, Academic Work | ONGOING  Concept Human experience for Transhuman in 2075 Not to forget &amp;ldquo;human&amp;rdquo; emotion, transhuman children wear the device in their head. This suspends their implanted AI and They can think “as human”.
 Transhuman children go to transhuman-only school and this experience is taught in the &amp;ldquo;human history&amp;rdquo; class.
-Settings What kind of tools are used by children who were born transhuman in the age of post-singularity?</description>
+User&amp;rsquo;s Manual Settings What kind of tools are used by children who were born transhuman in the age of post-singularity?</description>
     </item>
     
     <item>
@@ -247,6 +247,29 @@ Concept Redesign DAIFUKU corporate website and operations From the perspective o
     </item>
     
     <item>
+      <title>Organic Sound Visualizer</title>
+      <link>http://iwabm.github.io/work/code/2018_three/</link>
+      <pubDate>Wed, 14 Mar 2018 18:25:22 +0530</pubDate>
+      
+      <guid>http://iwabm.github.io/work/code/2018_three/</guid>
+      <description> Organic Sound Visualizer Programming as Performance | 2018, Academic Work  Concept What will happen if the boundaries between music and living things blur?   Phase
+Concept, Design, Build
+Period
+10/2018 (1 Week)
+Team
+Sole Project
+Role
+Maker, Coder
+ Method
+Iterative coding
+Technology
+html5, css3, javascript, three.js
+Output
+[Link] Demo is here
+         </description>
+    </item>
+    
+    <item>
       <title>WebGL Sound Visualizer</title>
       <link>http://iwabm.github.io/code/2018_threejs/</link>
       <pubDate>Wed, 14 Mar 2018 18:25:22 +0530</pubDate>
@@ -261,7 +284,7 @@ Concept Redesign DAIFUKU corporate website and operations From the perspective o
       <pubDate>Wed, 14 Feb 2018 18:25:22 +0530</pubDate>
       
       <guid>http://iwabm.github.io/work/graphics/2018_processing/</guid>
-      <description>Artificial Ephemerality Generative Art | 2018, Academic Work  Objective How do we express “ephemerality” artificially?    -- - Press &#34;S&#34; to save the current screenshot to your desktop.
+      <description>Artificial Ephemerality Programming as Art | 2018, Academic Work  Objective How do we express “ephemerality” artificially?    -- - Press &#34;S&#34; to save the current screenshot to your desktop.
 - Press &#34;T&#34; to turn on/off the music.
 - Press &#34;P&#34; to pause the generation process.  Phase
 Concept, Design, Build
@@ -272,8 +295,7 @@ Sole Project
 Role
 Maker, Coder
 What I did
-Define Experience Concept
--- Method</description>
+Define Experience Concept</description>
     </item>
     
     <item>

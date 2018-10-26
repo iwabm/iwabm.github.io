@@ -25,10 +25,11 @@ var vizInit = function (){
 
     // Define scene
     var scene = new THREE.Scene();
-    
+
     // Define group
-    var group = new THREE.Group();
-    group.position.z = 400;
+    var planes = new THREE.Group();
+    planes.position.z = 400;
+    var planets = new THREE.Group();
     
     // Define camera
     var camera = new THREE.PerspectiveCamera(30, window.innerWidth / window.innerHeight, 0.1, 1000);
@@ -39,6 +40,8 @@ var vizInit = function (){
     // Define Renderer
     var renderer = new THREE.WebGLRenderer({ alpha: true, antialias: true });
     renderer.setSize(window.innerWidth, window.innerHeight);
+    // renderer.setClearColor(0xf8f8f8);
+    // renderer.setRGB( Math.random(), Math.random(),Math.random());
 
     // Define Plane (Geometry and Material)
     // var planeGeometry1 = new THREE.PlaneGeometry(800, 800, 40, 40);
@@ -53,13 +56,13 @@ var vizInit = function (){
     var plane = new THREE.Mesh(planeGeometry2, planeMaterial);
     plane.rotation.x = -0.5 * Math.PI;
     plane.position.set(0, 40, 0);
-    group.add(plane);
+    planes.add(plane);
     
     // Draw Bottom Plane
     var plane2 = new THREE.Mesh(planeGeometry2, planeMaterial);
     plane2.rotation.x = -0.5 * Math.PI;
     plane2.position.set(0, -40, 0);
-    group.add(plane2);
+    planes.add(plane2);
 
     // // Draw right Plane
     // var plane3 = new THREE.Mesh(planeGeometry1, planeMaterial);
@@ -74,7 +77,7 @@ var vizInit = function (){
     // group.add(plane4);    
 
     // Define Ball
-    var icosahedronGeometry = new THREE.IcosahedronGeometry(2, 3);   
+    var icosahedronGeometry = new THREE.IcosahedronGeometry(1, 3);   
     var ball = new Array(100); 
     var colorball = new Array(100); 
 
@@ -99,7 +102,7 @@ var vizInit = function (){
 
       ball[i].updateMatrix();
       ball[i].matrixAutoUpdate = false;
-      group.add( ball[i] );
+      planets.add( ball[i] );
     }
 
     // var ball = new THREE.Mesh(icosahedronGeometry, lambertMaterial);
@@ -138,7 +141,8 @@ var vizInit = function (){
     // });
     
     // Add Plane and Ball to the Scene
-    scene.add(group);
+    scene.add(planes);
+    scene.add(planets);
 
     document.getElementById('out').appendChild(renderer.domElement);
 
@@ -170,9 +174,10 @@ var vizInit = function (){
           ball[i].rotation.x += 0.1;
           makeRoughBall(ball[i], modulate(Math.pow(lowerMaxFr, 0.5), 0, 1, 0, 8), modulate(upperAvgFr, 0, 1, 0, 4));
         }
-        group.position.z -= 0.5;
-        if(group.position.z == -2000){
-          group.position.z = 2000;
+        planets.position.z -= 0.5;
+        camera.position.y += 0.05;
+        if(planets.position.z == -2000){
+          planets.position.z = 2000;
         }
         renderer.render(scene, camera);
         requestAnimationFrame(render);
@@ -190,7 +195,7 @@ var vizInit = function (){
             var amp = Math.random()+1;
             var time = Date.now();
             vertex.normalize();
-            var distance = (offset + bassFr ) + noise.noise3D(vertex.x + time * 0.00007, vertex.y +  time * 0.00008, vertex.z +  time * 0.00009) * amp * treFr;
+            var distance = (offset + bassFr ) + noise.noise3D(vertex.x + time * 0.0007, vertex.y +  time * 0.0008, vertex.z +  time * 0.0009) * amp * treFr;
             vertex.multiplyScalar(distance);
         });
         mesh.geometry.verticesNeedUpdate = true;
