@@ -20,10 +20,10 @@ p.social a {
   height: 24px;
   border-radius: 20px;
   line-height: 40px;
-  font-size: 15px;
+  font-size: 0.5em;
   text-align: center;
   vertical-align: bottom;
-  border: solid 1px #fff;
+  /*border: solid 1px #fff;*/
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -47,7 +47,7 @@ p.social-sidebar a{
   font-size: 0.75em;
   text-align: center;
   vertical-align: bottom;
-  border: solid 1px #9e9e9e;
+  /*border: solid 1px #9e9e9e;*/
   padding: 0.25em;
 }
 
