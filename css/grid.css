@@ -246,7 +246,7 @@ a:hover
     background-image: url('../img/hanabi3.gif');
     background-repeat: no-repeat;
     background-attachment: scroll;
-    background-position: 0 0;
+    background-position: 20vw 0;
     background-size: 100vw auto;
 }
 .bg::before
@@ -265,9 +265,9 @@ a:hover
 .welcome-caption h1
 {
     font-family: 'usual','klavika-400';
-    font-size: 2em;
+    font-size: 1.35em;
     font-weight: 400;
-    line-height: 1.35em;
+    line-height: 2em;
 
     padding-top: .5em;
     padding-bottom: 0;
@@ -275,6 +275,13 @@ a:hover
     letter-spacing: .01em;
 
     color: #fff;
+} 
+
+.welcome-caption h1.heading {
+    font-size: 2em;
+    line-height: 1.5em;
+    font-weight: 600;
+
 }
 
 
@@ -419,9 +426,14 @@ a:hover
 }
 
 /* SIDEBAR */
+.top-logo-div
+{
+    margin: 0 auto 0 auto;
+}
 .top-logo
 {
     width: 3vw;
+    margin: 0 auto 0 auto;
 }
 
 @media (max-width: 767px)
@@ -455,7 +467,7 @@ a:hover
 .sidebar-p
 {
     font-family: 'klavika-400','Usual','Space Mono';
-    font-size: 1em;
+    font-size: .6em;
     /*padding-left: -7em;*/
     /*width: 20px;*/
     font-weight: 500;
@@ -474,7 +486,7 @@ a:hover
 .sidebar-menu
 {
     /*padding-left: 1.25vw;*/
-    margin-top: 0.5em;
+    margin-top: 1.25em;
 
     list-style-type: none;
 }.sidebar-menu li
@@ -606,9 +618,10 @@ a:hover
     .top-container
     {
         position: relative;
+        width: 80%;
 
-        padding: 10px 50px 0 50px;
-        margin-bottom: -10px;
+        padding: 85px 10px 80px 10px;
+        /*margin-bottom: -10px;*/
 
         grid-row: 2 / span 1;
         grid-column: 1 / span 2;
@@ -1051,7 +1064,7 @@ article img.fineart
 .img-link-text p.desc
 {
     font-size: 1.75em;
-    font-weight: 700;
+    font-weight: 600;
     line-height: 1.4em;
 
     /*padding-top: .1em;*/
