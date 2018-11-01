@@ -21,21 +21,12 @@
     </item>
     
     <item>
-      <title>LimpiDual Touch</title>
-      <link>http://iwabm.github.io/work/digital-media/2009_limpidual/</link>
-      <pubDate>Wed, 23 Dec 2015 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/digital-media/2009_limpidual/</guid>
-      <description>-- LIMPIDUAL TOUCH Interaction Design | 2009, Academic Work  Overview Designed and proposed interactive limpid display with dual-sided touch sensing.   I’ve proposed the emerging interactive transparent display named ‘‘LimpiDual Touch’’. Users can operate from the rear side of the screen while seeing both displayed images and their fingers. This feature resolves a finger occlusion problem. Additionally, LimpiDual Touch also works for multiple users. Two users can share an identical display from both sides and control displayed objects at one time.</description>
-    </item>
-    
-    <item>
       <title>Organic Sound Visualizer</title>
       <link>http://iwabm.github.io/work/code/2018_three/</link>
-      <pubDate>Wed, 14 Mar 2018 18:25:22 +0530</pubDate>
+      <pubDate>Thu, 18 Oct 2018 18:25:22 +0530</pubDate>
       
       <guid>http://iwabm.github.io/work/code/2018_three/</guid>
-      <description> Organic Sound Visualizer Programming as Performance | 2018, Academic Work  Concept What will happen if the boundaries between music and living things blur?   Phase
+      <description> Organic Sound Visualizer Programming as Performance | 2018, Academic Work  Concept How might we make the experience of listening music more organic?   Phase
 Concept, Design, Build
 Period
 10/2018 (1 Week)
@@ -53,23 +44,12 @@ Output
     </item>
     
     <item>
-      <title>Artificial Ephemerality</title>
-      <link>http://iwabm.github.io/work/graphics/2018_processing/</link>
-      <pubDate>Wed, 14 Feb 2018 18:25:22 +0530</pubDate>
+      <title>LimpiDual Touch</title>
+      <link>http://iwabm.github.io/work/digital-media/2009_limpidual/</link>
+      <pubDate>Wed, 23 Dec 2009 18:25:22 +0530</pubDate>
       
-      <guid>http://iwabm.github.io/work/graphics/2018_processing/</guid>
-      <description>Artificial Ephemerality Programming as Art | 2018, Academic Work  Objective How do we express “ephemerality” artificially?    -- - Press &#34;S&#34; to save the current screenshot to your desktop.
-- Press &#34;T&#34; to turn on/off the music.
-- Press &#34;P&#34; to pause the generation process.  Phase
-Concept, Design, Build
-Period
-08/2018 (1 Week)
-Team
-Sole Project
-Role
-Maker, Coder
-What I did
-Define Experience Concept</description>
+      <guid>http://iwabm.github.io/work/digital-media/2009_limpidual/</guid>
+      <description>-- LIMPIDUAL TOUCH Interaction Design | 2009, Academic Work  Overview Designed and proposed interactive limpid display with dual-sided touch sensing.   I’ve proposed the emerging interactive transparent display named ‘‘LimpiDual Touch’’. Users can operate from the rear side of the screen while seeing both displayed images and their fingers. This feature resolves a finger occlusion problem. Additionally, LimpiDual Touch also works for multiple users. Two users can share an identical display from both sides and control displayed objects at one time.</description>
     </item>
     
   </channel>

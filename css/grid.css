@@ -328,12 +328,12 @@ a:hover
     position: fixed;
     z-index: 1000;
     top: 0;
-    right: -250px; /*メニュー横幅①と合わせる*/
+    right: -50vw; /*メニュー横幅①と合わせる*/
 
     box-sizing: border-box;
-    width: 250px; /*メニュー横幅①*/
+    width: 50vw; /*メニュー横幅①*/
     height: 100%;
-    padding: 30px 10px 0 30px; /*メニュー内部上下左右余白*/
+    padding: 30px 10px 0 10px; /*メニュー内部上下左右余白*/
 
     transition: transform .3s linear 0s; /*0.3s は変化するのにかかる時間*/
 
@@ -382,7 +382,7 @@ a:hover
 /*hover 時の処理*/
 #barger-menu:hover
 {
-    transform: translate(-250px); /*メニュー横幅①と合わせる*/
+    transform: translate(-50vw); /*メニュー横幅①と合わせる*/
 }
 
 #barger-menu:hover + #barger-background
@@ -392,6 +392,11 @@ a:hover
     display: block;
 
     opacity: .5; /*黒背景部分透過度*/
+}
+
+#barger-menu p.sidebar-p {
+    font-size: 0.75em;
+    text-align: center;
 }
 
 #main-container
@@ -449,6 +454,10 @@ a:hover
     .top-logo
     {
         width: 40px;
+    }
+
+    a {
+      color: #000;
     }
 }
 

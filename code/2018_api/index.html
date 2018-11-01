@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <style type="text/css">
+      html { height: 100% }
+      body { height: 100%; margin: 0px; padding: 0px }
+      #map { height: 100% }
+    </style>
+
+
+    <script src="http://maps.google.com/maps/api/js?v=3&sensor=false"
+        type="text/javascript" charset="UTF-8"></script>
+
+
+
+
+    <script type="text/javascript">
+    
+
+    var map;
+    
+    
+    function init() {
+
+      
+      var latlng = new google.maps.LatLng(40.7353044,-73.9945);
+      var opts = {
+        zoom: 15,
+        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        center: latlng
+      };
+
+      
+      map = new google.maps.Map(document.getElementById("map"), opts);
+
+      
+      var markerOpts = {
+        position: new google.maps.LatLng(40.7353043,-73.9945),
+        map: map,
+        title: "marker"
+      };
+      
+      var marker = new google.maps.Marker(markerOpts);
+      var infowin = new google.maps.InfoWindow({content:"Hello, Parsons!"});
+
+      
+      google.maps.event.addListener(marker, 'mouseover', function(){
+          infowin.open(map, marker);
+        });
+
+      
+      google.maps.event.addListener(marker, 'mouseout', function(){
+          infowin.close();
+        });
+
+    }
+
+    
+    </script>
+  </head>
+
+  <body onload="init()">
+    <div id="map"></div>
+  </body>
+
+</html>

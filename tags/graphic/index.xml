@@ -6,7 +6,7 @@
     <description>Recent content in Graphic on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Mar 2018 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 18 Oct 2018 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/tags/graphic/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,10 @@
     <item>
       <title>Organic Sound Visualizer</title>
       <link>http://iwabm.github.io/work/code/2018_three/</link>
-      <pubDate>Wed, 14 Mar 2018 18:25:22 +0530</pubDate>
+      <pubDate>Thu, 18 Oct 2018 18:25:22 +0530</pubDate>
       
       <guid>http://iwabm.github.io/work/code/2018_three/</guid>
-      <description> Organic Sound Visualizer Programming as Performance | 2018, Academic Work  Concept What will happen if the boundaries between music and living things blur?   Phase
+      <description> Organic Sound Visualizer Programming as Performance | 2018, Academic Work  Concept How might we make the experience of listening music more organic?   Phase
 Concept, Design, Build
 Period
 10/2018 (1 Week)
@@ -32,51 +32,6 @@ html5, css3, javascript, three.js
 Output
 [Link] Demo is here
          </description>
-    </item>
-    
-    <item>
-      <title>Artificial Ephemerality</title>
-      <link>http://iwabm.github.io/work/graphics/2018_processing/</link>
-      <pubDate>Wed, 14 Feb 2018 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/graphics/2018_processing/</guid>
-      <description>Artificial Ephemerality Programming as Art | 2018, Academic Work  Objective How do we express “ephemerality” artificially?    -- - Press &#34;S&#34; to save the current screenshot to your desktop.
-- Press &#34;T&#34; to turn on/off the music.
-- Press &#34;P&#34; to pause the generation process.  Phase
-Concept, Design, Build
-Period
-08/2018 (1 Week)
-Team
-Sole Project
-Role
-Maker, Coder
-What I did
-Define Experience Concept</description>
-    </item>
-    
-    <item>
-      <title>IBM JAPAN DESIGNER&#39;S BOARD</title>
-      <link>http://iwabm.github.io/work/graphics/2016_studio/</link>
-      <pubDate>Tue, 23 Feb 2016 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/graphics/2016_studio/</guid>
-      <description>  -- IBM JAPAN DESIGNER&#39;S BOARD Graphic Design | 2016, Professional Work  Objective How might IBM designers express our new design culture?   Phase
-Concept, Develop, Deliver
-Period
-12/2015 - 01/2016
-Team
-Sole Project
-Role
-Graphic Designer
-What I did
-Define Experience Concept
--- Method
-IBM Design Thinking
-Output
-Profile Board
-Product Golive
-01/2016 - until now
-  Concept Designed the profile board to show talents in the Tokyo Studio  Result Apply to the atmosphere of our Tokyo studio    Design Process Starting point was a respect to the traditional IBM philosophy  Additionally, we reflect new IBM design culture  1st &amp;amp; 2nd prototype              3nd prototype                Physical prototype and finalizing                </description>
     </item>
     
   </channel>
