@@ -1059,16 +1059,16 @@ article img.fineart
 
     -webkit-transition: all .4s ease;
             transition: all .4s ease;
-    animation: AnimationName 7.5s ease infinite;
+    /*animation: AnimationName 7.5s ease infinite;*/
 
     opacity: 0;  /* マスクを表示しない */
     /*background: linear-gradient(45deg, #cbcb01, #01d0ae, #d10057, #5701a7);*/
-    background: linear-gradient(45deg, rgba(203,203,1,08), rgba(1,208,174,.8), rgba(209,0,87,.8), rgba(87,1,167,.8));
+    /*background: linear-gradient(45deg, rgba(203,203,1,08), rgba(1,208,174,.8), rgba(209,0,87,.8), rgba(87,1,167,.8));*/
     background-color: rgba(255,255,255,.9);  /* マスクは半透明 */
-    background-size: 600% 600%;
+    /*background-size: 600% 600%;*/
 }
 
-@keyframes AnimationName
+/*@keyframes AnimationName
 {
     0%
     {
@@ -1082,7 +1082,7 @@ article img.fineart
     {
         background-position: 0 50%;
     }
-}
+}*/
 
 .img-link:hover .img-link-hover
 {
@@ -1092,7 +1092,7 @@ article img.fineart
 
 .img-link-caption
 {
-    padding: 1.5em 2em 0em 1.75em;
+    padding: 1.5em 2em 0em 1.5em;
 
     word-wrap: break-word;
 }
@@ -1136,9 +1136,10 @@ article img.fineart
 }
 .img-link-text p.desc
 {
-    font-size: 1.75em;
+    font-size: 1.5em;
     font-weight: 600;
     line-height: 1.4em;
+    color: #555;
 
     /*padding-top: .1em;*/
 }
@@ -1163,8 +1164,8 @@ article img.fineart
 
     text-decoration: none;
 
-    color: #fff;
-    border: 1px solid #fff;
+    color: #ff3473;
+    border: 1px solid #ff7473;
     border-radius: 5px;
 }
 .img-link-text p.link a:hover
@@ -1174,8 +1175,8 @@ article img.fineart
        -moz-transition: all .1s ease-out;
             transition: all .1s ease-out;
 
-    color: #555;
-    background-color: #fff;
+    color: #fff;
+    background-color: #ff7473;
 }
 .img-link-text p.cat
 {
