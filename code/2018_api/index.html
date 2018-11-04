@@ -9,7 +9,7 @@
     </style>
 
 
-    <script src="http://maps.google.com/maps/api/js?v=3&sensor=false"
+    <script src="http://maps.google.com/maps/api/js?v=3&sensor=false&libraries=places"
         type="text/javascript" charset="UTF-8"></script>
 
 
@@ -24,7 +24,31 @@
     function init() {
 
       
-      var latlng = new google.maps.LatLng(40.7353044,-73.9945);
+      
+
+      var data = new Array();
+        data.push({
+          lat: '40.7353044', 
+          lng: '-73.9945', 
+          url: 'https://www.newschool.edu/parsons/' 
+        });
+        data.push({
+          lat: '40.731',
+          lng: '-73.9978796',
+          url: 'https://www.nycgovparks.org/parks/washington-square-park'
+      });
+        data.push({
+          lat: '40.7417923',
+          lng: '-73.9965614',
+          url: 'http://www.sva.edu/'
+      });
+
+      var infowin = [];
+      infowin[0] = new google.maps.InfoWindow({content:"Hello Parsons! Click Me!"});
+      infowin[1] = new google.maps.InfoWindow({content:"Here is Washington Square Park! Click Me!"});
+      infowin[2] = new google.maps.InfoWindow({content:"Here is SVA! Click Me!"});
+
+      var latlng = new google.maps.LatLng(data[0].lat, data[0].lng);
       var opts = {
         zoom: 15,
         mapTypeId: google.maps.MapTypeId.ROADMAP,
@@ -32,27 +56,64 @@
       };
 
       
+      var icon = {
+        url: '/img/marker_smile.png',
+        size: new google.maps.Size(40, 50),
+        origin: new google.maps.Point(0, 0),
+        anchor: new google.maps.Point(20, 50),
+        scaledSize: new google.maps.Size(40, 50)
+      };
+
+      
       map = new google.maps.Map(document.getElementById("map"), opts);
 
-      
-      var markerOpts = {
-        position: new google.maps.LatLng(40.7353043,-73.9945),
-        map: map,
-        title: "marker"
+      var icon = {
+        url: '/img/marker_smile.png',
+        size: new google.maps.Size(40, 50),
+        origin: new google.maps.Point(0, 0),
+        anchor: new google.maps.Point(20, 50),
+        scaledSize: new google.maps.Size(40, 50)
       };
-      
-      var marker = new google.maps.Marker(markerOpts);
-      var infowin = new google.maps.InfoWindow({content:"Hello, Parsons!"});
 
-      
-      google.maps.event.addListener(marker, 'mouseover', function(){
-          infowin.open(map, marker);
+      var marker = [];
+      for (i = 0; i < data.length; i++) {
+        marker[i] = new google.maps.Marker({
+          position: new google.maps.LatLng(data[i].lat, data[i].lng),
+          map: map,
+          title: "marker",
+          icon: icon,
+          
         });
 
+          google.maps.event.addListener(marker[i], 'mouseover', function(){
+              infowin[i].open(map, marker[i]);
+          });    
+          google.maps.event.addListener(marker[i], 'mouseout', function(){
+            infowin[i].close();
+          });  
+
+        google.maps.event.addListener(marker[i], 'click', (function(url){
+          return function(){ location.href = url; };
+        })(data[i].url));
+      }
+
       
-      google.maps.event.addListener(marker, 'mouseout', function(){
-          infowin.close();
-        });
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+
+      
+      
+      
+      
 
     }
 
