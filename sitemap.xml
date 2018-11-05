@@ -8,8 +8,8 @@
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/work/2018_collective/</loc>
-    <lastmod>2017-09-30T18:25:22+05:30</lastmod>
+    <loc>http://iwabm.github.io/work/2017_cepco/</loc>
+    <lastmod>2017-11-06T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -33,6 +33,11 @@
   </url>
   
   <url>
+    <loc>http://iwabm.github.io/work/2015_uber/</loc>
+    <lastmod>2015-07-30T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://iwabm.github.io/fineart/2015_dejavu/</loc>
     <lastmod>2015-06-05T00:00:00+00:00</lastmod>
   </url>
@@ -48,18 +53,8 @@
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/work/2018_three/</loc>
-    <lastmod>2018-10-18T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://iwabm.github.io/ms1/2018_highline/</loc>
     <lastmod>2018-10-15T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2018_singular/</loc>
-    <lastmod>2018-10-14T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -103,11 +98,6 @@
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/work/2017_cepco/</loc>
-    <lastmod>2017-11-06T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://iwabm.github.io/fineart/2017_sanja/</loc>
     <lastmod>2017-05-13T00:00:00+00:00</lastmod>
   </url>
@@ -128,21 +118,6 @@
   </url>
   
   <url>
-    <loc>http://iwabm.github.io/work/2016_inageya/</loc>
-    <lastmod>2016-01-23T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2015_uber/</loc>
-    <lastmod>2015-07-30T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2015_daifuku/</loc>
-    <lastmod>2015-01-23T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>http://iwabm.github.io/fineart/2014_christmas/</loc>
     <lastmod>2014-12-23T00:00:00+00:00</lastmod>
   </url>
@@ -155,11 +130,6 @@
   <url>
     <loc>http://iwabm.github.io/journey/2014_mexico/</loc>
     <lastmod>2014-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2014_csc/</loc>
-    <lastmod>2014-06-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -213,6 +183,11 @@
   </url>
   
   <url>
+    <loc>http://iwabm.github.io/work/2018_collective/</loc>
+    <lastmod>2011-09-30T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://iwabm.github.io/journey/2010_netherland/</loc>
     <lastmod>2010-11-12T00:00:00+00:00</lastmod>
   </url>
@@ -225,6 +200,11 @@
   <url>
     <loc>http://iwabm.github.io/journey/2010_bergium/</loc>
     <lastmod>2010-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://iwabm.github.io/work/2018_three/</loc>
+    <lastmod>2010-10-18T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -255,6 +235,16 @@
   <url>
     <loc>http://iwabm.github.io/journey/2008_la/</loc>
     <lastmod>2008-10-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://iwabm.github.io/work/2018_singular/</loc>
+    <lastmod>2008-10-14T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://iwabm.github.io/work/2016_inageya/</loc>
+    <lastmod>2008-01-23T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -289,7 +279,7 @@
   
   <url>
     <loc>http://iwabm.github.io/tags/code/</loc>
-    <lastmod>2017-09-30T18:25:22+05:30</lastmod>
+    <lastmod>2011-09-30T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -307,7 +297,7 @@
   
   <url>
     <loc>http://iwabm.github.io/tags/graphic/</loc>
-    <lastmod>2018-10-18T18:25:22+05:30</lastmod>
+    <lastmod>2010-10-18T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -331,7 +321,7 @@
   
   <url>
     <loc>http://iwabm.github.io/tags/product/</loc>
-    <lastmod>2017-09-30T18:25:22+05:30</lastmod>
+    <lastmod>2011-09-30T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -343,25 +333,25 @@
   
   <url>
     <loc>http://iwabm.github.io/tags/speculative/</loc>
-    <lastmod>2018-10-14T18:25:22+05:30</lastmod>
+    <lastmod>2008-10-14T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://iwabm.github.io/tags/</loc>
-    <lastmod>2017-09-30T18:25:22+05:30</lastmod>
+    <lastmod>2011-09-30T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://iwabm.github.io/tags/uxui/</loc>
-    <lastmod>2017-08-06T18:25:22+05:30</lastmod>
+    <lastmod>2017-11-06T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://iwabm.github.io/work/</loc>
-    <lastmod>2017-09-30T18:25:22+05:30</lastmod>
+    <lastmod>2017-11-06T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   

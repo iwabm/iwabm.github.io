@@ -6,20 +6,10 @@
     <description>Recent content in Uxui on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Aug 2017 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2017 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="http://iwabm.github.io/tags/uxui/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>MTA Metrocard Redesign</title>
-      <link>http://iwabm.github.io/work/2018_mta/</link>
-      <pubDate>Sun, 06 Aug 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/2018_mta/</guid>
-      <description>-- MTA Metrocard Redesign UX/UI Design | 2018, Private Work
-  *This project is still ongoing Objective How might we make NYC’s subway riding experience more comfortable? The NYC metrocard system has remained unchanged for decades and users of NYC subway sometimes have uncomfortable experiences especially the entrance of subway; the lost time of waiting in line to buy a metrocard, touching a dirty machine and so on.</description>
-    </item>
     
     <item>
       <title>C-EP CONSUMER SERVICES</title>
@@ -32,12 +22,13 @@
     </item>
     
     <item>
-      <title>IBM Watson cognitive enterprise app</title>
-      <link>http://iwabm.github.io/work/2016_mhi/</link>
-      <pubDate>Thu, 06 Oct 2016 18:25:22 +0530</pubDate>
+      <title>MTA Metrocard Redesign</title>
+      <link>http://iwabm.github.io/work/2018_mta/</link>
+      <pubDate>Sun, 06 Aug 2017 18:25:22 +0530</pubDate>
       
-      <guid>http://iwabm.github.io/work/2016_mhi/</guid>
-      <description>-- IBM Watson cognitive enterprise app Enterprise Application Design | 2016, Professional Work  Objective How can MHI engineers make the RFP inspection process more effectively? RFP inspection is important work for Mitsubishi Heavy Industries, Ltd. (MHI) engineers to estimate risks in advance and deliver the project in a healthy way. However, it needs much knowledge and takes long time to do it accurately under the pressure of a deadline.</description>
+      <guid>http://iwabm.github.io/work/2018_mta/</guid>
+      <description>-- MTA Metrocard Redesign UX/UI Design | 2018, Private Work
+  *This project is still ongoing Objective How might we make NYC’s subway riding experience more comfortable? The NYC metrocard system has remained unchanged for decades and users of NYC subway sometimes have uncomfortable experiences especially the entrance of subway; the lost time of waiting in line to buy a metrocard, touching a dirty machine and so on.</description>
     </item>
     
     <item>
@@ -50,13 +41,12 @@
     </item>
     
     <item>
-      <title>Daifuku Experience</title>
-      <link>http://iwabm.github.io/work/2015_daifuku/</link>
-      <pubDate>Fri, 23 Jan 2015 18:25:22 +0530</pubDate>
+      <title>IBM Watson cognitive enterprise app</title>
+      <link>http://iwabm.github.io/work/2016_mhi/</link>
+      <pubDate>Thu, 06 Oct 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://iwabm.github.io/work/2015_daifuku/</guid>
-      <description>-- DAIFUKU EXPERIENCE UX/UI Design | 2015, Professiona Work  Objective How does DAIFUKU build a globally unified brand? Clients thought their website was becoming obsolete and wanted to enhance their brand using current web technologies and user-centered disciplines. And Daifuku has 20 branches in the world, so they wanted to provide global integrated contents and operations.
-Concept Redesign DAIFUKU corporate website and operations From the perspective of Business, Design and Technology, we designed and proposed from a business organization to UX / UI and an infrastructure.</description>
+      <guid>http://iwabm.github.io/work/2016_mhi/</guid>
+      <description>-- IBM Watson cognitive enterprise app Enterprise Application Design | 2016, Professional Work  Objective How can MHI engineers make the RFP inspection process more effectively? RFP inspection is important work for Mitsubishi Heavy Industries, Ltd. (MHI) engineers to estimate risks in advance and deliver the project in a healthy way. However, it needs much knowledge and takes long time to do it accurately under the pressure of a deadline.</description>
     </item>
     
   </channel>
