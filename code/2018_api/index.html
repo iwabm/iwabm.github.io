@@ -48,6 +48,9 @@
       infowin[1] = new google.maps.InfoWindow({content:"Here is Washington Square Park! Click Me!"});
       infowin[2] = new google.maps.InfoWindow({content:"Here is SVA! Click Me!"});
 
+      var infowin = [];
+      infowin[0] = new google.maps.InfoWindow({content:"Hello Parsons! Click Me!"});
+
       var latlng = new google.maps.LatLng(data[0].lat, data[0].lng);
       var opts = {
         zoom: 15,
@@ -85,12 +88,12 @@
           
         });
 
-          google.maps.event.addListener(marker[i], 'mouseover', function(){
-              infowin[i].open(map, marker[i]);
-          });    
-          google.maps.event.addListener(marker[i], 'mouseout', function(){
-            infowin[i].close();
-          });  
+        
+        
+        
+        
+        
+        
 
         google.maps.event.addListener(marker[i], 'click', (function(url){
           return function(){ location.href = url; };
