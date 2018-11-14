@@ -1,358 +1,328 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://iwabm.github.io/fineart/2017_smile/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2017_cepco/</loc>
-    <lastmod>2017-11-06T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2018_mta/</loc>
-    <lastmod>2017-08-06T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/fineart/2016_fictional/</loc>
-    <lastmod>2016-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/fineart/2016_after/</loc>
-    <lastmod>2016-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/fineart/2015_am3/</loc>
-    <lastmod>2015-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2015_uber/</loc>
-    <lastmod>2015-07-30T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/fineart/2015_dejavu/</loc>
-    <lastmod>2015-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/ms1/2018_intent/</loc>
-    <lastmod>2018-10-30T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/ms1/2018_career/</loc>
-    <lastmod>2018-10-19T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/ms1/2018_highline/</loc>
-    <lastmod>2018-10-15T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/ms1/2018_5d/</loc>
-    <lastmod>2018-09-30T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/ms1/2018_4d/</loc>
-    <lastmod>2018-09-29T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/ms1/2018_3d/</loc>
-    <lastmod>2018-09-26T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/ms1/2018_2d/</loc>
-    <lastmod>2018-09-24T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/ms1/2018_1d/</loc>
-    <lastmod>2018-09-20T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/ms1/2018_interface/</loc>
-    <lastmod>2018-09-19T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/code/2018_api/</loc>
-    <lastmod>2018-03-14T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/code/2018_threejs/</loc>
-    <lastmod>2018-03-14T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/fineart/2017_sanja/</loc>
-    <lastmod>2017-05-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2016_mhi/</loc>
-    <lastmod>2016-10-06T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/fineart/2014_christmas/</loc>
-    <lastmod>2014-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2014_peru/</loc>
-    <lastmod>2014-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2014_mexico/</loc>
-    <lastmod>2014-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/fineart/2013_thebeautifulworld/</loc>
-    <lastmod>2013-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/fineart/2013_rainyday/</loc>
-    <lastmod>2013-12-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2013_bali/</loc>
-    <lastmod>2013-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2013_finland/</loc>
-    <lastmod>2013-05-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2013_iceland/</loc>
-    <lastmod>2013-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2012_ny/</loc>
-    <lastmod>2012-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2012_morrocco/</loc>
-    <lastmod>2012-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/fineart/2012_thebeautifulworld/</loc>
-    <lastmod>2011-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2011_taiwan/</loc>
-    <lastmod>2011-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2011_malta/</loc>
-    <lastmod>2011-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2018_collective/</loc>
-    <lastmod>2011-09-30T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2010_netherland/</loc>
-    <lastmod>2010-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2010_luxemburg/</loc>
-    <lastmod>2010-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2010_bergium/</loc>
-    <lastmod>2010-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2018_three/</loc>
-    <lastmod>2010-10-18T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2009_limpidual/</loc>
-    <lastmod>2009-12-23T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2009_guam/</loc>
-    <lastmod>2009-11-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2009_germany/</loc>
-    <lastmod>2009-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2009_china/</loc>
-    <lastmod>2009-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/ms1/2018_5in5/</loc>
-    <lastmod>2009-03-23T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2008_la/</loc>
-    <lastmod>2008-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2018_singular/</loc>
-    <lastmod>2008-10-14T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/2016_inageya/</loc>
-    <lastmod>2008-01-23T18:25:22+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2007_czech/</loc>
-    <lastmod>2007-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2007_austria/</loc>
-    <lastmod>2007-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2007_hungary/</loc>
-    <lastmod>2007-12-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/fineart/2006_thebeautifulworld/</loc>
-    <lastmod>2006-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/2006_thebeautifulworld/</loc>
-    <lastmod>2006-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/tags/code/</loc>
-    <lastmod>2011-09-30T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/code/</loc>
-    <lastmod>2018-03-14T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/fineart/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/tags/graphic/</loc>
-    <lastmod>2010-10-18T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/journey/</loc>
-    <lastmod>2014-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/</loc>
-    <lastmod>2017-12-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/ms1/</loc>
-    <lastmod>2018-10-30T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/tags/product/</loc>
-    <lastmod>2011-09-30T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/tags/service/</loc>
-    <lastmod>2017-11-06T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/tags/speculative/</loc>
-    <lastmod>2008-10-14T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/tags/</loc>
-    <lastmod>2011-09-30T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/tags/uxui/</loc>
-    <lastmod>2017-11-06T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://iwabm.github.io/work/</loc>
-    <lastmod>2017-11-06T18:25:22+05:30</lastmod>
-    <priority>0</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>/ms1/intent2/</loc>
+      <lastmod>2018-11-14T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/intent/</loc>
+      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/career/</loc>
+      <lastmod>2018-10-19T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/manifesto/</loc>
+      <lastmod>2018-10-19T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/highline/</loc>
+      <lastmod>2018-10-15T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/5d/</loc>
+      <lastmod>2018-09-30T01:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/4d/</loc>
+      <lastmod>2018-09-30T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/3d/</loc>
+      <lastmod>2018-09-29T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2018_collective/</loc>
+      <lastmod>2018-09-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/2d/</loc>
+      <lastmod>2018-09-24T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/1d/</loc>
+      <lastmod>2018-09-20T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/interface/</loc>
+      <lastmod>2018-09-02T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2018_mta/</loc>
+      <lastmod>2018-08-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2018_speculative/</loc>
+      <lastmod>2018-08-24T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/5in5/</loc>
+      <lastmod>2018-08-20T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2018_organic/</loc>
+      <lastmod>2018-07-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2017_cepco/</loc>
+      <lastmod>2018-02-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/2017_smile/</loc>
+      <lastmod>2017-04-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2016_watson/</loc>
+      <lastmod>2016-09-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2016_inageya/</loc>
+      <lastmod>2016-01-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2015_uber/</loc>
+      <lastmod>2015-07-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2009_llimpidual/</loc>
+      <lastmod>2009-03-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/4/</loc>
+      <lastmod>2018-10-19T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/</loc>
+      <lastmod>2018-11-14T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/</loc>
+      <lastmod>2018-09-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2018-10-19T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/code/</loc>
+      <lastmod>2018-09-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/graphic/</loc>
+      <lastmod>2018-07-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/photo/</loc>
+      <lastmod>2017-04-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/product/</loc>
+      <lastmod>2018-09-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/service/</loc>
+      <lastmod>2018-02-27T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/speculative/</loc>
+      <lastmod>2018-08-24T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/uxui/</loc>
+      <lastmod>2018-08-27T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
   
 </urlset>

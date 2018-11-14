@@ -1,37 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Graphic on Masaki Iwabuchi</title>
-    <link>http://iwabm.github.io/tags/graphic/</link>
-    <description>Recent content in Graphic on Masaki Iwabuchi</description>
+    <title>graphic on Masaki Iwabuchi</title>
+    <link>/tags/graphic/</link>
+    <description>Recent content in graphic on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Oct 2010 18:25:22 +0530</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://iwabm.github.io/tags/graphic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/graphic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Organic Sound Visualizer</title>
-      <link>http://iwabm.github.io/work/2018_three/</link>
-      <pubDate>Mon, 18 Oct 2010 18:25:22 +0530</pubDate>
+      <title>ORGANIC MUSIC VISUALIZER</title>
+      <link>/project/2018_organic/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/work/2018_three/</guid>
-      <description> Organic Sound Visualizer 1 Day Programming | 2018, Academic Work  Concept How might we make the experience of listening music more organic?   Phase
-Concept, Design, Build
-Period
-10/2018 (1 Day)
-Team
-Sole Project
-Role
-Maker, Coder
- Method
-Iterative coding
-Technology
-html5, css3, javascript, three.js
-Output
-[Link] Demo is here
-        </description>
+      <guid>/project/2018_organic/</guid>
+      <description>Overview Demo Video   Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.js [Link] Demo is here
+--</description>
     </item>
     
   </channel>

@@ -1,65 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Code on Masaki Iwabuchi</title>
-    <link>http://iwabm.github.io/tags/code/</link>
-    <description>Recent content in Code on Masaki Iwabuchi</description>
+    <title>code on Masaki Iwabuchi</title>
+    <link>/tags/code/</link>
+    <description>Recent content in code on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Sep 2011 18:25:22 +0530</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://iwabm.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Collective Juice</title>
-      <link>http://iwabm.github.io/work/2018_collective/</link>
-      <pubDate>Fri, 30 Sep 2011 18:25:22 +0530</pubDate>
+      <link>/project/2018_collective/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/work/2018_collective/</guid>
-      <description>-- COLLECTIVE JUICE Interaction Design | 2018, Academic Work  Overview Collect people&amp;rsquo;s emotions and visualie them as an collective juice Collective Juice is a physical product that collects different user&amp;rsquo;s emotions and tone together to reveal and visualizes the “mood” of the group/community.  
-Phase
-Concept, Design, Build, Deliver, Evaluate
-Period
-10/2018 (4 weeks)
-Team
-Researcher(Me), Professor
-Role
-Researcher
- Method
-Iterative Ideation from 1D to 5D</description>
+      <guid>/project/2018_collective/</guid>
+      <description>Overview Demo Video   Project Information  Phase / Period  Concept, Design, Build, Evaluate 10 / 2018 (4 weeks)  Team  Researcher(Me), Professor Harpreet Sareen  Method / Technology  Ideation from 1D to 5D Arduino, processing  Output  Physical prototype   Objective How might we collect responses to questions that can only be answered by humans? As the development of technology, we can find many answers online within just a second.</description>
     </item>
     
     <item>
-      <title>Organic Sound Visualizer</title>
-      <link>http://iwabm.github.io/work/2018_three/</link>
-      <pubDate>Mon, 18 Oct 2010 18:25:22 +0530</pubDate>
+      <title>ORGANIC MUSIC VISUALIZER</title>
+      <link>/project/2018_organic/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/work/2018_three/</guid>
-      <description> Organic Sound Visualizer 1 Day Programming | 2018, Academic Work  Concept How might we make the experience of listening music more organic?   Phase
-Concept, Design, Build
-Period
-10/2018 (1 Day)
-Team
-Sole Project
-Role
-Maker, Coder
- Method
-Iterative coding
-Technology
-html5, css3, javascript, three.js
-Output
-[Link] Demo is here
-        </description>
-    </item>
-    
-    <item>
-      <title>LimpiDual Touch</title>
-      <link>http://iwabm.github.io/work/2009_limpidual/</link>
-      <pubDate>Wed, 23 Dec 2009 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/2009_limpidual/</guid>
-      <description>-- LIMPIDUAL TOUCH Interaction Design | 2009, Academic Work  Overview Designed and proposed interactive limpid display with dual-sided touch sensing. LimpiDual Touch is the emerging interactive transparent display. Users can operate from the rear side of the screen while seeing both displayed images and their fingers. This feature resolves a finger occlusion problem. Additionally, it also works for multiple users. Two users can share an identical display from both sides and control displayed objects at one time.</description>
+      <guid>/project/2018_organic/</guid>
+      <description>Overview Demo Video   Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.js [Link] Demo is here
+--</description>
     </item>
     
   </channel>

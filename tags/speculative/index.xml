@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Speculative on Masaki Iwabuchi</title>
-    <link>http://iwabm.github.io/tags/speculative/</link>
-    <description>Recent content in Speculative on Masaki Iwabuchi</description>
+    <title>speculative on Masaki Iwabuchi</title>
+    <link>/tags/speculative/</link>
+    <description>Recent content in speculative on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Oct 2008 18:25:22 +0530</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://iwabm.github.io/tags/speculative/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/speculative/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Human experience for Transhuman</title>
-      <link>http://iwabm.github.io/work/2018_singular/</link>
-      <pubDate>Tue, 14 Oct 2008 18:25:22 +0530</pubDate>
+      <title>HUMAN EXPERIENCE FOR TRANSHUMAN</title>
+      <link>/project/2018_speculative/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/work/2018_singular/</guid>
-      <description>-- Human experience for Transhuman Speculative Design | 2018, Academic Work | ONGOING  Concept XHuman: Educational Headset for transhumans to Experience “Human” in 2075 XHuman is an educational headset for transhumans who inplants superintelligence into their left brain. This gadget stimulates your brain electrically and temporarily stops the neurotransmission between the brain chip and the brain. This feature enables transhumans to think as “Humans”.
-Since transhuman’s brain chip is implanted in your left brain (work for language, memory, calculation), so be sure to wear it on the left brain.</description>
+      <guid>/project/2018_speculative/</guid>
+      <description>Concept XHuman: Educational Headset for transhumans to Experience “Human” in 2075         
+Project Information  Phase / Period  Concept, Design, Build Period* 10&amp;frasl;2018 (2 weeks)  Team / Role  Researcher(Me), Professor  Method  Future Cone, Future&amp;rsquo;s Wheel, Timeline, Persona, Empathy Map, Storyboard, technological research
+  Output* Physical prototype, User&amp;rsquo;s Manual  Objective How can Humans and Transhumans coexist towards a sustainable society in 2075?</description>
     </item>
     
   </channel>

@@ -1,591 +1,2245 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Masaki Iwabuchi</title>
-    <link>http://iwabm.github.io/</link>
-    <description>Recent content on Masaki Iwabuchi</description>
+    <title>Masaki Iwabuchi on Masaki Iwabuchi</title>
+    <link>/</link>
+    <description>Recent content in Masaki Iwabuchi on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://iwabm.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>SMILE</title>
-      <link>http://iwabm.github.io/fineart/2017_smile/</link>
-      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/fineart/2017_smile/</guid>
-      <description>                       SMILE 2017, Photography
-  </description>
-    </item>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>C-EP CONSUMER SERVICES</title>
-      <link>http://iwabm.github.io/work/2017_cepco/</link>
-      <pubDate>Mon, 06 Nov 2017 18:25:22 +0530</pubDate>
+      <title>Updated Intent for Final</title>
+      <link>/ms1/intent2/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://iwabm.github.io/work/2017_cepco/</guid>
-      <description>-- C-EP CONSUMER SERVICES Service and UX/UI Design | 2017, Professiona Work
-  Objective After the deregulation, which direction should the electric power company aim for? In 2016, full-scale deregulation of the electricity industry in Japan has begun, and a lot of new and emerging companies have entered the electricity market. Chubu Electric Power Company (C-EPCO), a Japanese electricity utility provider for the mid-Chubu region of Honshu island, Japan, must shift to a new paradigm of customer service in order to improve its retention capability.</description>
-    </item>
-    
-    <item>
-      <title>MTA Metrocard Redesign</title>
-      <link>http://iwabm.github.io/work/2018_mta/</link>
-      <pubDate>Sun, 06 Aug 2017 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/2018_mta/</guid>
-      <description>-- MTA Metrocard Redesign UX/UI Design | 2018, Private Work
-  *This project is still ongoing Objective How might we make NYC’s subway riding experience more comfortable? The NYC metrocard system has remained unchanged for decades and users of NYC subway sometimes have uncomfortable experiences especially the entrance of subway; the lost time of waiting in line to buy a metrocard, touching a dirty machine and so on.</description>
-    </item>
-    
-    <item>
-      <title>FICTIONAL REAL, REAL FICTION</title>
-      <link>http://iwabm.github.io/fineart/2016_fictional/</link>
-      <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/fineart/2016_fictional/</guid>
-      <description>                      FICTIONAL REAL, REAL FICTION 2016, Photography
-  Facts like fiction and fiction like facts. I am seeking for something on the border of them both. Which side are we living on?
-Publication  EINSTEIN STUDIO ARCHIVES, Compilation book of Japanese young photographers, 2016  </description>
-    </item>
-    
-    <item>
-      <title>PHOTOGRAPHY 100Y AFTER</title>
-      <link>http://iwabm.github.io/fineart/2016_after/</link>
-      <pubDate>Sat, 05 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/fineart/2016_after/</guid>
-      <description>This is the normal way of life in the 22nd century. Children is playing in a &#34;virtual forest&#34;.
-Are these images our future dreamed life?
- This is the normal way of life in the 22nd century. I reviewed my lifemoment archives and found my external memory failed to save one second of my life.
-What will be the difference between our &#39;&#39;memories’’ and &#39;&#39;records‘‘?
- This is the normal way of life in the 22nd century.</description>
-    </item>
-    
-    <item>
-      <title>AM3:00, LOWER EAST SIDE</title>
-      <link>http://iwabm.github.io/fineart/2015_am3/</link>
-      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/fineart/2015_am3/</guid>
-      <description>                  TOKYO CHRISTMAS COLLECTION 2014, Photography
-  AM3:00, midnight landscape in NYC
-Publication  New Japan Photo Exhibition, Midoriso 2, Tokyo, Japan, Mar 2016. New City Art Fair (in EINSTEIN STUDIO booth), hpgrp Gallery, New York, USA, Mar 2016.  </description>
-    </item>
-    
-    <item>
-      <title>Uber UX RESEARCH AND DESIGN</title>
-      <link>http://iwabm.github.io/work/2015_uber/</link>
-      <pubDate>Thu, 30 Jul 2015 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/2015_uber/</guid>
-      <description>-- UBER UX RESEARCH AND DESIGN UX/UI Design | 2015, Academic Work  Objective How can we improve the experience of Uber drivers? Joined 5 weeks MFA Interaction Design Program of User Research Methods in SVA, US. Woriking in teams, we’ve joined a real project with Uber and proposed UX to solve current issues. I’ve learned the fundamentals of user research techniques and the sense of UX in collaboration with global students.</description>
-    </item>
-    
-    <item>
-      <title>ACCURACY OF DEJA-VU</title>
-      <link>http://iwabm.github.io/fineart/2015_dejavu/</link>
-      <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/fineart/2015_dejavu/</guid>
-      <description>Osaka Tsutenkaku towerTokyo tower
- Dotonbori, OsakaAkihabara, Tokyo
- Abeno Harukas Skyscraper, OsakaRoppongi Hills Skyscraper, Tokyo
- Nipponbashi Station, OsakaNihombashi Station, Tokyo
- Universal Studios OsakaTokyo Disney Land
- Umeda, OsakaAkihabara, Tokyo
- Abeno Avenue, OsakaOmotesando Avenue, Tokyo
- Namba, OsakaGinza, Tokyo
- Namba, OsakaHarajuku, Tokyo
- Friend in OsakaFriend in Tokyo
- Umeda, OsakaAsakusa, Tokyo
- Honmachi, OsakaAsakusabashi, Tokyo
- Abeno, OsakaShiodome, Tokyo
- Umeda, OsakaAkihabara, Tokyo
- Shinsekai, OsakaAsakusa, Tokyo</description>
+      <guid>/ms1/intent2/</guid>
+      <description>
+
+&lt;h4 id=&#34;final-statement&#34;&gt;Final Statement&lt;/h4&gt;
+
+&lt;h2 id=&#34;problem-why&#34;&gt;Problem (Why)&lt;/h2&gt;
+
+&lt;p&gt;There are things which we cannot do by myself.&lt;/p&gt;
+
+&lt;h2 id=&#34;solution-what&#34;&gt;Solution (What)&lt;/h2&gt;
+
+&lt;p&gt;Use recursive power to do it by myself
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/300566889&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;design-process&#34;&gt;Design Process&lt;/h4&gt;
+
+&lt;h2 id=&#34;brainstorming&#34;&gt;Brainstorming&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide9.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide10.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide11.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;concept-1&#34;&gt;Concept 1&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide12.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide13.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide14.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/300565438&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;concept-2&#34;&gt;Concept 2&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide15.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide16.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide17.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/300567236&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;concept-3&#34;&gt;Concept 3&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide18.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide19.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide20.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/300565209&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;feedback-and-update&#34;&gt;Feedback and Update&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide3.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide6.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/300566889&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/300566306&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide7.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>
       <title>Intent for Final</title>
-      <link>http://iwabm.github.io/ms1/2018_intent/</link>
-      <pubDate>Tue, 30 Oct 2018 18:25:22 +0530</pubDate>
+      <link>/ms1/intent/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_intent/</guid>
-      <description>Intent for Final Research | 2018, Academic Work
-  Context - Domain 1 Network Science The first domain I want to research is Network Science. When I reviewed my exploration so far, I found I am interested in creating a network in any kind of way. For example, in 2D and 4D, I tried to create a network and connect people based on background careers or question-answer conversation. Previously I said that my domain is social computing, however, social computing was still broad and it was more intriguing for me to see it from the perspective of the network.</description>
+      <guid>/ms1/intent/</guid>
+      <description>
+
+&lt;h4 id=&#34;context-domain-1&#34;&gt;Context - Domain 1&lt;/h4&gt;
+
+&lt;h2 id=&#34;network-science&#34;&gt;Network Science&lt;/h2&gt;
+
+&lt;p&gt;The first domain I want to research is Network Science. When I reviewed my exploration so far, I found I am interested in creating a network in any kind of way. For example, in 2D and 4D, I tried to create a network and connect people based on background careers or question-answer conversation. Previously I said that my domain is social computing, however, social computing was still broad and it was more intriguing for me to see it from the perspective of the network.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/1.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Actually network science covers very broad area because in the current our world, we are surrounded by bunch of networks such as hypertext, social network and transportation network and so on. I&amp;rsquo;m interested in what is networked and not networked, and what will happen if stand-alone things such as subjective feelings and body signalsare networked.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/2.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;context-domain-2&#34;&gt;Context - Domain 2&lt;/h4&gt;
+
+&lt;h2 id=&#34;affective-interaction&#34;&gt;Affective Interaction&lt;/h2&gt;
+
+&lt;p&gt;In 3D - 5D, I tried to implement the interaction through affective questions that can only be answered by people. Affective computing is one of the representative area of this field and researching development of systems and devices that can recognize, interpret, process, and simulate human affects. However, I want to focus on not an emotion recognition technology itself but an application of human affects as a designer.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/5.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;creative-precedents&#34;&gt;Creative Precedents&lt;/h4&gt;
+
+&lt;h2 id=&#34;penal-systems-network&#34;&gt;Penal Systems Network&lt;/h2&gt;
+
+&lt;p&gt;Penal Systems Network is a relational mapping of world’s penal systems that evoke controversy: A network map of world countries connected to juridical topics whether or not they are being exercised and how they are being exercised such as death penalty, life imprisonment, parole, indefinite sentence, and amnesty.&lt;/p&gt;
+
+&lt;p&gt;Context: Make a network of domestic data
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/3.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;feel-o-meter&#34;&gt;Feel-o-meter&lt;/h2&gt;
+
+&lt;p&gt;Fuehlometer (Feel-o-meter) is an interactive art installation that shows the mood of a city by displaying it in the form of a monumental Smiley. The system allows to read emotions out of random people’s faces. The faces are analyzed by sophisticated software (contributed by the Fraunhofer Institut). The obtained mood data are then stored on a server and processed by the smiley to visualize the emotions in real-time.&lt;/p&gt;
+
+&lt;p&gt;Context: Assemble moods of the city
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/nBstJ6_HMac&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;lauren-a-human-smart-home-intelligence&#34;&gt;LAUREN. A human smart home intelligence.&lt;/h2&gt;
+
+&lt;p&gt;This project attempts to become a human version of Amazon Alexa, a smart home intelligence for people in their own homes. The artist Lauren remotely watches over the person &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt; and controls all aspects of their home. Lauren aims to be better than an AI because she can understand them as a person and anticipate their needs. The relationship that emerges falls in the ambiguous space between human-machine and human-human.&lt;/p&gt;
+
+&lt;p&gt;Context: Make a network and relationship between people who do not know each other
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/4.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;electric-stimulus-to-face&#34;&gt;electric stimulus to face&lt;/h2&gt;
+
+&lt;p&gt;Daito Manabe experimented how might we control our face electrically.&lt;/p&gt;
+
+&lt;p&gt;Context: Make a network of body signals
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/CvmE4TZfeuo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;the-stack&#34;&gt;The Stack&lt;/h2&gt;
+
+&lt;p&gt;In The Stack, Benjamin Bratton proposes that these different genres of computation—smart grids, cloud platforms, mobile apps, smart cities, the Internet of Things, automation—can be seen not as so many species evolving on their own, but as forming a coherent whole: an accidental megastructure called The Stack that is both a computational apparatus and a new governing architecture. We are inside The Stack and it is inside of us. In an account that is both theoretical and technical, drawing on political philosophy, architectural theory, and software studies, Bratton explores six layers of The Stack: Earth, Cloud, City, Address, Interface, User. Each is mapped on its own terms and understood as a component within the larger whole built from hard and soft systems intermingling—not only computational forms but also social, human, and physical forces. This model, informed by the logic of the multilayered structure of protocol “stacks,” in which network technologies operate within a modular and vertical order, offers a comprehensive image of our emerging infrastructure and a platform for its ongoing reinvention.&lt;/p&gt;
+
+&lt;p&gt;Context: Devide network into layers&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/6.jpeg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;beeme&#34;&gt;BeeMe&lt;/h2&gt;
+
+&lt;p&gt;This Halloween scientists at MIT&amp;rsquo;s Media Lab are embarking on a massive social experiment. Called BeeMe, the project will let internet users control a real human actor, suggesting, and collectively voting on, this person&amp;rsquo;s every action. New Atlas reached out to Niccolo Pescetelli, one of the creators behind the experiment, to find out exactly what is about to happen.&lt;/p&gt;
+
+&lt;p&gt;Context: Make a collective decision and control human
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/7.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;design-questions-and-concepts-so-far&#34;&gt;Design Questions and Concepts so far&lt;/h4&gt;
+
+&lt;h2 id=&#34;creative-questions&#34;&gt;Creative Questions&lt;/h2&gt;
+
+&lt;p&gt;In this research, I came up with the following creative questions.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What will happen if stand-alone things such as subjective feelings and body signalsare networked?
+
+&lt;ul&gt;
+&lt;li&gt;What happens when objects are networked? Can you synthesize or disassemble it?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;How might we assemble individual affects and utilize them for individuals again?
+
+&lt;ul&gt;
+&lt;li&gt;How will rewards and erroneous information affect collective decisions?&lt;/li&gt;
+&lt;li&gt;How much will a person&amp;rsquo;s free will be affected by the collective will?&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;concepts&#34;&gt;Concepts&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Decompose network elements&lt;/li&gt;
+&lt;li&gt;Networked body signal&lt;/li&gt;
+&lt;li&gt;Use network as a medium of art&lt;/li&gt;
+&lt;li&gt;Control virtual challacter by collective decision&lt;/li&gt;
+&lt;li&gt;Visualize traffic of each layer of Stack (City, Earth and so on)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;discuss-in-the-class&#34;&gt;Discuss in the class&lt;/h4&gt;
+
+&lt;h2 id=&#34;discuss-with-jerry-and-karen&#34;&gt;Discuss with Jerry and Karen&lt;/h2&gt;
+
+&lt;p&gt;One of Jerry&amp;rsquo;s domain collective creation was similar to my domain. He was interested in collecting body signals and turning into some information, and I also curious about collecting emotions of the human. We discussed how to deal with elements of the interaction. Our common factors of interaction are people and the environment, and we debated what input and output we should use. I referred to some precedents Jerry had, and I found some interactions treated everybody equal, and the other one visualized information according to a person&amp;rsquo;s body heights. So the insight of discussion with Jerry was we can give a different look and feel according to how to handle input and output.
+However, Karen pointed out that we were going into discussions of implementation deeply, and we found we should discuss &amp;ldquo;why&amp;rdquo; perspective. Human augmentation, one of Karen&amp;rsquo;s domain, is also related to my domain. Our common aim is to expand the human&amp;rsquo;s perception. In discussion with Karen, I found I need to think about substantial problems from the perspective of the user and write down the question as the form of &amp;ldquo;How might we - ?&amp;rdquo;
+Finally, I came up with the question &amp;ldquo;How might we make a network of countries&amp;rsquo; happiness to compare with standards of happiness?&amp;rdquo; in the discussion. But I thought my question still needed strong &amp;ldquo;why&amp;rdquo;. So I need more resarch to create future vision of network and human augmentation.&lt;/p&gt;
+
+&lt;h4 id=&#34;more-precedents&#34;&gt;More Precedents&lt;/h4&gt;
+
+&lt;h2 id=&#34;mutual-human-actuation&#34;&gt;Mutual Human Actuation&lt;/h2&gt;
+
+&lt;p&gt;Human actuation is the idea of using people to provide large-scale force feedback to users. The key idea is to run pairs of users at the same time and have them provide human actuation to each other.&lt;/p&gt;
+
+&lt;p&gt;I came up with one question from this work: How might we connect activities which are completely different but mutualy complementary?&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/JKGdQjx-_BI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;sense-roid-emotional-haptic-communication-with-yourself&#34;&gt;Sense-Roid: Emotional Haptic Communication with Yourself&lt;/h2&gt;
+
+&lt;p&gt;What type of emotions could be obtained if you were able to hug yourself?
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/vw5pFZaiuCg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;fight-with-myself&#34;&gt;Fight with myself&lt;/h2&gt;
+
+&lt;p&gt;In a Japanese geek blog, a father made a system which decreases the time of changing his child&amp;rsquo;s cloth. The problem for this father was that his child often takes time to change his cloth in the busy morning. So he projected images of the child&amp;rsquo;s changing cloth in the past and let him compete with himself in the past. In this kind of way of gamification, his child thought he didn&amp;rsquo;t want to lose to himself and became to change his cloth as quickly as possible.&lt;/p&gt;
+
+&lt;p&gt;I came up with one question from this work: How might we make a network with ourselves in the past to improve ourselves?&amp;lt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/10.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;updated-questions-and-concepts&#34;&gt;Updated Questions and Concepts&lt;/h4&gt;
+
+&lt;h2 id=&#34;how-might-we-connect-activities-which-are-completely-different-but-mutualy-complementary&#34;&gt;How might we connect activities which are completely different but mutualy complementary?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;For example, if there is a person somewhere who wants to push objects and there is a person who wants to draw some object at the same time, can we connect those activities that are totally individually occurring and make mutually complementary relationships?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;how-might-we-make-a-network-with-ourselves-in-the-past-to-improve-ourselves&#34;&gt;How might we make a network with ourselves in the past to improve ourselves?&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In life, the most challenging enemy is myself. To keep improving, can we make a connection with ourselves in the past via some kind of inormation?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;direction-of-prototype&#34;&gt;Direction of Prototype&lt;/h4&gt;
+
+&lt;h2 id=&#34;seek-activities-which-are-completely-different-but-mutualy-complementary&#34;&gt;Seek activities which are completely different but mutualy complementary&lt;/h2&gt;
+
+&lt;h2 id=&#34;seek-a-valuable-information-to-track-for-keeping-improving-myself&#34;&gt;Seek a valuable information to track for keeping improving myself&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the time to turn off the light of the bedroom&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Biography</title>
-      <link>http://iwabm.github.io/ms1/2018_career/</link>
-      <pubDate>Fri, 19 Oct 2018 18:25:22 +0530</pubDate>
+      <link>/ms1/career/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_career/</guid>
-      <description>Biography 2018, Academic Work
-  Masaki is an interaction and service designer based in NY. His work examines the reciprocal relationships between science, technology and their influence on human identity, subjectivity, and collective culture. He holds the MFA degree in Design and Technology at Parsons School of Design. Previously he worked at IBM for 10 years as a UX designer.</description>
+      <guid>/ms1/career/</guid>
+      <description>&lt;p&gt;Masaki is an interaction and service designer based in NY.
+His work examines the reciprocal relationships between science, technology and their influence on human identity, subjectivity, and collective culture.
+He holds the MFA degree in Design and Technology at Parsons School of Design. Previously he worked at IBM for 10 years as a UX designer.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>MJ Button: Public Intervention Project</title>
-      <link>http://iwabm.github.io/ms1/2018_highline/</link>
-      <pubDate>Mon, 15 Oct 2018 18:25:22 +0530</pubDate>
+      <title>Design Manifesto: Goodbye Human, Hello Alien.</title>
+      <link>/publication/manifesto/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_highline/</guid>
-      <description>  -- MJ Button Interaction Design | 2018, Academic Work
-  Observation, Research, Ideation                                          Prototype                    Test: Iteration 1     Test: Iteration 2     Test: Iteration 3     Test: Iteration 4     Future Iteration  </description>
+      <guid>/publication/manifesto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MJ Button</title>
+      <link>/ms1/highline/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/ms1/highline/</guid>
+      <description>
+
+&lt;h2 id=&#34;observation-research-ideation&#34;&gt;Observation, Research, Ideation&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide1.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide2.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide3.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide4.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide6.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide7.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide8.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide9.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide10.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide11.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide12.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide13.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide14.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide15.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide16.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide17.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide18.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide19.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;prototype&#34;&gt;Prototype&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img2/Slide1.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img2/Slide2.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img2/Slide3.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img2/Slide4.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img2/Slide5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img2/Slide6.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img3/Slide4.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img3/Slide5.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;test-iteration-1&#34;&gt;Test: Iteration 1&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img3/Slide6.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/295098769&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img3/Slide8.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;test-iteration-2&#34;&gt;Test: Iteration 2&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img3/Slide9.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/295101278&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img3/Slide11.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;test-iteration-3&#34;&gt;Test: Iteration 3&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img3/Slide12.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/295102379&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img3/Slide14.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;test-iteration-4&#34;&gt;Test: Iteration 4&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img3/Slide15.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/295103357&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img3/Slide17.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;future-iteration&#34;&gt;Future Iteration&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img3/Slide18.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>
       <title>5D: Collective Transition</title>
-      <link>http://iwabm.github.io/ms1/2018_5d/</link>
-      <pubDate>Sun, 30 Sep 2018 18:25:22 +0530</pubDate>
+      <link>/ms1/5d/</link>
+      <pubDate>Sun, 30 Sep 2018 01:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_5d/</guid>
-      <description> 5D: Collective Transition Physical Prototype | 2018, Academic Work
-        Interactive Prototype in the classroom Sorry, your browser doesn&#39;t support embedded videos.      </description>
+      <guid>/ms1/5d/</guid>
+      <description>&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide1.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide2.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide3.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide4.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide6.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide7.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide8.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide9.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide10.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>4D: Collective Aroma</title>
-      <link>http://iwabm.github.io/ms1/2018_4d/</link>
-      <pubDate>Sat, 29 Sep 2018 18:25:22 +0530</pubDate>
+      <link>/ms1/4d/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_4d/</guid>
-      <description>4D: Collective Aroma Physical Prototype | 2018, Academic Work
-          </description>
+      <guid>/ms1/4d/</guid>
+      <description>&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide1.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide2.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide3.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide4.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide6.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide7.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide8.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>3D: Collective Juice</title>
-      <link>http://iwabm.github.io/ms1/2018_3d/</link>
-      <pubDate>Wed, 26 Sep 2018 18:25:22 +0530</pubDate>
+      <link>/ms1/3d/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_3d/</guid>
-      <description>3D: Collective Juice Physical Prototype | 2018, Academic Work
-          </description>
-    </item>
-    
-    <item>
-      <title>2D: Career Chain</title>
-      <link>http://iwabm.github.io/ms1/2018_2d/</link>
-      <pubDate>Mon, 24 Sep 2018 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/ms1/2018_2d/</guid>
-      <description>2D: Career Chain UI Prototype | 2018, Academic Work
-                 </description>
-    </item>
-    
-    <item>
-      <title>1D: Identiy Digitalizing</title>
-      <link>http://iwabm.github.io/ms1/2018_1d/</link>
-      <pubDate>Thu, 20 Sep 2018 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/ms1/2018_1d/</guid>
-      <description>1D: Identiy Digitalizing Storytelling | 2018, Academic Work
-                   </description>
-    </item>
-    
-    <item>
-      <title>Interface Critique</title>
-      <link>http://iwabm.github.io/ms1/2018_interface/</link>
-      <pubDate>Wed, 19 Sep 2018 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/ms1/2018_interface/</guid>
-      <description>Interface Critique Research | 2018, Academic Work
-  I picked up an umbrella for critiquing as an interface. An umbrella or parasol is designed to protect a person against rain or sunlight. It is said that an umbrella has been used about 4000 years ago and remains in sculptures such as Egypt, Persia, and mural paintings. In many regions, umbrellas have developed to protect the king from sunlight, so they have long been a luxury item, a symbol of wealth and power.</description>
-    </item>
-    
-    <item>
-      <title>WebGL Sound Visualizer</title>
-      <link>http://iwabm.github.io/code/2018_api/</link>
-      <pubDate>Wed, 14 Mar 2018 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/code/2018_api/</guid>
-      <description> Placeholder </description>
-    </item>
-    
-    <item>
-      <title>WebGL Sound Visualizer</title>
-      <link>http://iwabm.github.io/code/2018_threejs/</link>
-      <pubDate>Wed, 14 Mar 2018 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/code/2018_threejs/</guid>
-      <description> Placeholder </description>
-    </item>
-    
-    <item>
-      <title>SANJA FESTIVAL</title>
-      <link>http://iwabm.github.io/fineart/2017_sanja/</link>
-      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/fineart/2017_sanja/</guid>
-      <description>Sanja Festival 2017, Photography
-  Sanja Matsuri (三社祭, literally &amp;ldquo;Three Shrine Festival&amp;rdquo;), or Sanja Festival, is one of the three great Shinto festivals in Tokyo. It is considered one of the wildest and largest. The festival is held in honor of the three men who established and founded Sensō-ji. Sanja Matsuri is held on the third weekend of every May at Asakusa Shrine.</description>
-    </item>
-    
-    <item>
-      <title>IBM Watson cognitive enterprise app</title>
-      <link>http://iwabm.github.io/work/2016_mhi/</link>
-      <pubDate>Thu, 06 Oct 2016 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/2016_mhi/</guid>
-      <description>-- IBM Watson cognitive enterprise app Enterprise Application Design | 2016, Professional Work  Overview IBM Watson cognitive application We delivered an initial phase of a cognitive Watson Advisor solution using agile engineering approach. MHI engineers can inspect and take action for risks of their projects in advance without long industry experience. They reduced the time taken by the worker&amp;rsquo;s task by 30% as a result.
-                                         Clients needs ‘‘innovative and unique UI’’ to show brand-new experience internally, so we experimented various UIs with real users and applied the unique interaction inspired by the cube.</description>
-    </item>
-    
-    <item>
-      <title>TOKYO CHRISTMAS COLLECTION</title>
-      <link>http://iwabm.github.io/fineart/2014_christmas/</link>
-      <pubDate>Tue, 23 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/fineart/2014_christmas/</guid>
-      <description>                        TOKYO CHRISTMAS COLLECTION 2014, Photography
-  Personal Question: Are Japanese in Tokyo defined by Christmas? </description>
-    </item>
-    
-    <item>
-      <title>Cusco, Peru</title>
-      <link>http://iwabm.github.io/journey/2014_peru/</link>
-      <pubDate>Fri, 25 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2014_peru/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>Toluca, Mexico</title>
-      <link>http://iwabm.github.io/journey/2014_mexico/</link>
-      <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2014_mexico/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>THE BEAUTIFUL WORLD III</title>
-      <link>http://iwabm.github.io/fineart/2013_thebeautifulworld/</link>
-      <pubDate>Tue, 31 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/fineart/2013_thebeautifulworld/</guid>
-      <description>海と廃墟の物語, Inushima, Okayama 2013
-  -- 前衛芸術としての落葉論, Mt.Takao, Tokyo 2013
- 深夜3時の百鬼夜行, Halloween, Tokyo, 2013
- 今日も地球は確かに青い, Takachiho Gorge, 2014
- シンボライズされた青春のイメージ, Tokyo Tower, 2014
- それは星降る夜のこと, Tsuchiura, Ibaraki, 2014
- かつて夢があった場所, Okutama, Tokyo, 2014
- 宇宙の底, Rikugien, Tokyo, 2015
-           THE BEAUTIFUL WORLD III 2013, Photography
-  また会おうの&#34;また&#34;が来ると信じて。, Ruminarie, Hyogo, 2013
- -- 着る新宿, Shinjuku, Tokyo, 2014</description>
-    </item>
-    
-    <item>
-      <title>RAINY DAY TOKYO</title>
-      <link>http://iwabm.github.io/fineart/2013_rainyday/</link>
-      <pubDate>Mon, 23 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/fineart/2013_rainyday/</guid>
-      <description>--  --                      RAINY DAY TOKYO 2013, Photography
-  My nostalgic memories are always in the rain. They are brilliant in my heart forever.</description>
-    </item>
-    
-    <item>
-      <title>Bali, Indonesia</title>
-      <link>http://iwabm.github.io/journey/2013_bali/</link>
-      <pubDate>Sun, 18 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2013_bali/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>Helsinki, Finland</title>
-      <link>http://iwabm.github.io/journey/2013_finland/</link>
-      <pubDate>Sat, 18 May 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2013_finland/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>Reykjavik, Iceland</title>
-      <link>http://iwabm.github.io/journey/2013_iceland/</link>
-      <pubDate>Tue, 14 May 2013 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2013_iceland/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>New York, USA</title>
-      <link>http://iwabm.github.io/journey/2012_ny/</link>
-      <pubDate>Wed, 14 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2012_ny/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>Sahara Desert, Morrocco</title>
-      <link>http://iwabm.github.io/journey/2012_morrocco/</link>
-      <pubDate>Sat, 14 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2012_morrocco/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>THE BEAUTIFUL WORLD II</title>
-      <link>http://iwabm.github.io/fineart/2012_thebeautifulworld/</link>
-      <pubDate>Sat, 31 Dec 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/fineart/2012_thebeautifulworld/</guid>
-      <description>僕達は迷いの中, Saga, 2011
- 死出の葬列, Zaoh, Yamagata, 2012
- 脈, Mt. Norikura, Kyoto, 2012
- 君は遠く輝く。僕は少し泣く。, Odaiba, Tokyo, 2012
- 色の雨, Asakusa, Tokyo, 2012
- 極楽浄土はどこにある？, Shirakami, Aomori, 2012
- Civilization, Koma, Tokyo, 2012
- 展望台、大雪の日, Roppongi, Tokyo, 2013
- 虹の根元には、夢が埋まってると思う。, Tokyo, 2013
-             THE BEAUTIFUL WORLD II 2011, Photography
-  東京ドロップス, Roppongi, Tokyo, 2013
- -- 鉄塔・青春・ジュブナイル計画, Kawasaki Factory, 2013</description>
-    </item>
-    
-    <item>
-      <title>Taipei, Taiwan</title>
-      <link>http://iwabm.github.io/journey/2011_taiwan/</link>
-      <pubDate>Mon, 14 Nov 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2011_taiwan/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>St.Julian, Malta</title>
-      <link>http://iwabm.github.io/journey/2011_malta/</link>
-      <pubDate>Sat, 12 Nov 2011 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2011_malta/</guid>
-      <description>            </description>
+      <guid>/ms1/3d/</guid>
+      <description>&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide1.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide2.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide3.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide4.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide6.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide7.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide8.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Collective Juice</title>
-      <link>http://iwabm.github.io/work/2018_collective/</link>
-      <pubDate>Fri, 30 Sep 2011 18:25:22 +0530</pubDate>
+      <link>/project/2018_collective/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/work/2018_collective/</guid>
-      <description>-- COLLECTIVE JUICE Interaction Design | 2018, Academic Work  Overview Collect people&amp;rsquo;s emotions and visualie them as an collective juice Collective Juice is a physical product that collects different user&amp;rsquo;s emotions and tone together to reveal and visualizes the “mood” of the group/community.  
-Phase
-Concept, Design, Build, Deliver, Evaluate
-Period
-10/2018 (4 weeks)
-Team
-Researcher(Me), Professor
-Role
-Researcher
- Method
-Iterative Ideation from 1D to 5D</description>
+      <guid>/project/2018_collective/</guid>
+      <description>
+
+&lt;h4 id=&#34;overview&#34;&gt;Overview&lt;/h4&gt;
+
+&lt;h2 id=&#34;demo-video&#34;&gt;Demo Video&lt;/h2&gt;
+
+&lt;p&gt;&lt;div class=&#34;youtube&#34;&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/294814672&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;project-information&#34;&gt;Project Information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phase / Period
+
+&lt;ul&gt;
+&lt;li&gt;Concept, Design, Build, Evaluate&lt;/li&gt;
+&lt;li&gt;10 / 2018 (4 weeks)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Team
+
+&lt;ul&gt;
+&lt;li&gt;Researcher(Me), Professor Harpreet Sareen&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Method / Technology
+
+&lt;ul&gt;
+&lt;li&gt;Ideation from 1D to 5D&lt;/li&gt;
+&lt;li&gt;Arduino, processing&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Output
+
+&lt;ul&gt;
+&lt;li&gt;Physical prototype&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;objective&#34;&gt;Objective&lt;/h4&gt;
+
+&lt;h2 id=&#34;how-might-we-collect-responses-to-questions-that-can-only-be-answered-by-humans&#34;&gt;How might we collect responses to questions that can only be answered by humans?&lt;/h2&gt;
+
+&lt;p&gt;As the development of technology, we can find many answers online within just a second. Have we ever wondered how the other people think about the same question? Have we ever wondered what it looks like after collecting different opinions together?&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/9.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
+
+&lt;h2 id=&#34;convert-people-s-emotions-into-collective-mood-of-the-group-community&#34;&gt;Convert people&amp;rsquo;s emotions into collective mood of the group/community&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;design-decision&#34;&gt;Design Decision&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What kind of question is appropriate?
+
+&lt;ul&gt;
+&lt;li&gt;Use an open question to confirm the difference between a collective opinion and a subjective opinion and to ask a more social question.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;How to answer the question?
+
+&lt;ul&gt;
+&lt;li&gt;Decide to use easy yes/no question to create a first running mockup quickly. Types of quesitions and responding formats can be changed later.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;How to visualize answers?
+
+&lt;ul&gt;
+&lt;li&gt;More intuitive way is appropriate such as color or size. Decided to explore a tangible format because data visualization on the screen is being implemented in many cases.&lt;/li&gt;
+&lt;li&gt;Sought a different perspective by outputting data that is usually visualized visually to different sensory such as taste.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Is there a business impact?
+
+&lt;ul&gt;
+&lt;li&gt;Realize the experience of tasting a mood of the day and expect commercialization as a drink of the &amp;ldquo;mood&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;implementation-evaluation&#34;&gt;Implementation &amp;amp; Evaluation&lt;/h4&gt;
+
+&lt;h2 id=&#34;physical-prototype&#34;&gt;Physical Prototype&lt;/h2&gt;
+
+&lt;p&gt;Using arduino and processing, I implemented the physical prototype.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/6.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;evaluation&#34;&gt;Evaluation&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/11.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;future-iteration&#34;&gt;Future Iteration&lt;/h2&gt;
+
+&lt;p&gt;I am planning to improve it using actual juice and demonstration in public spaces and facilities.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Platform to collect public opinion
+
+&lt;ul&gt;
+&lt;li&gt;It can be used as a platform to visualize the current mood of cities, facilities and communities. We can compare how much mood of real-time people is different according to region and location.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Collect more diverse emotion
+
+&lt;ul&gt;
+&lt;li&gt;Human emotion is more than just positive or negative. It can added more diversity emotions such as sad, exhausted and happy.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/8.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;design-process&#34;&gt;Design Process&lt;/h4&gt;
+
+&lt;h2 id=&#34;ideas-in-form&#34;&gt;Ideas in Form&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/1.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;credit&#34;&gt;Credit&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This project is carried out in the class of MAJOR STUDIO 1 by Herpreet Sareen.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
-      <title>Amsterdam, Netherlands</title>
-      <link>http://iwabm.github.io/journey/2010_netherland/</link>
-      <pubDate>Fri, 12 Nov 2010 00:00:00 +0000</pubDate>
+      <title>2D: Career Chain</title>
+      <link>/ms1/2d/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/journey/2010_netherland/</guid>
-      <description>            </description>
+      <guid>/ms1/2d/</guid>
+      <description>&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide1.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide2.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide3.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide4.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide6.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide7.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide8.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide9.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide10.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide11.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide12.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide13.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide14.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide15.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Luxembroug, Luxembroug</title>
-      <link>http://iwabm.github.io/journey/2010_luxemburg/</link>
-      <pubDate>Thu, 11 Nov 2010 00:00:00 +0000</pubDate>
+      <title>1D: Identiy Digitalizing</title>
+      <link>/ms1/1d/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/journey/2010_luxemburg/</guid>
-      <description>            </description>
+      <guid>/ms1/1d/</guid>
+      <description>&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide01.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide02.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide03.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide04.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide05.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide06.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide07.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide08.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide09.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide10.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide11.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide12.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide13.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide14.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide15.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide16.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide17.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Brussel, Belgium</title>
-      <link>http://iwabm.github.io/journey/2010_bergium/</link>
-      <pubDate>Wed, 10 Nov 2010 00:00:00 +0000</pubDate>
+      <title>Interface Critique</title>
+      <link>/ms1/interface/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/journey/2010_bergium/</guid>
-      <description>            </description>
+      <guid>/ms1/interface/</guid>
+      <description>&lt;p&gt;I picked up an umbrella for critiquing as an interface. An umbrella or parasol is designed to protect a person against rain or sunlight. It is said that an umbrella has been used about 4000 years ago and remains in sculptures such as Egypt, Persia, and mural paintings. In many regions, umbrellas have developed to protect the king from sunlight, so they have long been a luxury item, a symbol of wealth and power.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/1.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;The umbrella of the current structure was developed as a parasol in the 18th century, and initially, it was a woman&amp;rsquo;s belongings. On rainy days the man was wet without a habit of having an umbrella, but eventually, the umbrella also spread to men. The context of the umbrella changes with the times and it is still used worldwide as an essential item of rain today.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/4.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+Paris Street; Rainy Weather, by Gustave Caillebotte (1877)&lt;/p&gt;
+
+&lt;p&gt;As an interface between people and rain, an umbrella has a very long history. Although the context to be used has changed, the function and design almost unchanged for thousands of years. The shape of umbrella affords us to open, and I think that it is a complete form as a product.&lt;/p&gt;
+
+&lt;p&gt;However, umbrellas have risks of being stolen or forgotten, hand clogging, wind weakness, etc. I think that there is a possibility of innovation using emerging technology. For example, an umbrella capable of tracking position information and a drone umbrella is undergoing demonstration experiments.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/2.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;However, I focused on a project named &amp;ldquo;&lt;a href=&#34;https://gizmodo.com/5915133/sensor-filled-umbrella-turns-raindrops-into-a-retro-8-bit-soundtrack&#34;&gt;Song of Raindrop&lt;/a&gt;&amp;rdquo; that uses Arduino to convert energy when rain hits an umbrella into music.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/3.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;It is wonderful that this project is not for the current problem solving, it makes the rainy day more pleasant and also makes the context of rainy days change poetically. I would like to refer to this &amp;ldquo;augmented rainy day&amp;rdquo; idea regarding changing the context and making natural phenomena more interactive.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Organic Sound Visualizer</title>
-      <link>http://iwabm.github.io/work/2018_three/</link>
-      <pubDate>Mon, 18 Oct 2010 18:25:22 +0530</pubDate>
+      <title>MTA METROCARD REDESIGN</title>
+      <link>/project/2018_mta/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/work/2018_three/</guid>
-      <description> Organic Sound Visualizer 1 Day Programming | 2018, Academic Work  Concept How might we make the experience of listening music more organic?   Phase
-Concept, Design, Build
-Period
-10/2018 (1 Day)
-Team
-Sole Project
-Role
-Maker, Coder
- Method
-Iterative coding
-Technology
-html5, css3, javascript, three.js
-Output
-[Link] Demo is here
-        </description>
+      <guid>/project/2018_mta/</guid>
+      <description>
+
+&lt;h3 id=&#34;this-project-is-still-ongoing&#34;&gt;*This project is still ongoing&lt;/h3&gt;
+
+&lt;h4 id=&#34;objective&#34;&gt;Objective&lt;/h4&gt;
+
+&lt;h2 id=&#34;how-might-we-make-nyc-s-subway-riding-experience-more-comfortable&#34;&gt;How might we make NYC’s subway riding experience more comfortable?&lt;/h2&gt;
+
+&lt;p&gt;The NYC metrocard system has remained unchanged for decades and users of NYC subway sometimes have  uncomfortable experiences especially the entrance of subway; the lost time of waiting in line to buy a metrocard, touching a dirty machine and so on. User-centered service and experience is needed for users to get access easily to the metro, on time, without having a bad experience.&lt;/p&gt;
+
+&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
+
+&lt;h2 id=&#34;gateless-entry&#34;&gt;Gateless Entry&lt;/h2&gt;
+
+&lt;p&gt;Subway users can enter the platform without having physical metrocard.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/3.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mockup-screens-iteration-i&#34;&gt;Mockup Screens (Iteration I)&lt;/h2&gt;
+
+&lt;iframe width=&#34;442&#34; height=&#34;935&#34; src=&#34;//invis.io/TCO7886KGHS&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&#34;design-process&#34;&gt;Design Process&lt;/h4&gt;
+
+&lt;h2 id=&#34;user-centered-design&#34;&gt;User Centered Design&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/2.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phase / Period
+
+&lt;ul&gt;
+&lt;li&gt;Empathize, Define, Ideate, Prototype, Test&lt;/li&gt;
+&lt;li&gt;10 / 2018 (40h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Team
+
+&lt;ul&gt;
+&lt;li&gt;Sole Project&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Method / Technology
+
+&lt;ul&gt;
+&lt;li&gt;User-Centered Design&lt;/li&gt;
+&lt;li&gt;Target Device: iOS App&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide4.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide6.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide7.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide8.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide9.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide10.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide11.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide12.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide13.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide14.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide15.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide16.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide17.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide18.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide19.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mockup-screens-iteration-i-1&#34;&gt;Mockup Screens (Iteration I)&lt;/h2&gt;
+
+&lt;iframe width=&#34;442&#34; height=&#34;935&#34; src=&#34;//invis.io/TCO7886KGHS&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;user-feedback&#34;&gt;User Feedback&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide22.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;update-experience-iteration-ii&#34;&gt;Update Experience (Iteration II)&lt;/h2&gt;
+
+&lt;h2 id=&#34;future-iteration&#34;&gt;Future Iteration&lt;/h2&gt;
+</description>
     </item>
     
     <item>
-      <title>LimpiDual Touch</title>
-      <link>http://iwabm.github.io/work/2009_limpidual/</link>
-      <pubDate>Wed, 23 Dec 2009 18:25:22 +0530</pubDate>
+      <title>HUMAN EXPERIENCE FOR TRANSHUMAN</title>
+      <link>/project/2018_speculative/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/work/2009_limpidual/</guid>
-      <description>-- LIMPIDUAL TOUCH Interaction Design | 2009, Academic Work  Overview Designed and proposed interactive limpid display with dual-sided touch sensing. LimpiDual Touch is the emerging interactive transparent display. Users can operate from the rear side of the screen while seeing both displayed images and their fingers. This feature resolves a finger occlusion problem. Additionally, it also works for multiple users. Two users can share an identical display from both sides and control displayed objects at one time.</description>
-    </item>
-    
-    <item>
-      <title>Guam, USA</title>
-      <link>http://iwabm.github.io/journey/2009_guam/</link>
-      <pubDate>Wed, 18 Nov 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2009_guam/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>Frankfurt, Germany</title>
-      <link>http://iwabm.github.io/journey/2009_germany/</link>
-      <pubDate>Sat, 14 Nov 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2009_germany/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>Shanghai, China</title>
-      <link>http://iwabm.github.io/journey/2009_china/</link>
-      <pubDate>Wed, 14 Oct 2009 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2009_china/</guid>
-      <description>            </description>
+      <guid>/project/2018_speculative/</guid>
+      <description>
+
+&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
+
+&lt;h2 id=&#34;xhuman-educational-headset-for-transhumans-to-experience-human-in-2075&#34;&gt;XHuman: Educational Headset for transhumans to Experience “Human” in 2075&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/6.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/10.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/4.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;project-information&#34;&gt;Project Information&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phase / Period
+
+&lt;ul&gt;
+&lt;li&gt;Concept, Design, Build&lt;/li&gt;
+&lt;li&gt;Period* &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2018&lt;/sub&gt; (2 weeks)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Team / Role
+
+&lt;ul&gt;
+&lt;li&gt;Researcher(Me), Professor&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Method
+
+&lt;ul&gt;
+&lt;li&gt;Future Cone, Future&amp;rsquo;s Wheel, Timeline, Persona, Empathy Map, Storyboard, technological research&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Output* Physical prototype, User&amp;rsquo;s Manual&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;objective&#34;&gt;Objective&lt;/h4&gt;
+
+&lt;h2 id=&#34;how-can-humans-and-transhumans-coexist-towards-a-sustainable-society-in-2075&#34;&gt;How can Humans and Transhumans coexist towards a sustainable society in 2075?&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/7.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In 2075, this is the first generation that humans and transhumans are coexisting in the society. There is a new social problem that human beings and transhumans can not understand each other. Transhuman can not understand why humans are so inefficient. Humans were also afraid of transhuman beyond their abilities and did not know how to work or live together.&lt;/p&gt;
+
+&lt;h2 id=&#34;possible-timeline&#34;&gt;Possible Timeline&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/8.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In 2045, AI finally exceeded the intelligence of all human beings.&lt;/p&gt;
+
+&lt;p&gt;In 2060, superintelligence is embedded in the human brain for the first time and Human consciousness uploaded on the internet.&lt;/p&gt;
+
+&lt;p&gt;Now in 2075, 11% of parents choose to implant AI to their newborn babies. They are the first generation of transhuman society.&lt;/p&gt;
+
+&lt;p&gt;Recently transhuman-only school is established because their superintelligence and don’t need “normal” human’s curriculum anymore.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide3.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;design-approach&#34;&gt;Design Approach&lt;/h4&gt;
+
+&lt;h2 id=&#34;future-speculation-using-wearable-technology&#34;&gt;Future speculation using wearable technology&lt;/h2&gt;
+
+&lt;p&gt;Create a speculative body technology that interacts with our sensory input or output. This device could enhance the way we see, limit our ability to smell or hear&amp;hellip;This device could be useful for a future version of our world, or another world/society from our imagination.&lt;/p&gt;
+
+&lt;p&gt;Make a prototype of an object, along with user manual that illustrates how it works and how one would use it.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/2.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;design-process&#34;&gt;Design Process&lt;/h4&gt;
+
+&lt;h2 id=&#34;future-speculation&#34;&gt;Future Speculation&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide4.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide7.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide8.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide12.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;credit&#34;&gt;Credit&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This project is carried out in the class of &lt;a href=&#34;https://speculativescience.wordpress.com/&#34;&gt;SPECULATIVE SCIENCE FOR DESIGN FICTION&lt;/a&gt; by Deren Guler.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
       <title>5 in 5 project</title>
-      <link>http://iwabm.github.io/ms1/2018_5in5/</link>
-      <pubDate>Mon, 23 Mar 2009 18:25:22 +0530</pubDate>
+      <link>/ms1/5in5/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_5in5/</guid>
-      <description>-- 5 in 5 project Interaction Design | 2018, Academic Work
-                   Virtual MASA: Ideation supporting tool Write one noun and push &amp;ldquo;Ideate&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>Los Angeles, USA</title>
-      <link>http://iwabm.github.io/journey/2008_la/</link>
-      <pubDate>Wed, 29 Oct 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2008_la/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>Human experience for Transhuman</title>
-      <link>http://iwabm.github.io/work/2018_singular/</link>
-      <pubDate>Tue, 14 Oct 2008 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/2018_singular/</guid>
-      <description>-- Human experience for Transhuman Speculative Design | 2018, Academic Work | ONGOING  Concept XHuman: Educational Headset for transhumans to Experience “Human” in 2075 XHuman is an educational headset for transhumans who inplants superintelligence into their left brain. This gadget stimulates your brain electrically and temporarily stops the neurotransmission between the brain chip and the brain. This feature enables transhumans to think as “Humans”.
-Since transhuman’s brain chip is implanted in your left brain (work for language, memory, calculation), so be sure to wear it on the left brain.</description>
-    </item>
-    
-    <item>
-      <title>FUTURE SUPERMARKET DESIGN INAGEYA</title>
-      <link>http://iwabm.github.io/work/2016_inageya/</link>
-      <pubDate>Wed, 23 Jan 2008 18:25:22 +0530</pubDate>
-      
-      <guid>http://iwabm.github.io/work/2016_inageya/</guid>
-      <description>-- FUTURE SUPERMARKET DESIGN INAGEYA Service Design | 2016, Professional Work
-  Overview Next-Generation Supermarket in 2020 As a facilitator of design thinking, our team designed a 2-days intensive design workshop and created a concept of supermarket of the next-generation. Our concept is that customers and their families can turn their household worries into fun and create their sustainable local communities together.
-In the last activity, we defined next To-Dos and achieved a consensus beyond all departments of Inageya.</description>
-    </item>
-    
-    <item>
-      <title>Prague, Czech Repablic</title>
-      <link>http://iwabm.github.io/journey/2007_czech/</link>
-      <pubDate>Mon, 31 Dec 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2007_czech/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>Vienna, Austria</title>
-      <link>http://iwabm.github.io/journey/2007_austria/</link>
-      <pubDate>Sun, 30 Dec 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2007_austria/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>Budapest, Hungary</title>
-      <link>http://iwabm.github.io/journey/2007_hungary/</link>
-      <pubDate>Sat, 29 Dec 2007 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2007_hungary/</guid>
-      <description>            </description>
-    </item>
-    
-    <item>
-      <title>THE BEAUTIFUL WORLD I</title>
-      <link>http://iwabm.github.io/fineart/2006_thebeautifulworld/</link>
-      <pubDate>Sun, 31 Dec 2006 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/fineart/2006_thebeautifulworld/</guid>
-      <description>ノスタルジアへよおこそ, Asakusa, Tokyo, 2006
-  -- TOKYO in My Mind, Roppongi, Tokyo, 2011
-  -- 深夜3時の花火大会, Asakusa, Tokyo, 2006
- ブルートレイン, Ueno, Tokyo, 2006
- 夜空を待ちながら, Inokashira-Koen, Tokyo, 2007
- 思い出はいつの日も雨, Tokyo Disney Land, 2008
- 銀河鉄道の夜, Shinjuku, Tokyo, 2008
- 夜間飛行, Miyazaki Airport, 2009
- 地上にヒトデが見えたので。, Tokyo Tower 2009
- 誕生, Fuji Rock Festival, 2010
- 僕達の到達点, Gunkanjima, 2011
-             THE BEAUTIFUL WORLD I 2006, Photography</description>
-    </item>
-    
-    <item>
-      <title>the beautiful world</title>
-      <link>http://iwabm.github.io/journey/2006_thebeautifulworld/</link>
-      <pubDate>Sun, 31 Dec 2006 00:00:00 +0000</pubDate>
-      
-      <guid>http://iwabm.github.io/journey/2006_thebeautifulworld/</guid>
-      <description>それを青春と呼ぶ日, Asakusa, Tokyo, 2006
-  ブルートレイン, Ueno, Tokyo, 2006
-  ノスタルジアへよおこそ, Asakusa, Tokyo, 2006
-  夜空を待ちながら, Inokashira-Koen, Tokyo, 2007
-  思い出はいつの日も雨, Tokyo Disney Land, 2008
-  銀河鉄道の夜, Shinjuku, Tokyo, 2008
-  夜間飛行, Miyazaki Airport, 2009
-  地上にヒトデが見えたので。, Tokyo Tower 2009
-  誕生, Fuji Rock Festival, 2010
-  TOKYO in My Mind, Roppongi, Tokyo, 2011
-  僕達の到達点, Gunkanjima, 2011
-  僕達は迷いの中, Saga, 2011</description>
+      <guid>/ms1/5in5/</guid>
+      <description>&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide01.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide02.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide03.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide04.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide05.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide06.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide07.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide08.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide09.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide10.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide11.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide12.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide13.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide14.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide15.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide16.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide17.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

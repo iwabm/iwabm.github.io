@@ -2,113 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ms1s on Masaki Iwabuchi</title>
-    <link>http://iwabm.github.io/ms1/</link>
+    <link>/ms1/</link>
     <description>Recent content in Ms1s on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Oct 2018 18:25:22 +0530</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="http://iwabm.github.io/ms1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ms1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Intent for Final</title>
-      <link>http://iwabm.github.io/ms1/2018_intent/</link>
-      <pubDate>Tue, 30 Oct 2018 18:25:22 +0530</pubDate>
+      <title>Updated Intent for Final</title>
+      <link>/ms1/intent2/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_intent/</guid>
-      <description>Intent for Final Research | 2018, Academic Work
-  Context - Domain 1 Network Science The first domain I want to research is Network Science. When I reviewed my exploration so far, I found I am interested in creating a network in any kind of way. For example, in 2D and 4D, I tried to create a network and connect people based on background careers or question-answer conversation. Previously I said that my domain is social computing, however, social computing was still broad and it was more intriguing for me to see it from the perspective of the network.</description>
+      <guid>/ms1/intent2/</guid>
+      <description>Final Statement Problem (Why) There are things which we cannot do by myself.
+Solution (What) Use recursive power to do it by myself   Design Process Brainstorming       
+Concept 1       
+  Concept 2       
+  Concept 3       
+  Feedback and Update</description>
+    </item>
+    
+    <item>
+      <title>Intent for Final</title>
+      <link>/ms1/intent/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/ms1/intent/</guid>
+      <description>Context - Domain 1 Network Science The first domain I want to research is Network Science. When I reviewed my exploration so far, I found I am interested in creating a network in any kind of way. For example, in 2D and 4D, I tried to create a network and connect people based on background careers or question-answer conversation. Previously I said that my domain is social computing, however, social computing was still broad and it was more intriguing for me to see it from the perspective of the network.</description>
     </item>
     
     <item>
       <title>Biography</title>
-      <link>http://iwabm.github.io/ms1/2018_career/</link>
-      <pubDate>Fri, 19 Oct 2018 18:25:22 +0530</pubDate>
+      <link>/ms1/career/</link>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_career/</guid>
-      <description>Biography 2018, Academic Work
-  Masaki is an interaction and service designer based in NY. His work examines the reciprocal relationships between science, technology and their influence on human identity, subjectivity, and collective culture. He holds the MFA degree in Design and Technology at Parsons School of Design. Previously he worked at IBM for 10 years as a UX designer.</description>
+      <guid>/ms1/career/</guid>
+      <description>Masaki is an interaction and service designer based in NY. His work examines the reciprocal relationships between science, technology and their influence on human identity, subjectivity, and collective culture. He holds the MFA degree in Design and Technology at Parsons School of Design. Previously he worked at IBM for 10 years as a UX designer.</description>
     </item>
     
     <item>
-      <title>MJ Button: Public Intervention Project</title>
-      <link>http://iwabm.github.io/ms1/2018_highline/</link>
-      <pubDate>Mon, 15 Oct 2018 18:25:22 +0530</pubDate>
+      <title>MJ Button</title>
+      <link>/ms1/highline/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_highline/</guid>
-      <description>  -- MJ Button Interaction Design | 2018, Academic Work
-  Observation, Research, Ideation                                          Prototype                    Test: Iteration 1     Test: Iteration 2     Test: Iteration 3     Test: Iteration 4     Future Iteration  </description>
+      <guid>/ms1/highline/</guid>
+      <description>Observation, Research, Ideation                                       
+Prototype                 
+Test: Iteration 1</description>
     </item>
     
     <item>
       <title>5D: Collective Transition</title>
-      <link>http://iwabm.github.io/ms1/2018_5d/</link>
-      <pubDate>Sun, 30 Sep 2018 18:25:22 +0530</pubDate>
+      <link>/ms1/5d/</link>
+      <pubDate>Sun, 30 Sep 2018 01:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_5d/</guid>
-      <description> 5D: Collective Transition Physical Prototype | 2018, Academic Work
-        Interactive Prototype in the classroom Sorry, your browser doesn&#39;t support embedded videos.      </description>
+      <guid>/ms1/5d/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>4D: Collective Aroma</title>
-      <link>http://iwabm.github.io/ms1/2018_4d/</link>
-      <pubDate>Sat, 29 Sep 2018 18:25:22 +0530</pubDate>
+      <link>/ms1/4d/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_4d/</guid>
-      <description>4D: Collective Aroma Physical Prototype | 2018, Academic Work
-          </description>
+      <guid>/ms1/4d/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>3D: Collective Juice</title>
-      <link>http://iwabm.github.io/ms1/2018_3d/</link>
-      <pubDate>Wed, 26 Sep 2018 18:25:22 +0530</pubDate>
+      <link>/ms1/3d/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_3d/</guid>
-      <description>3D: Collective Juice Physical Prototype | 2018, Academic Work
-          </description>
+      <guid>/ms1/3d/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>2D: Career Chain</title>
-      <link>http://iwabm.github.io/ms1/2018_2d/</link>
-      <pubDate>Mon, 24 Sep 2018 18:25:22 +0530</pubDate>
+      <link>/ms1/2d/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_2d/</guid>
-      <description>2D: Career Chain UI Prototype | 2018, Academic Work
-                 </description>
+      <guid>/ms1/2d/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>1D: Identiy Digitalizing</title>
-      <link>http://iwabm.github.io/ms1/2018_1d/</link>
-      <pubDate>Thu, 20 Sep 2018 18:25:22 +0530</pubDate>
+      <link>/ms1/1d/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_1d/</guid>
-      <description>1D: Identiy Digitalizing Storytelling | 2018, Academic Work
-                   </description>
+      <guid>/ms1/1d/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Interface Critique</title>
-      <link>http://iwabm.github.io/ms1/2018_interface/</link>
-      <pubDate>Wed, 19 Sep 2018 18:25:22 +0530</pubDate>
+      <link>/ms1/interface/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_interface/</guid>
-      <description>Interface Critique Research | 2018, Academic Work
-  I picked up an umbrella for critiquing as an interface. An umbrella or parasol is designed to protect a person against rain or sunlight. It is said that an umbrella has been used about 4000 years ago and remains in sculptures such as Egypt, Persia, and mural paintings. In many regions, umbrellas have developed to protect the king from sunlight, so they have long been a luxury item, a symbol of wealth and power.</description>
+      <guid>/ms1/interface/</guid>
+      <description>I picked up an umbrella for critiquing as an interface. An umbrella or parasol is designed to protect a person against rain or sunlight. It is said that an umbrella has been used about 4000 years ago and remains in sculptures such as Egypt, Persia, and mural paintings. In many regions, umbrellas have developed to protect the king from sunlight, so they have long been a luxury item, a symbol of wealth and power.</description>
     </item>
     
     <item>
       <title>5 in 5 project</title>
-      <link>http://iwabm.github.io/ms1/2018_5in5/</link>
-      <pubDate>Mon, 23 Mar 2009 18:25:22 +0530</pubDate>
+      <link>/ms1/5in5/</link>
+      <pubDate>Mon, 20 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/ms1/2018_5in5/</guid>
-      <description>-- 5 in 5 project Interaction Design | 2018, Academic Work
-                   Virtual MASA: Ideation supporting tool Write one noun and push &amp;ldquo;Ideate&amp;rdquo;.</description>
+      <guid>/ms1/5in5/</guid>
+      <description></description>
     </item>
     
   </channel>

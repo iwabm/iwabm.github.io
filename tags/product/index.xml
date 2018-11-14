@@ -1,42 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Product on Masaki Iwabuchi</title>
-    <link>http://iwabm.github.io/tags/product/</link>
-    <description>Recent content in Product on Masaki Iwabuchi</description>
+    <title>product on Masaki Iwabuchi</title>
+    <link>/tags/product/</link>
+    <description>Recent content in product on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Sep 2011 18:25:22 +0530</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://iwabm.github.io/tags/product/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/product/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Collective Juice</title>
-      <link>http://iwabm.github.io/work/2018_collective/</link>
-      <pubDate>Fri, 30 Sep 2011 18:25:22 +0530</pubDate>
+      <link>/project/2018_collective/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/work/2018_collective/</guid>
-      <description>-- COLLECTIVE JUICE Interaction Design | 2018, Academic Work  Overview Collect people&amp;rsquo;s emotions and visualie them as an collective juice Collective Juice is a physical product that collects different user&amp;rsquo;s emotions and tone together to reveal and visualizes the “mood” of the group/community.  
-Phase
-Concept, Design, Build, Deliver, Evaluate
-Period
-10/2018 (4 weeks)
-Team
-Researcher(Me), Professor
-Role
-Researcher
- Method
-Iterative Ideation from 1D to 5D</description>
+      <guid>/project/2018_collective/</guid>
+      <description>Overview Demo Video   Project Information  Phase / Period  Concept, Design, Build, Evaluate 10 / 2018 (4 weeks)  Team  Researcher(Me), Professor Harpreet Sareen  Method / Technology  Ideation from 1D to 5D Arduino, processing  Output  Physical prototype   Objective How might we collect responses to questions that can only be answered by humans? As the development of technology, we can find many answers online within just a second.</description>
+    </item>
+    
+    <item>
+      <title>HUMAN EXPERIENCE FOR TRANSHUMAN</title>
+      <link>/project/2018_speculative/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/2018_speculative/</guid>
+      <description>Concept XHuman: Educational Headset for transhumans to Experience “Human” in 2075         
+Project Information  Phase / Period  Concept, Design, Build Period* 10&amp;frasl;2018 (2 weeks)  Team / Role  Researcher(Me), Professor  Method  Future Cone, Future&amp;rsquo;s Wheel, Timeline, Persona, Empathy Map, Storyboard, technological research
+  Output* Physical prototype, User&amp;rsquo;s Manual  Objective How can Humans and Transhumans coexist towards a sustainable society in 2075?</description>
     </item>
     
     <item>
       <title>LimpiDual Touch</title>
-      <link>http://iwabm.github.io/work/2009_limpidual/</link>
-      <pubDate>Wed, 23 Dec 2009 18:25:22 +0530</pubDate>
+      <link>/project/2009_llimpidual/</link>
+      <pubDate>Fri, 27 Mar 2009 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/work/2009_limpidual/</guid>
-      <description>-- LIMPIDUAL TOUCH Interaction Design | 2009, Academic Work  Overview Designed and proposed interactive limpid display with dual-sided touch sensing. LimpiDual Touch is the emerging interactive transparent display. Users can operate from the rear side of the screen while seeing both displayed images and their fingers. This feature resolves a finger occlusion problem. Additionally, it also works for multiple users. Two users can share an identical display from both sides and control displayed objects at one time.</description>
+      <guid>/project/2009_llimpidual/</guid>
+      <description>Overview Demo Video   Project Information  Phase / Period  Concept, Design, Build, Evaluate 04/2007 - 03/2009 (2 years)  Team / My Role  Researcher: Masaki Iwabuchi Professor: Takeshi Naemura (Professor of the University of Tokyo)  Method / Technology  Technology Research, Iterative Prototyping Touch Interface, Non-Organic Transparent EL Display, OpenGL  Output  Research Paper, User Evaluation Sheet   Inspiration What if we can display information on a transparent surface?</description>
     </item>
     
   </channel>

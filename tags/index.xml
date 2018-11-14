@@ -2,66 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Masaki Iwabuchi</title>
-    <link>http://iwabm.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Sep 2011 18:25:22 +0530</lastBuildDate>
+    <copyright>&amp;copy; 2018</copyright>
     
-	<atom:link href="http://iwabm.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Code</title>
-      <link>http://iwabm.github.io/tags/code/</link>
-      <pubDate>Fri, 30 Sep 2011 18:25:22 +0530</pubDate>
+      <title>code</title>
+      <link>/tags/code/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/tags/code/</guid>
+      <guid>/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Graphic</title>
-      <link>http://iwabm.github.io/tags/graphic/</link>
-      <pubDate>Mon, 18 Oct 2010 18:25:22 +0530</pubDate>
+      <title>graphic</title>
+      <link>/tags/graphic/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/tags/graphic/</guid>
+      <guid>/tags/graphic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Product</title>
-      <link>http://iwabm.github.io/tags/product/</link>
-      <pubDate>Fri, 30 Sep 2011 18:25:22 +0530</pubDate>
+      <title>photo</title>
+      <link>/tags/photo/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/tags/product/</guid>
+      <guid>/tags/photo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Service</title>
-      <link>http://iwabm.github.io/tags/service/</link>
-      <pubDate>Mon, 06 Nov 2017 18:25:22 +0530</pubDate>
+      <title>product</title>
+      <link>/tags/product/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/tags/service/</guid>
+      <guid>/tags/product/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Speculative</title>
-      <link>http://iwabm.github.io/tags/speculative/</link>
-      <pubDate>Tue, 14 Oct 2008 18:25:22 +0530</pubDate>
+      <title>service</title>
+      <link>/tags/service/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>http://iwabm.github.io/tags/speculative/</guid>
+      <guid>/tags/service/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Uxui</title>
-      <link>http://iwabm.github.io/tags/uxui/</link>
-      <pubDate>Mon, 06 Nov 2017 18:25:22 +0530</pubDate>
+      <title>speculative</title>
+      <link>/tags/speculative/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 -0400</pubDate>
       
-      <guid>http://iwabm.github.io/tags/uxui/</guid>
+      <guid>/tags/speculative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uxui</title>
+      <link>/tags/uxui/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/uxui/</guid>
       <description></description>
     </item>
     
