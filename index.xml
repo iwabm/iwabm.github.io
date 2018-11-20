@@ -7,13 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Berlin: Animal Imitation</title>
+      <link>/parsons/vrtrip1/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>/parsons/vrtrip1/</guid>
+      <description>
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/image.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+You wanna experience VR space with pets? A completely new VR experience was born. If you wear this new VR headset, you can walk a foreign city with your pet. The difference from the VR experience so far is that pets can also wear VR goggles and pets can also experience a totally different place taking a walk. In addition, you can exchange your vision and pet&amp;rsquo;s vision. You can take a walk as if you were a pet, and a pet as if you were an owner. Please try experiencing this completely new VR.&lt;/p&gt;
+
+&lt;h2 id=&#34;human-s-view&#34;&gt;Human&amp;rsquo;s view&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/301936497&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;h2 id=&#34;dog-s-view&#34;&gt;Dog&amp;rsquo;s view&lt;/h2&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/301936713&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Updated Intent for Final</title>
       <link>/ms1/intent2/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>/ms1/intent2/</guid>
       <description>
@@ -221,7 +258,7 @@
     <item>
       <title>Intent for Final</title>
       <link>/ms1/intent/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0100</pubDate>
       
       <guid>/ms1/intent/</guid>
       <description>
@@ -455,9 +492,1745 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
     </item>
     
     <item>
+      <title>MTA METROCARD REDESIGN</title>
+      <link>/project/2018_mta/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/2018_mta/</guid>
+      <description>
+
+&lt;h3 id=&#34;this-project-is-still-ongoing&#34;&gt;*This project is still ongoing&lt;/h3&gt;
+
+&lt;h4 id=&#34;objective&#34;&gt;Objective&lt;/h4&gt;
+
+&lt;h2 id=&#34;how-might-we-make-nyc-s-subway-riding-experience-more-comfortable&#34;&gt;How might we make NYC’s subway riding experience more comfortable?&lt;/h2&gt;
+
+&lt;p&gt;The NYC metrocard system has remained unchanged for decades and users of NYC subway sometimes have  uncomfortable experiences especially the entrance of subway; the lost time of waiting in line to buy a metrocard, touching a dirty machine and so on. User-centered service and experience is needed for users to get access easily to the metro, on time, without having a bad experience.&lt;/p&gt;
+
+&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
+
+&lt;h2 id=&#34;gateless-entry&#34;&gt;Gateless Entry&lt;/h2&gt;
+
+&lt;p&gt;Subway users can enter the platform without having physical metrocard.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/3.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mockup-screens-iteration-i&#34;&gt;Mockup Screens (Iteration I)&lt;/h2&gt;
+
+&lt;iframe width=&#34;442&#34; height=&#34;935&#34; src=&#34;//invis.io/TCO7886KGHS&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&#34;design-process&#34;&gt;Design Process&lt;/h4&gt;
+
+&lt;h2 id=&#34;user-centered-design&#34;&gt;User Centered Design&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/2.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phase / Period
+
+&lt;ul&gt;
+&lt;li&gt;Empathize, Define, Ideate, Prototype, Test&lt;/li&gt;
+&lt;li&gt;10 / 2018 (40h)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Team
+
+&lt;ul&gt;
+&lt;li&gt;Sole Project&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Method / Technology
+
+&lt;ul&gt;
+&lt;li&gt;User-Centered Design&lt;/li&gt;
+&lt;li&gt;Target Device: iOS App&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide4.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide6.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide7.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide8.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide9.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide10.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide11.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide12.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide13.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide14.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide15.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide16.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide17.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide18.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide19.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mockup-screens-iteration-i-1&#34;&gt;Mockup Screens (Iteration I)&lt;/h2&gt;
+
+&lt;iframe width=&#34;442&#34; height=&#34;935&#34; src=&#34;//invis.io/TCO7886KGHS&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;user-feedback&#34;&gt;User Feedback&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide22.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;update-experience-iteration-ii&#34;&gt;Update Experience (Iteration II)&lt;/h2&gt;
+
+&lt;h2 id=&#34;future-iteration&#34;&gt;Future Iteration&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>C-EP CONSUMER SERVICES</title>
+      <link>/project/2017_cepco/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/2017_cepco/</guid>
+      <description>
+
+&lt;h4 id=&#34;objective&#34;&gt;Objective&lt;/h4&gt;
+
+&lt;h2 id=&#34;after-the-deregulation-which-direction-should-the-electric-power-company-aim-for&#34;&gt;After the deregulation, which direction should the electric power company aim for?&lt;/h2&gt;
+
+&lt;p&gt;In 2016, full-scale deregulation of the electricity industry in Japan has begun, and a lot of new and emerging companies have entered the electricity market. Chubu Electric Power Company (C-EPCO), a Japanese electricity utility provider for the mid-Chubu region of Honshu island, Japan, must shift to a new paradigm of customer service in order to improve its retention capability.&lt;/p&gt;
+
+&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
+
+&lt;h2 id=&#34;create-the-ecosystem-that-tightens-cusutomers-family-bonds-to-improve-the-retention-rate&#34;&gt;Create the ecosystem that tightens cusutomers&amp;rsquo; family bonds to improve the retention rate&lt;/h2&gt;
+
+&lt;p&gt;Our team cultivated a new paradigm of customer service ecosystem that tightens family bonds of their customers using iPhone, Apple Watch and IoT Robot at a cost of $100M over the course of a year. Finally my team designed and finalized 94 screens and interactions in the development phase.&lt;/p&gt;
+
+&lt;p&gt;We developed an iOS app with a robot toy that can communicate with children. By recording their daily responses and sharing these with the children’s parents and grandparents, the family members are able to understand the children’s hidden preferences and feel as if they are together, even if they live far apart.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/123.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;result&#34;&gt;Result&lt;/h4&gt;
+
+&lt;h2 id=&#34;launch-in-public-in-fall-2018&#34;&gt;Launch in Public in Fall 2018&lt;/h2&gt;
+
+&lt;p&gt;We performed a qualitative and quantitative user evaluation and got a high score. Therefore, the client decide to launch this App in the next year cycle. Currently, the client continues to develop Android version and they are planning to release this product in Fall 2018.&lt;/p&gt;
+
+&lt;h4 id=&#34;design-approach&#34;&gt;Design Approach&lt;/h4&gt;
+
+&lt;h2 id=&#34;design-thinking-lean-startup-agile-development&#34;&gt;Design Thinking + Lean Startup + Agile Development&lt;/h2&gt;
+
+&lt;p&gt;&lt;b&gt;Observation and empathy for users are the starting point. &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Using design thinking, while focusing on customer-oriented thinking, we define the strong concept eventually to be released as a service running in the society. With the concept of lean startup, we verify and grow the service concept as a feasible business model. Finally we implement the business ecosystem designed with such a way of thinking to the world with agile development.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/2.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;my-role&#34;&gt;My Role&lt;/h4&gt;
+
+&lt;h2 id=&#34;project-management-and-ux-ui-design&#34;&gt;Project Management and UX/UI Design&lt;/h2&gt;
+
+&lt;p&gt;As a project manager and professional UX designer, I contributed to the project from the concept phase to the agile development phase. In terms of technology, customer experience and sustainable business model, my team designed entire new business ecosystem of the client.&lt;/p&gt;
+
+&lt;p&gt;In the concept phase, I planned a Design Thinking workshop with clients and created the initial concept of the service, prior to narrowing this down to a series of actionable steps in consideration of the concept’s implementation. Additionally, in the subsequent development phase, I have worked on continuously improving the quality of the product through a process of iterative prototyping and user evaluation. I am certified as both a practitioner of IBM Design Thinking and a Scrum Master, which means I can work consistently end to end, from the concept creation to the implementation phases, as a professional user experience designer.&lt;/p&gt;
+
+&lt;h4 id=&#34;design-process&#34;&gt;Design Process&lt;/h4&gt;
+
+&lt;h2 id=&#34;design-thinking-lean-startup-agile-development-1&#34;&gt;Design Thinking + Lean Startup + Agile Development&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/100.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phases / Period
+
+&lt;ul&gt;
+&lt;li&gt;Concept, Design, Build&lt;/li&gt;
+&lt;li&gt;02/2017 - 01/2018&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Method
+
+&lt;ul&gt;
+&lt;li&gt;User-Centered Design, Agile engineering, Lean Startup&lt;/li&gt;
+&lt;li&gt;Target Device: iOS App&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Product Release
+
+&lt;ul&gt;
+&lt;li&gt;&lt;sup&gt;11&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2018&lt;/sub&gt; (plan)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;2-days-ibm-design-thinking-workshop&#34;&gt;2-Days IBM Design Thinking Workshop&lt;/h4&gt;
+
+&lt;h2 id=&#34;made-initial-creative-concept-focusing-on-customer-experience&#34;&gt;Made initial creative concept focusing on customer experience&lt;/h2&gt;
+
+&lt;p&gt;At the beginning, in the concept phase, we planned the IBM Design Thinking workshop with clients, created the initial concept for a new service. We divided the members into 3 teams and eventually created 9 promising concepts from 3 personas.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/3.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/1.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/1.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/10.1.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/10.1.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/10.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/10.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/101.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/101.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/106.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/106.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/107.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/107.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/11.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/11.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/12.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/12.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/13.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/13.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/14.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/14.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/2.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/3.2.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/3.2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/3.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/3.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/4.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/4.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/4.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/4.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/5.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/5.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/5.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/5.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/6%20copy.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/6%20copy.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/6.1.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/6.1.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/6.2.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/6.2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/6.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/6.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/7.1.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/7.1.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/7.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/7.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/8.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/8.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/9.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/9.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;define-service-concept&#34;&gt;Define Service Concept&lt;/h4&gt;
+
+&lt;h2 id=&#34;visualized-and-verified-customer-experience&#34;&gt;Visualized and verified customer experience&lt;/h2&gt;
+
+&lt;p&gt;From these bold ideas, we narrowed down the concept by repeated 10 interviews and finally created 2 user scenarios and static mockup screens.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/5.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;persona-1-and-his-scenario&#34;&gt;Persona 1 and his scenario&lt;/h2&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona1&#34; href=&#34;/project/2017_cepco/persona1/Slide35.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona1/Slide35.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona1&#34; href=&#34;/project/2017_cepco/persona1/Slide36.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona1/Slide36.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona1&#34; href=&#34;/project/2017_cepco/persona1/Slide37.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona1/Slide37.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona1&#34; href=&#34;/project/2017_cepco/persona1/Slide38.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona1/Slide38.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona1&#34; href=&#34;/project/2017_cepco/persona1/Slide39.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona1/Slide39.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona1&#34; href=&#34;/project/2017_cepco/persona1/Slide41.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona1/Slide41.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona1&#34; href=&#34;/project/2017_cepco/persona1/Slide42.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona1/Slide42.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona1&#34; href=&#34;/project/2017_cepco/persona1/Slide44.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona1/Slide44.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;persona-2-and-her-scenario&#34;&gt;Persona 2 and her scenario&lt;/h2&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona2&#34; href=&#34;/project/2017_cepco/persona2/Slide47.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona2/Slide47.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona2&#34; href=&#34;/project/2017_cepco/persona2/Slide48.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona2/Slide48.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona2&#34; href=&#34;/project/2017_cepco/persona2/Slide49.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona2/Slide49.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona2&#34; href=&#34;/project/2017_cepco/persona2/Slide50.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona2/Slide50.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona2&#34; href=&#34;/project/2017_cepco/persona2/Slide52.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona2/Slide52.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona2&#34; href=&#34;/project/2017_cepco/persona2/Slide54.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona2/Slide54.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-persona2&#34; href=&#34;/project/2017_cepco/persona2/Slide55.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/persona2/Slide55.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;customer-journey-map&#34;&gt;Customer Journey Map&lt;/h2&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-journey&#34; href=&#34;/project/2017_cepco/journey/13.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/journey/13.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-journey&#34; href=&#34;/project/2017_cepco/journey/14.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/journey/14.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+&lt;h4 id=&#34;concept-visual&#34;&gt;Concept Visual&lt;/h4&gt;
+
+&lt;h2 id=&#34;made-a-strong-concept-in-the-first-phase&#34;&gt;Made a strong concept in the first phase&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/15.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/16.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;lean-startup&#34;&gt;Lean Startup&lt;/h4&gt;
+
+&lt;h2 id=&#34;explored-requirements-of-business-model-ux-and-tech-specs&#34;&gt;Explored requirements of business model, UX and tech specs&lt;/h2&gt;
+
+&lt;p&gt;In the following lean startup phase, we specified and verified business opportunities and appropriate user experiences. Collaborating with business strategists and engineers, we created the detailed service ecosystem in terms of business, technology and design.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/20.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;co-creation&#34;&gt;Co-Creation&lt;/h4&gt;
+
+&lt;h2 id=&#34;collaborated-with-users-clients-business-strategists-and-technologists&#34;&gt;Collaborated with users, clients, business strategists and technologists&lt;/h2&gt;
+
+&lt;p&gt;We performed 30 interviews and improved our product iteratively. Using InVision, we performed interviews with a moving prototype mockup. Finally, we fixed requirements of comprehensive services and proceeded to the following development phase.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/7.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-collabo&#34; href=&#34;/project/2017_cepco/collabo/10.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/collabo/10.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-collabo&#34; href=&#34;/project/2017_cepco/collabo/114.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/collabo/114.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-collabo&#34; href=&#34;/project/2017_cepco/collabo/115.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/collabo/115.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-collabo&#34; href=&#34;/project/2017_cepco/collabo/7.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/collabo/7.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-collabo&#34; href=&#34;/project/2017_cepco/collabo/8.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/collabo/8.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-collabo&#34; href=&#34;/project/2017_cepco/collabo/9.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/collabo/9.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;define-detailed-user-experience&#34;&gt;Define Detailed User Experience&lt;/h4&gt;
+
+&lt;h2 id=&#34;paper-prototype&#34;&gt;Paper Prototype&lt;/h2&gt;
+
+&lt;p&gt;In this service, we needed to design interfaces for 3 different user segments; child, parents(father and mother) and grandparents.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/118.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/119.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/120.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;prototype-1&#34;&gt;Prototype 1&lt;/h2&gt;
+
+&lt;p&gt;Using Invision, we designed mockup screens to interview. The following charts are parts of designed mockup screens.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/124.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/125.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/126.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;walkthrough-from-business-and-technology-side&#34;&gt;Walkthrough from Business and Technology side&lt;/h4&gt;
+
+&lt;h2 id=&#34;updating-journey-map-considering-the-business-model-and-technical-feasibility&#34;&gt;Updating Journey Map considering the business model and technical feasibility&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/117.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/116.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/17.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/18.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;fix-mvp-ux-ui-specifications&#34;&gt;Fix MVP UX/UI Specifications&lt;/h4&gt;
+
+&lt;h2 id=&#34;proceed-to-the-development-phase&#34;&gt;Proceed to the development phase&lt;/h2&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/1.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/1.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/10.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/10.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/11.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/11.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/12.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/12.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/13.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/13.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/14.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/14.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/15.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/15.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/2.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/2.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/3.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/3.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/4.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/4.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/5.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/5.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/6.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/6.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/7.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/7.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/8.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/8.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-proto&#34; href=&#34;/project/2017_cepco/proto/9.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/proto/9.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+&lt;h4 id=&#34;final-wireframe-flow&#34;&gt;Final Wireframe &amp;amp; Flow&lt;/h4&gt;
+
+&lt;h2 id=&#34;finalized-ux-ui-in-sprints-of-development&#34;&gt;Finalized UX/UI in sprints of development&lt;/h2&gt;
+
+&lt;p&gt;In the subsequent development phase, I have been working on continuously improving the quality of the product through a process of iterative prototyping and user evaluation. I have the certification of both a practitioner of IBM Design Thinking and a Scrum Master, so I can work consistently end to end from the concept creation to implementation phases as a professional user experience designer.&lt;/p&gt;
+
+&lt;p&gt;Finally my team designed and finalized 94 screens and interactions in the development phase.
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-final&#34; href=&#34;/project/2017_cepco/final/121.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/final/121.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-final&#34; href=&#34;/project/2017_cepco/final/122.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/final/122.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;learning&#34;&gt;Learning&lt;/h4&gt;
+
+&lt;h2 id=&#34;service-design-is-co-creation&#34;&gt;Service Design is Co-creation&lt;/h2&gt;
+
+&lt;p&gt;Product design is a process of exploring an appropriate ecosystem comprising everyone, that is created by everyone, and is provided for everyone.&lt;/p&gt;
+
+&lt;p&gt;My guiding principle is co-creation with clients, users, stakeholders, and experts to advance the journey between ideal concept and viable function; innovation and cliché; and provider’s aspiration and the customer’s need.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/4.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>UBER UX RESEARCH AND DESIGN</title>
+      <link>/project/2015_uber/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>/project/2015_uber/</guid>
+      <description>
+
+&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
+
+&lt;h2 id=&#34;how-can-we-improve-the-experience-of-uber-drivers&#34;&gt;How can we improve the experience of Uber drivers?&lt;/h2&gt;
+
+&lt;p&gt;Joined 5 weeks MFA Interaction Design Program of User Research Methods in SVA, US. Woriking in teams, we’ve joined a real project with Uber and proposed UX to solve current issues. I’ve learned the fundamentals of user research techniques and the sense of UX in collaboration with global students.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Teacher: Jodi Leo, VP of Product Design at CapTap&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;concept&#34;&gt;Concept&lt;/h3&gt;
+
+&lt;h2 id=&#34;a-driver-and-a-rider-can-meet-100-accuracy-without-inconvenience-using-a-translating-function&#34;&gt;A driver and a rider can meet 100% accuracy without inconvenience using a translating function.&lt;/h2&gt;
+
+&lt;p&gt;Gave the final presentation to the class. We proposed an automatic translation function and overall UX and showed the possibility of investing (Week 5).&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album3&#34; href=&#34;/project/2015_uber/album3/1.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album3/1.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+*click to zoom&lt;/p&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/131.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/132.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/133.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/134.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;br /&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/2.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/23.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+&lt;!-- 
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/24.jpg&#34; /&gt;
+
+
+&lt;/figure&gt; --&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;design-approach&#34;&gt;Design Approach&lt;/h3&gt;
+
+&lt;h2 id=&#34;uber-experience-design-based-on-empathzing&#34;&gt;Uber Experience Design based on Empathzing&lt;/h2&gt;
+
+&lt;p&gt;Learned methodologies and techniques of the research in a lecture (Week 1). Interviewed an executive of Uber and defined the goal of this project; “perfecting the pickup“ (Week 2). Observed the service of Uber. we went to JFK airport and used the service actually. We interviewed the driver and summarized findings using AEIOU worksheet (Week 3). Extracted insights of the research as the class. We’ve defined current issues of the service and our team tackled with a language and communication probrem between the driver and the rider (Week 4). The key process is the following.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Empathize user&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Analize &amp;amp; Synthesize insights&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Explore a solution&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Prototype &amp;amp; Visualize quickly&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;design-process&#34;&gt;Design Process&lt;/h3&gt;
+
+&lt;h2 id=&#34;user-centered-design&#34;&gt;User Centered Design&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phase / Period
+
+&lt;ul&gt;
+&lt;li&gt;Concept&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt; - 08/2015&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Team / Role
+
+&lt;ul&gt;
+&lt;li&gt;Design practitioners which had various backgrounds&lt;/li&gt;
+&lt;li&gt;UI/UX Design Practitioner&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Method / Technology
+
+&lt;ul&gt;
+&lt;li&gt;User-Centered Design&lt;/li&gt;
+&lt;li&gt;Target Device: Mobile&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Output
+
+&lt;ul&gt;
+&lt;li&gt;Field Research Analysis Sheet, Persona, Customer Journey Map, Mockup Screens&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;install-methodology-of-ux-design&#34;&gt;Install Methodology of UX Design&lt;/h2&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/100.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/100.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/101.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/101.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/102.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/102.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/103.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/103.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/104.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/104.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/105.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/105.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/106.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/106.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/107.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/107.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/108.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/108.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/109.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/109.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/110.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/110.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/111.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/111.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/112.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/112.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/113.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/113.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/114.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/114.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/115.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/115.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/116.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/116.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/117.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/117.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/118.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/118.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/119.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/119.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/120.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album/120.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;interview-with-stakeholder-and-confirm-business-goal&#34;&gt;Interview with Stakeholder and Confirm Business Goal&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/121.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/122.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/123.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;empathize&#34;&gt;Empathize&lt;/h3&gt;
+
+&lt;h2 id=&#34;observe-user-and-context&#34;&gt;Observe User and Context&lt;/h2&gt;
+
+&lt;p&gt;Using AEIOU Worksheet invented by IDEO, we actually used Uber at the JFK airport and observe interactions as a rider.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/10.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/11.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/12.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/13.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/14.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/20.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/21.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/22.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;analyze-synthesize&#34;&gt;Analyze &amp;amp; Synthesize&lt;/h3&gt;
+
+&lt;h2 id=&#34;aeiou-guide-and-debrief-insight&#34;&gt;AEIOU Guide and Debrief Insight&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/15.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/15.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;define&#34;&gt;Define&lt;/h3&gt;
+
+&lt;h2 id=&#34;define-persona-ploblems&#34;&gt;Define Persona &amp;amp; Ploblems&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/124.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/125.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/128.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;explore&#34;&gt;Explore&lt;/h3&gt;
+
+&lt;h2 id=&#34;brainstorm-and-decide-ideas&#34;&gt;Brainstorm and Decide Ideas&lt;/h2&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/12.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/126.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/127.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/17.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;make-customer-journey-map&#34;&gt;Make Customer Journey Map&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/18.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;deliver&#34;&gt;Deliver&lt;/h3&gt;
+
+&lt;h2 id=&#34;draw-wireframes-and-finalize&#34;&gt;Draw wireframes and Finalize&lt;/h2&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/130.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Biography</title>
       <link>/ms1/career/</link>
-      <pubDate>Fri, 19 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0200</pubDate>
       
       <guid>/ms1/career/</guid>
       <description>&lt;p&gt;Masaki is an interaction and service designer based in NY.
@@ -469,7 +2242,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>Design Manifesto: Goodbye Human, Hello Alien.</title>
       <link>/publication/manifesto/</link>
-      <pubDate>Fri, 19 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/manifesto/</guid>
       <description></description>
@@ -478,7 +2251,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>MJ Button</title>
       <link>/ms1/highline/</link>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0200</pubDate>
       
       <guid>/ms1/highline/</guid>
       <description>
@@ -853,7 +2626,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>5D: Collective Transition</title>
       <link>/ms1/5d/</link>
-      <pubDate>Sun, 30 Sep 2018 01:00:00 -0400</pubDate>
+      <pubDate>Sun, 30 Sep 2018 01:00:00 +0200</pubDate>
       
       <guid>/ms1/5d/</guid>
       <description>&lt;p&gt;
@@ -952,7 +2725,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>4D: Collective Aroma</title>
       <link>/ms1/4d/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>/ms1/4d/</guid>
       <description>&lt;p&gt;
@@ -1033,7 +2806,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>3D: Collective Juice</title>
       <link>/ms1/3d/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>/ms1/3d/</guid>
       <description>&lt;p&gt;
@@ -1114,7 +2887,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>Collective Juice</title>
       <link>/project/2018_collective/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>/project/2018_collective/</guid>
       <description>
@@ -1291,7 +3064,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>2D: Career Chain</title>
       <link>/ms1/2d/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>/ms1/2d/</guid>
       <description>&lt;p&gt;
@@ -1435,657 +3208,9 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>1D: Identiy Digitalizing</title>
       <link>/ms1/1d/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>/ms1/1d/</guid>
-      <description>&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide01.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide02.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide03.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide04.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide05.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide06.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide07.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide08.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide09.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide10.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide11.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide12.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide13.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide14.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide15.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide16.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide17.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Interface Critique</title>
-      <link>/ms1/interface/</link>
-      <pubDate>Sun, 02 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/ms1/interface/</guid>
-      <description>&lt;p&gt;I picked up an umbrella for critiquing as an interface. An umbrella or parasol is designed to protect a person against rain or sunlight. It is said that an umbrella has been used about 4000 years ago and remains in sculptures such as Egypt, Persia, and mural paintings. In many regions, umbrellas have developed to protect the king from sunlight, so they have long been a luxury item, a symbol of wealth and power.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/1.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;The umbrella of the current structure was developed as a parasol in the 18th century, and initially, it was a woman&amp;rsquo;s belongings. On rainy days the man was wet without a habit of having an umbrella, but eventually, the umbrella also spread to men. The context of the umbrella changes with the times and it is still used worldwide as an essential item of rain today.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/4.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-Paris Street; Rainy Weather, by Gustave Caillebotte (1877)&lt;/p&gt;
-
-&lt;p&gt;As an interface between people and rain, an umbrella has a very long history. Although the context to be used has changed, the function and design almost unchanged for thousands of years. The shape of umbrella affords us to open, and I think that it is a complete form as a product.&lt;/p&gt;
-
-&lt;p&gt;However, umbrellas have risks of being stolen or forgotten, hand clogging, wind weakness, etc. I think that there is a possibility of innovation using emerging technology. For example, an umbrella capable of tracking position information and a drone umbrella is undergoing demonstration experiments.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/2.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;However, I focused on a project named &amp;ldquo;&lt;a href=&#34;https://gizmodo.com/5915133/sensor-filled-umbrella-turns-raindrops-into-a-retro-8-bit-soundtrack&#34;&gt;Song of Raindrop&lt;/a&gt;&amp;rdquo; that uses Arduino to convert energy when rain hits an umbrella into music.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/3.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;It is wonderful that this project is not for the current problem solving, it makes the rainy day more pleasant and also makes the context of rainy days change poetically. I would like to refer to this &amp;ldquo;augmented rainy day&amp;rdquo; idea regarding changing the context and making natural phenomena more interactive.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MTA METROCARD REDESIGN</title>
-      <link>/project/2018_mta/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/project/2018_mta/</guid>
-      <description>
-
-&lt;h3 id=&#34;this-project-is-still-ongoing&#34;&gt;*This project is still ongoing&lt;/h3&gt;
-
-&lt;h4 id=&#34;objective&#34;&gt;Objective&lt;/h4&gt;
-
-&lt;h2 id=&#34;how-might-we-make-nyc-s-subway-riding-experience-more-comfortable&#34;&gt;How might we make NYC’s subway riding experience more comfortable?&lt;/h2&gt;
-
-&lt;p&gt;The NYC metrocard system has remained unchanged for decades and users of NYC subway sometimes have  uncomfortable experiences especially the entrance of subway; the lost time of waiting in line to buy a metrocard, touching a dirty machine and so on. User-centered service and experience is needed for users to get access easily to the metro, on time, without having a bad experience.&lt;/p&gt;
-
-&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
-
-&lt;h2 id=&#34;gateless-entry&#34;&gt;Gateless Entry&lt;/h2&gt;
-
-&lt;p&gt;Subway users can enter the platform without having physical metrocard.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/3.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;mockup-screens-iteration-i&#34;&gt;Mockup Screens (Iteration I)&lt;/h2&gt;
-
-&lt;iframe width=&#34;442&#34; height=&#34;935&#34; src=&#34;//invis.io/TCO7886KGHS&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;h4 id=&#34;design-process&#34;&gt;Design Process&lt;/h4&gt;
-
-&lt;h2 id=&#34;user-centered-design&#34;&gt;User Centered Design&lt;/h2&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/2.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phase / Period
-
-&lt;ul&gt;
-&lt;li&gt;Empathize, Define, Ideate, Prototype, Test&lt;/li&gt;
-&lt;li&gt;10 / 2018 (40h)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Team
-
-&lt;ul&gt;
-&lt;li&gt;Sole Project&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Method / Technology
-
-&lt;ul&gt;
-&lt;li&gt;User-Centered Design&lt;/li&gt;
-&lt;li&gt;Target Device: iOS App&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide4.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide5.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide6.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide7.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide8.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide9.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide10.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide11.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide12.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide13.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide14.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide15.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide16.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide17.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide18.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide19.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;mockup-screens-iteration-i-1&#34;&gt;Mockup Screens (Iteration I)&lt;/h2&gt;
-
-&lt;iframe width=&#34;442&#34; height=&#34;935&#34; src=&#34;//invis.io/TCO7886KGHS&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&#34;user-feedback&#34;&gt;User Feedback&lt;/h2&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide22.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h2 id=&#34;update-experience-iteration-ii&#34;&gt;Update Experience (Iteration II)&lt;/h2&gt;
-
-&lt;h2 id=&#34;future-iteration&#34;&gt;Future Iteration&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>HUMAN EXPERIENCE FOR TRANSHUMAN</title>
-      <link>/project/2018_speculative/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/project/2018_speculative/</guid>
-      <description>
-
-&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
-
-&lt;h2 id=&#34;xhuman-educational-headset-for-transhumans-to-experience-human-in-2075&#34;&gt;XHuman: Educational Headset for transhumans to Experience “Human” in 2075&lt;/h2&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/6.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/5.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/10.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/4.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;project-information&#34;&gt;Project Information&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phase / Period
-
-&lt;ul&gt;
-&lt;li&gt;Concept, Design, Build&lt;/li&gt;
-&lt;li&gt;Period* &lt;sup&gt;10&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2018&lt;/sub&gt; (2 weeks)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Team / Role
-
-&lt;ul&gt;
-&lt;li&gt;Researcher(Me), Professor&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Method
-
-&lt;ul&gt;
-&lt;li&gt;Future Cone, Future&amp;rsquo;s Wheel, Timeline, Persona, Empathy Map, Storyboard, technological research&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Output* Physical prototype, User&amp;rsquo;s Manual&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;objective&#34;&gt;Objective&lt;/h4&gt;
-
-&lt;h2 id=&#34;how-can-humans-and-transhumans-coexist-towards-a-sustainable-society-in-2075&#34;&gt;How can Humans and Transhumans coexist towards a sustainable society in 2075?&lt;/h2&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/7.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;In 2075, this is the first generation that humans and transhumans are coexisting in the society. There is a new social problem that human beings and transhumans can not understand each other. Transhuman can not understand why humans are so inefficient. Humans were also afraid of transhuman beyond their abilities and did not know how to work or live together.&lt;/p&gt;
-
-&lt;h2 id=&#34;possible-timeline&#34;&gt;Possible Timeline&lt;/h2&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/8.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;In 2045, AI finally exceeded the intelligence of all human beings.&lt;/p&gt;
-
-&lt;p&gt;In 2060, superintelligence is embedded in the human brain for the first time and Human consciousness uploaded on the internet.&lt;/p&gt;
-
-&lt;p&gt;Now in 2075, 11% of parents choose to implant AI to their newborn babies. They are the first generation of transhuman society.&lt;/p&gt;
-
-&lt;p&gt;Recently transhuman-only school is established because their superintelligence and don’t need “normal” human’s curriculum anymore.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide3.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h4 id=&#34;design-approach&#34;&gt;Design Approach&lt;/h4&gt;
-
-&lt;h2 id=&#34;future-speculation-using-wearable-technology&#34;&gt;Future speculation using wearable technology&lt;/h2&gt;
-
-&lt;p&gt;Create a speculative body technology that interacts with our sensory input or output. This device could enhance the way we see, limit our ability to smell or hear&amp;hellip;This device could be useful for a future version of our world, or another world/society from our imagination.&lt;/p&gt;
-
-&lt;p&gt;Make a prototype of an object, along with user manual that illustrates how it works and how one would use it.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/2.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h4 id=&#34;design-process&#34;&gt;Design Process&lt;/h4&gt;
-
-&lt;h2 id=&#34;future-speculation&#34;&gt;Future Speculation&lt;/h2&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide4.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide5.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide7.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide8.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide12.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;credit&#34;&gt;Credit&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;This project is carried out in the class of &lt;a href=&#34;https://speculativescience.wordpress.com/&#34;&gt;SPECULATIVE SCIENCE FOR DESIGN FICTION&lt;/a&gt; by Deren Guler.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>5 in 5 project</title>
-      <link>/ms1/5in5/</link>
-      <pubDate>Mon, 20 Aug 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/ms1/5in5/</guid>
       <description>&lt;p&gt;
 
 

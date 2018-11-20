@@ -4,8 +4,16 @@
     
     <url>
     
+      <loc>/parsons/vrtrip1/</loc>
+      <lastmod>2018-11-19T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/ms1/intent2/</loc>
-      <lastmod>2018-11-14T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-14T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -13,87 +21,7 @@
     <url>
     
       <loc>/ms1/intent/</loc>
-      <lastmod>2018-10-30T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/ms1/career/</loc>
-      <lastmod>2018-10-19T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/manifesto/</loc>
-      <lastmod>2018-10-19T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/ms1/highline/</loc>
-      <lastmod>2018-10-15T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/ms1/5d/</loc>
-      <lastmod>2018-09-30T01:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/ms1/4d/</loc>
-      <lastmod>2018-09-30T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/ms1/3d/</loc>
-      <lastmod>2018-09-29T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/2018_collective/</loc>
-      <lastmod>2018-09-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/ms1/2d/</loc>
-      <lastmod>2018-09-24T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/ms1/1d/</loc>
-      <lastmod>2018-09-20T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/ms1/interface/</loc>
-      <lastmod>2018-09-02T00:00:00-04:00</lastmod>
+      <lastmod>2018-10-30T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -101,31 +29,7 @@
     <url>
     
       <loc>/project/2018_mta/</loc>
-      <lastmod>2018-08-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/2018_speculative/</loc>
-      <lastmod>2018-08-24T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/ms1/5in5/</loc>
-      <lastmod>2018-08-20T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/2018_organic/</loc>
-      <lastmod>2018-07-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-10-27T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -133,55 +37,7 @@
     <url>
     
       <loc>/project/2017_cepco/</loc>
-      <lastmod>2018-02-27T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/2017_smile/</loc>
-      <lastmod>2017-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/2016_watson/</loc>
-      <lastmod>2016-09-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/2016_inageya/</loc>
-      <lastmod>2016-01-27T00:00:00-05:00</lastmod>
+      <lastmod>2018-10-24T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -189,7 +45,159 @@
     <url>
     
       <loc>/project/2015_uber/</loc>
-      <lastmod>2015-07-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-10-21T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/career/</loc>
+      <lastmod>2018-10-19T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/manifesto/</loc>
+      <lastmod>2018-10-19T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/highline/</loc>
+      <lastmod>2018-10-15T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/5d/</loc>
+      <lastmod>2018-09-30T01:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/4d/</loc>
+      <lastmod>2018-09-30T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/3d/</loc>
+      <lastmod>2018-09-29T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2018_collective/</loc>
+      <lastmod>2018-09-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/2d/</loc>
+      <lastmod>2018-09-24T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/1d/</loc>
+      <lastmod>2018-09-20T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/interface/</loc>
+      <lastmod>2018-09-02T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2018_speculative/</loc>
+      <lastmod>2018-08-24T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/ms1/5in5/</loc>
+      <lastmod>2018-08-20T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2018_organic/</loc>
+      <lastmod>2018-07-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/2017_smile/</loc>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/post/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2016_watson/</loc>
+      <lastmod>2016-09-27T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/2016_inageya/</loc>
+      <lastmod>2016-01-27T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -197,7 +205,7 @@
     <url>
     
       <loc>/project/2009_llimpidual/</loc>
-      <lastmod>2009-03-27T00:00:00-04:00</lastmod>
+      <lastmod>2009-03-27T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -205,7 +213,7 @@
     <url>
     
       <loc>/publication_types/4/</loc>
-      <lastmod>2018-10-19T00:00:00-04:00</lastmod>
+      <lastmod>2018-10-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -222,7 +230,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -231,7 +239,16 @@
     <url>
     
       <loc>/ms1/</loc>
-      <lastmod>2018-11-14T00:00:00-05:00</lastmod>
+      <lastmod>2018-11-14T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/parsons/</loc>
+      <lastmod>2018-11-19T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -240,7 +257,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2018-09-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-10-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -249,7 +266,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-10-19T00:00:00-04:00</lastmod>
+      <lastmod>2018-10-19T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -266,7 +283,7 @@
     <url>
     
       <loc>/tags/code/</loc>
-      <lastmod>2018-09-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-09-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -275,7 +292,7 @@
     <url>
     
       <loc>/tags/graphic/</loc>
-      <lastmod>2018-07-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-07-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -284,7 +301,7 @@
     <url>
     
       <loc>/tags/photo/</loc>
-      <lastmod>2017-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2017-04-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -293,7 +310,7 @@
     <url>
     
       <loc>/tags/product/</loc>
-      <lastmod>2018-09-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-09-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -302,7 +319,7 @@
     <url>
     
       <loc>/tags/service/</loc>
-      <lastmod>2018-02-27T00:00:00-05:00</lastmod>
+      <lastmod>2018-10-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -311,7 +328,7 @@
     <url>
     
       <loc>/tags/speculative/</loc>
-      <lastmod>2018-08-24T00:00:00-04:00</lastmod>
+      <lastmod>2018-08-24T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -320,7 +337,7 @@
     <url>
     
       <loc>/tags/uxui/</loc>
-      <lastmod>2018-08-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-10-27T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
