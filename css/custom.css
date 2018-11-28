@@ -2,6 +2,10 @@
     height: 35px;
 }
 
+/* .article-container {
+    max-width: 860px;
+} */
+
 h1 {
   font-size: 1.5rem;
   /* font-weight: 400; */
@@ -29,8 +33,8 @@ ul {
 }
 
 #overview, #objective, #concept, #implementation-evaluation,
-#design-process, #result, #design-approach, #my-role,
-#inspiration, #learning {
+#design-process, #result, #design-approach, #my-role, #method,#goal-setting, #background,
+#inspiration, #learning, #understand, #empathize, #define, #ideate, #prototype, #evaluate, #problem {
   margin-top: 3rem;
   color: #ff7473;
   margin-bottom: -0.5rem;

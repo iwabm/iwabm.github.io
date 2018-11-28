@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/product/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Collective Juice</title>
       <link>/project/2018_collective/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_collective/</guid>
       <description>Overview Demo Video   Project Information  Phase / Period  Concept, Design, Build, Evaluate 10 / 2018 (4 weeks)  Team  Researcher(Me), Professor Harpreet Sareen  Method / Technology  Ideation from 1D to 5D Arduino, processing  Output  Physical prototype   Objective How might we collect responses to questions that can only be answered by humans? As the development of technology, we can find many answers online within just a second.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>HUMAN EXPERIENCE FOR TRANSHUMAN</title>
       <link>/project/2018_speculative/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_speculative/</guid>
       <description>Concept XHuman: Educational Headset for transhumans to Experience “Human” in 2075         
@@ -35,7 +35,7 @@ Project Information  Phase / Period  Concept, Design, Build Period* 10&amp;frasl
     <item>
       <title>LimpiDual Touch</title>
       <link>/project/2009_llimpidual/</link>
-      <pubDate>Fri, 27 Mar 2009 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 27 Mar 2009 00:00:00 -0400</pubDate>
       
       <guid>/project/2009_llimpidual/</guid>
       <description>Overview Demo Video   Project Information  Phase / Period  Concept, Design, Build, Evaluate 04/2007 - 03/2009 (2 years)  Team / My Role  Researcher: Masaki Iwabuchi Professor: Takeshi Naemura (Professor of the University of Tokyo)  Method / Technology  Technology Research, Iterative Prototyping Touch Interface, Non-Organic Transparent EL Display, OpenGL  Output  Research Paper, User Evaluation Sheet   Inspiration What if we can display information on a transparent surface?</description>

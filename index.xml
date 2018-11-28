@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Berlin: Animal Imitation</title>
       <link>/parsons/vrtrip1/</link>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>/parsons/vrtrip1/</guid>
       <description>
@@ -50,7 +50,7 @@ You wanna experience VR space with pets? A completely new VR experience was born
     <item>
       <title>Updated Intent for Final</title>
       <link>/ms1/intent2/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>/ms1/intent2/</guid>
       <description>
@@ -258,7 +258,7 @@ You wanna experience VR space with pets? A completely new VR experience was born
     <item>
       <title>Intent for Final</title>
       <link>/ms1/intent/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/ms1/intent/</guid>
       <description>
@@ -492,39 +492,72 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
     </item>
     
     <item>
-      <title>MTA METROCARD REDESIGN</title>
+      <title>MTA Smart METROCARD</title>
       <link>/project/2018_mta/</link>
-      <pubDate>Sat, 27 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_mta/</guid>
       <description>
 
-&lt;h3 id=&#34;this-project-is-still-ongoing&#34;&gt;*This project is still ongoing&lt;/h3&gt;
+&lt;h4 id=&#34;background&#34;&gt;background&lt;/h4&gt;
 
-&lt;h4 id=&#34;objective&#34;&gt;Objective&lt;/h4&gt;
+&lt;h2 id=&#34;the-nyc-metro-system-has-remained-unchanged-for-decades&#34;&gt;The NYC metro system has remained unchanged for decades.&lt;/h2&gt;
 
-&lt;h2 id=&#34;how-might-we-make-nyc-s-subway-riding-experience-more-comfortable&#34;&gt;How might we make NYC’s subway riding experience more comfortable?&lt;/h2&gt;
+&lt;p&gt;Users of NYC subway sometimes have uncomfortable experiences; the lost time of waiting in line to buy a metrocard, touching a dirty machine, dirty platform and so on.&lt;/p&gt;
 
-&lt;p&gt;The NYC metrocard system has remained unchanged for decades and users of NYC subway sometimes have  uncomfortable experiences especially the entrance of subway; the lost time of waiting in line to buy a metrocard, touching a dirty machine and so on. User-centered service and experience is needed for users to get access easily to the metro, on time, without having a bad experience.&lt;/p&gt;
-
-&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
-
-&lt;h2 id=&#34;gateless-entry&#34;&gt;Gateless Entry&lt;/h2&gt;
-
-&lt;p&gt;Subway users can enter the platform without having physical metrocard.
+&lt;p&gt;The following chart (&lt;a href=&#34;https://www.nycedc.com/blog-entry/transportation-trends-nyc&#34; target=&#34;_blank&#34;&gt;source&lt;/a&gt;) shows that Ridership through ride-sharing services like Uber and Lyft has increased, while subway and bus ridership has declined. App-based services are based on a great UX and are increasing their users dramatically.
 
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/3.png&#34; /&gt;
+&lt;img src=&#34;img/research1.png&#34; /&gt;
 
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;mockup-screens-iteration-i&#34;&gt;Mockup Screens (Iteration I)&lt;/h2&gt;
+&lt;p&gt;Therefore, to increase a retention rate, MTA needs to provide the user-centered service and enable users to get access easily to the metro, on time, without having a bad experience.&lt;/p&gt;
 
-&lt;iframe width=&#34;442&#34; height=&#34;935&#34; src=&#34;//invis.io/TCO7886KGHS&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;!-- However, the plan of NY State doesn’t focus on users’ experiences or satisfactions. ([source](https://www.nycedc.com/blog-entry/transportation-trends-nyc)).
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/research2.png&#34; /&gt;
+
+
+&lt;/figure&gt; --&gt;
+
+&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;
+
+&lt;h2 id=&#34;how-might-we-get-rid-of-the-long-line-to-refill-the-cards-on-the-subway&#34;&gt;How might we get rid of the long line to refill the cards on the subway?&lt;/h2&gt;
+
+&lt;p&gt;From interviewing with real users, it turned out that NYC commuters sometimes have a frustration that they want to catch a train but cannot because they don&amp;rsquo;t have enough money in the metro card. In this moment, they have to go back to a ticket vending machine and wait in a long line to refill your card. This is really frustrating and painful experience.&lt;/p&gt;
+
+&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
+
+&lt;h2 id=&#34;refilling-metrocard-anytime-anywhere&#34;&gt;Refilling metrocard anytime anywhere&lt;/h2&gt;
+
+&lt;p&gt;Subway users can refill money through the App and enter the platform without using a ticket vending machine.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/card.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Smart Metrocard&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;This proposal is a little bit radical because the physical metrocard also need to be intelligent in order to reflect real-time refilling money from the App. However, this smart metrocard infrastructure is adopted by many countries such as Germany, France and Japan, and they don’t have a frustration of purchasing train tickets.&lt;/p&gt;
 
 &lt;h4 id=&#34;design-process&#34;&gt;Design Process&lt;/h4&gt;
 
@@ -541,6 +574,11 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 &lt;/figure&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Project Type
+
+&lt;ul&gt;
+&lt;li&gt;Private | UX Design Challenge&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Phase / Period
 
 &lt;ul&gt;
@@ -560,7 +598,14 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;
+&lt;h4 id=&#34;empathize&#34;&gt;Empathize&lt;/h4&gt;
+
+&lt;h2 id=&#34;who-is-the-users&#34;&gt;Who is the users?&lt;/h2&gt;
+
+&lt;p&gt;New York city commuters are primary user group and travelers are second user group because they are the biggest user groups.&lt;/p&gt;
+
+&lt;p&gt;From my research, there are 1.5 million daily-use commuters in NYC and over 60 million temporary-use traveller in a year. Also, they’re creating over $500M per month in total. They account for the majority of MTA&amp;rsquo;s revenue.
+
 
 
 &lt;figure&gt;
@@ -568,8 +613,21 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 &lt;img src=&#34;img/Slide4.png&#34; /&gt;
 
 
-&lt;/figure&gt;
+&lt;/figure&gt;&lt;/p&gt;
 
+&lt;h4 id=&#34;define&#34;&gt;Define&lt;/h4&gt;
+
+&lt;h2 id=&#34;how-did-i-find-the-problem&#34;&gt;How did I find the problem?&lt;/h2&gt;
+
+&lt;p&gt;Interviewing with a real user and confirming our assumption at the beginning is the fastest way to define problems.&lt;/p&gt;
+
+&lt;p&gt;I conducted interviews with 3 friends of mine. 2 of them are commuters and other 1 is traveller. I confirmed their process to use the subway and extracted their pain points from this interview.&lt;/p&gt;
+
+&lt;p&gt;I found commuters have frustration especially in rush hour. They hate time consuming to make a line to refill a metrocard and crowded train. Also, travellers have a trouble to sightseeing. They feel the entrance is narrow for big suitcase, time is not accurate and platform is dirty.&lt;/p&gt;
+
+&lt;p&gt;Finally, I converged the pain points and categorized 3 main frustration area from the interview. This is the problem related to ticket machines, platform and train schedule. These areas needs to be solved.&lt;/p&gt;
+
+&lt;p&gt;
 
 
 &lt;figure&gt;
@@ -597,6 +655,44 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 &lt;/figure&gt;
 
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide12.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;ideate&#34;&gt;Ideate&lt;/h4&gt;
+
+&lt;h2 id=&#34;research-and-ideation&#34;&gt;Research and Ideation&lt;/h2&gt;
+
+&lt;p&gt;Based on the specified pain points and directions, I conducted the brainstorming and created bold ideas. I came up with 10 following ideas.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Touch &amp;amp; Go by smartphone&lt;/li&gt;
+&lt;li&gt;Gateless entry&lt;/li&gt;
+&lt;li&gt;Fingerprint entry&lt;/li&gt;
+&lt;li&gt;Refill using App&lt;/li&gt;
+&lt;li&gt;Free wifi spot&lt;/li&gt;
+&lt;li&gt;Library in the platform&lt;/li&gt;
+&lt;li&gt;Bigger entrance&lt;/li&gt;
+&lt;li&gt;visualize maintenance status&lt;/li&gt;
+&lt;li&gt;visualize realtime train operation status&lt;/li&gt;
+&lt;li&gt;visualize real train location on the map&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide13.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+&lt;!-- 
 
 
 &lt;figure&gt;
@@ -631,25 +727,27 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 &lt;img src=&#34;img/Slide11.png&#34; /&gt;
 
 
-&lt;/figure&gt;
+&lt;/figure&gt; --&gt;&lt;/p&gt;
 
+&lt;h2 id=&#34;prioritization&#34;&gt;Prioritization&lt;/h2&gt;
 
+&lt;p&gt;I think the prioritization is the most important part because we must decide the solution and discard other solutions in this timing.&lt;/p&gt;
 
-&lt;figure&gt;
+&lt;p&gt;In this time, I used the prioritization grid which I used in my IBM career. This grid has 2 axis. One is desirability for the user and the other is feasibility in terms of technology and business. Using this 2 axis, we can evaluate the idea from design, business and technology.&lt;/p&gt;
 
-&lt;img src=&#34;img/Slide12.png&#34; /&gt;
-
-
-&lt;/figure&gt;
 
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/Slide13.png&#34; /&gt;
+&lt;img src=&#34;img/pri2.png&#34; /&gt;
 
 
 &lt;/figure&gt;
+
+&lt;p&gt;I arranged the idea using this chart and decided to pick up the idea that is in the No-Brainer area.
+I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is other competitors in the other idea in the No-Brainer area.&lt;/p&gt;
+
 
 
 
@@ -660,29 +758,16 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 &lt;/figure&gt;
 
+&lt;h4 id=&#34;prototype&#34;&gt;Prototype&lt;/h4&gt;
 
+&lt;h2 id=&#34;mockup-screens-iteration-i&#34;&gt;Mockup Screens (Iteration I)&lt;/h2&gt;
 
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide15.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
+&lt;p&gt;
 
 
 &lt;figure&gt;
 
 &lt;img src=&#34;img/Slide16.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide17.png&#34; /&gt;
 
 
 &lt;/figure&gt;
@@ -705,11 +790,19 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;mockup-screens-iteration-i-1&#34;&gt;Mockup Screens (Iteration I)&lt;/h2&gt;
-
 &lt;iframe width=&#34;442&#34; height=&#34;935&#34; src=&#34;//invis.io/TCO7886KGHS&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
+&lt;h4 id=&#34;evaluate&#34;&gt;Evaluate&lt;/h4&gt;
+
+&lt;h2 id=&#34;how-did-i-measure-success&#34;&gt;How did I measure success?&lt;/h2&gt;
+
+&lt;p&gt;Project success is measured by both quantitative and qualitative to judge properly.&lt;/p&gt;
+
+&lt;p&gt;In terms of quantitative perspective, we can test the time to refill money via App compared with making a line in front of a vending machine. We need to evaluate practical effects of the project using quantitative data. Also, in terms of qualitative measure, user interview should be conducted in the evaluation stage. I can confirm more emotional effects for the user.&lt;/p&gt;
+
 &lt;h2 id=&#34;user-feedback&#34;&gt;User Feedback&lt;/h2&gt;
+
+&lt;p&gt;In this design challenge, I conducted the user interview using the invision mockup, however, some functions didn’t  work well such as the timing of registering credit card information. I think the concept that decreasing user’s frustration of refilling card was accepted by the user because in the user interview users mentioned they need these App. However, detailed functions still have a possibility to improve.&lt;/p&gt;
 
 
 
@@ -721,16 +814,24 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 &lt;/figure&gt;
 
-&lt;h2 id=&#34;update-experience-iteration-ii&#34;&gt;Update Experience (Iteration II)&lt;/h2&gt;
+&lt;h4 id=&#34;learning&#34;&gt;Learning&lt;/h4&gt;
 
-&lt;h2 id=&#34;future-iteration&#34;&gt;Future Iteration&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-the-tradeoffs&#34;&gt;What is the tradeoffs?&lt;/h2&gt;
+
+&lt;p&gt;In this design challenge, I set the project period is 5 days, 40h. So tradeoff between time and work was challenging. I know I need time to prototype and evaluate, however it is also important to define a right problem. So I limited the number of interviewees and implemented the minimum story. In doing so, I focus on doing the whole process with considering time limitation.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-did-i-learn&#34;&gt;What did I learn?&lt;/h2&gt;
+
+&lt;p&gt;We cannot deliver a perfect product in the first iteration. We need to continue quick prototype and validate the experience in each time. In this limited timeline, I couldn’t take enough time to continue iterative cycles, but I need to manage at least 2 prototyping cycles to improve the final quality.&lt;/p&gt;
+
+&lt;p&gt;As for future iteration, I want to update mockup screens and conduct a second evaluation.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>C-EP CONSUMER SERVICES</title>
       <link>/project/2017_cepco/</link>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2017_cepco/</guid>
       <description>
@@ -1653,26 +1754,66 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
     <item>
       <title>UBER UX RESEARCH AND DESIGN</title>
       <link>/project/2015_uber/</link>
-      <pubDate>Sun, 21 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2015_uber/</guid>
       <description>
 
-&lt;h3 id=&#34;objective&#34;&gt;Objective&lt;/h3&gt;
+&lt;h4 id=&#34;background&#34;&gt;Background&lt;/h4&gt;
 
-&lt;h2 id=&#34;how-can-we-improve-the-experience-of-uber-drivers&#34;&gt;How can we improve the experience of Uber drivers?&lt;/h2&gt;
+&lt;h2 id=&#34;uber-wanted-to-make-cities-more-accessible&#34;&gt;Uber wanted to make cities more accessible&lt;/h2&gt;
 
-&lt;p&gt;Joined 5 weeks MFA Interaction Design Program of User Research Methods in SVA, US. Woriking in teams, we’ve joined a real project with Uber and proposed UX to solve current issues. I’ve learned the fundamentals of user research techniques and the sense of UX in collaboration with global students.&lt;/p&gt;
+&lt;p&gt;This was an academic project of Summer Intensive course of User Research Methods in SVA, US. We worked with a director of Uber and interviewed with him in the beginning. We understood one of the main focus of Uber was how drivers and riders find each other and ensure their identity.&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Teacher: Jodi Leo, VP of Product Design at CapTap&lt;/p&gt;
-&lt;/blockquote&gt;
 
-&lt;h3 id=&#34;concept&#34;&gt;Concept&lt;/h3&gt;
 
-&lt;h2 id=&#34;a-driver-and-a-rider-can-meet-100-accuracy-without-inconvenience-using-a-translating-function&#34;&gt;A driver and a rider can meet 100% accuracy without inconvenience using a translating function.&lt;/h2&gt;
+&lt;div class=&#34;gallery&#34;&gt;
 
-&lt;p&gt;Gave the final presentation to the class. We proposed an automatic translation function and overall UX and showed the possibility of investing (Week 5).&lt;/p&gt;
+  
+  
+  
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album2&#34; href=&#34;/project/2015_uber/album2/121.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album2/121.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album2&#34; href=&#34;/project/2015_uber/album2/122.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album2/122.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+    
+    
+    
+    
+  &lt;a data-fancybox=&#34;gallery-album2&#34; href=&#34;/project/2015_uber/album2/123.png&#34; &gt;
+  &lt;img src=&#34;/project/2015_uber/album2/123.png&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+
+  
+&lt;/div&gt;
+
+&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;
+
+&lt;h2 id=&#34;how-might-we-ensure-drivers-and-riders-to-find-each-other-and-confirm-their-identity-perfectly&#34;&gt;How might we ensure drivers and riders to find each other and confirm their identity perfectly?&lt;/h2&gt;
+
+&lt;p&gt;As a field work, our team went to the JFK airport and used Uber. We had an experience that we couldn’t specify the driver easily because there were a lot of cars in the airport terminal and also other people were using the ride-sharing App. So one car stopped in front of us, but that was another person’s car. This moment was upset and so frustrating.&lt;/p&gt;
+
+&lt;!-- And another reason was the meeting point in the airport was complicated. We told the terminal to the driver, but we waited the other exit. So we couldn’t meet at first and we had to call the driver.  --&gt;
+
+&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
+
+&lt;h2 id=&#34;a-driver-and-a-rider-can-communicate-about-detailed-location-regardless-of-their-language&#34;&gt;A driver and a rider can communicate about detailed location regardless of their language&lt;/h2&gt;
+
+&lt;p&gt;In this situation, our team proposed the new function of Uber that makes it easy for drivers and riders to meet.&lt;/p&gt;
 
 &lt;p&gt;
 
@@ -1730,51 +1871,13 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 &lt;img src=&#34;img/134.png&#34; /&gt;
 
 
-&lt;/figure&gt;&lt;br /&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/2.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/23.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-&lt;!-- 
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/24.jpg&#34; /&gt;
-
-
-&lt;/figure&gt; --&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;design-approach&#34;&gt;Design Approach&lt;/h3&gt;
-
-&lt;h2 id=&#34;uber-experience-design-based-on-empathzing&#34;&gt;Uber Experience Design based on Empathzing&lt;/h2&gt;
-
-&lt;p&gt;Learned methodologies and techniques of the research in a lecture (Week 1). Interviewed an executive of Uber and defined the goal of this project; “perfecting the pickup“ (Week 2). Observed the service of Uber. we went to JFK airport and used the service actually. We interviewed the driver and summarized findings using AEIOU worksheet (Week 3). Extracted insights of the research as the class. We’ve defined current issues of the service and our team tackled with a language and communication probrem between the driver and the rider (Week 4). The key process is the following.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Empathize user&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Analize &amp;amp; Synthesize insights&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Explore a solution&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Prototype &amp;amp; Visualize quickly&lt;br&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/figure&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;design-process&#34;&gt;Design Process&lt;/h3&gt;
 
-&lt;h2 id=&#34;user-centered-design&#34;&gt;User Centered Design&lt;/h2&gt;
+&lt;h2 id=&#34;uber-experience-design-based-on-empathzing&#34;&gt;Uber Experience Design based on Empathzing&lt;/h2&gt;
+
+&lt;p&gt;Within 5 classes in 5 weeks, we made a field research, problem definition, ideation and prototyping and critique. We formed the small team and made a solution together as a UX/UI practitioner.&lt;/p&gt;
 
 
 
@@ -1787,16 +1890,22 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 &lt;/figure&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Project Type
+
+&lt;ul&gt;
+&lt;li&gt;Academic&lt;/li&gt;
+&lt;li&gt;Teacher: Jodi Leo, VP of Product Design at CapTap&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Phase / Period
 
 &lt;ul&gt;
 &lt;li&gt;Concept&lt;/li&gt;
-&lt;li&gt;&lt;sup&gt;7&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2015&lt;/sub&gt; - 08/2015&lt;/li&gt;
+&lt;li&gt;07/2015 - 08/2015&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Team / Role
 
 &lt;ul&gt;
-&lt;li&gt;Design practitioners which had various backgrounds&lt;/li&gt;
+&lt;li&gt;Sandra Gatica Morales, Colleen Brogan; Design practitioners which had various backgrounds&lt;/li&gt;
 &lt;li&gt;UI/UX Design Practitioner&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Method / Technology
@@ -1811,6 +1920,8 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 &lt;li&gt;Field Research Analysis Sheet, Persona, Customer Journey Map, Mockup Screens&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h4 id=&#34;method&#34;&gt;Method&lt;/h4&gt;
 
 &lt;h2 id=&#34;install-methodology-of-ux-design&#34;&gt;Install Methodology of UX Design&lt;/h2&gt;
 
@@ -1842,22 +1953,6 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
     
     
     
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/102.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/102.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/103.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/103.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
   &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/104.png&#34; &gt;
   &lt;img src=&#34;/project/2015_uber/album/104.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
@@ -1868,14 +1963,6 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
     
   &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/105.png&#34; &gt;
   &lt;img src=&#34;/project/2015_uber/album/105.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/106.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/106.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -1994,42 +2081,15 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
   
 &lt;/div&gt;
 
-&lt;h2 id=&#34;interview-with-stakeholder-and-confirm-business-goal&#34;&gt;Interview with Stakeholder and Confirm Business Goal&lt;/h2&gt;
+&lt;h4 id=&#34;empathize&#34;&gt;Empathize&lt;/h4&gt;
+
+&lt;h2 id=&#34;how-did-we-know-the-right-problem&#34;&gt;How did we know the right problem?&lt;/h2&gt;
+
+&lt;p&gt;As a field research, we went to the JFK and used Uber App. Using AEIOU Guide, we recorded all interactions and experiences we had, and also interviewed with a real driver how to do his work usually.&lt;/p&gt;
+
+&lt;p&gt;In the interview, we confirmed that he had a problem to pick up a rider. Our driver told that he had a mistake that he picked up the wrong person who has a same first name. Also, he had a language problem because sometimes people who cannot speak English ride especially in the airport. We understood how difficult to pick up a right person perfectly.&lt;/p&gt;
 
 &lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/121.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/122.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/123.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;empathize&#34;&gt;Empathize&lt;/h3&gt;
-
-&lt;h2 id=&#34;observe-user-and-context&#34;&gt;Observe User and Context&lt;/h2&gt;
-
-&lt;p&gt;Using AEIOU Worksheet invented by IDEO, we actually used Uber at the JFK airport and observe interactions as a rider.
-
 
 
 &lt;figure&gt;
@@ -2102,8 +2162,6 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;analyze-synthesize&#34;&gt;Analyze &amp;amp; Synthesize&lt;/h3&gt;
-
 &lt;h2 id=&#34;aeiou-guide-and-debrief-insight&#34;&gt;AEIOU Guide and Debrief Insight&lt;/h2&gt;
 
 &lt;p&gt;
@@ -2125,11 +2183,12 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;define&#34;&gt;Define&lt;/h3&gt;
+&lt;h4 id=&#34;define&#34;&gt;Define&lt;/h4&gt;
 
-&lt;h2 id=&#34;define-persona-ploblems&#34;&gt;Define Persona &amp;amp; Ploblems&lt;/h2&gt;
+&lt;h2 id=&#34;define-persona-as-is-context&#34;&gt;Define Persona &amp;amp; As-Is Context&lt;/h2&gt;
 
-&lt;p&gt;
+&lt;p&gt;After the research, we made personas and summarize a current context to confirm and our understanding.
+
 
 
 &lt;figure&gt;
@@ -2158,11 +2217,16 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 &lt;/figure&gt;
 
-&lt;h3 id=&#34;explore&#34;&gt;Explore&lt;/h3&gt;
+&lt;h4 id=&#34;ideate&#34;&gt;Ideate&lt;/h4&gt;
 
 &lt;h2 id=&#34;brainstorm-and-decide-ideas&#34;&gt;Brainstorm and Decide Ideas&lt;/h2&gt;
 
-&lt;p&gt;
+&lt;p&gt;We conducted the brainstorming. One of the bold idea was issuing the 4-digit code for driver and rider and confirm it. Another idea was set the uber official meeting spot.&lt;/p&gt;
+
+&lt;p&gt;After the ideation, we selected the idea in terms of perfecting the meeting and prioritized 2 main ideas. One was automatic translation, and the other was realtime chat which wasn’t released in 2015.&lt;/p&gt;
+
+&lt;p&gt;According to this core idea, we made an user journey map and wireframes.
+
 
 
 &lt;figure&gt;
@@ -2199,9 +2263,11 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;make-customer-journey-map&#34;&gt;Make Customer Journey Map&lt;/h2&gt;
+&lt;h4 id=&#34;prototype&#34;&gt;Prototype&lt;/h4&gt;
 
+&lt;h2 id=&#34;customer-journey-map-and-wireframes&#34;&gt;Customer Journey Map and Wireframes&lt;/h2&gt;
 
+&lt;p&gt;
 
 
 &lt;figure&gt;
@@ -2211,11 +2277,6 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 &lt;/figure&gt;
 
-&lt;h3 id=&#34;deliver&#34;&gt;Deliver&lt;/h3&gt;
-
-&lt;h2 id=&#34;draw-wireframes-and-finalize&#34;&gt;Draw wireframes and Finalize&lt;/h2&gt;
-
-
 
 
 &lt;figure&gt;
@@ -2223,14 +2284,59 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 &lt;img src=&#34;img/130.png&#34; /&gt;
 
 
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;things-we-tried-things-that-did-not-work&#34;&gt;Things we tried, things that did not work&lt;/h2&gt;
+
+&lt;p&gt;When we reviewed our first wireframe internally, we found we should consider the function for next use. Our idea provides the function to text a detailed location to the driver, but in the next time, it is frustrating to text the same location once again. So we added a function to save the text you write for the next use.&lt;/p&gt;
+
+&lt;h4 id=&#34;evaluate&#34;&gt;Evaluate&lt;/h4&gt;
+
+&lt;h2 id=&#34;final-presentation&#34;&gt;Final Presentation&lt;/h2&gt;
+
+&lt;p&gt;Finally, our concept was evaluated by the final presentation of the class. Our professor said that our concept that promotes communication and translation make sense. However, our wireframe needed to think about another form of input such as voice or pictures because text communication still takes time for users. We needed more iteration to be the interaction natural for the user.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/2.jpg&#34; /&gt;
+
+
 &lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/23.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;how-did-we-measure-success&#34;&gt;How did we measure success?&lt;/h2&gt;
+
+&lt;p&gt;I think the project should be measured by quantitative and qualitative standard. In terms of quantitative view, we can measure the actual time until drivers and riders finally meet in the airport again. On the other hand, as a qualitative method, we also need to ask inquiries with drivers and riders to know how much their frustration is solved.&lt;/p&gt;
+
+&lt;h4 id=&#34;learning&#34;&gt;Learning&lt;/h4&gt;
+
+&lt;h2 id=&#34;what-is-the-tradeoffs&#34;&gt;What is the tradeoffs?&lt;/h2&gt;
+
+&lt;p&gt;Depth of communication vs time taking. Driver and rider must communicate about a detailed location. But if the number of communications increases, it takes time and workload for drivers and riders is also increased. We should not be like a messaging app, but we need to communicate the detail.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-did-we-learn&#34;&gt;What did we learn?&lt;/h2&gt;
+
+&lt;p&gt;I think user interview needs not just a talking skill but a well-prepared strategy. To have a good preparation enables us to extract a good insight from user.&lt;/p&gt;
+
+&lt;p&gt;In this class, the professor told us these strategies of interview. For example, we should go to interview with at least 3 people and devided the role separately. One focus on the interview, another one focus on the minutes, and the final one focus on recording. It means interviewing is not only just a talking, but also a strategic activity. Another strategy is to prepare questions beforehand. To think about why we ask this question and what we want to extract is the most important part of the interview. Without these thinkings, our interview will be lost the way.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Biography</title>
       <link>/ms1/career/</link>
-      <pubDate>Fri, 19 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/ms1/career/</guid>
       <description>&lt;p&gt;Masaki is an interaction and service designer based in NY.
@@ -2242,7 +2348,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>Design Manifesto: Goodbye Human, Hello Alien.</title>
       <link>/publication/manifesto/</link>
-      <pubDate>Fri, 19 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/manifesto/</guid>
       <description></description>
@@ -2251,7 +2357,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>MJ Button</title>
       <link>/ms1/highline/</link>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/ms1/highline/</guid>
       <description>
@@ -2626,7 +2732,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>5D: Collective Transition</title>
       <link>/ms1/5d/</link>
-      <pubDate>Sun, 30 Sep 2018 01:00:00 +0200</pubDate>
+      <pubDate>Sun, 30 Sep 2018 01:00:00 -0400</pubDate>
       
       <guid>/ms1/5d/</guid>
       <description>&lt;p&gt;
@@ -2725,7 +2831,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>4D: Collective Aroma</title>
       <link>/ms1/4d/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/ms1/4d/</guid>
       <description>&lt;p&gt;
@@ -2806,7 +2912,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>3D: Collective Juice</title>
       <link>/ms1/3d/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/ms1/3d/</guid>
       <description>&lt;p&gt;
@@ -2887,7 +2993,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>Collective Juice</title>
       <link>/project/2018_collective/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_collective/</guid>
       <description>
@@ -3064,7 +3170,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>2D: Career Chain</title>
       <link>/ms1/2d/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/ms1/2d/</guid>
       <description>&lt;p&gt;
@@ -3208,7 +3314,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>1D: Identiy Digitalizing</title>
       <link>/ms1/1d/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/ms1/1d/</guid>
       <description>&lt;p&gt;
