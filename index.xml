@@ -492,7 +492,7 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
     </item>
     
     <item>
-      <title>MTA Smart METROCARD</title>
+      <title>MTA Smart Metrocard</title>
       <link>/project/2018_mta/</link>
       <pubDate>Sat, 27 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -836,11 +836,19 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
       <guid>/project/2017_cepco/</guid>
       <description>
 
-&lt;h4 id=&#34;objective&#34;&gt;Objective&lt;/h4&gt;
+&lt;h4 id=&#34;background&#34;&gt;Background&lt;/h4&gt;
 
 &lt;h2 id=&#34;after-the-deregulation-which-direction-should-the-electric-power-company-aim-for&#34;&gt;After the deregulation, which direction should the electric power company aim for?&lt;/h2&gt;
 
-&lt;p&gt;In 2016, full-scale deregulation of the electricity industry in Japan has begun, and a lot of new and emerging companies have entered the electricity market. Chubu Electric Power Company (C-EPCO), a Japanese electricity utility provider for the mid-Chubu region of Honshu island, Japan, must shift to a new paradigm of customer service in order to improve its retention capability.&lt;/p&gt;
+&lt;p&gt;In 2016, full-scale deregulation of the electricity industry in Japan has begun, and a lot of new and emerging companies have entered the electricity market. Chubu Electric Power Company (C-EPCO), one of Japanese electricity utility providers, must shift to a new paradigm of customer service in order to improve its retention capability.&lt;/p&gt;
+
+&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;
+
+&lt;h2 id=&#34;how-might-we-create-tight-family-bonds-in-recent-japanese-families&#34;&gt;How might we create tight family bonds in recent Japanese families?&lt;/h2&gt;
+
+&lt;p&gt;This project focus on problems in the family because electric power company&amp;rsquo;s mission is supporting lives of families.&lt;/p&gt;
+
+&lt;p&gt;In this project, we focus on a dual-income working mother. According to many interviews with working mother, we found how hard working parents take care of little children. When a working mother comes back to the home with her child, she must do many houseworks such as cooking, washing clothes and so on. Current mothers often leave her child watching youtube or playing games and communications between parents and children is getting less. Some young mothers lose a way how to take care of children. This is one of the current social problems of Japan.&lt;/p&gt;
 
 &lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
 
@@ -870,7 +878,7 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
 
 &lt;h2 id=&#34;design-thinking-lean-startup-agile-development&#34;&gt;Design Thinking + Lean Startup + Agile Development&lt;/h2&gt;
 
-&lt;p&gt;&lt;b&gt;Observation and empathy for users are the starting point. &lt;/b&gt;&lt;/p&gt;
+&lt;!-- &lt;b&gt;Observation and empathy for users are the starting point. &lt;/b&gt; --&gt;
 
 &lt;p&gt;Using design thinking, while focusing on customer-oriented thinking, we define the strong concept eventually to be released as a service running in the society. With the concept of lean startup, we verify and grow the service concept as a feasible business model. Finally we implement the business ecosystem designed with such a way of thinking to the world with agile development.
 
@@ -925,9 +933,9 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&#34;2-days-ibm-design-thinking-workshop&#34;&gt;2-Days IBM Design Thinking Workshop&lt;/h4&gt;
+&lt;h5 id=&#34;2-days-ibm-design-thinking-workshop&#34;&gt;2-Days IBM Design Thinking Workshop&lt;/h5&gt;
 
-&lt;h2 id=&#34;made-initial-creative-concept-focusing-on-customer-experience&#34;&gt;Made initial creative concept focusing on customer experience&lt;/h2&gt;
+&lt;!-- &lt;b&gt;Made initial creative concept focusing on customer experience&lt;/b&gt; --&gt;
 
 &lt;p&gt;At the beginning, in the concept phase, we planned the IBM Design Thinking workshop with clients, created the initial concept for a new service. We divided the members into 3 teams and eventually created 9 promising concepts from 3 personas.
 
@@ -951,209 +959,161 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/1.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/1.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s01.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s01.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/10.1.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/10.1.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s03.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s03.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/10.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/10.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s04.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s04.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/101.jpg&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/101.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s05.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s05.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/106.jpg&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/106.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s06.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s06.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/107.jpg&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/107.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s07.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s07.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/11.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/11.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s08.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s08.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/12.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/12.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s09.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s09.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/13.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/13.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s10.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s10.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/14.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/14.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s11.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s11.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/2.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s12.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s12.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/3.2.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/3.2.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s13.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s13.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/3.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/3.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s14.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s14.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/4.jpg&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/4.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s15.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s15.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/4.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/4.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s16.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s16.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/5.jpg&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/5.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s17.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s17.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/5.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/5.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s18.png&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s18.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/6%20copy.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/6%20copy.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s19.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s19.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
     
     
     
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/6.1.jpg&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/6.1.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/6.2.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/6.2.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/6.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/6.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/7.1.jpg&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/7.1.jpg&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/7.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/7.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/8.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/8.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/9.png&#34; &gt;
-  &lt;img src=&#34;/project/2017_cepco/ws/9.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-ws&#34; href=&#34;/project/2017_cepco/ws/s25.jpg&#34; &gt;
+  &lt;img src=&#34;/project/2017_cepco/ws/s25.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
   
 &lt;/div&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;define-service-concept&#34;&gt;Define Service Concept&lt;/h4&gt;
+&lt;h5 id=&#34;define-service-concept&#34;&gt;Define Service Concept&lt;/h5&gt;
 
-&lt;h2 id=&#34;visualized-and-verified-customer-experience&#34;&gt;Visualized and verified customer experience&lt;/h2&gt;
+&lt;!-- &lt;b&gt;Visualized and verified customer experience&lt;/b&gt; --&gt;
 
 &lt;p&gt;From these bold ideas, we narrowed down the concept by repeated 10 interviews and finally created 2 user scenarios and static mockup screens.
 
@@ -1166,7 +1126,7 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;persona-1-and-his-scenario&#34;&gt;Persona 1 and his scenario&lt;/h2&gt;
+&lt;h5 id=&#34;persona-1-middle-aged-men-watching-over-the-old-parents&#34;&gt;Persona 1: Middle-aged men watching over the old parents&lt;/h5&gt;
 
 
 
@@ -1244,7 +1204,7 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
   
 &lt;/div&gt;
 
-&lt;h2 id=&#34;persona-2-and-her-scenario&#34;&gt;Persona 2 and her scenario&lt;/h2&gt;
+&lt;h5 id=&#34;persona-2-working-mother&#34;&gt;Persona 2: Working mother&lt;/h5&gt;
 
 
 
@@ -1314,7 +1274,7 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
   
 &lt;/div&gt;
 
-&lt;h2 id=&#34;customer-journey-map&#34;&gt;Customer Journey Map&lt;/h2&gt;
+&lt;h5 id=&#34;customer-journey-map&#34;&gt;Customer Journey Map&lt;/h5&gt;
 
 
 
@@ -1344,9 +1304,7 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
   
 &lt;/div&gt;
 
-&lt;h4 id=&#34;concept-visual&#34;&gt;Concept Visual&lt;/h4&gt;
-
-&lt;h2 id=&#34;made-a-strong-concept-in-the-first-phase&#34;&gt;Made a strong concept in the first phase&lt;/h2&gt;
+&lt;h5 id=&#34;concept-visual&#34;&gt;Concept Visual&lt;/h5&gt;
 
 &lt;p&gt;
 
@@ -1367,9 +1325,7 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;lean-startup&#34;&gt;Lean Startup&lt;/h4&gt;
-
-&lt;h2 id=&#34;explored-requirements-of-business-model-ux-and-tech-specs&#34;&gt;Explored requirements of business model, UX and tech specs&lt;/h2&gt;
+&lt;h5 id=&#34;lean-startup-explored-requirements-of-business-model-ux-and-tech-specs&#34;&gt;Lean Startup: Explored requirements of business model, UX and tech specs&lt;/h5&gt;
 
 &lt;p&gt;In the following lean startup phase, we specified and verified business opportunities and appropriate user experiences. Collaborating with business strategists and engineers, we created the detailed service ecosystem in terms of business, technology and design.
 
@@ -1382,9 +1338,7 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;co-creation&#34;&gt;Co-Creation&lt;/h4&gt;
-
-&lt;h2 id=&#34;collaborated-with-users-clients-business-strategists-and-technologists&#34;&gt;Collaborated with users, clients, business strategists and technologists&lt;/h2&gt;
+&lt;h5 id=&#34;co-creation-collaborated-with-users-clients-business-strategists-and-technologists&#34;&gt;Co-Creation: Collaborated with users, clients, business strategists and technologists&lt;/h5&gt;
 
 &lt;p&gt;We performed 30 interviews and improved our product iteratively. Using InVision, we performed interviews with a moving prototype mockup. Finally, we fixed requirements of comprehensive services and proceeded to the following development phase.
 
@@ -1456,9 +1410,7 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
   
 &lt;/div&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;define-detailed-user-experience&#34;&gt;Define Detailed User Experience&lt;/h4&gt;
-
-&lt;h2 id=&#34;paper-prototype&#34;&gt;Paper Prototype&lt;/h2&gt;
+&lt;h5 id=&#34;detailed-paper-prototype&#34;&gt;Detailed Paper Prototype&lt;/h5&gt;
 
 &lt;p&gt;In this service, we needed to design interfaces for 3 different user segments; child, parents(father and mother) and grandparents.
 
@@ -1489,7 +1441,7 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;prototype-1&#34;&gt;Prototype 1&lt;/h2&gt;
+&lt;h5 id=&#34;prototype-1&#34;&gt;Prototype 1&lt;/h5&gt;
 
 &lt;p&gt;Using Invision, we designed mockup screens to interview. The following charts are parts of designed mockup screens.
 
@@ -1759,82 +1711,211 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
       <guid>/project/2015_uber/</guid>
       <description>
 
-&lt;h4 id=&#34;background&#34;&gt;Background&lt;/h4&gt;
+&lt;h5 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h5&gt;
 
-&lt;h2 id=&#34;uber-wanted-to-make-cities-more-accessible&#34;&gt;Uber wanted to make cities more accessible&lt;/h2&gt;
-
-&lt;p&gt;This was an academic project of Summer Intensive course of User Research Methods in SVA, US. We worked with a director of Uber and interviewed with him in the beginning. We understood one of the main focus of Uber was how drivers and riders find each other and ensure their identity.&lt;/p&gt;
+&lt;p&gt;After a class call with Sam Eldersveld, Director of Operations Research at Uber, we learned that, Uber thinks the &lt;b&gt;perfect pickup&lt;/b&gt; is the most important factor of the User Experience. The moment of pickup is when the driver and the rider meet for the first time. Both drivers and riders are nervous and frustrating in this moment because drivers want to finish the work without trouble and riders want to get to the destination quickly. If the entrance of this interaction is uncomfortable, the subsequent ride experience will also be unpleasant.&lt;/p&gt;
 
 
 
-&lt;div class=&#34;gallery&#34;&gt;
 
+&lt;figure&gt;
+
+&lt;img src=&#34;img/int.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Interview Material&lt;/h4&gt;
   
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;We conducted our field research at JFK airport. It is one of the places where perfect pickup is difficult because of crowed cars and peoples, complicated terminal numbers and exits.&lt;/p&gt;
+
+&lt;p&gt;According to the field research, the problem is that &lt;b&gt;Uber drivers have a language problem&lt;/b&gt; in the airport ride because sometimes passengers cannot speak English. &lt;b&gt;This causes unjustifiable low ratings of drivers&lt;/b&gt;.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/air.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Field Research and Interview with the Driver&lt;/h4&gt;
   
-  
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album2&#34; href=&#34;/project/2015_uber/album2/121.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album2/121.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album2&#34; href=&#34;/project/2015_uber/album2/122.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album2/122.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album2&#34; href=&#34;/project/2015_uber/album2/123.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album2/123.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
+&lt;/figcaption&gt;
 
-  
-&lt;/div&gt;
+&lt;/figure&gt;
 
-&lt;h4 id=&#34;problem&#34;&gt;Problem&lt;/h4&gt;
-
-&lt;h2 id=&#34;how-might-we-ensure-drivers-and-riders-to-find-each-other-and-confirm-their-identity-perfectly&#34;&gt;How might we ensure drivers and riders to find each other and confirm their identity perfectly?&lt;/h2&gt;
-
-&lt;p&gt;As a field work, our team went to the JFK airport and used Uber. We had an experience that we couldn’t specify the driver easily because there were a lot of cars in the airport terminal and also other people were using the ride-sharing App. So one car stopped in front of us, but that was another person’s car. This moment was upset and so frustrating.&lt;/p&gt;
-
-&lt;!-- And another reason was the meeting point in the airport was complicated. We told the terminal to the driver, but we waited the other exit. So we couldn’t meet at first and we had to call the driver.  --&gt;
-
-&lt;h4 id=&#34;concept&#34;&gt;Concept&lt;/h4&gt;
-
-&lt;h2 id=&#34;a-driver-and-a-rider-can-communicate-about-detailed-location-regardless-of-their-language&#34;&gt;A driver and a rider can communicate about detailed location regardless of their language&lt;/h2&gt;
-
-&lt;p&gt;In this situation, our team proposed the new function of Uber that makes it easy for drivers and riders to meet.&lt;/p&gt;
+&lt;p&gt;As we gained experience on field research, research methods, and different technologies throughout the course, our final project was to consolidate the most pressing barriers to picking up passengers at NYC airports for a research presentation.&lt;/p&gt;
 
 &lt;p&gt;
 
-&lt;div class=&#34;gallery&#34;&gt;
 
-  
-  
-  
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album3&#34; href=&#34;/project/2015_uber/album3/1.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album3/1.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
+&lt;figure&gt;
 
+&lt;img src=&#34;img/1.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;To-Be User Journey Map&lt;/h4&gt;
   
-&lt;/div&gt;
-*click to zoom&lt;/p&gt;
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/132.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;One of features: Automatic Translation&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;my-role&#34;&gt;My Role&lt;/h5&gt;
+
+&lt;p&gt;I conducted interviews with Uber drivers, conducted secondary research, developed personas, project management, synthesis, concept/use case design, and designed the presentation narrative.&lt;/p&gt;
+
+&lt;h5 id=&#34;design-process&#34;&gt;Design Process&lt;/h5&gt;
+
+&lt;p&gt;My team conducted both secondary research and ethnographic research. Considering the time constraints of the course, all of our research was qualitative.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/lent1.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Once we arrived to JFK Airport, we used AEIOU (Activities, Environments, Interactions, Objects, Users) templates as a framework to gather notable findings and we recorded all interactions and experiences we had.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/11.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/lent2.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Also, we interviewed with a real driver how to do his work usually. We negotiated an untraditional ride: circling around the JFK airport for a 20 minute interview session.&lt;/p&gt;
+
+&lt;p&gt;In the interview, we confirmed that he had a problem to pick up a rider in the airport. Our driver told that he had a mistake that he picked up the wrong person who has a same first name because this passenger was so in a hurry. Also, he had a language problem because sometimes people who cannot speak English ride especially in the airport. We understood how difficult to pick up a right person perfectly.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/12.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;After the interview, we debriefed our findings and designed a persona based on our talk with the driver. Just to note, there are other personas within the Uber driver community (young, single, female, temporary, etc). In the context of perfecting the pickup at JFK airport, solutions should be applied to all Uber drivers.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/15.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/125.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/128.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;We met after classes to conduct brainstorming and create solution. A few themes we began to build upon:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The driver has a language problem when the passenger cannot speak English&lt;/li&gt;
+&lt;li&gt;The driver sometimes cannot recognize the accurate pickup location&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/brain.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;After the ideation, we began to segment the Uber driver journey to visualize the complete end to end experience and look for opportunities to optimize the pickup process. We also designed a journey map for the passenger side as well.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/17.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/130.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!-- When we reviewed our first wireframe internally, we found we should consider the function for next use. Our idea provides the function to text a detailed location to the driver, but in the next time, it is frustrating to text the same location once again. So we added a function to save the text you write for the next use. --&gt;
+
+&lt;!-- ## How did we measure success?
+I think the project should be measured by quantitative and qualitative standard. In terms of quantitative view, we can measure the actual time until drivers and riders finally meet in the airport again. On the other hand, as a qualitative method, we also need to ask inquiries with drivers and riders to know how much their frustration is solved. --&gt;
+
+&lt;h4 id=&#34;solution&#34;&gt;Solution&lt;/h4&gt;
+
+&lt;h2 id=&#34;free-from-language-barriers&#34;&gt;Free from language barriers&lt;/h2&gt;
 
 &lt;p&gt;
 
@@ -1873,430 +1954,10 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;design-process&#34;&gt;Design Process&lt;/h3&gt;
+&lt;h5 id=&#34;result&#34;&gt;Result&lt;/h5&gt;
 
-&lt;h2 id=&#34;uber-experience-design-based-on-empathzing&#34;&gt;Uber Experience Design based on Empathzing&lt;/h2&gt;
+&lt;p&gt;Our team (below) pitched our research and recommendations to the class and really valuable feedback around the viability of our solutions. The feedback to focus on the functionality and flow of the driver interface is reflected in the iterations that have been made on this document.&lt;br /&gt;
 
-&lt;p&gt;Within 5 classes in 5 weeks, we made a field research, problem definition, ideation and prototyping and critique. We formed the small team and made a solution together as a UX/UI practitioner.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/5.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Project Type
-
-&lt;ul&gt;
-&lt;li&gt;Academic&lt;/li&gt;
-&lt;li&gt;Teacher: Jodi Leo, VP of Product Design at CapTap&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Phase / Period
-
-&lt;ul&gt;
-&lt;li&gt;Concept&lt;/li&gt;
-&lt;li&gt;07/2015 - 08/2015&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Team / Role
-
-&lt;ul&gt;
-&lt;li&gt;Sandra Gatica Morales, Colleen Brogan; Design practitioners which had various backgrounds&lt;/li&gt;
-&lt;li&gt;UI/UX Design Practitioner&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Method / Technology
-
-&lt;ul&gt;
-&lt;li&gt;User-Centered Design&lt;/li&gt;
-&lt;li&gt;Target Device: Mobile&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Output
-
-&lt;ul&gt;
-&lt;li&gt;Field Research Analysis Sheet, Persona, Customer Journey Map, Mockup Screens&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;method&#34;&gt;Method&lt;/h4&gt;
-
-&lt;h2 id=&#34;install-methodology-of-ux-design&#34;&gt;Install Methodology of UX Design&lt;/h2&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/100.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/100.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/101.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/101.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/104.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/104.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/105.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/105.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/107.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/107.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/108.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/108.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/109.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/109.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/110.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/110.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/111.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/111.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/112.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/112.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/113.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/113.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/114.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/114.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/115.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/115.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/116.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/116.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/117.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/117.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/118.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/118.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/119.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/119.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-  &lt;a data-fancybox=&#34;gallery-album&#34; href=&#34;/project/2015_uber/album/120.png&#34; &gt;
-  &lt;img src=&#34;/project/2015_uber/album/120.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h4 id=&#34;empathize&#34;&gt;Empathize&lt;/h4&gt;
-
-&lt;h2 id=&#34;how-did-we-know-the-right-problem&#34;&gt;How did we know the right problem?&lt;/h2&gt;
-
-&lt;p&gt;As a field research, we went to the JFK and used Uber App. Using AEIOU Guide, we recorded all interactions and experiences we had, and also interviewed with a real driver how to do his work usually.&lt;/p&gt;
-
-&lt;p&gt;In the interview, we confirmed that he had a problem to pick up a rider. Our driver told that he had a mistake that he picked up the wrong person who has a same first name. Also, he had a language problem because sometimes people who cannot speak English ride especially in the airport. We understood how difficult to pick up a right person perfectly.&lt;/p&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/10.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/11.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/12.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/13.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/14.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/20.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/21.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/22.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;aeiou-guide-and-debrief-insight&#34;&gt;AEIOU Guide and Debrief Insight&lt;/h2&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/15.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/15.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;define&#34;&gt;Define&lt;/h4&gt;
-
-&lt;h2 id=&#34;define-persona-as-is-context&#34;&gt;Define Persona &amp;amp; As-Is Context&lt;/h2&gt;
-
-&lt;p&gt;After the research, we made personas and summarize a current context to confirm and our understanding.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/124.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/125.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/128.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h4 id=&#34;ideate&#34;&gt;Ideate&lt;/h4&gt;
-
-&lt;h2 id=&#34;brainstorm-and-decide-ideas&#34;&gt;Brainstorm and Decide Ideas&lt;/h2&gt;
-
-&lt;p&gt;We conducted the brainstorming. One of the bold idea was issuing the 4-digit code for driver and rider and confirm it. Another idea was set the uber official meeting spot.&lt;/p&gt;
-
-&lt;p&gt;After the ideation, we selected the idea in terms of perfecting the meeting and prioritized 2 main ideas. One was automatic translation, and the other was realtime chat which wasn’t released in 2015.&lt;/p&gt;
-
-&lt;p&gt;According to this core idea, we made an user journey map and wireframes.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/12.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/126.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/127.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/17.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;prototype&#34;&gt;Prototype&lt;/h4&gt;
-
-&lt;h2 id=&#34;customer-journey-map-and-wireframes&#34;&gt;Customer Journey Map and Wireframes&lt;/h2&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/18.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/130.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;things-we-tried-things-that-did-not-work&#34;&gt;Things we tried, things that did not work&lt;/h2&gt;
-
-&lt;p&gt;When we reviewed our first wireframe internally, we found we should consider the function for next use. Our idea provides the function to text a detailed location to the driver, but in the next time, it is frustrating to text the same location once again. So we added a function to save the text you write for the next use.&lt;/p&gt;
-
-&lt;h4 id=&#34;evaluate&#34;&gt;Evaluate&lt;/h4&gt;
-
-&lt;h2 id=&#34;final-presentation&#34;&gt;Final Presentation&lt;/h2&gt;
-
-&lt;p&gt;Finally, our concept was evaluated by the final presentation of the class. Our professor said that our concept that promotes communication and translation make sense. However, our wireframe needed to think about another form of input such as voice or pictures because text communication still takes time for users. We needed more iteration to be the interaction natural for the user.&lt;/p&gt;
-
-&lt;p&gt;
 
 
 &lt;figure&gt;
@@ -2315,21 +1976,69 @@ I finally chose the &amp;ldquo;Refill using App&amp;rdquo; idea because there is
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;how-did-we-measure-success&#34;&gt;How did we measure success?&lt;/h2&gt;
+&lt;!-- ## What is the tradeoffs?
+Depth of communication vs time taking. Driver and rider must communicate about a detailed location. But if the number of communications increases, it takes time and workload for drivers and riders is also increased. We should not be like a messaging app, but we need to communicate the detail. --&gt;
 
-&lt;p&gt;I think the project should be measured by quantitative and qualitative standard. In terms of quantitative view, we can measure the actual time until drivers and riders finally meet in the airport again. On the other hand, as a qualitative method, we also need to ask inquiries with drivers and riders to know how much their frustration is solved.&lt;/p&gt;
-
-&lt;h4 id=&#34;learning&#34;&gt;Learning&lt;/h4&gt;
-
-&lt;h2 id=&#34;what-is-the-tradeoffs&#34;&gt;What is the tradeoffs?&lt;/h2&gt;
-
-&lt;p&gt;Depth of communication vs time taking. Driver and rider must communicate about a detailed location. But if the number of communications increases, it takes time and workload for drivers and riders is also increased. We should not be like a messaging app, but we need to communicate the detail.&lt;/p&gt;
-
-&lt;h2 id=&#34;what-did-we-learn&#34;&gt;What did we learn?&lt;/h2&gt;
+&lt;h5 id=&#34;learning&#34;&gt;Learning&lt;/h5&gt;
 
 &lt;p&gt;I think user interview needs not just a talking skill but a well-prepared strategy. To have a good preparation enables us to extract a good insight from user.&lt;/p&gt;
 
 &lt;p&gt;In this class, the professor told us these strategies of interview. For example, we should go to interview with at least 3 people and devided the role separately. One focus on the interview, another one focus on the minutes, and the final one focus on recording. It means interviewing is not only just a talking, but also a strategic activity. Another strategy is to prepare questions beforehand. To think about why we ask this question and what we want to extract is the most important part of the interview. Without these thinkings, our interview will be lost the way.&lt;/p&gt;
+
+&lt;h5 id=&#34;design-timeline&#34;&gt;Design Timeline&lt;/h5&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Project Type
+
+&lt;ul&gt;
+&lt;li&gt;Academic&lt;/li&gt;
+&lt;li&gt;Company: Uber&lt;/li&gt;
+&lt;li&gt;Instructor: Jodi Leo, VP of Product Design at CapTap&lt;/li&gt;
+&lt;li&gt;Class: Research Methods&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Phase / Period
+
+&lt;ul&gt;
+&lt;li&gt;Concept&lt;/li&gt;
+&lt;li&gt;07/2015 - 08/2015&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Team / Role
+
+&lt;ul&gt;
+&lt;li&gt;Sandra Gatica Morales, Colleen Brogan&lt;/li&gt;
+&lt;li&gt;UI/UX Design Practitioner&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Method / Technology
+
+&lt;ul&gt;
+&lt;li&gt;User-Centered Design&lt;/li&gt;
+&lt;li&gt;Target Device: Mobile&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Tasks
+
+&lt;ul&gt;
+&lt;li&gt;Interviews, User research, UX Design, Acquisition design&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Output
+
+&lt;ul&gt;
+&lt;li&gt;Sketches ( design iterations and user flows)&lt;/li&gt;
+&lt;li&gt;Interview Footage, Synthesis, and Findings&lt;/li&gt;
+&lt;li&gt;User Acquisition research&lt;/li&gt;
+&lt;li&gt;Design and functionality recommendations proposal deck&lt;/li&gt;
+&lt;li&gt;Final assets (presentation poster board)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
