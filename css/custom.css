@@ -82,6 +82,14 @@ ul {
     font-weight: 600;
 }
 
+.split-header-content {
+    padding-top: 25px;
+}
+
+.split-header-image {
+  padding-top: 25px;
+}
+
 .exp-company {
   padding-bottom: 25px;
 }
