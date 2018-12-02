@@ -4,17 +4,18 @@ var SCREEN_WIDTH = window.innerWidth;
 var SCREEN_HEIGHT = window.innerHeight;
 
 if (SCREEN_WIDTH >= 1024) {
-  var mouseX = SCREEN_WIDTH * 0.8;
-  var mouseY = SCREEN_HEIGHT * 0.4;
+  var RADIUS = 500;
+  var mouseX = SCREEN_WIDTH * 0.5;
+  var mouseY = SCREEN_HEIGHT * 0.45;
 } else if (SCREEN_WIDTH > 728){
-  var mouseX = SCREEN_WIDTH * 0.75;
-  var mouseY = SCREEN_HEIGHT * 0.2;
+  var RADIUS = 350;
+  var mouseX = SCREEN_WIDTH * 0.5;
+  var mouseY = SCREEN_HEIGHT * 0.45;
 } else {
-  var mouseX = SCREEN_WIDTH * 0.65;
-  var mouseY = SCREEN_HEIGHT * 0.35;
+  var RADIUS = 250;
+  var mouseX = SCREEN_WIDTH * 0.5;
+  var mouseY = SCREEN_HEIGHT * 0.45;
 }
-
-var RADIUS = 125;
 
 var RADIUS_SCALE = 1;
 var RADIUS_SCALE_MIN = 1;
@@ -60,7 +61,7 @@ function createParticles() {
 			position: { x: mouseX, y: mouseY },
 			offset: { x: 0, y: 0 },
 			shift: { x: mouseX, y: mouseY },
-			speed: 0.01+Math.random()*0.04,
+			speed: 0.01+Math.random()*0.02,
 			targetSize: 1,
 			fillColor: '#' + (Math.random() * 0x404040 + 0xaaaaaa | 0).toString(16),
 			orbit: RADIUS*.5 + (RADIUS * .5 * Math.random())
