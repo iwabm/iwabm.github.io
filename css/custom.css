@@ -62,9 +62,9 @@ ul {
   margin-top: 2rem;
 }
 
-#overview, #objective, #concept, #implementation-evaluation,
+#overview, #objective, #implementation-evaluation,
 #design-approach, #method,#goal-setting, #background, #activity, #solution,
-#inspiration, #understand, #empathize, #define, #ideate, #prototype, #evaluate, #problem {
+#inspiration, #understand, #empathize, #define, #ideate, #prototype, #evaluate {
   margin-top: 3rem;
   color: #ff7473;
   margin-bottom: -0.5rem;

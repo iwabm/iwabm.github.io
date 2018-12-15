@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/ms1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Breathing Chair</title>
+      <link>/ms1/final/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/ms1/final/</guid>
+      <description>Breathing Chair is a chair which changes its shape to make people stand up. When people sit for a long time, the chair breathes organically and deform into a difficult shape to sit. After a while, the chair quietly returns to its original state. It leads people toward a state of standing up naturally to prevent sedentary lifestyle.   Problem Our body is designed for regular movement, but most people spend the bulk of their day sitting still instead.</description>
+    </item>
     
     <item>
       <title>Updated Intent for Final</title>

@@ -11,6 +11,261 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Breathing Chair</title>
+      <link>/ms1/final/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/ms1/final/</guid>
+      <description>
+
+&lt;p&gt;Breathing Chair is a chair which changes its shape to make people stand up. When people sit for a long time, the chair breathes organically and deform into a difficult shape to sit. After a while, the chair quietly returns to its original state. It leads people toward a state of standing up naturally to prevent sedentary lifestyle.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/305882686&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&#34;problem&#34;&gt;Problem&lt;/h2&gt;
+
+&lt;p&gt;Our body is designed for regular movement, but most people spend the bulk of their day sitting still instead. Especially, knowledge workers sit at their desks during the day, commute by car, and relax on the couch watching TV or on their computers in the evenings.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/1.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;An independent survey that Ergotron commissioned [1] found that nearly 70 percent of full-time American workers hate sitting, yet 86 percent are required to do it all day, every day. As a result, they are sitting on the chair for an average of 13 hours on weekdays. According to a study of weekday total sitting hours in 20 countries around the world, the median daily total sitting time for 20 countries was 300 minutes. Also, Japan and Saudi Arabia were the longest in 420 minutes and 20 countries [2].&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/18.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Research results that the health risk is increased by sitting too much has been reported worldwide, and attention is rising. As a representative study on the risk of death, there are investigations in Australia [3] that tracked approximately 220,000 people over the age of 45 years for three years, compared to those with a sitting time of fewer than 4 hours per day over 8 hours 1.15 times, people with more than 11 hours have a 1.4 times higher risk of total mortality. According to the latest study, it has been pointed out that the sedentary life is also related to the function of the brain [4], and it is required that practical interventions aimed at reducing and replacing sedentary behavior with intermittent light intensity physical activity to help slow cognitive decline.&lt;/p&gt;
+
+&lt;h2 id=&#34;related-work&#34;&gt;Related Work&lt;/h2&gt;
+
+&lt;p&gt;There are two major approaches to tackle this problem. One is an approach from ergonomics. Furniture makers have been developing an ergonomic chair not to get tired even if it sits for a long time [5]. However, the latest studies show that it is more important to reduce the time to sit and increase the time to move. Deborah Rohm Young’s group [6] suggests that prolonged sitting is harmful to health because sedentary behaviors usually have an little energy expenditure of 1.5 metabolic equivalents (METs) or less while slow, leisurely walking or light housework uses around 2.5 METs, and vigorous to moderate physical activity uses around 3 METs or more.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/2.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The other approach is from user experience design to increase the standing time of people. Height adjustable table [7] enables workers to work while standing. Buckley’s group reports that standing-based office work encourages signs of attenuating post-prandial glycaemic excursion [8]. However, Baker’s research group assessed that prolonged standing might also have health and productivity impacts [9]. Data that it is not good for your health whether you are sitting too hard or too standing has been reported.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/3.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Apple watch [10] provides another solution. It detects periods of no move of the person wearing it and urges him/her to stand up and walk. It can announce to the user at an appropriate timing for walking based on the biometric data, but the user may not perform the actual operation or accept the advice in some cases.
+In summary, based on the human-centered design, these products consider how to provide comfort and a healthy posture on the premise of human physical characteristics and limitations.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/4.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;concept&#34;&gt;Concept&lt;/h2&gt;
+
+&lt;p&gt;Breathing Chair offers the novel way to prevent prolonged sitting by chair breathing. When people sit for a long time, the chair breathes organically and deform into a difficult shape to sit. It leads people toward a state of standing up in a natural way. After a while, the chair quietly returns to its original state.
+Our approach is from ontological design, in which objects shape human beings, unlike conventional human-centered product designs mentioned in previous studies. Escobar argues “We design tools, and these tools design us back” in his book of ontological design [11]. We synthesized with and created Breathing Chair based on this nondualism concept that our individuals, materials and the world are all united and that there is no center.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;discussion-of-shape&#34;&gt;Discussion of Shape&lt;/h2&gt;
+
+&lt;p&gt;In addition to the breathing chair, we explored some shapes of the optimal deforming chair.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/19.gif&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;A heating chair that makes users stand up as the temperature gets hot.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/9.gif&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;A folding chair that makes users stands up by changing the shape to a vertical shape.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/8.gif&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;An animal chair that changes into the shape of an animal and gives a more organic impression.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/6.gif&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;After the ideation, we organized these four ideas on two axes.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/10.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;One axis we considered was mechanical vs. organic. Mechanical way is functional for users. However, this chair makes people sudden change, and it is not our intention to let the user feel &amp;ldquo;being forced to a machine.&amp;rdquo; Sudden mechanical change seems ruthless and irritates users. Therefore, we judged that the organic way is more appropriate in this project and wanted users to think “the chair is also a living thing and so it cannot be helped.”
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/11.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;The other axis is state-changing vs. shape-changing. Chairs in the upper row change state like a cold state and a hot state, a shrinking state and a swelling state, whereas chairs in the lower row are only deforming from a chair to a different shape. We judged that the state-changing way is more appropriate because this way gives users more impression of living things.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/12.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;As a result of evaluating with the above two axes, we finally chose the idea of Breathing Chair.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/13.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/14.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
+
+&lt;p&gt;Regarding implementation, it consists of two functions. One is measuring the time sitting. The force sensor on the seating surface  measures the time since a person sits on the chair. The other is controlling breathing. In this prototype, we use the balloon, and it stretched when people were seated for a certain period.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/16.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;According to Patel et al.&amp;rsquo;s research [12], it is important to walk up and walk around many times a day. Also, if you stand for two minutes every hour, lipid, blood sugar, and blood pressure will improve. Therefore, we adjusted the balloon to swell for about 2 minutes when the user continues sitting for 1 hour.
+The state of actual operation is shown in the following image. We confirmed that the bulging of the balloon pushes the user forward.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/17.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion-and-future-work&#34;&gt;Conclusion and Future Work&lt;/h2&gt;
+
+&lt;p&gt;In this paper, we propose the Breathing Chair which changes its shape to make people stand up to prevent prolonged sitting. When people sit for 1 hour, the chair breathes organically and deform into a difficult shape to sit. After 2 minutes, the chair quietly returns to its original state. It leads people toward a state of standing up in a natural way. We introduced the concept, design and running prototype.&lt;/p&gt;
+
+&lt;p&gt;As for a future iteration, there are two considerations to improve the quality of the product. One is the form itself. In this prototype, we were able to confirm that the breathing chair creates the force to make people stand up, so we would like to consider more organic shape such as a breathable fabric instead of a balloon. The other is the configuration of parameters. It is better to adjust the interval according to the usage environment, the age of the user, the use case, etc. Regarding a future application, we would like to install this product to schools and offices and to lead sedentary people to healthy lifestyles by an organic breathing chair.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/15.gif&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ergotron, Inc. 2013. Ergotron JustStand Survey &amp;amp; Index Report.&lt;/li&gt;
+&lt;li&gt;Bauman AE, Ainsworth B.,Sallis j, et al. 2011. The descriptive epidemiology of sitting: A 20-country comparison using the International Physical Activity Questionnaire (IPAQ). Am J Prev Med 2011; 41: 228-235.&lt;/li&gt;
+&lt;li&gt;Van der Ploeg HP, Chey T,Korda RJ, et al. 2012. Sitting time and all‐cause mortality risk in 222,497 Austrarian adults. Arch Intern Med 2012;172:494‐500.&lt;/li&gt;
+&lt;li&gt;Wheeler MJ, Dempsey PC, Grace MS, et al. 2017. Sedentary behavior as a risk factor for cognitive decline? A focus on the influence of glycemic control in brain health. Alzheimers Dement (N Y). 2017;3(3):291-300. Published 2017 May 2. doi:10.1016/j.trci.2017.04.001&lt;/li&gt;
+&lt;li&gt;Herman Millar. 1994. Aeron Chair: &lt;a href=&#34;https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/&#34; target=&#34;_blank&#34;&gt;https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Young DR, Hivert MF, Alhassan S, Camhi SM, Ferguson JF, Katzmarzyk PT, Lewis CE, Owen N, Perry CK, Siddique J, Yong CM. 2016. Sedentary Behavior and Cardiovascular Morbidity and Mortality: A Science Advisory From the American Heart Association. Endorsed by The Obesity Societ; Physical Activity Committee of the Council on Lifestyle and Cardiometabolic Health; Council on Clinical Cardiology; Council on Epidemiology and Prevention; Council on Functional Genomics and Translational Biology; and Stroke Council. Circulation. 2016 Sep 27;134(13):e262-79. doi: 10.1161/CIR.0000000000000440. Epub 2016 Aug 15. Review.&lt;/li&gt;
+&lt;li&gt;Okamura. 2016. SW: &lt;a href=&#34;https://www.okamura.com/en_us/products/categories/height_adjustable_tables/height_adjustable/sw/&#34; target=&#34;_blank&#34;&gt;https://www.okamura.com/en_us/products/categories/height_adjustable_tables/height_adjustable/sw/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Buckley JP, Mellor DD, Morris M, et al. 2014. Standing-based office work shows encouraging signs of attenuating post-prandial glycaemic excursion Occup Environ Med 2014;71:109-111.&lt;/li&gt;
+&lt;li&gt;Baker R, Coenen P, Howie E, Lee J, Williamson A, Straker L. 2018. A detailed description of the short-term musculoskeletal and cognitive effects of prolonged  standing for office computer work. Ergonomics. 2018 Jul;61(7):877-890. doi: 10.&lt;sup&gt;1080&lt;/sup&gt;&amp;frasl;&lt;sub&gt;00140139&lt;/sub&gt;.2017.1420825. Epub 2018 Feb 7. PubMed PMID: 29388500.&lt;/li&gt;
+&lt;li&gt;Apple. 2018. Apple Watch Series 4: &lt;a href=&#34;https://www.apple.com/watch/&#34; target=&#34;_blank&#34;&gt;https://www.apple.com/watch/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Arturo Escobar. 2018. An Outline of Ontological in Designs for the Pluriverse. Durham: Duke University Press, 2018.&lt;/li&gt;
+&lt;li&gt;Alpa V Patel, Maret L Maliniak, Erika Rees-Punia, Charles E Matthews, Susan M Gapstur. 2018. Prolonged Leisure Time Spent Sitting in Relation to Cause-Specific Mortality in a Large US Cohort, American Journal of Epidemiology, Volume 187, Issue 10, 1 October 2018, Pages 2151–2158.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Berlin: Animal Imitation</title>
       <link>/parsons/vrtrip1/</link>
       <pubDate>Mon, 19 Nov 2018 00:00:00 -0500</pubDate>
@@ -2966,168 +3221,6 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
 &lt;figure&gt;
 
 &lt;img src=&#34;img/Slide15.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>1D: Identiy Digitalizing</title>
-      <link>/ms1/1d/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/ms1/1d/</guid>
-      <description>&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide01.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide02.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide03.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide04.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide05.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide06.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide07.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide08.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide09.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide10.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide11.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide12.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide13.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide14.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide15.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide16.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide17.png&#34; /&gt;
 
 
 &lt;/figure&gt;&lt;/p&gt;
