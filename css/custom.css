@@ -171,6 +171,15 @@ ul {
     color: #313131!important;
 }
 
+.btn-group {
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+.article-container {
+  max-width: 980px;
+}
+
 .frame {
   width: 100%;
   top: -3em;
