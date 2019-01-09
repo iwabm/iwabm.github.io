@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tmps on Masaki Iwabuchi</title>
+    <link>/tmp/</link>
+    <description>Recent content in Tmps on Masaki Iwabuchi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 27 Sep 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tmp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IBM WATSON COGNITIVE ENTERPRISE APP</title>
+      <link>/tmp/2016_watson/</link>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 -0700</pubDate>
+      
+      <guid>/tmp/2016_watson/</guid>
+      <description>Overview IBM Watson cognitive application We delivered an initial phase of a cognitive Watson Advisor solution using agile engineering approach. MHI engineers can inspect and take action for risks of their projects in advance without long industry experience. They reduced the time taken by the worker&amp;rsquo;s task by 30% as a result.
+Final UI gallery (click to zoom)</description>
+    </item>
+    
+  </channel>
+</rss>

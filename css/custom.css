@@ -16,8 +16,9 @@ h1 {
   margin-bottom: 1em;
 }
 
-p {
+.article-style p {
   line-height: 1.8;
+  text-align: justify;
 }
 
 h3 {
@@ -34,8 +35,10 @@ figcaption h4 {
 
 h5 {
     margin-top: 3rem;
-    font-size: 1.5rem;
-    font-weight: 400;
+    font-size: 1.25rem;
+    font-weight: 500;
+    text-align: center;
+    color: rgba(0,0,0,1);
 }
 
 p.page-displaydate {
@@ -43,6 +46,20 @@ p.page-displaydate {
   font-size: 1rem;
   color: rgba(0,0,0,.54);
 }
+
+.page-subtitle {
+    font-size: 1rem;
+    margin-bottom: 0;
+}
+.page-subcolor {
+    color: rgba(0,0,0,.30);
+    font-size: 0.825rem;
+    font-weight: 700;
+}
+.split-header .page-subtitle {
+    margin-bottom: 0;
+}
+
 
 ul {
   margin-bottom: 1.25rem;
@@ -62,13 +79,13 @@ ul {
   margin-top: 2rem;
 }
 
-#overview, #objective, #implementation-evaluation,
-#design-approach, #method,#goal-setting, #background, #activity, #solution,
+/* #overview, #objective, #implementation-evaluation,
+#design-approach, #method,#goal-setting, #activity, #solution,
 #inspiration, #understand, #empathize, #define, #ideate, #prototype, #evaluate {
   margin-top: 3rem;
   color: #ff7473;
   margin-bottom: -0.5rem;
-}
+} */
 
 .card .card-text p.card-disp {
   font-weight: 600;

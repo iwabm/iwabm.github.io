@@ -7,19 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>C-EP CONSUMER SERVICES</title>
+      <title>ChanoMa</title>
       <link>/project/2017_cepco/</link>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/2017_cepco/</guid>
-      <description>Project Overview In 2016, new policy of deregulation of the electricity industry in Japan has begun, and a lot of new and emerging companies and startups have entered the electricity market and acquire users by user-centric services. C-EP must shift to a client first company and provide user-centered services in order to improve its retention capability.  
-C-EP is supporting lives of families and we decided a dual-income working mother as a primary user.</description>
+      <description>Overview Chubu Electric Power(C-EP) supplies electricity to 10 million households in Japan. ChanoMa (means &amp;ldquo;Living Room&amp;rdquo;) is a service for a dual-income households with a small children among their customers to tighten family bonds.
+  This image is part of the project’s final design that I delivered to the client. A special feature of using Chanoma is that App plays and communicates with children when parents are busy. By recording children&amp;rsquo;s daily responses and sharing these with their parents, family members can understand their hidden feelings and preferences.</description>
     </item>
     
   </channel>
