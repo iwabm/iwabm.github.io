@@ -756,7 +756,9 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 &lt;h5 id=&#34;overview&#34;&gt;Overview&lt;/h5&gt;
 
-&lt;p&gt;Chubu Electric Power(C-EP) supplies electricity to 10 million households in Japan. ChanoMa (means &amp;ldquo;Living Room&amp;rdquo;) is a service for a dual-income households with a small children among their customers to tighten family bonds.&lt;/p&gt;
+&lt;p&gt;Chubu Electric Power(C-EP) supplies electricity to 10 million households in Japan. The goal of this project was to make C-EP’s brand an essential part of family life with a user-centered product and improve its retention rate.&lt;/p&gt;
+
+&lt;p&gt;ChanoMa (means &amp;ldquo;Living Room&amp;rdquo;) is a &lt;b&gt;service for a dual-income households with a small children&lt;/b&gt; to tighten family bonds. We decided a dual-income working mother as a primary user because 49% of households are dual-income families in urban area in Japan.&lt;/p&gt;
 
 
 
@@ -768,17 +770,35 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 &lt;/figure&gt;
 
-&lt;p&gt;This is part of the project’s final design that I delivered to the client. A special feature of using ChanoMa is that App plays and communicates with children when parents are busy.&lt;/p&gt;
+&lt;p&gt;A special feature of using ChanoMa is that App plays and communicates with children when parents are busy.&lt;/p&gt;
 
-&lt;p&gt;According to our many interviews with working mothers, they are the busiest with cooking and houseworks for 30 minutes since they came home. ChanoMa plays with children using safe contents at that time, and helps parents.&lt;/p&gt;
+&lt;p&gt;According to many interviews with working mothers, my team found how hard working parents&amp;rsquo; life and they are the busiest with cooking and houseworks for 30 minutes since they came home. ChanoMa plays with children using safe contents at that time, and helps parents.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/10.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
 
 &lt;p&gt;Also, by recording children&amp;rsquo;s daily responses and sharing these with their parents, they can understand children&amp;rsquo;s hidden feelings and preferences. As a future expansion, it will work as a platform of the entire family members including grandparents as if they are in the same living room even if they live far apart.&lt;/p&gt;
 
-&lt;p&gt;The goal of this project was to tighten family bonds and make C-EP’s brand an essential part of family life.&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide33.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+After the implementation. we performed a qualitative and quantitative user evaluation and 75% of participants evaluated &amp;ldquo;Very Positive&amp;rdquo; and &amp;ldquo;Positive&amp;rdquo; against the whole concept. Therefore, the client decide to launch this App in the next year cycle with considering qualitative feedback comments. Currently, the client continues to develop Android version and they are planning to release this product in 2019.&lt;/p&gt;
 
 &lt;h5 id=&#34;my-role&#34;&gt;My Role&lt;/h5&gt;
 
-&lt;p&gt;I was employed as a project manager and a lead UX designer of an 10-person team consisting of designers, engineers and business strategists and managed the project from the concept creation to the implementation phases using methodologies of Design Thinking, Lean Startup and Agile Development.
+&lt;p&gt;I was employed as a project manager and a lead UX designer of an 10-person team consisting of designers, engineers and business strategists and managed the project from the concept creation to the implementation phases using methodologies of Design Thinking, Lean Startup and Agile Development. I am certified as both a practitioner of IBM Design Thinking and a Scrum Master, which means I can work consistently end to end as a professional user experience designer.
 
 
 
@@ -787,9 +807,18 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 &lt;img src=&#34;img/Slide24.png&#34; /&gt;
 
 
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide25.png&#34; /&gt;
+
+
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;p&gt;It is actually an iterative journey of building, measuring and learning. With continuous discussion with users, clients, designers, engineers and business strategists, finally we developed and delivered an appropriate service for users.&lt;/p&gt;
+&lt;p&gt;Product design is actually an iterative journey of building, measuring and learning. With continuous discussion with users, clients, designers, engineers and business strategists, finally we developed and delivered an appropriate service for users.&lt;/p&gt;
 
 
 
@@ -800,8 +829,6 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 
 &lt;/figure&gt;
-
-&lt;p&gt;I am certified as both a practitioner of IBM Design Thinking and a Scrum Master, which means I can work consistently end to end, , as a professional user experience designer.&lt;/p&gt;
 
 &lt;!-- Using design thinking, while focusing on customer-oriented thinking, we define the strong concept eventually to be released as a service running in the society. With the concept of lean startup, we verify and grow the service concept as a feasible business model. Finally we implement the business ecosystem designed with such a way of thinking to the world with agile development.
 
@@ -839,6 +866,15 @@ In 2016, new policy of deregulation of the electricity industry in Japan has beg
 &lt;figure&gt;
 
 &lt;img src=&#34;img/Slide7.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide8.png&#34; /&gt;
 
 
 &lt;/figure&gt;
@@ -906,7 +942,7 @@ The other insight is &lt;b&gt;mothers don&amp;rsquo;t know children&amp;rsquo;s 
 
 &lt;h5 id=&#34;experience-design&#34;&gt;Experience Design&lt;/h5&gt;
 
-
+&lt;p&gt;
 
 
 &lt;figure&gt;
@@ -915,6 +951,15 @@ The other insight is &lt;b&gt;mothers don&amp;rsquo;t know children&amp;rsquo;s 
 
 
 &lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide26.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
 
 
 
@@ -1056,30 +1101,16 @@ For this project, it was necessary to create designs for iOS platforms because i
 
 &lt;h5 id=&#34;result&#34;&gt;Result&lt;/h5&gt;
 
-&lt;p&gt;After the implementation. we performed a qualitative and quantitative user evaluation. 234 dual-income households with children tested this App for 2 weeks, and 75% of people evaluated &amp;ldquo;Good (55%)&amp;rdquo; and &amp;ldquo;Very Good (20%)&amp;rdquo; against the whole concept. Therefore, the client decide to launch this App in the next year cycle with considering qualitative feedback comments. Currently, the client continues to develop Android version and they are planning to release this product in 2019.&lt;/p&gt;
+&lt;p&gt;
 
-&lt;p&gt;The items of evaluation is the following (according to AARRR model):&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Quantitative survey
+&lt;figure&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Do you sympathize with the concept?&lt;/li&gt;
-&lt;li&gt;Do you want to download and use this application?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Qualitative comments
+&lt;img src=&#34;img/Slide33.png&#34; /&gt;
 
-&lt;ul&gt;
-&lt;li&gt;What are the pros and cons of this application?&lt;/li&gt;
-&lt;li&gt;Is there any other feature you want?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Analysis of data log
 
-&lt;ul&gt;
-&lt;li&gt;Which function was most used?&lt;/li&gt;
-&lt;li&gt;Which function kept being used most?&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/figure&gt;
+After the implementation. we performed a qualitative and quantitative user evaluation. 234 dual-income households with children tested this App for 2 weeks, and 75% of people evaluated &amp;ldquo;Good (55%)&amp;rdquo; and &amp;ldquo;Very Good (20%)&amp;rdquo; against the whole concept. Therefore, the client decide to launch this App in the next year cycle with considering qualitative feedback comments. Currently, the client continues to develop Android version and they are planning to release this product in 2019.&lt;/p&gt;
 
 &lt;h5 id=&#34;learning&#34;&gt;Learning&lt;/h5&gt;
 
@@ -1093,34 +1124,6 @@ For this project, it was necessary to create designs for iOS platforms because i
 
 &lt;/figure&gt;
 I think service Design is Co-creation. Product design is a process of exploring an appropriate ecosystem comprising everyone, that is created by everyone, and is provided for everyone.&lt;/p&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide8.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide25.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide26.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;project-schedule&#34;&gt;Project Schedule&lt;/h5&gt;
 
