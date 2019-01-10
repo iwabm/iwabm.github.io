@@ -18,8 +18,7 @@
       <pubDate>Fri, 28 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/2018_breathing/</guid>
-      <description>Demo Video   Problem Our body is designed for regular movement, but most people spend the bulk of their day sitting still instead. Especially, knowledge workers sit at their desks during the day, commute by car, and relax on the couch watching TV or on their computers in the evenings.
-  An independent survey that Ergotron commissioned [1] found that nearly 70 percent of full-time American workers hate sitting, yet 86 percent are required to do it all day, every day.</description>
+      <description>Project Overview   We present a Breathing Chair that changes its state and shape to prevent current sedentary lifestyle and help in shaping a healthy living habit. The Breathing chair tracks how long people have been sitting, and its surface swells physically like a mammal’s lung when people sit in the Breathing Chair for a long time. In so doing, it nudges people to stand up gently to avoid health risks of prolonged sitting.</description>
     </item>
     
     <item>
@@ -37,7 +36,8 @@
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/2018_collective/</guid>
-      <description>Overview Demo Video   Project Information  Phase / Period  Concept, Design, Build, Evaluate 10 / 2018 (4 weeks)  Team  Researcher(Me), Professor Harpreet Sareen  Method / Technology  Ideation from 1D to 5D Arduino, processing  Output  Physical prototype   Objective How might we collect responses to questions that can only be answered by humans? As the development of technology, we can find many answers online within just a second.</description>
+      <description>Project Overview   Collective Juice is a physical product that collects different user&amp;rsquo;s emotions and tone together to reveal and visualizes the “mood” of the group/community.
+Objective How might we collect responses to questions that can only be answered by humans? As the development of technology, we can find many answers online within just a second. Have we ever wondered how the other people think about the same question?</description>
     </item>
     
     <item>
@@ -46,8 +46,9 @@
       <pubDate>Tue, 27 Mar 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/2018_organic/</guid>
-      <description>Overview Demo Video   Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.js [Link] Demo is here
---</description>
+      <description> Project Overview    Coded a sound visualizer which enables music experience more organic.
+            
+Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.js   </description>
     </item>
     
   </channel>

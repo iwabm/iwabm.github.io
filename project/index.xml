@@ -19,7 +19,8 @@
       
       <guid>/project/2017_cepco/</guid>
       <description>Overview Chubu Electric Power(C-EP) supplies electricity to 10 million households in Japan. ChanoMa (means &amp;ldquo;Living Room&amp;rdquo;) is a service for a dual-income households with a small children among their customers to tighten family bonds.
-  This image is part of the project’s final design that I delivered to the client. A special feature of using Chanoma is that App plays and communicates with children when parents are busy. By recording children&amp;rsquo;s daily responses and sharing these with their parents, family members can understand their hidden feelings and preferences.</description>
+  This is part of the project’s final design that I delivered to the client. A special feature of using ChanoMa is that App plays and communicates with children when parents are busy.
+According to our many interviews with working mothers, they are the busiest with cooking and houseworks for 30 minutes since they came home.</description>
     </item>
     
     <item>
@@ -28,9 +29,9 @@
       <pubDate>Mon, 22 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/2018_mta/</guid>
-      <description>Project Overview Current research (source) shows that subway and bus ridership has declined while ridership through ride-sharing services like Lyft and Uber has increased. App-based services are based on a great UX and are increasing their users dramatically.
-Therefore, to increase a retention rate, MTA needs to provide the user-centered service for the purpose of getting access easily to the metro, on time, without having a bad experience.
- Data: Transportation Trends in NYC   From interviewing with real users, it turned out that NYC commuters sometimes have a frustration that they want to catch a train but cannot because they don&amp;rsquo;t have enough money in the metro card.</description>
+      <description>Project Overview I personally tried to redesign MTA services because NYC subway riding experience is uncomfortable for me; dirty platform, unexpected stop, morning/evening rush and so on. I conducted the entire design process to specify inconvenient element of the subway and improve services of MTA.
+My Role I conducted the whole design process from interviewing with users, defining problem, ideation, prototyping and evaluation.
+Background Current research (source) shows that subway and bus ridership has declined while ridership through ride-sharing services like Lyft and Uber has increased.</description>
     </item>
     
     <item>
@@ -39,7 +40,8 @@ Therefore, to increase a retention rate, MTA needs to provide the user-centered 
       <pubDate>Sun, 21 Oct 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/2015_uber/</guid>
-      <description>Project Overview We called with Sam Eldersveld, Director of Operations Research at Uber, and we learned that Uber thought the perfect pickup is the most important factor of the User Experience. The moment of pickup is when the driver and the rider meet for the first time. Both drivers and riders are nervous and frustrating in this moment because drivers want to finish the work without trouble and riders want to get to the destination quickly.</description>
+      <description>Project Overview I had the opportunity to join the Research Methods in Interaction Design course at the School of Visual Arts. Our instructor Jodi Leo, Executive Director of User Experience at Critical Mass, led us to collaborate with the Research team at Uber to optimize efficiency for Uber drivers during the pick up at the JFK airport.
+My Role I conducted interviews with Uber drivers, conducted secondary research, developed personas, project management, synthesis, concept/use case design, and designed the presentation narrative.</description>
     </item>
     
     <item>
@@ -48,8 +50,7 @@ Therefore, to increase a retention rate, MTA needs to provide the user-centered 
       <pubDate>Fri, 28 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/2018_breathing/</guid>
-      <description>Demo Video   Problem Our body is designed for regular movement, but most people spend the bulk of their day sitting still instead. Especially, knowledge workers sit at their desks during the day, commute by car, and relax on the couch watching TV or on their computers in the evenings.
-  An independent survey that Ergotron commissioned [1] found that nearly 70 percent of full-time American workers hate sitting, yet 86 percent are required to do it all day, every day.</description>
+      <description>Project Overview   We present a Breathing Chair that changes its state and shape to prevent current sedentary lifestyle and help in shaping a healthy living habit. The Breathing chair tracks how long people have been sitting, and its surface swells physically like a mammal’s lung when people sit in the Breathing Chair for a long time. In so doing, it nudges people to stand up gently to avoid health risks of prolonged sitting.</description>
     </item>
     
     <item>
@@ -67,7 +68,8 @@ Therefore, to increase a retention rate, MTA needs to provide the user-centered 
       <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/2018_collective/</guid>
-      <description>Overview Demo Video   Project Information  Phase / Period  Concept, Design, Build, Evaluate 10 / 2018 (4 weeks)  Team  Researcher(Me), Professor Harpreet Sareen  Method / Technology  Ideation from 1D to 5D Arduino, processing  Output  Physical prototype   Objective How might we collect responses to questions that can only be answered by humans? As the development of technology, we can find many answers online within just a second.</description>
+      <description>Project Overview   Collective Juice is a physical product that collects different user&amp;rsquo;s emotions and tone together to reveal and visualizes the “mood” of the group/community.
+Objective How might we collect responses to questions that can only be answered by humans? As the development of technology, we can find many answers online within just a second. Have we ever wondered how the other people think about the same question?</description>
     </item>
     
     <item>
@@ -76,9 +78,9 @@ Therefore, to increase a retention rate, MTA needs to provide the user-centered 
       <pubDate>Fri, 24 Aug 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/2018_speculative/</guid>
-      <description>Concept XHuman: Educational Headset for transhumans to Experience “Human” in 2075         
-Project Information  Phase / Period  Concept, Design, Build Period* 10&amp;frasl;2018 (2 weeks)  Team / Role  Researcher(Me), Professor  Method  Future Cone, Future&amp;rsquo;s Wheel, Timeline, Persona, Empathy Map, Storyboard, technological research
-  Output* Physical prototype, User&amp;rsquo;s Manual  Objective How can Humans and Transhumans coexist towards a sustainable society in 2075?</description>
+      <description>XHuman: Educational Headset for transhumans to Experience “Human” in 2075 XHuman is an educational headset for transhumans who inplants superintelligence into their left brain which works for language, memory, calculation. This gadget stimulates your brain electrically and temporarily stops the neurotransmission between the brain chip and the brain. This feature enables transhumans to think as “Humans.&amp;rdquo;
+        
+How can Humans and Transhumans coexist towards a sustainable society in 2075?</description>
     </item>
     
     <item>
@@ -87,8 +89,9 @@ Project Information  Phase / Period  Concept, Design, Build Period* 10&amp;frasl
       <pubDate>Tue, 27 Mar 2018 00:00:00 -0700</pubDate>
       
       <guid>/project/2018_organic/</guid>
-      <description>Overview Demo Video   Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.js [Link] Demo is here
---</description>
+      <description> Project Overview    Coded a sound visualizer which enables music experience more organic.
+            
+Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.js   </description>
     </item>
     
     <item>
@@ -97,7 +100,7 @@ Project Information  Phase / Period  Concept, Design, Build Period* 10&amp;frasl
       <pubDate>Fri, 27 Mar 2009 00:00:00 -0700</pubDate>
       
       <guid>/project/2009_llimpidual/</guid>
-      <description>Overview Demo Video   Project Information  Phase / Period  Concept, Design, Build, Evaluate 04/2007 - 03/2009 (2 years)  Team / My Role  Researcher: Masaki Iwabuchi Professor: Takeshi Naemura (Professor of the University of Tokyo)  Method / Technology  Technology Research, Iterative Prototyping Touch Interface, Non-Organic Transparent EL Display, OpenGL  Output  Research Paper, User Evaluation Sheet   Inspiration What if we can display information on a transparent surface?</description>
+      <description>Project Overview    LimpiDual Touch is the emerging interactive transparent display. Users can operate from the rear side of the screen while seeing both displayed images and their fingers. This feature resolves a finger occlusion problem. Additionally, it also works for multiple users. Two users can share an identical display from both sides and control displayed objects at one time. This feature will apply to a collaborative work and an entertainment application.</description>
     </item>
     
   </channel>

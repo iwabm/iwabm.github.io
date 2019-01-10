@@ -768,11 +768,17 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 
 &lt;/figure&gt;
 
-&lt;p&gt;This image is part of the project’s final design that I delivered to the client. A special feature of using Chanoma is that App plays and communicates with children when parents are busy. By recording children&amp;rsquo;s daily responses and sharing these with their parents, family members can understand their hidden feelings and preferences. The goal of this project was to tighten family bonds and make C-EP’s brand an essential part of family life.&lt;/p&gt;
+&lt;p&gt;This is part of the project’s final design that I delivered to the client. A special feature of using ChanoMa is that App plays and communicates with children when parents are busy.&lt;/p&gt;
+
+&lt;p&gt;According to our many interviews with working mothers, they are the busiest with cooking and houseworks for 30 minutes since they came home. ChanoMa plays with children using safe contents at that time, and helps parents.&lt;/p&gt;
+
+&lt;p&gt;Also, by recording children&amp;rsquo;s daily responses and sharing these with their parents, they can understand children&amp;rsquo;s hidden feelings and preferences. As a future expansion, it will work as a platform of the entire family members including grandparents as if they are in the same living room even if they live far apart.&lt;/p&gt;
+
+&lt;p&gt;The goal of this project was to tighten family bonds and make C-EP’s brand an essential part of family life.&lt;/p&gt;
 
 &lt;h5 id=&#34;my-role&#34;&gt;My Role&lt;/h5&gt;
 
-&lt;p&gt;I was employed as a project manager of an 10-person team consisting of designers, engineers and business strategists that led design their customer centered product.
+&lt;p&gt;I was employed as a project manager and a lead UX designer of an 10-person team consisting of designers, engineers and business strategists and managed the project from the concept creation to the implementation phases using methodologies of Design Thinking, Lean Startup and Agile Development.
 
 
 
@@ -781,14 +787,27 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 &lt;img src=&#34;img/Slide24.png&#34; /&gt;
 
 
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;It is actually an iterative journey of building, measuring and learning. With continuous discussion with users, clients, designers, engineers and business strategists, finally we developed and delivered an appropriate service for users.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide11.png&#34; /&gt;
+
+
 &lt;/figure&gt;
-Using design thinking, while focusing on customer-oriented thinking, we define the strong concept eventually to be released as a service running in the society. With the concept of lean startup, we verify and grow the service concept as a feasible business model. Finally we implement the business ecosystem designed with such a way of thinking to the world with agile development.&lt;/p&gt;
 
-&lt;p&gt;In the following lean startup phase, we specified and verified business opportunities and appropriate user experiences. Collaborating with business strategists and engineers, we created the detailed service ecosystem in terms of business, technology and design.&lt;/p&gt;
+&lt;p&gt;I am certified as both a practitioner of IBM Design Thinking and a Scrum Master, which means I can work consistently end to end, , as a professional user experience designer.&lt;/p&gt;
 
-&lt;p&gt;As a project manager and professional UX designer, I contributed to the project from the concept phase to the agile development phase. In terms of technology, customer experience and sustainable business model, my team designed entire new business ecosystem of the client.&lt;/p&gt;
+&lt;!-- Using design thinking, while focusing on customer-oriented thinking, we define the strong concept eventually to be released as a service running in the society. With the concept of lean startup, we verify and grow the service concept as a feasible business model. Finally we implement the business ecosystem designed with such a way of thinking to the world with agile development.
 
-&lt;p&gt;In the concept phase, I planned a Design Thinking workshop with clients and created the initial concept of the service, prior to narrowing this down to a series of actionable steps in consideration of the concept’s implementation. Additionally, in the subsequent development phase, I have worked on continuously improving the quality of the product through a process of iterative prototyping and user evaluation. I am certified as both a practitioner of IBM Design Thinking and a Scrum Master, which means I can work consistently end to end, from the concept creation to the implementation phases, as a professional user experience designer.&lt;/p&gt;
+As a project manager and professional UX designer, I contributed to the project from the concept phase to the agile development phase. In terms of technology, customer experience and sustainable business model, my team designed entire new business ecosystem of the client.
+
+In the concept phase, I planned a Design Thinking workshop with clients and created the initial concept of the service, prior to narrowing this down to a series of actionable steps in consideration of the concept’s implementation. Additionally, in the subsequent development phase, I have worked on continuously improving the quality of the product through a process of iterative prototyping and user evaluation. --&gt;
 
 &lt;h5 id=&#34;background&#34;&gt;Background&lt;/h5&gt;
 
@@ -823,7 +842,7 @@ In 2016, new policy of deregulation of the electricity industry in Japan has beg
 
 
 &lt;/figure&gt;
-Using Design Thinking approach, I worked with them and led their first design driven project. At the beginning, in the concept phase, we planned 2-days IBM Design Thinking workshop with clients, created the initial concept for a new service. We divided the members into 2 teams (personas) and eventually created 6 promising concepts.&lt;/p&gt;
+At the beginning, in the concept phase, I facilitated 2-days IBM Design Thinking workshop with clients, created the initial concept for a new service. We divided the members into 2 teams (personas) and eventually created 6 promising concepts.&lt;/p&gt;
 
 &lt;h5 id=&#34;target-user-and-insight&#34;&gt;Target User and Insight&lt;/h5&gt;
 
@@ -836,7 +855,7 @@ Using Design Thinking approach, I worked with them and led their first design dr
 
 
 &lt;/figure&gt;
-C-EP is supporting lives of families and we decided &lt;b&gt;a dual-income working mother&lt;/b&gt; as a primary user. In Japan, 49% of households are dual-income families in urban area and It is expected that this figure will continue to rise in the future.&lt;/p&gt;
+We decided &lt;b&gt;a dual-income working mother&lt;/b&gt; as a primary user. In Japan, 49% of households are dual-income families in urban area and It is expected that this figure will continue to rise in the future.&lt;/p&gt;
 
 &lt;p&gt;
 
@@ -883,7 +902,7 @@ The other insight is &lt;b&gt;mothers don&amp;rsquo;t know children&amp;rsquo;s 
 
 &lt;/figure&gt;
 
-&lt;p&gt;With iterative prototyping in collaboration with C-EP members, I came up with the idea that IoT toy plays and communicates with children when parents are busy. By recording children’s daily responses and sharing these with their parents, family members can understand their hidden feelings and preferences. In so doing, we aim to tighten family bonds and make C-EPCO’s brand an essential part of family life.&lt;/p&gt;
+&lt;p&gt;With iterative prototyping in collaboration with C-EP members, I came up with the idea that IoT toy plays and communicates with children when parents are busy. By recording children’s daily responses and sharing these with their parents, family members can understand their hidden feelings and preferences.&lt;/p&gt;
 
 &lt;h5 id=&#34;experience-design&#34;&gt;Experience Design&lt;/h5&gt;
 
@@ -953,16 +972,6 @@ I regarded working mothers to &lt;b&gt;rely on smartphones as a new habit&lt;/b&
 As a project manager, I planned to improve the parts of the product the needed it based on the research results. I opened a collaborative studio in which multiple members in teams could simultaneously discuss various topics from a business plan to elements of UI that needed to be improved and tried to create an appropriate experience. I repeated this whole-day workshop with not only internal designers but also C-EP members for 3 rounds and then had a vote to decide the design direction with everyone’s opinion included.&lt;/p&gt;
 
 &lt;h5 id=&#34;ui-design&#34;&gt;UI Design&lt;/h5&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide11.png&#34; /&gt;
-
-
-&lt;/figure&gt;
 
 &lt;p&gt;
 
@@ -1047,7 +1056,7 @@ For this project, it was necessary to create designs for iOS platforms because i
 
 &lt;h5 id=&#34;result&#34;&gt;Result&lt;/h5&gt;
 
-&lt;p&gt;After the implementation. we performed a qualitative and quantitative user evaluation. 234 dual-income households with children tested this App for 2 weeks, and 75% of people evaluated &amp;ldquo;Good (55%)&amp;rdquo; and &amp;ldquo;Very Good (20%)&amp;rdquo; against the whole concept. Therefore, the client decide to launch this App in the next year cycle with considering qualitative feedback comments. Currently, the client continues to develop Android version and they are planning to release this product in 2018.&lt;/p&gt;
+&lt;p&gt;After the implementation. we performed a qualitative and quantitative user evaluation. 234 dual-income households with children tested this App for 2 weeks, and 75% of people evaluated &amp;ldquo;Good (55%)&amp;rdquo; and &amp;ldquo;Very Good (20%)&amp;rdquo; against the whole concept. Therefore, the client decide to launch this App in the next year cycle with considering qualitative feedback comments. Currently, the client continues to develop Android version and they are planning to release this product in 2019.&lt;/p&gt;
 
 &lt;p&gt;The items of evaluation is the following (according to AARRR model):&lt;/p&gt;
 
@@ -1142,6 +1151,14 @@ I think service Design is Co-creation. Product design is a process of exploring 
 
 &lt;h5 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h5&gt;
 
+&lt;p&gt;I personally tried to redesign MTA services because NYC subway riding experience is uncomfortable for me; dirty platform, unexpected stop, morning/evening rush and so on. I conducted the entire design process to specify inconvenient element of the subway and improve services of MTA.&lt;/p&gt;
+
+&lt;h5 id=&#34;my-role&#34;&gt;My Role&lt;/h5&gt;
+
+&lt;p&gt;I conducted the whole design process from interviewing with users, defining problem, ideation, prototyping and evaluation.&lt;/p&gt;
+
+&lt;h5 id=&#34;background&#34;&gt;Background&lt;/h5&gt;
+
 &lt;p&gt;Current research (&lt;a href=&#34;https://www.nycedc.com/blog-entry/transportation-trends-nyc&#34; target=&#34;_blank&#34;&gt;source&lt;/a&gt;) shows that &lt;b&gt;subway and bus ridership has declined&lt;/b&gt; while ridership through ride-sharing services like Lyft and Uber has increased. App-based services are based on a great UX and are increasing their users dramatically.&lt;/p&gt;
 
 &lt;p&gt;Therefore, to increase a retention rate, MTA needs to provide the user-centered service for the purpose of getting access easily to the metro, on time, without having a bad experience.&lt;/p&gt;
@@ -1207,10 +1224,6 @@ I think service Design is Co-creation. Product design is a process of exploring 
 
 
 &lt;/figure&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;my-role&#34;&gt;My Role&lt;/h5&gt;
-
-&lt;p&gt;I conducted the whole design process from interviewing with users, defining problem, ideation, prototyping and evaluation.&lt;/p&gt;
 
 &lt;h5 id=&#34;design-process&#34;&gt;Design Process&lt;/h5&gt;
 
@@ -1480,6 +1493,23 @@ In this design challenge, I set the project period is 5 days, 40h. So tradeoff b
 
 &lt;h5 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h5&gt;
 
+&lt;p&gt;I had the opportunity to join the Research Methods in Interaction Design course at the School of Visual Arts. Our instructor Jodi Leo, Executive Director of User Experience at Critical Mass, led us to collaborate with the Research team at Uber to optimize efficiency for Uber drivers during the pick up at the JFK airport.&lt;/p&gt;
+
+&lt;h5 id=&#34;my-role&#34;&gt;My Role&lt;/h5&gt;
+
+&lt;p&gt;I conducted interviews with Uber drivers, conducted secondary research, developed personas, project management, synthesis, concept/use case design, and designed the presentation narrative.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/lent1.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;problem&#34;&gt;Problem&lt;/h5&gt;
+
 &lt;p&gt;We called with Sam Eldersveld, Director of Operations Research at Uber, and we learned that Uber thought the &lt;b&gt;perfect pickup&lt;/b&gt; is the most important factor of the User Experience. The moment of pickup is when the driver and the rider meet for the first time. Both drivers and riders are nervous and frustrating in this moment because drivers want to finish the work without trouble and riders want to get to the destination quickly. If the entrance of this interaction is uncomfortable, the subsequent ride experience will also be unpleasant.&lt;/p&gt;
 
 
@@ -1498,9 +1528,9 @@ In this design challenge, I set the project period is 5 days, 40h. So tradeoff b
 
 &lt;/figure&gt;
 
-&lt;p&gt;We conducted our field research at JFK airport. It is one of the places where perfect pickup is difficult because of crowed cars and peoples, complicated terminal numbers and exits.&lt;/p&gt;
+&lt;h5 id=&#34;field-research&#34;&gt;Field Research&lt;/h5&gt;
 
-&lt;p&gt;According to the field research, the problem is that &lt;b&gt;Uber drivers have a language problem&lt;/b&gt; in the airport ride because sometimes passengers cannot speak English. &lt;b&gt;This causes unjustifiable low ratings of drivers&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;We conducted our field research at JFK airport. It is one of the places where perfect pickup is difficult because of crowed cars and peoples, complicated terminal numbers and exits.&lt;/p&gt;
 
 
 
@@ -1518,89 +1548,11 @@ In this design challenge, I set the project period is 5 days, 40h. So tradeoff b
 
 &lt;/figure&gt;
 
-&lt;p&gt;From gained insights of field research, we developed a user flow and mockup screens.&lt;/p&gt;
+&lt;p&gt;We interviewed with a real driver how to do his work usually. We negotiated an untraditional ride: circling around the JFK airport for a 20 minute interview session.&lt;/p&gt;
 
-&lt;p&gt;
+&lt;p&gt;In the interview, we confirmed that he had a problem to pick up a rider in the airport. Our driver told that he had a mistake that he picked up the wrong person who has a same first name because this passenger was so in a hurry. Also, he had a language problem because sometimes people who cannot speak English ride especially in the airport. We understood how difficult to pick up a right person perfectly.&lt;/p&gt;
 
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/1.png&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;To-Be User Journey Map&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/132.png&#34; /&gt;
-
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;One of features: Automatic Translation&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;result&#34;&gt;Result&lt;/h5&gt;
-
-&lt;p&gt;Our team pitched our research and mockups to the class and really valuable feedback around the viability of our solutions. The feedback to focus on the functionality and flow of the driver interface is reflected in the iterations that have been made on this document.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/2.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/23.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;my-role&#34;&gt;My Role&lt;/h5&gt;
-
-&lt;p&gt;I conducted interviews with Uber drivers, conducted secondary research, developed personas, project management, synthesis, concept/use case design, and designed the presentation narrative.&lt;/p&gt;
-
-&lt;h5 id=&#34;design-process&#34;&gt;Design Process&lt;/h5&gt;
-
-&lt;p&gt;My team conducted both secondary research and ethnographic research. Considering the time constraints of the course, all of our research was qualitative.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/lent1.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;Once we arrived to JFK Airport, we used AEIOU (Activities, Environments, Interactions, Objects, Users) templates as a framework to gather notable findings and we recorded all interactions and experiences we had.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/11.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;Also, we used AEIOU (Activities, Environments, Interactions, Objects, Users) templates as a framework to gather notable findings and we recorded all interactions and experiences we had.&lt;/p&gt;
 
 
 
@@ -1612,19 +1564,9 @@ In this design challenge, I set the project period is 5 days, 40h. So tradeoff b
 
 &lt;/figure&gt;
 
-&lt;p&gt;Also, we interviewed with a real driver how to do his work usually. We negotiated an untraditional ride: circling around the JFK airport for a 20 minute interview session.&lt;/p&gt;
+&lt;p&gt;According to the field research, the problem is that &lt;b&gt;Uber drivers have a language problem&lt;/b&gt; in the airport ride because sometimes passengers cannot speak English. &lt;b&gt;This causes unjustifiable low ratings of drivers&lt;/b&gt;.&lt;/p&gt;
 
-&lt;p&gt;In the interview, we confirmed that he had a problem to pick up a rider in the airport. Our driver told that he had a mistake that he picked up the wrong person who has a same first name because this passenger was so in a hurry. Also, he had a language problem because sometimes people who cannot speak English ride especially in the airport. We understood how difficult to pick up a right person perfectly.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/12.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
+&lt;h5 id=&#34;define-problem&#34;&gt;Define Problem&lt;/h5&gt;
 
 &lt;p&gt;After the interview, we debriefed our findings and designed a persona based on our talk with the driver. Just to note, there are other personas within the Uber driver community (young, single, female, temporary, etc). In the context of perfecting the pickup at JFK airport, solutions should be applied to all Uber drivers.&lt;/p&gt;
 
@@ -1657,6 +1599,10 @@ In this design challenge, I set the project period is 5 days, 40h. So tradeoff b
 
 
 &lt;/figure&gt;
+
+&lt;p&gt;From gained insights of field research, we developed a user flow and mockup screens.&lt;/p&gt;
+
+&lt;h5 id=&#34;explore-solution&#34;&gt;Explore Solution&lt;/h5&gt;
 
 &lt;p&gt;We met after classes to conduct brainstorming and create solution. A few themes we began to build upon:&lt;/p&gt;
 
@@ -1692,19 +1638,18 @@ In this design challenge, I set the project period is 5 days, 40h. So tradeoff b
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/130.png&#34; /&gt;
+&lt;img src=&#34;img/1.png&#34; /&gt;
 
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;To-Be User Journey Map&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
 
 &lt;/figure&gt;
 
-&lt;!-- When we reviewed our first wireframe internally, we found we should consider the function for next use. Our idea provides the function to text a detailed location to the driver, but in the next time, it is frustrating to text the same location once again. So we added a function to save the text you write for the next use. --&gt;
-
-&lt;!-- ## How did we measure success?
-I think the project should be measured by quantitative and qualitative standard. In terms of quantitative view, we can measure the actual time until drivers and riders finally meet in the airport again. On the other hand, as a qualitative method, we also need to ask inquiries with drivers and riders to know how much their frustration is solved. --&gt;
-
-&lt;h4 id=&#34;solution&#34;&gt;Solution&lt;/h4&gt;
-
-&lt;h2 id=&#34;free-from-language-barriers&#34;&gt;Free from language barriers&lt;/h2&gt;
+&lt;h5 id=&#34;prototype-perfecting-the-pickup-regardless-of-language&#34;&gt;Prototype: Perfecting the Pickup regardless of language&lt;/h5&gt;
 
 &lt;p&gt;
 
@@ -1743,6 +1688,28 @@ I think the project should be measured by quantitative and qualitative standard.
 
 &lt;/figure&gt;&lt;/p&gt;
 
+&lt;h5 id=&#34;result&#34;&gt;Result&lt;/h5&gt;
+
+&lt;p&gt;Our team pitched our research and mockups to the class and really valuable feedback around the viability of our solutions. The feedback to focus on the functionality and flow of the driver interface is reflected in the iterations that have been made on this document.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/2.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/23.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
 &lt;h5 id=&#34;learning&#34;&gt;Learning&lt;/h5&gt;
 
 &lt;p&gt;I think user interview needs not just a talking skill but a well-prepared strategy. To have a good preparation enables us to extract a good insight from user.&lt;/p&gt;
@@ -1770,17 +1737,10 @@ I think the project should be measured by quantitative and qualitative standard.
 &lt;li&gt;Instructor: Jodi Leo, VP of Product Design at CapTap&lt;/li&gt;
 &lt;li&gt;Class: Research Methods&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Phase / Period
-
-&lt;ul&gt;
-&lt;li&gt;Concept&lt;/li&gt;
-&lt;li&gt;07/2015 - 08/2015&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Team / Role
+&lt;li&gt;Team with
 
 &lt;ul&gt;
 &lt;li&gt;Sandra Gatica Morales, Colleen Brogan&lt;/li&gt;
-&lt;li&gt;UI/UX Design Practitioner&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Method / Technology
 
@@ -2471,13 +2431,15 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
       <guid>/project/2018_breathing/</guid>
       <description>
 
-&lt;h5 id=&#34;demo-video&#34;&gt;Demo Video&lt;/h5&gt;
+&lt;h5 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h5&gt;
 
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//player.vimeo.com/video/305882686&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
  &lt;/div&gt;
 
+
+&lt;p&gt;We present a Breathing Chair that changes its state and shape to prevent current sedentary lifestyle and help in shaping a healthy living habit. The Breathing chair tracks how long people have been sitting, and its surface swells physically like a mammal’s lung when people sit in the Breathing Chair for a long time. In so doing, it nudges people to stand up gently to avoid health risks of prolonged sitting. After a while, the Breathing chair quietly shrinks to its original state organically. This state-changing aspect of the Breathing Chair is almost physical reminder for people to stand up and leads them to shape a healthy lifestyle. In this paper, we describe the concept, design, and implementation method of the Breathing Chair. We also conducted the preliminary qualitative study amongst a sample of seven users and demonstrated the nudging aspect of Breathing Chair. Finally, we presented how it can be used for future applications.&lt;/p&gt;
 
 &lt;h5 id=&#34;problem&#34;&gt;Problem&lt;/h5&gt;
 
@@ -2735,7 +2697,7 @@ The state of actual operation is shown in the following image. We confirmed that
  &lt;/div&gt;
 
 
-&lt;h2 id=&#34;project-information&#34;&gt;Project Information&lt;/h2&gt;
+&lt;h5 id=&#34;project-information&#34;&gt;Project Information&lt;/h5&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Phase / Period
