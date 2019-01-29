@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Breathing Chair</title>
       <link>/ms1/final/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>/ms1/final/</guid>
       <description>
@@ -268,7 +268,7 @@ The state of actual operation is shown in the following image. We confirmed that
     <item>
       <title>Berlin: Animal Imitation</title>
       <link>/parsons/vrtrip1/</link>
-      <pubDate>Mon, 19 Nov 2018 00:00:00 -0800</pubDate>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>/parsons/vrtrip1/</guid>
       <description>
@@ -305,7 +305,7 @@ You wanna experience VR space with pets? A completely new VR experience was born
     <item>
       <title>Updated Intent for Final</title>
       <link>/ms1/intent2/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 -0800</pubDate>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 -0500</pubDate>
       
       <guid>/ms1/intent2/</guid>
       <description>
@@ -513,7 +513,7 @@ You wanna experience VR space with pets? A completely new VR experience was born
     <item>
       <title>Intent for Final</title>
       <link>/ms1/intent/</link>
-      <pubDate>Tue, 30 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/ms1/intent/</guid>
       <description>
@@ -749,43 +749,44 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
     <item>
       <title>ChanoMa</title>
       <link>/project/2017_cepco/</link>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2017_cepco/</guid>
       <description>
 
 &lt;h5 id=&#34;overview&#34;&gt;Overview&lt;/h5&gt;
 
-&lt;p&gt;Chubu Electric Power(C-EP) supplies electricity to 10 million households in Japan. The goal of this project was to make C-EP’s brand an essential part of family life with a user-centered product and improve its retention rate.&lt;/p&gt;
+&lt;!-- Chubu Electric Power(C-EP) supplies electricity to 10 million households in Japan. The goal of this project was to make C-EP’s brand an essential part of family life with a user-centered product and improve its retention rate.
 
-&lt;p&gt;ChanoMa (means &amp;ldquo;Living Room&amp;rdquo;) is a &lt;b&gt;service for a dual-income households with a small children&lt;/b&gt; to tighten family bonds. We decided a dual-income working mother as a primary user because 49% of households are dual-income families in urban area in Japan.&lt;/p&gt;
+ChanoMa (means &#34;Living Room&#34;) is a &lt;b&gt;service for a dual-income households with a small children&lt;/b&gt; to tighten family bonds. We decided a dual-income working mother as a primary user because 49% of households are dual-income families in urban area in Japan. --&gt;
 
 
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/Slide14.png&#34; /&gt;
+&lt;img src=&#34;ppt/Slide6.png&#34; /&gt;
 
 
 &lt;/figure&gt;
 
-&lt;p&gt;A special feature of using ChanoMa is that App plays and communicates with children when parents are busy.&lt;/p&gt;
+&lt;!-- A special feature of using ChanoMa is that App plays and communicates with children when parents are busy.
 
-&lt;p&gt;According to many interviews with working mothers, my team found how hard working parents&amp;rsquo; life and they are the busiest with cooking and houseworks for 30 minutes since they came home. ChanoMa plays with children using safe contents at that time, and helps parents.
+According to many interviews with working mothers, my team found how hard working parents&#39; life and they are the busiest with cooking and houseworks for 30 minutes since they came home. ChanoMa plays with children using safe contents at that time, and helps parents. --&gt;
+
 
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/10.png&#34; /&gt;
+&lt;img src=&#34;ppt/Slide7.png&#34; /&gt;
 
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;Also, by recording children&amp;rsquo;s daily responses and sharing these with their parents, they can understand children&amp;rsquo;s hidden feelings and preferences. As a future expansion, it will work as a platform of the entire family members including grandparents as if they are in the same living room even if they live far apart.&lt;/p&gt;
+&lt;!-- Also, by recording children&#39;s daily responses and sharing these with their parents, they can understand children&#39;s hidden feelings and preferences. As a future expansion, it will work as a platform of the entire family members including grandparents as if they are in the same living room even if they live far apart.
 
-&lt;p&gt;
+
 
 
 &lt;figure&gt;
@@ -793,161 +794,159 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
 &lt;img src=&#34;img/Slide33.png&#34; /&gt;
 
 
+&lt;/figure&gt; --&gt;
+
+&lt;p&gt;After the implementation. we performed a qualitative and quantitative user evaluation and 75% of participants evaluated &amp;ldquo;Very Positive&amp;rdquo; and &amp;ldquo;Positive&amp;rdquo; against the whole concept. Therefore, the client decide to launch this App in the next year cycle with considering qualitative feedback comments. Currently, the client continues to develop Android version and they are planning to release this product in 2019.&lt;/p&gt;
+
+&lt;h5 id=&#34;design-process&#34;&gt;Design Process&lt;/h5&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;ppt/Slide8.png&#34; /&gt;
+
+
 &lt;/figure&gt;
-After the implementation. we performed a qualitative and quantitative user evaluation and 75% of participants evaluated &amp;ldquo;Very Positive&amp;rdquo; and &amp;ldquo;Positive&amp;rdquo; against the whole concept. Therefore, the client decide to launch this App in the next year cycle with considering qualitative feedback comments. Currently, the client continues to develop Android version and they are planning to release this product in 2019.&lt;/p&gt;
+In the past, power grid was monopolized by one company and customers didn’t have an option.&lt;/p&gt;
 
-&lt;h5 id=&#34;my-role&#34;&gt;My Role&lt;/h5&gt;
+&lt;p&gt;However, the policy of electricity changed recently and the power grid began to be shared.
+So a lot of competitor enter the electricity market  and customer can choose company to look for better services. C-EP must provide attractive services for users to improve its retention capability.&lt;/p&gt;
 
-&lt;p&gt;I was employed as a project manager and a lead UX designer of an 10-person team consisting of designers, engineers and business strategists and managed the project from the concept creation to the implementation phases using methodologies of Design Thinking, Lean Startup and Agile Development. I am certified as both a practitioner of IBM Design Thinking and a Scrum Master, which means I can work consistently end to end as a professional user experience designer.
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;ppt/Slide9.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+However, client is a traditional company and there is no designer in their company. So they are completely lost. To think about user, but how? This is the first design-driven project for them.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;ppt/Slide10.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+So I was employed as a project manager and a lead UX designer and managed an 10-person team consisting of designers, engineers and business strategists.&lt;/p&gt;
+
+&lt;p&gt;I involved in the project end to end from the concept, design and build using methodologies of Design Thinking, Lean Startup and Agile Development.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;ppt/Slide11.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+At the beginning, the first challenge was how to define user? The first thing I did was holding 2-days IBM Design Thinking workshop with clients.&lt;/p&gt;
+
+&lt;p&gt;There were 2 meanings. One is to explore possible users, and the other is to familiarize clients with a design process because clients were not familiar with collaborating with designers and design process.
+In 2-days workshop, we defined 3 possible user segments according to social trends in Japan. We have more and more single, dual-income and elderly households, so I divided all members including IBM designers and clients into 3 teams and discussed possible users and scenarios in the sticker and paper work.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;ppt/Slide12.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+Finally, in this project, we decided a dual-income working mother as a primary user.
+According to our research, 49% of households are dual-income families in urban area in Japan and they will be a major segment of electricity user.
+And also they are actively searching for better and reasonable service, so we judged it is important to satisfy this user segment.&lt;/p&gt;
+
+&lt;p&gt;And in the following 10 interviews with working mother, we found how hard working mother’s life is. After coming back to the home, she must do cooking and many houseworks with taking care of children. And especially we found 2 core insights we should tackle.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;ppt/Slide13.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+One is the problem that recent mothers often passed their smartphones to a child when they were busy and showed YouTube and animation. It causes less communication between parents and children. Also, some young mothers even lose a way how to take care of children. They feel guilty to rely on a smartphone, but they can not quit it.&lt;/p&gt;
+
+&lt;p&gt;The other insight is mothers don’t know children’s feelings and preferences well. According to our interview, even mothers who are communicating with children usually say that they do not understand children’s feelings.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;ppt/Slide14.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+With iterative prototyping in collaboration with C-EP members, I came up with the idea that IoT toy plays and communicates with children when parents are busy. By recording children’s daily responses and sharing these with their parents, family members can understand their hidden feelings and preferences.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;ppt/Slide15.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+That was a interesting idea, However, Considering the project period and budget constraints, I decided to launch the App version as the first MVP. I regarded working mothers to rely on smartphones as a new habit and turn it into positive activities.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;ppt/Slide16.png&#34; /&gt;
+
+
+&lt;/figure&gt;
 
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/Slide24.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide25.png&#34; /&gt;
+&lt;img src=&#34;ppt/Slide17.png&#34; /&gt;
 
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;p&gt;Product design is actually an iterative journey of building, measuring and learning. With continuous discussion with users, clients, designers, engineers and business strategists, finally we developed and delivered an appropriate service for users.&lt;/p&gt;
-
+&lt;p&gt;From that point, we did iterative creation with build/measure/learn framework.
 
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/Slide11.png&#34; /&gt;
+&lt;img src=&#34;ppt/Slide18.png&#34; /&gt;
 
 
 &lt;/figure&gt;
 
-&lt;!-- Using design thinking, while focusing on customer-oriented thinking, we define the strong concept eventually to be released as a service running in the society. With the concept of lean startup, we verify and grow the service concept as a feasible business model. Finally we implement the business ecosystem designed with such a way of thinking to the world with agile development.
-
-As a project manager and professional UX designer, I contributed to the project from the concept phase to the agile development phase. In terms of technology, customer experience and sustainable business model, my team designed entire new business ecosystem of the client.
-
-In the concept phase, I planned a Design Thinking workshop with clients and created the initial concept of the service, prior to narrowing this down to a series of actionable steps in consideration of the concept’s implementation. Additionally, in the subsequent development phase, I have worked on continuously improving the quality of the product through a process of iterative prototyping and user evaluation. --&gt;
-
-&lt;h5 id=&#34;background&#34;&gt;Background&lt;/h5&gt;
-
-&lt;p&gt;
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/Slide1.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-In 2016, new policy of deregulation of the electricity industry in Japan has begun, and a lot of new and emerging companies and startups have entered the electricity market and acquire users by user-centric services.&lt;/p&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide2.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-&lt;b&gt;C-EP must&lt;/b&gt; shift to a client first company and &lt;b&gt;provide user-centered services in order to improve its retention capability.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide7.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-At the beginning, in the concept phase, I facilitated 2-days IBM Design Thinking workshop with clients, created the initial concept of a new service. We divided the members into 2 teams (personas) and eventually created 6 promising concepts.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide8.png&#34; /&gt;
+&lt;img src=&#34;ppt/Slide19.png&#34; /&gt;
 
 
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;target-user-and-insight&#34;&gt;Target User and Insight&lt;/h5&gt;
-
 &lt;p&gt;
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/Slide3.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-We decided &lt;b&gt;a dual-income working mother&lt;/b&gt; as a primary user. In Japan, 49% of households are dual-income families in urban area and It is expected that this figure will continue to rise in the future.&lt;/p&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide4.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-According to 10 interviews with working mother, we found &lt;b&gt;how hard working parents take care of little children.&lt;/b&gt; When a working mother comes back to the home, she must do many houseworks with taking care of children. And finally we found 2 core insights we should tackle with.&lt;/p&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide5.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-One is the problem that &lt;b&gt;recent mothers often handed out a smartphone to a child when they were busy and showed YouTube and animation.&lt;/b&gt; &lt;b&gt;It causes less communication between parents and children.&lt;/b&gt; Also, some young mothers even lose a way how to take care of children. They feel guilty to rely on a smartphone, but they can not quit it.&lt;/p&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide6.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-The other insight is &lt;b&gt;mothers don&amp;rsquo;t know children&amp;rsquo;s feelings and preferences well.&lt;/b&gt; According to our interview, even mothers who are communicating with children usually say that they do not understand children&amp;rsquo;s feelings.&lt;/p&gt;
-
-&lt;h5 id=&#34;initial-core-concept&#34;&gt;Initial Core Concept&lt;/h5&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide9.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;With iterative prototyping in collaboration with C-EP members, I came up with the idea that IoT toy plays and communicates with children when parents are busy. By recording children’s daily responses and sharing these with their parents, family members can understand their hidden feelings and preferences.&lt;/p&gt;
-
-&lt;h5 id=&#34;experience-design&#34;&gt;Experience Design&lt;/h5&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide10.png&#34; /&gt;
+&lt;img src=&#34;ppt/Slide20.png&#34; /&gt;
 
 
 &lt;/figure&gt;
@@ -956,174 +955,43 @@ The other insight is &lt;b&gt;mothers don&amp;rsquo;t know children&amp;rsquo;s 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/Slide26.png&#34; /&gt;
+&lt;img src=&#34;ppt/Slide21.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;ppt/Slide22.png&#34; /&gt;
 
 
 &lt;/figure&gt;&lt;/p&gt;
 
+&lt;h5 id=&#34;next-steps&#34;&gt;Next Steps&lt;/h5&gt;
+
 
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/Slide12.png&#34; /&gt;
+&lt;img src=&#34;ppt/Slide23.png&#34; /&gt;
 
 
 &lt;/figure&gt;
 
-&lt;p&gt;
+&lt;h5 id=&#34;learnings&#34;&gt;Learnings&lt;/h5&gt;
+
+
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/Slide15.png&#34; /&gt;
+&lt;img src=&#34;ppt/Slide24.png&#34; /&gt;
 
 
 &lt;/figure&gt;
-Considering the project period and budget constraints, I decided to launch the App version as the first MVP.
-I regarded working mothers to &lt;b&gt;rely on smartphones as a new habit&lt;/b&gt; and turn it into positive activities.&lt;/p&gt;
-
-&lt;p&gt;We developed an iOS app that can communicate with children when parents handed out a smartphone to them. By recording their daily responses and sharing these with parents, &lt;b&gt;the family members are able to understand the children’s hidden feelings and preferences.&lt;/b&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;collaborative-studio&#34;&gt;Collaborative Studio&lt;/h5&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide13.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-As a project manager, I planned to improve the parts of the product the needed it based on the research results. I opened a collaborative studio in which multiple members could simultaneously discuss various topics from a business plan to elements of UI that needed to be improved and tried to create an appropriate experience. I repeated this whole-day workshop every other week with not only internal designers but also C-EP members and then had a vote to decide the design direction with everyone’s opinion included.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide16.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide17.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;ui-design&#34;&gt;UI Design&lt;/h5&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide18.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide19.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide20.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide21.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide22.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide23.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-For this project, it was necessary to create designs for iOS platforms because it was the most major platform among C-EP customers. We performed 30 interviews and improved our product iteratively. Using InVision, we performed interviews with a moving prototype mockup. Finally, we fixed requirements of comprehensive services and proceeded to the following development phase.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/122.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h5 id=&#34;finalize-ux-ui-in-sprints-of-development&#34;&gt;Finalize UX/UI in sprints of development&lt;/h5&gt;
-
-&lt;p&gt;In the subsequent development phase, I have been working on continuously improving the quality of the product through a process of iterative prototyping and user evaluation. I have the certification of both a practitioner of IBM Design Thinking and a Scrum Master, so I can work consistently end to end from the concept creation to implementation phases as a professional user experience designer.&lt;/p&gt;
-
-&lt;p&gt;Finally my team designed and finalized 94 screens and interactions in the development phase.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/123.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;result&#34;&gt;Result&lt;/h5&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/Slide33.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-After the implementation. we performed a qualitative and quantitative user evaluation. 234 dual-income households with children tested this App for 2 weeks, and 75% of people evaluated &amp;ldquo;Good (55%)&amp;rdquo; and &amp;ldquo;Very Good (20%)&amp;rdquo; against the whole concept. Therefore, the client decide to launch this App in the next year cycle with considering qualitative feedback comments. Currently, the client continues to develop Android version and they are planning to release this product in 2019.&lt;/p&gt;
-
-&lt;h5 id=&#34;learning&#34;&gt;Learning&lt;/h5&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/4.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-I think service Design is Co-creation. Product design is a process of exploring an appropriate ecosystem comprising everyone, that is created by everyone, and is provided for everyone.&lt;/p&gt;
 
 &lt;h5 id=&#34;project-schedule&#34;&gt;Project Schedule&lt;/h5&gt;
 
@@ -1145,11 +1013,480 @@ I think service Design is Co-creation. Product design is a process of exploring 
     </item>
     
     <item>
-      <title>MTA Smart Metrocard</title>
-      <link>/project/2018_mta/</link>
-      <pubDate>Mon, 22 Oct 2018 00:00:00 -0700</pubDate>
+      <title>Parsons Event App Redesign</title>
+      <link>/project/2019_parsons/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/2018_mta/</guid>
+      <guid>/project/2019_parsons/</guid>
+      <description>
+
+&lt;h5 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h5&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide26.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h5 id=&#34;final-ui&#34;&gt;Final UI&lt;/h5&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide27.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide28.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;visual-design-system&#34;&gt;Visual Design System&lt;/h5&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide29.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h5 id=&#34;design-process&#34;&gt;Design Process&lt;/h5&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide30.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide31.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide32.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide33.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide34.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide35.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide36.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide37.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide38.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide39.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide40.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide41.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide42.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;learning&#34;&gt;Learning&lt;/h5&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/Slide43.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h5 id=&#34;project-information&#34;&gt;Project Information&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phase / Period
+
+&lt;ul&gt;
+&lt;li&gt;Concept, Design, Build&lt;/li&gt;
+&lt;li&gt;10 / 2018 (7 Day)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Team / Role
+
+&lt;ul&gt;
+&lt;li&gt;Sole Project&lt;/li&gt;
+&lt;li&gt;Researcher, Designer&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Method / Technology
+
+&lt;ul&gt;
+&lt;li&gt;Design Thinking&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breathing Chair</title>
+      <link>/project/2018_breathing/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/2018_breathing/</guid>
+      <description>
+
+&lt;h5 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h5&gt;
+
+&lt;p&gt;I&amp;rsquo;m submitting this project to CHI2019 Late Breaking Work.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/305882686&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;We present a Breathing Chair that changes its state and shape to prevent current sedentary lifestyle and help in shaping a healthy living habit. The Breathing chair tracks how long people have been sitting, and its surface swells physically like a mammal’s lung when people sit in the Breathing Chair for a long time. In so doing, it nudges people to stand up gently to avoid health risks of prolonged sitting. After a while, the Breathing chair quietly shrinks to its original state organically. This state-changing aspect of the Breathing Chair is almost physical reminder for people to stand up and leads them to shape a healthy lifestyle. In this paper, we describe the concept, design, and implementation method of the Breathing Chair. We also conducted the preliminary qualitative study amongst a sample of seven users and demonstrated the nudging aspect of Breathing Chair. Finally, we presented how it can be used for future applications.&lt;/p&gt;
+
+&lt;h5 id=&#34;problem&#34;&gt;Problem&lt;/h5&gt;
+
+&lt;p&gt;Our body is designed for regular movement, but most people spend the bulk of their day sitting still instead. Especially, knowledge workers sit at their desks during the day, commute by car, and relax on the couch watching TV or on their computers in the evenings.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/1.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;An independent survey that Ergotron commissioned [1] found that nearly 70 percent of full-time American workers hate sitting, yet 86 percent are required to do it all day, every day. As a result, they are sitting on the chair for an average of 13 hours on weekdays. According to a study of weekday total sitting hours in 20 countries around the world, the median daily total sitting time for 20 countries was 300 minutes. Also, Japan and Saudi Arabia were the longest in 420 minutes and 20 countries [2].&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/18.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Research results that the health risk is increased by sitting too much has been reported worldwide, and attention is rising. As a representative study on the risk of death, there are investigations in Australia [3] that tracked approximately 220,000 people over the age of 45 years for three years, compared to those with a sitting time of fewer than 4 hours per day over 8 hours 1.15 times, people with more than 11 hours have a 1.4 times higher risk of total mortality. According to the latest study, it has been pointed out that the sedentary life is also related to the function of the brain [4], and it is required that practical interventions aimed at reducing and replacing sedentary behavior with intermittent light intensity physical activity to help slow cognitive decline.&lt;/p&gt;
+
+&lt;h5 id=&#34;related-work&#34;&gt;Related Work&lt;/h5&gt;
+
+&lt;p&gt;There are two major approaches to tackle this problem. One is an approach from ergonomics. Furniture makers have been developing an ergonomic chair not to get tired even if it sits for a long time [5]. However, the latest studies show that it is more important to reduce the time to sit and increase the time to move. Deborah Rohm Young’s group [6] suggests that prolonged sitting is harmful to health because sedentary behaviors usually have an little energy expenditure of 1.5 metabolic equivalents (METs) or less while slow, leisurely walking or light housework uses around 2.5 METs, and vigorous to moderate physical activity uses around 3 METs or more.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/2.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The other approach is from user experience design to increase the standing time of people. Height adjustable table [7] enables workers to work while standing. Buckley’s group reports that standing-based office work encourages signs of attenuating post-prandial glycaemic excursion [8]. However, Baker’s research group assessed that prolonged standing might also have health and productivity impacts [9]. Data that it is not good for your health whether you are sitting too hard or too standing has been reported.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/3.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Apple watch [10] provides another solution. It detects periods of no move of the person wearing it and urges him/her to stand up and walk. It can announce to the user at an appropriate timing for walking based on the biometric data, but the user may not perform the actual operation or accept the advice in some cases.
+In summary, based on the human-centered design, these products consider how to provide comfort and a healthy posture on the premise of human physical characteristics and limitations.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/4.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h5 id=&#34;concept&#34;&gt;Concept&lt;/h5&gt;
+
+&lt;p&gt;Breathing Chair offers the novel way to prevent prolonged sitting by chair breathing. When people sit for a long time, the chair breathes organically and deform into a difficult shape to sit. It leads people toward a state of standing up in a natural way. After a while, the chair quietly returns to its original state.
+Our approach is from ontological design, in which objects shape human beings, unlike conventional human-centered product designs mentioned in previous studies. Escobar argues “We design tools, and these tools design us back” in his book of ontological design [11]. We synthesized with and created Breathing Chair based on this nondualism concept that our individuals, materials and the world are all united and that there is no center.&lt;/p&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/5.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h5 id=&#34;discussion-of-shape&#34;&gt;Discussion of Shape&lt;/h5&gt;
+
+&lt;p&gt;In addition to the breathing chair, we explored some shapes of the optimal deforming chair.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/19.gif&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;A heating chair that makes users stand up as the temperature gets hot.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/9.gif&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;A folding chair that makes users stands up by changing the shape to a vertical shape.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/8.gif&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;An animal chair that changes into the shape of an animal and gives a more organic impression.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/6.gif&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;After the ideation, we organized these four ideas on two axes.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/10.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;One axis we considered was mechanical vs. organic. Mechanical way is functional for users. However, this chair makes people sudden change, and it is not our intention to let the user feel &amp;ldquo;being forced to a machine.&amp;rdquo; Sudden mechanical change seems ruthless and irritates users. Therefore, we judged that the organic way is more appropriate in this project and wanted users to think “the chair is also a living thing and so it cannot be helped.”
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/11.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;The other axis is state-changing vs. shape-changing. Chairs in the upper row change state like a cold state and a hot state, a shrinking state and a swelling state, whereas chairs in the lower row are only deforming from a chair to a different shape. We judged that the state-changing way is more appropriate because this way gives users more impression of living things.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/12.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;As a result of evaluating with the above two axes, we finally chose the idea of Breathing Chair.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/13.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/14.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;implementation&#34;&gt;Implementation&lt;/h5&gt;
+
+&lt;p&gt;Regarding implementation, it consists of two functions. One is measuring the time sitting. The force sensor on the seating surface  measures the time since a person sits on the chair. The other is controlling breathing. In this prototype, we use the balloon, and it stretched when people were seated for a certain period.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/16.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;According to Patel et al.&amp;rsquo;s research [12], it is important to walk up and walk around many times a day. Also, if you stand for two minutes every hour, lipid, blood sugar, and blood pressure will improve. Therefore, we adjusted the balloon to swell for about 2 minutes when the user continues sitting for 1 hour.
+The state of actual operation is shown in the following image. We confirmed that the bulging of the balloon pushes the user forward.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/17.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;conclusion-and-future-work&#34;&gt;Conclusion and Future Work&lt;/h5&gt;
+
+&lt;p&gt;In this paper, we propose the Breathing Chair which changes its shape to make people stand up to prevent prolonged sitting. When people sit for 1 hour, the chair breathes organically and deform into a difficult shape to sit. After 2 minutes, the chair quietly returns to its original state. It leads people toward a state of standing up in a natural way. We introduced the concept, design and running prototype.&lt;/p&gt;
+
+&lt;p&gt;As for a future iteration, there are two considerations to improve the quality of the product. One is the form itself. In this prototype, we were able to confirm that the breathing chair creates the force to make people stand up, so we would like to consider more organic shape such as a breathable fabric instead of a balloon. The other is the configuration of parameters. It is better to adjust the interval according to the usage environment, the age of the user, the use case, etc. Regarding a future application, we would like to install this product to schools and offices and to lead sedentary people to healthy lifestyles by an organic breathing chair.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/15.gif&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;reference&#34;&gt;Reference&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Ergotron, Inc. 2013. Ergotron JustStand Survey &amp;amp; Index Report.&lt;/li&gt;
+&lt;li&gt;Bauman AE, Ainsworth B.,Sallis j, et al. 2011. The descriptive epidemiology of sitting: A 20-country comparison using the International Physical Activity Questionnaire (IPAQ). Am J Prev Med 2011; 41: 228-235.&lt;/li&gt;
+&lt;li&gt;Van der Ploeg HP, Chey T,Korda RJ, et al. 2012. Sitting time and all‐cause mortality risk in 222,497 Austrarian adults. Arch Intern Med 2012;172:494‐500.&lt;/li&gt;
+&lt;li&gt;Wheeler MJ, Dempsey PC, Grace MS, et al. 2017. Sedentary behavior as a risk factor for cognitive decline? A focus on the influence of glycemic control in brain health. Alzheimers Dement (N Y). 2017;3(3):291-300. Published 2017 May 2. doi:10.1016/j.trci.2017.04.001&lt;/li&gt;
+&lt;li&gt;Herman Millar. 1994. Aeron Chair: &lt;a href=&#34;https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/&#34; target=&#34;_blank&#34;&gt;https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Young DR, Hivert MF, Alhassan S, Camhi SM, Ferguson JF, Katzmarzyk PT, Lewis CE, Owen N, Perry CK, Siddique J, Yong CM. 2016. Sedentary Behavior and Cardiovascular Morbidity and Mortality: A Science Advisory From the American Heart Association. Endorsed by The Obesity Societ; Physical Activity Committee of the Council on Lifestyle and Cardiometabolic Health; Council on Clinical Cardiology; Council on Epidemiology and Prevention; Council on Functional Genomics and Translational Biology; and Stroke Council. Circulation. 2016 Sep 27;134(13):e262-79. doi: 10.1161/CIR.0000000000000440. Epub 2016 Aug 15. Review.&lt;/li&gt;
+&lt;li&gt;Okamura. 2016. SW: &lt;a href=&#34;https://www.okamura.com/en_us/products/categories/height_adjustable_tables/height_adjustable/sw/&#34; target=&#34;_blank&#34;&gt;https://www.okamura.com/en_us/products/categories/height_adjustable_tables/height_adjustable/sw/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Buckley JP, Mellor DD, Morris M, et al. 2014. Standing-based office work shows encouraging signs of attenuating post-prandial glycaemic excursion Occup Environ Med 2014;71:109-111.&lt;/li&gt;
+&lt;li&gt;Baker R, Coenen P, Howie E, Lee J, Williamson A, Straker L. 2018. A detailed description of the short-term musculoskeletal and cognitive effects of prolonged  standing for office computer work. Ergonomics. 2018 Jul;61(7):877-890. doi: 10.&lt;sup&gt;1080&lt;/sup&gt;&amp;frasl;&lt;sub&gt;00140139&lt;/sub&gt;.2017.1420825. Epub 2018 Feb 7. PubMed PMID: 29388500.&lt;/li&gt;
+&lt;li&gt;Apple. 2018. Apple Watch Series 4: &lt;a href=&#34;https://www.apple.com/watch/&#34; target=&#34;_blank&#34;&gt;https://www.apple.com/watch/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Arturo Escobar. 2018. An Outline of Ontological in Designs for the Pluriverse. Durham: Duke University Press, 2018.&lt;/li&gt;
+&lt;li&gt;Alpa V Patel, Maret L Maliniak, Erika Rees-Punia, Charles E Matthews, Susan M Gapstur. 2018. Prolonged Leisure Time Spent Sitting in Relation to Cause-Specific Mortality in a Large US Cohort, American Journal of Epidemiology, Volume 187, Issue 10, 1 October 2018, Pages 2151–2158.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MTA Smart Metrocard</title>
+      <link>/tmp/2018_mta/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tmp/2018_mta/</guid>
       <description>
 
 &lt;h5 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h5&gt;
@@ -1489,7 +1826,7 @@ In this design challenge, I set the project period is 5 days, 40h. So tradeoff b
     <item>
       <title>UBER UX RESEARCH AND DESIGN</title>
       <link>/project/2015_uber/</link>
-      <pubDate>Sun, 21 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2015_uber/</guid>
       <description>
@@ -1772,7 +2109,7 @@ In this design challenge, I set the project period is 5 days, 40h. So tradeoff b
     <item>
       <title>Biography</title>
       <link>/ms1/career/</link>
-      <pubDate>Fri, 19 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/ms1/career/</guid>
       <description>&lt;p&gt;Masaki is an interaction and service designer based in NY.
@@ -1784,7 +2121,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>Design Manifesto: Goodbye Human, Hello Alien.</title>
       <link>/publication/manifesto/</link>
-      <pubDate>Fri, 19 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 19 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/publication/manifesto/</guid>
       <description></description>
@@ -1793,7 +2130,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>MJ Button</title>
       <link>/ms1/highline/</link>
-      <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/ms1/highline/</guid>
       <description>
@@ -2168,7 +2505,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>5D: Collective Transition</title>
       <link>/ms1/5d/</link>
-      <pubDate>Sun, 30 Sep 2018 01:00:00 -0700</pubDate>
+      <pubDate>Sun, 30 Sep 2018 01:00:00 -0400</pubDate>
       
       <guid>/ms1/5d/</guid>
       <description>&lt;p&gt;
@@ -2267,7 +2604,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>4D: Collective Aroma</title>
       <link>/ms1/4d/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/ms1/4d/</guid>
       <description>&lt;p&gt;
@@ -2348,7 +2685,7 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
     <item>
       <title>3D: Collective Juice</title>
       <link>/ms1/3d/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/ms1/3d/</guid>
       <description>&lt;p&gt;
@@ -2423,360 +2760,6 @@ He holds the MFA degree in Design and Technology at Parsons School of Design. Pr
 
 
 &lt;/figure&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Breathing Chair</title>
-      <link>/project/2018_breathing/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/project/2018_breathing/</guid>
-      <description>
-
-&lt;h5 id=&#34;project-overview&#34;&gt;Project Overview&lt;/h5&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/305882686&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;We present a Breathing Chair that changes its state and shape to prevent current sedentary lifestyle and help in shaping a healthy living habit. The Breathing chair tracks how long people have been sitting, and its surface swells physically like a mammal’s lung when people sit in the Breathing Chair for a long time. In so doing, it nudges people to stand up gently to avoid health risks of prolonged sitting. After a while, the Breathing chair quietly shrinks to its original state organically. This state-changing aspect of the Breathing Chair is almost physical reminder for people to stand up and leads them to shape a healthy lifestyle. In this paper, we describe the concept, design, and implementation method of the Breathing Chair. We also conducted the preliminary qualitative study amongst a sample of seven users and demonstrated the nudging aspect of Breathing Chair. Finally, we presented how it can be used for future applications.&lt;/p&gt;
-
-&lt;h5 id=&#34;problem&#34;&gt;Problem&lt;/h5&gt;
-
-&lt;p&gt;Our body is designed for regular movement, but most people spend the bulk of their day sitting still instead. Especially, knowledge workers sit at their desks during the day, commute by car, and relax on the couch watching TV or on their computers in the evenings.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/1.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;An independent survey that Ergotron commissioned [1] found that nearly 70 percent of full-time American workers hate sitting, yet 86 percent are required to do it all day, every day. As a result, they are sitting on the chair for an average of 13 hours on weekdays. According to a study of weekday total sitting hours in 20 countries around the world, the median daily total sitting time for 20 countries was 300 minutes. Also, Japan and Saudi Arabia were the longest in 420 minutes and 20 countries [2].&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/18.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;Research results that the health risk is increased by sitting too much has been reported worldwide, and attention is rising. As a representative study on the risk of death, there are investigations in Australia [3] that tracked approximately 220,000 people over the age of 45 years for three years, compared to those with a sitting time of fewer than 4 hours per day over 8 hours 1.15 times, people with more than 11 hours have a 1.4 times higher risk of total mortality. According to the latest study, it has been pointed out that the sedentary life is also related to the function of the brain [4], and it is required that practical interventions aimed at reducing and replacing sedentary behavior with intermittent light intensity physical activity to help slow cognitive decline.&lt;/p&gt;
-
-&lt;h5 id=&#34;related-work&#34;&gt;Related Work&lt;/h5&gt;
-
-&lt;p&gt;There are two major approaches to tackle this problem. One is an approach from ergonomics. Furniture makers have been developing an ergonomic chair not to get tired even if it sits for a long time [5]. However, the latest studies show that it is more important to reduce the time to sit and increase the time to move. Deborah Rohm Young’s group [6] suggests that prolonged sitting is harmful to health because sedentary behaviors usually have an little energy expenditure of 1.5 metabolic equivalents (METs) or less while slow, leisurely walking or light housework uses around 2.5 METs, and vigorous to moderate physical activity uses around 3 METs or more.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/2.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;The other approach is from user experience design to increase the standing time of people. Height adjustable table [7] enables workers to work while standing. Buckley’s group reports that standing-based office work encourages signs of attenuating post-prandial glycaemic excursion [8]. However, Baker’s research group assessed that prolonged standing might also have health and productivity impacts [9]. Data that it is not good for your health whether you are sitting too hard or too standing has been reported.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/3.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;p&gt;Apple watch [10] provides another solution. It detects periods of no move of the person wearing it and urges him/her to stand up and walk. It can announce to the user at an appropriate timing for walking based on the biometric data, but the user may not perform the actual operation or accept the advice in some cases.
-In summary, based on the human-centered design, these products consider how to provide comfort and a healthy posture on the premise of human physical characteristics and limitations.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/4.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h5 id=&#34;concept&#34;&gt;Concept&lt;/h5&gt;
-
-&lt;p&gt;Breathing Chair offers the novel way to prevent prolonged sitting by chair breathing. When people sit for a long time, the chair breathes organically and deform into a difficult shape to sit. It leads people toward a state of standing up in a natural way. After a while, the chair quietly returns to its original state.
-Our approach is from ontological design, in which objects shape human beings, unlike conventional human-centered product designs mentioned in previous studies. Escobar argues “We design tools, and these tools design us back” in his book of ontological design [11]. We synthesized with and created Breathing Chair based on this nondualism concept that our individuals, materials and the world are all united and that there is no center.&lt;/p&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/5.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h5 id=&#34;discussion-of-shape&#34;&gt;Discussion of Shape&lt;/h5&gt;
-
-&lt;p&gt;In addition to the breathing chair, we explored some shapes of the optimal deforming chair.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/19.gif&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;A heating chair that makes users stand up as the temperature gets hot.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/9.gif&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;A folding chair that makes users stands up by changing the shape to a vertical shape.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/8.gif&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;An animal chair that changes into the shape of an animal and gives a more organic impression.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/6.gif&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;After the ideation, we organized these four ideas on two axes.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/10.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;One axis we considered was mechanical vs. organic. Mechanical way is functional for users. However, this chair makes people sudden change, and it is not our intention to let the user feel &amp;ldquo;being forced to a machine.&amp;rdquo; Sudden mechanical change seems ruthless and irritates users. Therefore, we judged that the organic way is more appropriate in this project and wanted users to think “the chair is also a living thing and so it cannot be helped.”
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/11.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;The other axis is state-changing vs. shape-changing. Chairs in the upper row change state like a cold state and a hot state, a shrinking state and a swelling state, whereas chairs in the lower row are only deforming from a chair to a different shape. We judged that the state-changing way is more appropriate because this way gives users more impression of living things.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/12.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;As a result of evaluating with the above two axes, we finally chose the idea of Breathing Chair.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/13.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/14.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;implementation&#34;&gt;Implementation&lt;/h5&gt;
-
-&lt;p&gt;Regarding implementation, it consists of two functions. One is measuring the time sitting. The force sensor on the seating surface  measures the time since a person sits on the chair. The other is controlling breathing. In this prototype, we use the balloon, and it stretched when people were seated for a certain period.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/16.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;According to Patel et al.&amp;rsquo;s research [12], it is important to walk up and walk around many times a day. Also, if you stand for two minutes every hour, lipid, blood sugar, and blood pressure will improve. Therefore, we adjusted the balloon to swell for about 2 minutes when the user continues sitting for 1 hour.
-The state of actual operation is shown in the following image. We confirmed that the bulging of the balloon pushes the user forward.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/17.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;conclusion-and-future-work&#34;&gt;Conclusion and Future Work&lt;/h5&gt;
-
-&lt;p&gt;In this paper, we propose the Breathing Chair which changes its shape to make people stand up to prevent prolonged sitting. When people sit for 1 hour, the chair breathes organically and deform into a difficult shape to sit. After 2 minutes, the chair quietly returns to its original state. It leads people toward a state of standing up in a natural way. We introduced the concept, design and running prototype.&lt;/p&gt;
-
-&lt;p&gt;As for a future iteration, there are two considerations to improve the quality of the product. One is the form itself. In this prototype, we were able to confirm that the breathing chair creates the force to make people stand up, so we would like to consider more organic shape such as a breathable fabric instead of a balloon. The other is the configuration of parameters. It is better to adjust the interval according to the usage environment, the age of the user, the use case, etc. Regarding a future application, we would like to install this product to schools and offices and to lead sedentary people to healthy lifestyles by an organic breathing chair.
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/15.gif&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h5 id=&#34;reference&#34;&gt;Reference&lt;/h5&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Ergotron, Inc. 2013. Ergotron JustStand Survey &amp;amp; Index Report.&lt;/li&gt;
-&lt;li&gt;Bauman AE, Ainsworth B.,Sallis j, et al. 2011. The descriptive epidemiology of sitting: A 20-country comparison using the International Physical Activity Questionnaire (IPAQ). Am J Prev Med 2011; 41: 228-235.&lt;/li&gt;
-&lt;li&gt;Van der Ploeg HP, Chey T,Korda RJ, et al. 2012. Sitting time and all‐cause mortality risk in 222,497 Austrarian adults. Arch Intern Med 2012;172:494‐500.&lt;/li&gt;
-&lt;li&gt;Wheeler MJ, Dempsey PC, Grace MS, et al. 2017. Sedentary behavior as a risk factor for cognitive decline? A focus on the influence of glycemic control in brain health. Alzheimers Dement (N Y). 2017;3(3):291-300. Published 2017 May 2. doi:10.1016/j.trci.2017.04.001&lt;/li&gt;
-&lt;li&gt;Herman Millar. 1994. Aeron Chair: &lt;a href=&#34;https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/&#34; target=&#34;_blank&#34;&gt;https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Young DR, Hivert MF, Alhassan S, Camhi SM, Ferguson JF, Katzmarzyk PT, Lewis CE, Owen N, Perry CK, Siddique J, Yong CM. 2016. Sedentary Behavior and Cardiovascular Morbidity and Mortality: A Science Advisory From the American Heart Association. Endorsed by The Obesity Societ; Physical Activity Committee of the Council on Lifestyle and Cardiometabolic Health; Council on Clinical Cardiology; Council on Epidemiology and Prevention; Council on Functional Genomics and Translational Biology; and Stroke Council. Circulation. 2016 Sep 27;134(13):e262-79. doi: 10.1161/CIR.0000000000000440. Epub 2016 Aug 15. Review.&lt;/li&gt;
-&lt;li&gt;Okamura. 2016. SW: &lt;a href=&#34;https://www.okamura.com/en_us/products/categories/height_adjustable_tables/height_adjustable/sw/&#34; target=&#34;_blank&#34;&gt;https://www.okamura.com/en_us/products/categories/height_adjustable_tables/height_adjustable/sw/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Buckley JP, Mellor DD, Morris M, et al. 2014. Standing-based office work shows encouraging signs of attenuating post-prandial glycaemic excursion Occup Environ Med 2014;71:109-111.&lt;/li&gt;
-&lt;li&gt;Baker R, Coenen P, Howie E, Lee J, Williamson A, Straker L. 2018. A detailed description of the short-term musculoskeletal and cognitive effects of prolonged  standing for office computer work. Ergonomics. 2018 Jul;61(7):877-890. doi: 10.&lt;sup&gt;1080&lt;/sup&gt;&amp;frasl;&lt;sub&gt;00140139&lt;/sub&gt;.2017.1420825. Epub 2018 Feb 7. PubMed PMID: 29388500.&lt;/li&gt;
-&lt;li&gt;Apple. 2018. Apple Watch Series 4: &lt;a href=&#34;https://www.apple.com/watch/&#34; target=&#34;_blank&#34;&gt;https://www.apple.com/watch/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Arturo Escobar. 2018. An Outline of Ontological in Designs for the Pluriverse. Durham: Duke University Press, 2018.&lt;/li&gt;
-&lt;li&gt;Alpa V Patel, Maret L Maliniak, Erika Rees-Punia, Charles E Matthews, Susan M Gapstur. 2018. Prolonged Leisure Time Spent Sitting in Relation to Cause-Specific Mortality in a Large US Cohort, American Journal of Epidemiology, Volume 187, Issue 10, 1 October 2018, Pages 2151–2158.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AR Businesscard</title>
-      <link>/project/2018_ar/</link>
-      <pubDate>Wed, 26 Sep 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/project/2018_ar/</guid>
-      <description>
-
-&lt;h5 id=&#34;demo-video&#34;&gt;Demo Video&lt;/h5&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/310200898&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;h5 id=&#34;project-information&#34;&gt;Project Information&lt;/h5&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phase / Period
-
-&lt;ul&gt;
-&lt;li&gt;Concept, Design, Build&lt;/li&gt;
-&lt;li&gt;102/ 2018 (1 week)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Team / Role
-
-&lt;ul&gt;
-&lt;li&gt;Sole Project&lt;/li&gt;
-&lt;li&gt;Maker, Coder&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Method / Technology
-
-&lt;ul&gt;
-&lt;li&gt;Iterative coding&lt;/li&gt;
-&lt;li&gt;Unity, Vuforia, C++&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- 
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/1.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/2.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/3.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/4.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/5.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/6.png&#34; /&gt;
-
-
-&lt;/figure&gt; --&gt;
 </description>
     </item>
     

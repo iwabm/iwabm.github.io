@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>/home/hero_carousel/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Design Driven.&lt;br&gt; Speculative Thinking.</title>
       <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
       <guid>/home/hero/</guid>
       <description>Masaki is a NY-based interaction design technologist
@@ -35,7 +35,7 @@ with a head for social, environmental, and planetary possibility. 👍
     <item>
       <title>Works</title>
       <link>/home/ms1/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/ms1/</guid>
       <description></description>
@@ -44,7 +44,7 @@ with a head for social, environmental, and planetary possibility. 👍
     <item>
       <title>Works</title>
       <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/projects/</guid>
       <description></description>
@@ -53,7 +53,7 @@ with a head for social, environmental, and planetary possibility. 👍
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/about/</guid>
       <description>About Me Masaki is an award-winning interaction and service designer experienced in a wide array of projects from tangible products to intangible services.
@@ -64,7 +64,7 @@ Previously he worked at IBM Design and has 10 years of professional UX/UI design
     <item>
       <title>Skills</title>
       <link>/home/skills/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
       <guid>/home/skills/</guid>
       <description></description>
@@ -91,7 +91,7 @@ Previously he worked at IBM Design and has 10 years of professional UX/UI design
     <item>
       <title>Awards &amp; Honors</title>
       <link>/home/awards/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/awards/</guid>
       <description> President’s Scholarship  Parsons School of Design, 2018 - 2020  Selected for IBM Japan Technology Leading talents  IBM, 2012  Selected for ACM SIGGRAPH Student Research Competition  ACM SIGGRAPH, 2008  Young Researcher Award  Human Interface Society, Japan 2008  Good Design Award  Pioneering and exponential design Winner, Japan 2008  </description>
@@ -100,7 +100,7 @@ Previously he worked at IBM Design and has 10 years of professional UX/UI design
     <item>
       <title>Philosophy &amp; Principle</title>
       <link>/home/mission/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/mission/</guid>
       <description></description>
@@ -109,7 +109,7 @@ Previously he worked at IBM Design and has 10 years of professional UX/UI design
     <item>
       <title>Methodology &amp; Practice</title>
       <link>/home/methodology/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/methodology/</guid>
       <description></description>
@@ -118,7 +118,7 @@ Previously he worked at IBM Design and has 10 years of professional UX/UI design
     <item>
       <title>Selected Articles</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
@@ -127,7 +127,7 @@ Previously he worked at IBM Design and has 10 years of professional UX/UI design
     <item>
       <title>Selected Articles</title>
       <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/talks/</guid>
       <description></description>
@@ -136,7 +136,7 @@ Previously he worked at IBM Design and has 10 years of professional UX/UI design
     <item>
       <title>Certifications</title>
       <link>/home/certifications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/certifications/</guid>
       <description> Certified Scrum Master  Scrum Alliance, 2017  Certified IBM Design Thinking Coach  IBM, 2017  </description>
@@ -145,7 +145,7 @@ Previously he worked at IBM Design and has 10 years of professional UX/UI design
     <item>
       <title>Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
@@ -154,7 +154,7 @@ Previously he worked at IBM Design and has 10 years of professional UX/UI design
     <item>
       <title>Publications</title>
       <link>/home/publist/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/publist/</guid>
       <description>LimpiDual Touch, Interactive Limpid Display with Dual-sided Touch Sensing  Masaki Iwabuchi, Yasuaki Kakehi, and Takeshi Naemura ACM SIGGRAPH2008 Posters, B156, Article no. 87., 2008 selected for Student Research Competition, ACM  Real Life is an Odyssey.-Proposal for a videogame linked to reality.  Yukari Hori, Masaki Iwabuchi, Akira Baba ACM Intern. Conf. Advances in Computer Entertainment (ACE2008), accepted to Research Posters.  EINSTEIN STUDIO ARCHIVES  Compilation book of Japanese young photographers.</description>
@@ -163,7 +163,7 @@ Previously he worked at IBM Design and has 10 years of professional UX/UI design
     <item>
       <title>Selected Talks</title>
       <link>/home/talks_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/talks_selected/</guid>
       <description></description>
@@ -172,7 +172,7 @@ Previously he worked at IBM Design and has 10 years of professional UX/UI design
     <item>
       <title>Exhibitions</title>
       <link>/home/exhibitions/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/exhibitions/</guid>
       <description> New Japan Photo Exhibition in KG+, Hotel Anteroom, Kyoto, Japan Apr 2018 New Japan Photo Exhibition, IMA Gallery, Tokyo, Japan Dec 2017 New Japan Photo Exhibition, Midoriso 2, Tokyo, Japan Mar 2016 New City Art Fair (in EINSTEIN STUDIO botth), hpgrp Gallery, NY, USA Mar 2016 Art Photograph Group Show Part. 27, RECTO VERSO GALLERY, Tokyo, Japan Feb 2016 ART DUBAI (in EINSTEIN STUDIO booth), Dubai, UAE Mar 2013 Photo Fair Einstein, Tokyo, Japan Mar 2013 iii exhibition 9, The University of Tokyo, Japan Jun 2008 GOOD DESIGN EXPO 2008, Tokyo Big Sight, Japan Aug 2008 50th Sign &amp;amp; Display Show, Tokyo Big Sight, Japan Aug 2008 Interactive Tokyo, National museum of emerging science and innovation, Japan Sep 2008  </description>
@@ -181,7 +181,7 @@ Previously he worked at IBM Design and has 10 years of professional UX/UI design
     <item>
       <title>Teaching</title>
       <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
@@ -192,7 +192,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Tags</title>
       <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
       <guid>/home/tags/</guid>
       <description></description>
@@ -201,7 +201,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Photography</title>
       <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/posts/</guid>
       <description></description>
@@ -210,7 +210,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Search</title>
       <link>/home/search/</link>
-      <pubDate>Mon, 23 Jul 2018 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>/home/search/</guid>
       <description></description>
@@ -219,7 +219,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>

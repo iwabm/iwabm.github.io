@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/ux-ui/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>AR Businesscard</title>
       <link>/project/2018_ar/</link>
-      <pubDate>Wed, 26 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_ar/</guid>
       <description> Demo Video   Project Information  Phase / Period  Concept, Design, Build 102/ 2018 (1 week)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding Unity, Vuforia, C++              -- </description>

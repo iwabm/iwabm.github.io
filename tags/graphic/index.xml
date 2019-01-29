@@ -7,15 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 27 Mar 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/graphic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Parsons Event App Redesign</title>
+      <link>/project/2019_parsons/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/2019_parsons/</guid>
+      <description> Project Overview   Final UI     
+Visual Design System   Design Process                           
+Learning   Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (7 Day)  Team / Role  Sole Project Researcher, Designer  Method / Technology  Design Thinking   </description>
+    </item>
+    
+    <item>
       <title>ORGANIC MUSIC VISUALIZER</title>
       <link>/project/2018_organic/</link>
-      <pubDate>Tue, 27 Mar 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_organic/</guid>
       <description> Project Overview    Coded a sound visualizer which enables music experience more organic.

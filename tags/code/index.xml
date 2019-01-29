@@ -7,24 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Parsons Event App Redesign</title>
+      <link>/project/2019_parsons/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/2019_parsons/</guid>
+      <description> Project Overview   Final UI     
+Visual Design System   Design Process                           
+Learning   Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (7 Day)  Team / Role  Sole Project Researcher, Designer  Method / Technology  Design Thinking   </description>
+    </item>
+    
+    <item>
       <title>Breathing Chair</title>
       <link>/project/2018_breathing/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_breathing/</guid>
-      <description>Project Overview   We present a Breathing Chair that changes its state and shape to prevent current sedentary lifestyle and help in shaping a healthy living habit. The Breathing chair tracks how long people have been sitting, and its surface swells physically like a mammal’s lung when people sit in the Breathing Chair for a long time. In so doing, it nudges people to stand up gently to avoid health risks of prolonged sitting.</description>
+      <description>Project Overview I&amp;rsquo;m submitting this project to CHI2019 Late Breaking Work.
+  We present a Breathing Chair that changes its state and shape to prevent current sedentary lifestyle and help in shaping a healthy living habit. The Breathing chair tracks how long people have been sitting, and its surface swells physically like a mammal’s lung when people sit in the Breathing Chair for a long time. In so doing, it nudges people to stand up gently to avoid health risks of prolonged sitting.</description>
     </item>
     
     <item>
       <title>AR Businesscard</title>
       <link>/project/2018_ar/</link>
-      <pubDate>Wed, 26 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_ar/</guid>
       <description> Demo Video   Project Information  Phase / Period  Concept, Design, Build 102/ 2018 (1 week)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding Unity, Vuforia, C++              -- </description>
@@ -33,7 +45,7 @@
     <item>
       <title>Collective Juice</title>
       <link>/project/2018_collective/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_collective/</guid>
       <description>Project Overview   Collective Juice is a physical product that collects different user&amp;rsquo;s emotions and tone together to reveal and visualizes the “mood” of the group/community.
@@ -43,7 +55,7 @@ Objective How might we collect responses to questions that can only be answered 
     <item>
       <title>ORGANIC MUSIC VISUALIZER</title>
       <link>/project/2018_organic/</link>
-      <pubDate>Tue, 27 Mar 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_organic/</guid>
       <description> Project Overview    Coded a sound visualizer which enables music experience more organic.

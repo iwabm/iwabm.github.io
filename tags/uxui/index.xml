@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/uxui/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,19 +15,18 @@
     <item>
       <title>ChanoMa</title>
       <link>/project/2017_cepco/</link>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2017_cepco/</guid>
-      <description>Overview Chubu Electric Power(C-EP) supplies electricity to 10 million households in Japan. The goal of this project was to make C-EP’s brand an essential part of family life with a user-centered product and improve its retention rate.
-ChanoMa (means &amp;ldquo;Living Room&amp;rdquo;) is a service for a dual-income households with a small children to tighten family bonds. We decided a dual-income working mother as a primary user because 49% of households are dual-income families in urban area in Japan.</description>
+      <description>Overview service for a dual-income households with a small children to tighten family bonds. We decided a dual-income working mother as a primary user because 49% of households are dual-income families in urban area in Japan. --      -- After the implementation. we performed a qualitative and quantitative user evaluation and 75% of participants evaluated &amp;ldquo;Very Positive&amp;rdquo; and &amp;ldquo;Positive&amp;rdquo; against the whole concept. Therefore, the client decide to launch this App in the next year cycle with considering qualitative feedback comments.</description>
     </item>
     
     <item>
       <title>MTA Smart Metrocard</title>
-      <link>/project/2018_mta/</link>
-      <pubDate>Mon, 22 Oct 2018 00:00:00 -0700</pubDate>
+      <link>/tmp/2018_mta/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/2018_mta/</guid>
+      <guid>/tmp/2018_mta/</guid>
       <description>Project Overview I personally tried to redesign MTA services because NYC subway riding experience is uncomfortable for me; dirty platform, unexpected stop, morning/evening rush and so on. I conducted the entire design process to specify inconvenient element of the subway and improve services of MTA.
 My Role I conducted the whole design process from interviewing with users, defining problem, ideation, prototyping and evaluation.
 Background Current research (source) shows that subway and bus ridership has declined while ridership through ride-sharing services like Lyft and Uber has increased.</description>
@@ -36,7 +35,7 @@ Background Current research (source) shows that subway and bus ridership has dec
     <item>
       <title>UBER UX RESEARCH AND DESIGN</title>
       <link>/project/2015_uber/</link>
-      <pubDate>Sun, 21 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2015_uber/</guid>
       <description>Project Overview I had the opportunity to join the Research Methods in Interaction Design course at the School of Visual Arts. Our instructor Jodi Leo, Executive Director of User Experience at Critical Mass, led us to collaborate with the Research team at Uber to optimize efficiency for Uber drivers during the pick up at the JFK airport.
@@ -46,7 +45,7 @@ My Role I conducted interviews with Uber drivers, conducted secondary research, 
     <item>
       <title>IBM WATSON COGNITIVE ENTERPRISE APP</title>
       <link>/tmp/2016_watson/</link>
-      <pubDate>Tue, 27 Sep 2016 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 27 Sep 2016 00:00:00 -0400</pubDate>
       
       <guid>/tmp/2016_watson/</guid>
       <description>Overview IBM Watson cognitive application We delivered an initial phase of a cognitive Watson Advisor solution using agile engineering approach. MHI engineers can inspect and take action for risks of their projects in advance without long industry experience. They reduced the time taken by the worker&amp;rsquo;s task by 30% as a result.

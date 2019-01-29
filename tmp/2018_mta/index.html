@@ -1,0 +1,1002 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 3.1.0">
+  <meta name="generator" content="Hugo 0.51" />
+  <meta name="author" content="Masaki Iwabuchi">
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="UX Design Challenge&lt;br&gt;Personal Project | iOS App | 1 Week">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/tmp/2018_mta/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#ff7473">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Ubuntu Mono:400,700|Saira:300,400,500,600|Open Sans:400,600">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+  <link rel="stylesheet" href="/css/custom.css">
+  
+
+  
+  
+  
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-3.1.0.min.js"></script>
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Masaki Iwabuchi">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Masaki Iwabuchi">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/tmp/2018_mta/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="Masaki Iwabuchi">
+  <meta property="og:url" content="/tmp/2018_mta/">
+  <meta property="og:title" content="MTA Smart Metrocard | Masaki Iwabuchi">
+  <meta property="og:description" content="UX Design Challenge&lt;br&gt;Personal Project | iOS App | 1 Week">
+  
+  
+    
+  <meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2018-10-22T00:00:00-04:00">
+  
+  <meta property="article:modified_time" content="2018-10-22T00:00:00-04:00">
+  
+
+  
+
+  
+
+  <title>MTA Smart Metrocard | Masaki Iwabuchi</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/"><img src="/img/logo.png" alt="Masaki Iwabuchi"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#projects">
+            
+            <span>Works</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>About</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#posts">
+            
+            <span>Photo</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/files/cv.pdf">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+<article class="article" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="article-header d-xl-none">
+  <img src="/tmp/2018_mta/featured_hu2c29b7dd26df0844527d22cb278ec4d9_479336_1600x400_fill_q90_box_smart1_2.png" class="article-banner" itemprop="image" alt="">
+  
+</div>
+
+
+<div class="container-fluid split-header d-none d-xl-block">
+  <div class="row">
+    <div class="col-6">
+      <div class="split-header-content">
+        <h1 itemprop="name">MTA Smart Metrocard</h1>
+
+        
+        <p class="page-displaydate">2018 | Private Project | UX Design Challenge</p>
+        
+
+        
+        
+        <p class="page-subtitle"><span class="page-subcolor">Role: </span>UX/UI Designer / Sole Project</p>
+        
+        
+        <p class="page-subtitle"><span class="page-subcolor">Contribution: </span>Empathize, Define, Ideate, Prototype, Test | 5 days (40h)</p>
+        
+        
+        
+        <p class="page-subtitle"><span class="page-subcolor">Outcome: </span>Prototype iOS App</p>
+        
+
+        
+
+<div class="article-metadata">
+
+  
+  
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Masaki Iwabuchi">
+  </span>
+  
+
+  <span class="article-date">
+    
+    <meta content="2018-10-22 00:00:00 -0400 EDT" itemprop="datePublished">
+    <time datetime="2018-10-22 00:00:00 -0400 EDT" itemprop="dateModified">
+      
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Masaki Iwabuchi">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+
+</div>
+
+
+        
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+
+
+
+        
+
+      </div>
+    </div>
+    <div class="col-6">
+      <div class="split-header-image">
+        <img src="/tmp/2018_mta/featured_hu2c29b7dd26df0844527d22cb278ec4d9_479336_680x500_fill_q90_box_smart1_2.png" itemprop="image" alt="">
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="article-container d-xl-none">
+  <h1 itemprop="name">MTA Smart Metrocard</h1>
+
+  
+  <p class="page-displaydate">2018 | Private Project | UX Design Challenge</p>
+  
+
+  
+  
+  <p class="page-subtitle"><span class="page-subcolor">Role: </span>UX/UI Designer / Sole Project</p>
+  
+  
+  <p class="page-subtitle"><span class="page-subcolor">Contribution: </span>Empathize, Define, Ideate, Prototype, Test | 5 days (40h)</p>
+  
+  
+  <p class="page-subtitle"><span class="page-subcolor">Outcome: </span>Prototype iOS App</p>
+  
+
+  
+
+  
+
+<div class="article-metadata">
+
+  
+  
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Masaki Iwabuchi">
+  </span>
+  
+
+  <span class="article-date">
+    
+    <meta content="2018-10-22 00:00:00 -0400 EDT" itemprop="datePublished">
+    <time datetime="2018-10-22 00:00:00 -0400 EDT" itemprop="dateModified">
+      
+    </time>
+  </span>
+  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Masaki Iwabuchi">
+  </span>
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+</div>
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      
+
+<h5 id="project-overview">Project Overview</h5>
+
+<p>I personally tried to redesign MTA services because NYC subway riding experience is uncomfortable for me; dirty platform, unexpected stop, morning/evening rush and so on. I conducted the entire design process to specify inconvenient element of the subway and improve services of MTA.</p>
+
+<h5 id="my-role">My Role</h5>
+
+<p>I conducted the whole design process from interviewing with users, defining problem, ideation, prototyping and evaluation.</p>
+
+<h5 id="background">Background</h5>
+
+<p>Current research (<a href="https://www.nycedc.com/blog-entry/transportation-trends-nyc" target="_blank">source</a>) shows that <b>subway and bus ridership has declined</b> while ridership through ride-sharing services like Lyft and Uber has increased. App-based services are based on a great UX and are increasing their users dramatically.</p>
+
+<p>Therefore, to increase a retention rate, MTA needs to provide the user-centered service for the purpose of getting access easily to the metro, on time, without having a bad experience.</p>
+
+
+
+
+<figure>
+
+<img src="img/research1.png" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Data: Transportation Trends in NYC</h4>
+  
+</figcaption>
+
+</figure>
+
+<p>From interviewing with real users, it turned out that <b>NYC commuters sometimes have a frustration that they want to catch a train but cannot because they don&rsquo;t have enough money in the metro card.</b> In this moment, they have to go back to a ticket vending machine and wait in a long line to refill your card. This is really frustrating and painful experience.</p>
+
+
+
+
+<figure>
+
+<img src="img/vend.png" />
+
+
+</figure>
+
+<p>To solve this problem, I developed the idea of smart metrocard which enables users to refill the money anytime and anywhere. Subway users can refill money through the App and enter the platform without using a ticket vending machine.</p>
+
+
+
+
+<figure>
+
+<img src="img/card.png" />
+
+
+
+<figcaption data-pre="Figure " data-post=":" >
+  <h4>Smart Metrocard</h4>
+  
+</figcaption>
+
+</figure>
+
+<p>This proposal is a little bit radical because the physical metrocard also need to be intelligent in order to reflect real-time refilling money from the App. However, this smart metrocard infrastructure is adopted by many countries such as Germany, France and Japan, and they don’t have a frustration of purchasing train tickets.
+<iframe width="442" height="935" src="//invis.io/TCO7886KGHS" frameborder="0" allowfullscreen></iframe></p>
+
+<h5 id="result">Result</h5>
+
+<p>In this design challenge, I conducted the user interview using the invision mockup, basic function is accepted by the user and we can plan a next iteration.
+
+
+
+<figure>
+
+<img src="img/eva.png" />
+
+
+</figure></p>
+
+<h5 id="design-process">Design Process</h5>
+
+<p>New York city commuters are primary user group and travelers are second user group because they are the biggest user groups.</p>
+
+<p>From my research, there are 1.5 million daily-use commuters in NYC and over 60 million temporary-use traveller in a year. Also, they’re creating over $500M per month in total. They account for the majority of MTA&rsquo;s revenue.
+
+
+
+<figure>
+
+<img src="img/Slide4.png" />
+
+
+</figure></p>
+
+<p>Interviewing with a real user and confirming our assumption at the beginning is the fastest way to define problems.</p>
+
+<p>I conducted interviews with 3 friends of mine. 2 of them are commuters and other 1 is traveller. I confirmed their process to use the subway and extracted their pain points from this interview.</p>
+
+<p>I found commuters have frustration especially in rush hour. They hate time consuming to make a line to refill a metrocard and crowded train. Also, travellers have a trouble to sightseeing. They feel the entrance is narrow for big suitcase, time is not accurate and platform is dirty.</p>
+
+<p>Finally, I converged the pain points and categorized 3 main frustration area from the interview. This is the problem related to ticket machines, platform and train schedule. These areas needs to be solved.</p>
+
+<p>
+
+
+<figure>
+
+<img src="img/Slide5.png" />
+
+
+</figure>
+
+
+
+<figure>
+
+<img src="img/Slide6.png" />
+
+
+</figure>
+
+
+
+<figure>
+
+<img src="img/Slide7.png" />
+
+
+</figure>
+
+
+
+<figure>
+
+<img src="img/Slide12.png" />
+
+
+</figure></p>
+
+<p>Based on the specified pain points and directions, I conducted the brainstorming and created bold ideas. I came up with 10 following ideas.</p>
+
+<ul>
+<li>Touch &amp; Go by smartphone</li>
+<li>Gateless entry</li>
+<li>Fingerprint entry</li>
+<li>Refill using App</li>
+<li>Free wifi spot</li>
+<li>Library in the platform</li>
+<li>Bigger entrance</li>
+<li>visualize maintenance status</li>
+<li>visualize realtime train operation status</li>
+<li>visualize real train location on the map</li>
+</ul>
+
+<p>
+
+
+<figure>
+
+<img src="img/Slide13.png" />
+
+
+</figure>
+<!-- 
+
+
+<figure>
+
+<img src="img/Slide8.png" />
+
+
+</figure>
+
+
+
+<figure>
+
+<img src="img/Slide9.png" />
+
+
+</figure>
+
+
+
+<figure>
+
+<img src="img/Slide10.png" />
+
+
+</figure>
+
+
+
+<figure>
+
+<img src="img/Slide11.png" />
+
+
+</figure> --></p>
+
+<p>I think the prioritization is the most important part because we must decide the solution and discard other solutions in this timing.</p>
+
+<p>In this time, I used the prioritization grid which I used in my IBM career. This grid has 2 axis. One is desirability for the user and the other is feasibility in terms of technology and business. Using this 2 axis, we can evaluate the idea from design, business and technology.</p>
+
+
+
+
+<figure>
+
+<img src="img/pri2.png" />
+
+
+</figure>
+
+<p>I arranged the idea using this chart and decided to pick up the idea that is in the No-Brainer area.
+I finally chose the &ldquo;Refill using App&rdquo; idea because there is other competitors in the other idea in the No-Brainer area.</p>
+
+
+
+
+<figure>
+
+<img src="img/Slide14.png" />
+
+
+</figure>
+
+<p>After defining the solution, I moved to the implementation phase. I drew the storyboard, content map and wireframes. My policy is drawing an experience in the storyboard. It should not be functional because it verifies the experience we&rsquo;re thinking. For me, the prototype is a work to improve the resolution from 1 shot idea, 6 shots storyboards, to an interactive mockup.
+
+
+
+<figure>
+
+<img src="img/Slide16.png" />
+
+
+</figure>
+
+
+
+<figure>
+
+<img src="img/Slide18.png" />
+
+
+</figure>
+
+
+
+<figure>
+
+<img src="img/Slide19.png" />
+
+
+</figure></p>
+
+<h4 id="solution">Solution</h4>
+
+<h2 id="smart-metrocard-app">Smart Metrocard App</h2>
+
+<p>
+
+
+<figure>
+
+<img src="img/sol.png" />
+
+
+</figure>
+After prototyping, I conducted the user interview using the invision mockup because of the limited timeline. However, project success is measured by both quantitative and qualitative to judge properly.</p>
+
+<p>In terms of quantitative perspective, we can test the time to refill money via App compared with making a line in front of a vending machine. We need to evaluate practical effects of the project using quantitative data. Also, in terms of qualitative measure, user interview should be conducted in the evaluation stage. I can confirm more emotional effects for the user.
+<!--
+In this design challenge, I conducted the user interview using the invision mockup, however, some functions didn’t  work well such as the timing of registering credit card information. I think the concept that decreasing user’s frustration of refilling card was accepted by the user because in the user interview users mentioned they need these App. However, detailed functions still have a possibility to improve. --></p>
+
+
+
+
+<figure>
+
+<img src="img/eva.png" />
+
+
+</figure>
+
+<h5 id="learning">Learning</h5>
+
+<!-- ## What is the tradeoffs?
+In this design challenge, I set the project period is 5 days, 40h. So tradeoff between time and work was challenging. I know I need time to prototype and evaluate, however it is also important to define a right problem. So I limited the number of interviewees and implemented the minimum story. In doing so, I focus on doing the whole process with considering time limitation.
+
+## What did I learn? -->
+
+<p>When I work in a project, I think the following two part is the most important.</p>
+
+<p>One is defining the right problem because it is meaningless to solve the wrong problem. In this project, I conducted several user interviews to explore the problem and verify our assumption. Going out of the office and listening to the voice of real users is the start point of the project.</p>
+
+<p>The other is making as soon as possible trying multiple iterations. We cannot deliver a perfect product in the first iteration. We need to continue quick prototype and validate the experience in each time. In this project, I couldn’t take enough time to continue iterative cycles because of the limited timeline, but I need to manage at least 2 prototyping cycles to improve the final quality.</p>
+
+<h5 id="design-timeline">Design Timeline</h5>
+
+
+
+
+<figure>
+
+<img src="img/2.png" />
+
+
+</figure>
+
+<ul>
+<li>Project Type
+
+<ul>
+<li>Private | UX Design Challenge</li>
+</ul></li>
+<li>Phase / Period
+
+<ul>
+<li>Empathize, Define, Ideate, Prototype, Test</li>
+<li>10 / 2018 (40h)</li>
+</ul></li>
+<li>Team
+
+<ul>
+<li>Sole Project</li>
+</ul></li>
+<li>Method / Technology
+
+<ul>
+<li>User-Centered Design</li>
+<li>Target Device: iOS App</li>
+</ul></li>
+</ul>
+
+    </div>
+
+    
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/uxui/">uxui</a>
+  
+</div>
+
+
+
+    
+
+
+    
+    
+    <div class="article-widget">
+      <div class="hr-light"></div>
+      <h3>Related</h3>
+      <ul>
+        
+        <li><a href="/project/2015_uber/">UBER UX RESEARCH AND DESIGN</a></li>
+        
+        <li><a href="/tmp/2016_watson/">IBM WATSON COGNITIVE ENTERPRISE APP</a></li>
+        
+      </ul>
+    </div>
+    
+
+    
+    <div class="article-widget">
+      <div class="post-nav">
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Previous</div>
+    <a href="/tmp/2016_watson/" rel="prev">IBM WATSON COGNITIVE ENTERPRISE APP</a>
+  </div>
+  
+</div>
+
+    </div>
+    
+
+    
+
+
+  </div>
+</article>
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2018 &middot; 
+
+    Masaki Iwabuchi
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    <script src="/js/hugo-academic.js"></script>
+    
+    <script src="/js/particle.js"></script>
+    
+    <script src="/js/custom.js"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+  </body>
+</html>
+

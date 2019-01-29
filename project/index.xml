@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,28 +15,37 @@
     <item>
       <title>ChanoMa</title>
       <link>/project/2017_cepco/</link>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2017_cepco/</guid>
-      <description>Overview Chubu Electric Power(C-EP) supplies electricity to 10 million households in Japan. The goal of this project was to make C-EP’s brand an essential part of family life with a user-centered product and improve its retention rate.
-ChanoMa (means &amp;ldquo;Living Room&amp;rdquo;) is a service for a dual-income households with a small children to tighten family bonds. We decided a dual-income working mother as a primary user because 49% of households are dual-income families in urban area in Japan.</description>
+      <description>Overview service for a dual-income households with a small children to tighten family bonds. We decided a dual-income working mother as a primary user because 49% of households are dual-income families in urban area in Japan. --      -- After the implementation. we performed a qualitative and quantitative user evaluation and 75% of participants evaluated &amp;ldquo;Very Positive&amp;rdquo; and &amp;ldquo;Positive&amp;rdquo; against the whole concept. Therefore, the client decide to launch this App in the next year cycle with considering qualitative feedback comments.</description>
     </item>
     
     <item>
-      <title>MTA Smart Metrocard</title>
-      <link>/project/2018_mta/</link>
-      <pubDate>Mon, 22 Oct 2018 00:00:00 -0700</pubDate>
+      <title>Parsons Event App Redesign</title>
+      <link>/project/2019_parsons/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/2018_mta/</guid>
-      <description>Project Overview I personally tried to redesign MTA services because NYC subway riding experience is uncomfortable for me; dirty platform, unexpected stop, morning/evening rush and so on. I conducted the entire design process to specify inconvenient element of the subway and improve services of MTA.
-My Role I conducted the whole design process from interviewing with users, defining problem, ideation, prototyping and evaluation.
-Background Current research (source) shows that subway and bus ridership has declined while ridership through ride-sharing services like Lyft and Uber has increased.</description>
+      <guid>/project/2019_parsons/</guid>
+      <description> Project Overview   Final UI     
+Visual Design System   Design Process                           
+Learning   Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (7 Day)  Team / Role  Sole Project Researcher, Designer  Method / Technology  Design Thinking   </description>
+    </item>
+    
+    <item>
+      <title>Breathing Chair</title>
+      <link>/project/2018_breathing/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/2018_breathing/</guid>
+      <description>Project Overview I&amp;rsquo;m submitting this project to CHI2019 Late Breaking Work.
+  We present a Breathing Chair that changes its state and shape to prevent current sedentary lifestyle and help in shaping a healthy living habit. The Breathing chair tracks how long people have been sitting, and its surface swells physically like a mammal’s lung when people sit in the Breathing Chair for a long time. In so doing, it nudges people to stand up gently to avoid health risks of prolonged sitting.</description>
     </item>
     
     <item>
       <title>UBER UX RESEARCH AND DESIGN</title>
       <link>/project/2015_uber/</link>
-      <pubDate>Sun, 21 Oct 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2015_uber/</guid>
       <description>Project Overview I had the opportunity to join the Research Methods in Interaction Design course at the School of Visual Arts. Our instructor Jodi Leo, Executive Director of User Experience at Critical Mass, led us to collaborate with the Research team at Uber to optimize efficiency for Uber drivers during the pick up at the JFK airport.
@@ -44,18 +53,9 @@ My Role I conducted interviews with Uber drivers, conducted secondary research, 
     </item>
     
     <item>
-      <title>Breathing Chair</title>
-      <link>/project/2018_breathing/</link>
-      <pubDate>Fri, 28 Sep 2018 00:00:00 -0700</pubDate>
-      
-      <guid>/project/2018_breathing/</guid>
-      <description>Project Overview   We present a Breathing Chair that changes its state and shape to prevent current sedentary lifestyle and help in shaping a healthy living habit. The Breathing chair tracks how long people have been sitting, and its surface swells physically like a mammal’s lung when people sit in the Breathing Chair for a long time. In so doing, it nudges people to stand up gently to avoid health risks of prolonged sitting.</description>
-    </item>
-    
-    <item>
       <title>AR Businesscard</title>
       <link>/project/2018_ar/</link>
-      <pubDate>Wed, 26 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_ar/</guid>
       <description> Demo Video   Project Information  Phase / Period  Concept, Design, Build 102/ 2018 (1 week)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding Unity, Vuforia, C++              -- </description>
@@ -64,7 +64,7 @@ My Role I conducted interviews with Uber drivers, conducted secondary research, 
     <item>
       <title>Collective Juice</title>
       <link>/project/2018_collective/</link>
-      <pubDate>Sat, 22 Sep 2018 00:00:00 -0700</pubDate>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_collective/</guid>
       <description>Project Overview   Collective Juice is a physical product that collects different user&amp;rsquo;s emotions and tone together to reveal and visualizes the “mood” of the group/community.
@@ -74,7 +74,7 @@ Objective How might we collect responses to questions that can only be answered 
     <item>
       <title>HUMAN EXPERIENCE FOR TRANSHUMAN</title>
       <link>/project/2018_speculative/</link>
-      <pubDate>Fri, 24 Aug 2018 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_speculative/</guid>
       <description>XHuman: Educational Headset for transhumans to Experience “Human” in 2075 XHuman is an educational headset for transhumans who inplants superintelligence into their left brain which works for language, memory, calculation. This gadget stimulates your brain electrically and temporarily stops the neurotransmission between the brain chip and the brain. This feature enables transhumans to think as “Humans.&amp;rdquo;
@@ -85,7 +85,7 @@ How can Humans and Transhumans coexist towards a sustainable society in 2075?</d
     <item>
       <title>ORGANIC MUSIC VISUALIZER</title>
       <link>/project/2018_organic/</link>
-      <pubDate>Tue, 27 Mar 2018 00:00:00 -0700</pubDate>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_organic/</guid>
       <description> Project Overview    Coded a sound visualizer which enables music experience more organic.
@@ -96,7 +96,7 @@ Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  T
     <item>
       <title>LimpiDual Touch</title>
       <link>/project/2009_llimpidual/</link>
-      <pubDate>Fri, 27 Mar 2009 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 27 Mar 2009 00:00:00 -0400</pubDate>
       
       <guid>/project/2009_llimpidual/</guid>
       <description>Project Overview    LimpiDual Touch is the emerging interactive transparent display. Users can operate from the rear side of the screen while seeing both displayed images and their fingers. This feature resolves a finger occlusion problem. Additionally, it also works for multiple users. Two users can share an identical display from both sides and control displayed objects at one time. This feature will apply to a collaborative work and an entertainment application.</description>
