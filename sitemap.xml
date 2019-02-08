@@ -60,6 +60,14 @@
     
     <url>
     
+      <loc>/project/2019_viz/</loc>
+      <lastmod>2018-10-22T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tmp/2018_mta/</loc>
       <lastmod>2018-10-22T00:00:00-04:00</lastmod>
     </url>
@@ -140,7 +148,7 @@
     
     <url>
     
-      <loc>/project/2018_collective/</loc>
+      <loc>/tmp/2018_collective/</loc>
       <lastmod>2018-09-22T00:00:00-04:00</lastmod>
     </url>
     
@@ -316,7 +324,7 @@
     <url>
     
       <loc>/tags/code/</loc>
-      <lastmod>2018-10-24T00:00:00-04:00</lastmod>
+      <lastmod>2018-10-23T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
