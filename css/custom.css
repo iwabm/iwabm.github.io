@@ -1,3 +1,20 @@
+@font-face {
+  font-family: 'Klavika';
+  src: url('../font/Klavika-Regular.otf') format('opentype');
+
+  font-family: 'Klavika-light';
+  src: url('../font/KlavikaLight-Plain.otf') format('opentype');
+}
+
+body {
+  font-family: 'Klavika';
+  color: #000;
+}
+
+h1, h2, h3, h4, h5, h6, li {
+  font-family: 'Klavika';
+}
+
 .navbar-brand img {
     height: 35px;
 }
@@ -7,9 +24,12 @@
 } */
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 2rem;
   /* font-weight: 400; */
-  letter-spacing: -0.09rem;
+  letter-spacing: 0.05rem;
+}
+h1.mt-0 {
+  font-size: 2rem;
 }
 
 .section-heading h1 {
@@ -17,13 +37,14 @@ h1 {
 }
 
 .article-style p {
-  line-height: 1.8;
+  font-size: 1.1rem;
+  line-height: 1.5;
   text-align: justify;
 }
 
-h3 {
+/* h3 {
   font-weight: 500;
-}
+} */
 
 figcaption h4 {
     display: block;
@@ -33,12 +54,27 @@ figcaption h4 {
     margin: 0;
 }
 
+.card h4 {
+  font-size: 1.1rem;
+}
+
 h5 {
     margin-top: 3rem;
-    font-size: 1.25rem;
+    font-size: 1.6rem;
     font-weight: 500;
     /* text-align: center; */
-    color: rgba(0,0,0,1);
+    color: rgba(0,0,0,1.0);
+}
+
+p {
+  font-size: 1.15rem;
+  line-height: 1.6;
+  color: rgba(0,0,0,0.8);
+}
+
+b {
+  font-family: 'Klavika';
+  font-weight: 600;
 }
 
 p.page-displaydate {
@@ -48,13 +84,13 @@ p.page-displaydate {
 }
 
 .page-subtitle {
-    font-size: 1rem;
+    font-size: 1.15rem;
     margin-bottom: 0;
 }
 .page-subcolor {
-    color: rgba(0,0,0,.30);
-    font-size: 0.825rem;
-    font-weight: 700;
+    color: rgba(0,0,0,.40);
+    font-size: 1rem;
+    /* font-weight: 700; */
 }
 .split-header .page-subtitle {
     margin-bottom: 0;
@@ -90,9 +126,11 @@ ul {
   margin-bottom: -0.5rem;
 } */
 
-.card .card-text p.card-disp {
-  font-weight: 600;
-  color: #ff7473;
+.card .card-text mark.card-disp {
+  font-weight: 400;
+  font-size: 0.85rem;
+  background-color: #ffa4a3;
+  color: #fff;
 }
 
 .markup-quote {
@@ -134,11 +172,15 @@ ul {
 }
 
 .home-section {
-  padding: 70px 0 70px 0;
+  padding: 50px 0 50px 0;
+}
+
+.dropdown-menu, nav#navbar-main li.nav-item {
+    font-size: 17px;
 }
 
 .hero-overlay {
-  height: 75vh;
+  height: 60vh;
   display: table;
   margin: auto;
   text-align: center;
@@ -150,7 +192,7 @@ ul {
 }
 
 .hero-overlay .btn-lg {
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 @media screen and (max-width: 768px) {
@@ -161,9 +203,16 @@ ul {
 }
 
 .hero-title {
-  line-height: 1.4;
+  font-size: 3.0rem;
+  line-height: 1.25;
+  margin-bottom: 2rem;
   /* padding-top: 2em; */
 }
+.hero-lead {
+  line-height: 1.4;
+  font-family: 'Klavika-light';
+}
+
 
 .center-text {
   margin-bottom: 2rem;
@@ -196,6 +245,11 @@ ul {
   text-align: center;
 }
 
+.card .card-text p {
+    color: rgba(0,0,0,0.54) !important;
+    font-size: 0.85rem !important;
+}
+
 .article-container {
   max-width: 980px;
 }
@@ -208,6 +262,7 @@ ul {
   /* height: 300px; */
   position: relative;
 }
+
 
 canvas {
   position: absolute;

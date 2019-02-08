@@ -108,14 +108,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #ff7473;
+  color: #ff9493;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #ff7473;
+  color: #ff9493;
 }
 
 img,
@@ -297,8 +297,8 @@ small,
 }
 
 .form-control:focus {
-  border-color: #ff7473;
-  box-shadow: 0 0 0 .2rem #ffa4a3;
+  border-color: #ff9493;
+  box-shadow: 0 0 0 .2rem #ffc4c3;
 }
 
 /*************************************************
@@ -511,7 +511,7 @@ a[data-fancybox] img {
 .featurette-icon {
   display: block;
   width: 100%;
-  color: #ff7473;
+  color: #ff9493;
   font-size: 3rem;
   text-align: center;
 }
@@ -797,7 +797,7 @@ article .article-metadata {
 }
 
 .article-metadata a:hover {
-  color: #ff7473;
+  color: #ff9493;
 }
 
 .middot-divider {
@@ -1046,11 +1046,11 @@ article .article-metadata {
 
 .experience .m-2 .border,
 .experience .col.border-right {
-  border-color: #ff7473 !important;
+  border-color: #ff9493 !important;
 }
 
 .experience .m-2 .border.exp-fill {
-  background-color: #ff7473 !important;
+  background-color: #ff9493 !important;
 }
 
 /*************************************************
@@ -1340,13 +1340,13 @@ a.badge:hover {
  **************************************************/
 
 .btn-primary {
-  border-color: #ff7473;
-  background: #ff7473;
+  border-color: #ff9493;
+  background: #ff9493;
 }
 
 .btn-outline-primary {
-  border-color: #ff7473;
-  color: #ff7473;
+  border-color: #ff9493;
+  color: #ff9493;
 }
 
 .btn-primary:hover,
@@ -1354,7 +1354,7 @@ a.badge:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .open > .dropdown-toggle.btn-primary {
-  background: #ff7473;
+  background: #ff9493;
 }
 
 .btn-outline-light:hover,
@@ -1367,8 +1367,8 @@ a.badge:hover {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #ff7473;
-  border-color: #ff7473;
+  background-color: #ff9493;
+  border-color: #ff9493;
 }
 
 .dark .btn-outline-primary:not(:disabled):not(.disabled).active,
@@ -1379,8 +1379,8 @@ a.badge:hover {
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #ff7473;
-  border-color: #ff7473;
+  background-color: #ff9493;
+  border-color: #ff9493;
 }
 
 .dark .btn-outline-primary:hover {
@@ -1407,18 +1407,18 @@ a.badge:hover {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: #ffa4a3 !important;
+  background-color: #ffc4c3 !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #ff3433 !important;
+  background-color: #ff4443 !important;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 .2rem #ffa4a3;
+  box-shadow: 0 0 0 .2rem #ffc4c3;
 }
 
 /*************************************************
@@ -1776,8 +1776,8 @@ div.alert a {
 }
 
 .docs-search .form-control:focus {
-  border-color: #ff7473;
-  box-shadow: 0 0 0 3px #ffa4a3;
+  border-color: #ff9493;
+  box-shadow: 0 0 0 3px #ffc4c3;
 }
 
 /* Docs sidebar. */
@@ -1842,7 +1842,7 @@ div.alert a {
 .docs-sidebar .nav>.active:hover>a,
 .docs-sidebar .nav>.active>a {
   font-weight: bold;
-  color: #ff7473;
+  color: #ff9493;
   background-color: transparent;
 }
 
@@ -1851,7 +1851,7 @@ div.alert a {
 .docs-toggle {
   line-height: 1;
   font-size: 1.2rem;
-  color: #ff7473;
+  color: #ff9493;
   background-color: transparent;
 }
 
@@ -1968,7 +1968,7 @@ ul.toc-top {
 
 #TableOfContents li a:hover,
 .toc-top li a:hover {
-  color: #ff7473;
+  color: #ff9493;
   text-decoration: none;
 }
 
@@ -1976,12 +1976,12 @@ ul.toc-top {
 
 .anchorjs-link {
   font-weight: 400;
-  color: #ff3433;
+  color: #ff4443;
   transition: color .16s linear;
 }
 
 .anchorjs-link:hover {
-  color: #ff7473;
+  color: #ff9493;
   text-decoration: none;
 }
 
@@ -2005,8 +2005,8 @@ body.dark,
 
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
-  border-color: #ff7473;
-  box-shadow: 0 0 0 .2rem #ff3433;
+  border-color: #ff9493;
+  box-shadow: 0 0 0 .2rem #ff4443;
 }
 
 .dark h1,
@@ -2038,7 +2038,7 @@ body.dark,
 }
 
 .dark ul.share li a {
-  background-color: #ff7473;
+  background-color: #ff9493;
 }
 
 .dark table table {
@@ -2091,7 +2091,7 @@ body.dark,
 }
 
 .dark .card h4 a {
-  color: #ff7473;
+  color: #ff9493;
   border-bottom: solid 1px transparent;
 }
 

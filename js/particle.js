@@ -4,22 +4,22 @@ var SCREEN_WIDTH = window.innerWidth;
 var SCREEN_HEIGHT = window.innerHeight;
 
 if (SCREEN_WIDTH >= 1024) {
-  var RADIUS = 500;
+  var RADIUS = 400;
   var mouseX = SCREEN_WIDTH * 0.5;
-  var mouseY = SCREEN_HEIGHT * 0.45;
+  var mouseY = SCREEN_HEIGHT * 0.4;
 } else if (SCREEN_WIDTH > 728){
   var RADIUS = 350;
   var mouseX = SCREEN_WIDTH * 0.5;
-  var mouseY = SCREEN_HEIGHT * 0.45;
+  var mouseY = SCREEN_HEIGHT * 0.4;
 } else {
   var RADIUS = 250;
   var mouseX = SCREEN_WIDTH * 0.5;
-  var mouseY = SCREEN_HEIGHT * 0.45;
+  var mouseY = SCREEN_HEIGHT * 0.4;
 }
 
 var RADIUS_SCALE = 1;
 var RADIUS_SCALE_MIN = 1;
-var RADIUS_SCALE_MAX = 1.5;
+var RADIUS_SCALE_MAX = 1.25;
 
 var QUANTITY = 35;
 
