@@ -136,10 +136,16 @@ ul {
   margin-bottom: -0.5rem;
 } */
 
+.card .card-text p {
+    font-size: 0.85rem;
+}
+
 .card .card-text mark.card-disp {
   font-weight: 400;
-  font-size: 0.85rem;
-  background-color: #ffa4a3;
+  font-size: 0.9rem;
+  font-family: 'Klavika-light';
+  padding: 5px;
+  background-color: #ff9493;
   color: #fff;
 }
 
