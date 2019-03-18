@@ -1544,29 +1544,70 @@ The state of actual operation is shown in the following image. We confirmed that
       <guid>/project/2019_viz/</guid>
       <description>
 
+&lt;h5 id=&#34;overview&#34;&gt;Overview&lt;/h5&gt;
+
+&lt;p&gt;I&amp;rsquo;m taking the class of &amp;ldquo;Data Visualization and Information Aesthetics&amp;rdquo; at Parsons School of Design. In this class, I will create a total of four posters and two interactive visualization projects.&lt;/p&gt;
+
+&lt;p&gt;In the first half of the semester, I created three posters for specific topics such as Man-made product, Nature and Society. I learned the basic techniques of data visualization in a series of design processes from ideation, source data discovery to iterative prototyping.&lt;/p&gt;
+
+&lt;p&gt;In the second half of the semester, based on the knowledge of the first half, I will craft one more poster and two interactive projects using d3.js and other javascript libraries.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/overview.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
 &lt;h5 id=&#34;1-man-made-product&#34;&gt;#1: Man-made Product&lt;/h5&gt;
 
+&lt;p&gt;I picked up the traditional Japanese costume called Junihitoe to introduce Japanese culture, and expressed characteristic information such as being 12 layers of kimono and being very heavy.&lt;/p&gt;
+
+&lt;p&gt;Using the grid system, I arranged the information so that the viewer&amp;rsquo;s eyes flow naturally from the image of the impressive kimono in the center to the surrounding information.
 
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/arch_final.png&#34; /&gt;
+&lt;img src=&#34;img/process3.png&#34; /&gt;
 
 
-&lt;/figure&gt;
+&lt;/figure&gt;&lt;/p&gt;
 
-&lt;h5 id=&#34;design-process-methodology&#34;&gt;Design Process &amp;amp; Methodology&lt;/h5&gt;
+&lt;h5 id=&#34;2-nature&#34;&gt;#2: Nature&lt;/h5&gt;
 
-&lt;p&gt;
+&lt;p&gt;I picked up the solar eclipse forecast because I was interested in astronomy and wanted to draw a planetary arc using the earth as a canvas. I expressed the mechanism of the eclipse and where the total eclipse, annular eclipse and hybrid eclipse will occur from 2019 to 2031.&lt;/p&gt;
+
+&lt;p&gt;I was struggled how to arrange information on location and date information of eclipse. In the iteration 1, I tried the idea of displaying the date information on the location of the eclipse. However, after receiving the feedback that the information is complicated, I decided to display the information of the place and the information of the date separately in the iteration 2.
+
 
 
 &lt;figure&gt;
 
-&lt;img src=&#34;img/process1.png&#34; /&gt;
+&lt;img src=&#34;img/nature.png&#34; /&gt;
 
 
-&lt;/figure&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;3-society&#34;&gt;#3: Society&lt;/h5&gt;
+
+&lt;p&gt;I wanted to compare countries in the world in the field of information, so I found the worldwide investigation data of &lt;a href=&#34;https://tefficient.com/wp-content/uploads/2018/07/tefficient-industry-analysis-1-2018-mobile-data-usage-and-revenue-FY-2017-per-country-10-July-2018.pdf&#34; target=&#34;_blank&#34;&gt;mobile data consumption per SIM per Month in 2018&lt;/a&gt;. I draw the ranking of mobile data usage all over the world.&lt;/p&gt;
+
+&lt;p&gt;I wanted to experiment a new method, so I tried the 2.5D expression. While continuing trial and error, I came up with the idea of using the binary number as a bar chart, and finally expressed the amount of data of each country in binary representation such as 14Gigabytes is represented as 1101000010011101110000110000000000 in binary.
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/society.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;my-methodology-1-using-the-base-system&#34;&gt;My Methodology 1: Using the base system&lt;/h5&gt;
+
 
 
 
@@ -1575,7 +1616,19 @@ The state of actual operation is shown in the following image. We confirmed that
 &lt;img src=&#34;img/process2.png&#34; /&gt;
 
 
-&lt;/figure&gt;&lt;/p&gt;
+&lt;/figure&gt;
+
+&lt;h5 id=&#34;my-methodology-2-inspiration-from-great-works&#34;&gt;My Methodology 2: Inspiration from great works&lt;/h5&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/inspiration.png&#34; /&gt;
+
+
+&lt;/figure&gt;
 
 &lt;h5 id=&#34;reference&#34;&gt;Reference&lt;/h5&gt;
 
