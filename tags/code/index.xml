@@ -23,6 +23,16 @@
     </item>
     
     <item>
+      <title>Information Aesthetics</title>
+      <link>/project/2019_viz/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/2019_viz/</guid>
+      <description>Overview I&amp;rsquo;m taking the class of &amp;ldquo;Data Visualization and Information Aesthetics&amp;rdquo; at Parsons School of Design. In this class, I will create a total of four posters and two interactive visualization projects.
+In the first half of the semester, I created three posters for specific topics such as Man-made product, Nature and Society. I learned the basic techniques of data visualization in a series of design processes from ideation, source data discovery to iterative prototyping.</description>
+    </item>
+    
+    <item>
       <title>AR Businesscard</title>
       <link>/project/2018_ar/</link>
       <pubDate>Wed, 26 Sep 2018 00:00:00 -0400</pubDate>
@@ -50,6 +60,15 @@ Objective How might we collect responses to questions that can only be answered 
       <description> Project Overview    Coded a sound visualizer which enables music experience more organic.
             
 Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.js   </description>
+    </item>
+    
+    <item>
+      <title>LimpiDual Touch</title>
+      <link>/project/2009_llimpidual/</link>
+      <pubDate>Fri, 27 Mar 2009 00:00:00 -0400</pubDate>
+      
+      <guid>/project/2009_llimpidual/</guid>
+      <description>Project Overview    LimpiDual Touch is the emerging interactive transparent display. Users can operate from the rear side of the screen while seeing both displayed images and their fingers. This feature resolves a finger occlusion problem. Additionally, it also works for multiple users. Two users can share an identical display from both sides and control displayed objects at one time. This feature will apply to a collaborative work and an entertainment application.</description>
     </item>
     
   </channel>

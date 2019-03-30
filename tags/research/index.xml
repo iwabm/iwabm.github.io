@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Masaki Iwabuchi</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Masaki Iwabuchi</description>
+    <title>research on Masaki Iwabuchi</title>
+    <link>/tags/research/</link>
+    <description>Recent content in research on Masaki Iwabuchi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 24 Oct 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -45,16 +45,6 @@ Learning   Project Information  Phase / Period  Concept, Design, Build 10 / 2018
     </item>
     
     <item>
-      <title>Information Aesthetics</title>
-      <link>/project/2019_viz/</link>
-      <pubDate>Mon, 22 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/project/2019_viz/</guid>
-      <description>Overview I&amp;rsquo;m taking the class of &amp;ldquo;Data Visualization and Information Aesthetics&amp;rdquo; at Parsons School of Design. In this class, I will create a total of four posters and two interactive visualization projects.
-In the first half of the semester, I created three posters for specific topics such as Man-made product, Nature and Society. I learned the basic techniques of data visualization in a series of design processes from ideation, source data discovery to iterative prototyping.</description>
-    </item>
-    
-    <item>
       <title>UBER UX RESEARCH AND DESIGN</title>
       <link>/project/2015_uber/</link>
       <pubDate>Sun, 21 Oct 2018 00:00:00 -0400</pubDate>
@@ -62,15 +52,6 @@ In the first half of the semester, I created three posters for specific topics s
       <guid>/project/2015_uber/</guid>
       <description>Project Overview I had the opportunity to join the Research Methods in Interaction Design course at the School of Visual Arts. Our instructor Jodi Leo, Executive Director of User Experience at Critical Mass, led us to collaborate with the Research team at Uber to optimize efficiency for Uber drivers during the pick up at the JFK airport.
 My Role I conducted interviews with Uber drivers, conducted secondary research, developed personas, project management, synthesis, concept/use case design, and designed the presentation narrative.</description>
-    </item>
-    
-    <item>
-      <title>AR Businesscard</title>
-      <link>/project/2018_ar/</link>
-      <pubDate>Wed, 26 Sep 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/project/2018_ar/</guid>
-      <description> Demo Video   Project Information  Phase / Period  Concept, Design, Build 102/ 2018 (1 week)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding Unity, Vuforia, C++              -- </description>
     </item>
     
     <item>
@@ -82,17 +63,6 @@ My Role I conducted interviews with Uber drivers, conducted secondary research, 
       <description>XHuman: Educational Headset for transhumans to Experience “Human” in 2075 XHuman is an educational headset for transhumans who inplants superintelligence into their left brain which works for language, memory, calculation. This gadget stimulates your brain electrically and temporarily stops the neurotransmission between the brain chip and the brain. This feature enables transhumans to think as “Humans.&amp;rdquo;
         
 How can Humans and Transhumans coexist towards a sustainable society in 2075?</description>
-    </item>
-    
-    <item>
-      <title>ORGANIC MUSIC VISUALIZER</title>
-      <link>/project/2018_organic/</link>
-      <pubDate>Tue, 27 Mar 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/project/2018_organic/</guid>
-      <description> Project Overview    Coded a sound visualizer which enables music experience more organic.
-            
-Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.js   </description>
     </item>
     
     <item>

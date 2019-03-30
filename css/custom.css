@@ -76,10 +76,14 @@ li {
   color: rgba(0,0,0,0.6);
 }
 
-h3, b {
-  font-family: 'Klavika-light';
+b {
+  font-family: 'Klavika';
   font-weight: 700;
   color: rgba(0,0,0,1.0);
+}
+
+h3 {
+  font-weight: 500;
 }
 
 .featurette h3 {
@@ -142,11 +146,11 @@ ul {
 
 .card .card-text mark.card-disp {
   font-weight: 400;
-  font-size: 0.9rem;
-  font-family: 'Klavika-light';
+  font-size: 0.8rem;
+  font-family: 'Klavika';
   padding: 5px;
-  background-color: #ff9493;
-  color: #fff;
+  /* background-color: #ff9493; */
+  color: rgba(0,0,0,0.54);
 }
 
 .markup-quote {
@@ -220,7 +224,7 @@ a:hover {
 }
 
 .hero-overlay .btn-lg {
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 @media screen and (max-width: 768px) {
@@ -262,6 +266,11 @@ a:hover {
 
 .card .card-text {
     padding: 0 0.5rem 0.75rem 0.75rem;
+    text-align: center;
+}
+
+.card-body .card-text{
+  text-align: left;
 }
 
 .text-muted {
