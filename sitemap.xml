@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>/project/2019_viz/</loc>
+      <loc>/tmp/2018_mta/</loc>
       <lastmod>2018-10-22T00:00:00-04:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>/tmp/2018_mta/</loc>
+      <loc>/project/2019_viz/</loc>
       <lastmod>2018-10-22T00:00:00-04:00</lastmod>
     </url>
     
@@ -238,6 +238,13 @@
     
       <loc>/project/2009_llimpidual/</loc>
       <lastmod>2009-03-27T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/weather/</loc>
     </url>
     
   

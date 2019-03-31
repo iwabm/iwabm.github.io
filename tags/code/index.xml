@@ -23,7 +23,7 @@
     </item>
     
     <item>
-      <title>Information Aesthetics</title>
+      <title>Visual Design Showcase</title>
       <link>/project/2019_viz/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 -0400</pubDate>
       
@@ -52,14 +52,14 @@ Objective How might we collect responses to questions that can only be answered 
     </item>
     
     <item>
-      <title>ORGANIC MUSIC VISUALIZER</title>
+      <title>Creative Coding Showcase</title>
       <link>/project/2018_organic/</link>
       <pubDate>Tue, 27 Mar 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2018_organic/</guid>
-      <description> Project Overview    Coded a sound visualizer which enables music experience more organic.
-            
-Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.js   </description>
+      <description>#1: Immersive Music Visualizer   I imagined the space-trip and a scene in which we encountered unknown objects. I coded a sound visualizer which enables music experience more immersive in the 3D space.
+When the user upload the music, this visualizer converts three music parameters into visualized elements. Users can manipulate the viewpoint in the 3D space.
+ BPM (Beats Per Minutre) -&amp;gt; Velocity of balls Sound Volume -&amp;gt; Dynamics of balls and the plane Length of Music -&amp;gt; The number of random colored balls    Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.</description>
     </item>
     
     <item>
