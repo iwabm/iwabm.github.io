@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 27 Oct 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creative Coding Showcase</title>
+      <link>/project/2018_organic/</link>
+      <pubDate>Sat, 27 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/2018_organic/</guid>
+      <description>#1: Immersive Music Visualizer   I imagined the space-trip and a scene in which we encountered unknown objects. I coded a sound visualizer which enables music experience more immersive in the 3D space.
+When the user upload the music, this visualizer converts three music parameters into visualized elements. Users can manipulate the viewpoint in the 3D space.
+ BPM (Beats Per Minutre) -&amp;gt; Velocity of balls Sound Volume -&amp;gt; Dynamics of balls and the plane Length of Music -&amp;gt; The number of random colored balls    Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.</description>
+    </item>
     
     <item>
       <title>ChanoMa</title>
@@ -82,17 +93,6 @@ My Role I conducted interviews with Uber drivers, conducted secondary research, 
       <description>XHuman: Educational Headset for transhumans to Experience “Human” in 2075 XHuman is an educational headset for transhumans who inplants superintelligence into their left brain which works for language, memory, calculation. This gadget stimulates your brain electrically and temporarily stops the neurotransmission between the brain chip and the brain. This feature enables transhumans to think as “Humans.&amp;rdquo;
         
 How can Humans and Transhumans coexist towards a sustainable society in 2075?</description>
-    </item>
-    
-    <item>
-      <title>Creative Coding Showcase</title>
-      <link>/project/2018_organic/</link>
-      <pubDate>Tue, 27 Mar 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/project/2018_organic/</guid>
-      <description>#1: Immersive Music Visualizer   I imagined the space-trip and a scene in which we encountered unknown objects. I coded a sound visualizer which enables music experience more immersive in the 3D space.
-When the user upload the music, this visualizer converts three music parameters into visualized elements. Users can manipulate the viewpoint in the 3D space.
- BPM (Beats Per Minutre) -&amp;gt; Velocity of balls Sound Volume -&amp;gt; Dynamics of balls and the plane Length of Music -&amp;gt; The number of random colored balls    Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.</description>
     </item>
     
     <item>
