@@ -7,21 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 27 Oct 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="/tags/code/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Creative Coding Showcase</title>
-      <link>/project/2018_organic/</link>
-      <pubDate>Sat, 27 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/project/2018_organic/</guid>
-      <description>#1: Immersive Music Visualizer   I imagined the space-trip and a scene in which we encountered unknown objects. I coded a sound visualizer which enables music experience more immersive in the 3D space.
-When the user upload the music, this visualizer converts three music parameters into visualized elements. Users can manipulate the viewpoint in the 3D space.
- BPM (Beats Per Minutre) -&amp;gt; Velocity of balls Sound Volume -&amp;gt; Dynamics of balls and the plane Length of Music -&amp;gt; The number of random colored balls    Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.</description>
-    </item>
     
     <item>
       <title>Breathing Chair</title>
@@ -41,6 +30,17 @@ When the user upload the music, this visualizer converts three music parameters 
       <guid>/project/2019_viz/</guid>
       <description>Overview I&amp;rsquo;m taking the class of &amp;ldquo;Data Visualization and Information Aesthetics&amp;rdquo; at Parsons School of Design. In this class, I will create a total of four posters and two interactive visualization projects.
 In the first half of the semester, I created three posters for specific topics such as Man-made product, Nature and Society. I learned the basic techniques of data visualization in a series of design processes from ideation, source data discovery to iterative prototyping.</description>
+    </item>
+    
+    <item>
+      <title>Creative Coding Showcase</title>
+      <link>/project/2018_organic/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/2018_organic/</guid>
+      <description>#1: Immersive Music Visualizer   I imagined the space-trip and a scene in which we encountered unknown objects. I coded a sound visualizer which enables music experience more immersive in the 3D space.
+When the user upload the music, this visualizer converts three music parameters into visualized elements. Users can manipulate the viewpoint in the 3D space.
+ BPM (Beats Per Minutre) -&amp;gt; Velocity of balls Sound Volume -&amp;gt; Dynamics of balls and the plane Length of Music -&amp;gt; The number of random colored balls    Project Information  Phase / Period  Concept, Design, Build 10 / 2018 (1 Day)  Team / Role  Sole Project Maker, Coder  Method / Technology  Iterative coding html5, css3, javascript, three.</description>
     </item>
     
     <item>

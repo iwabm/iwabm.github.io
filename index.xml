@@ -747,122 +747,6 @@ Finally, I came up with the question &amp;ldquo;How might we make a network of c
     </item>
     
     <item>
-      <title>Creative Coding Showcase</title>
-      <link>/project/2018_organic/</link>
-      <pubDate>Sat, 27 Oct 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/project/2018_organic/</guid>
-      <description>
-
-&lt;h5 id=&#34;1-immersive-music-visualizer&#34;&gt;#1: Immersive Music Visualizer&lt;/h5&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;//player.vimeo.com/video/297242799&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-
-&lt;p&gt;I imagined the space-trip and a scene in which we encountered unknown objects. I coded a sound visualizer which enables music experience more immersive in the 3D space.&lt;/p&gt;
-
-&lt;p&gt;When the user upload the music, this visualizer converts three music parameters into visualized elements. Users can manipulate the viewpoint in the 3D space.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;BPM (Beats Per Minutre) -&amp;gt; Velocity of balls&lt;/li&gt;
-&lt;li&gt;Sound Volume -&amp;gt; Dynamics of balls and the plane&lt;/li&gt;
-&lt;li&gt;Length of Music -&amp;gt; The number of random colored balls&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/org.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h6 id=&#34;project-information&#34;&gt;Project Information&lt;/h6&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phase / Period
-
-&lt;ul&gt;
-&lt;li&gt;Concept, Design, Build&lt;/li&gt;
-&lt;li&gt;10 / 2018 (1 Day)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Team / Role
-
-&lt;ul&gt;
-&lt;li&gt;Sole Project&lt;/li&gt;
-&lt;li&gt;Maker, Coder&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Method / Technology
-
-&lt;ul&gt;
-&lt;li&gt;Iterative coding&lt;/li&gt;
-&lt;li&gt;html5, css3, javascript, three.js&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h5 id=&#34;2-simple-weather-forecast&#34;&gt;#2: Simple Weather Forecast&lt;/h5&gt;
-
-&lt;p&gt;
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/ny.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-
-&lt;figure&gt;
-
-&lt;img src=&#34;img/tokyo.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;Recent weather App is very sophisticated but these functions are too much. I just wanted to know a weather and temperature forecast for today and tomorrow between two locations: NY (current living place) and Tokyo (original hometown). I Coded a simple weather forecast using OpenWeatherMap API.&lt;/p&gt;
-
-&lt;p&gt;During the iterative coding, I added some functions to make the experience multi-sensory.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Make environmental sound according to the weather for users to understand the weather without seeing the screen.&lt;/li&gt;
-&lt;li&gt;Set background image according to the location(NY/Tokyo) randomly to make the experience fun!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://iwabm.github.io/weather&#34; target=&#34;_blank&#34;&gt;You can experience here&lt;/a&gt;&lt;/p&gt;
-
-&lt;h6 id=&#34;project-information-1&#34;&gt;Project Information&lt;/h6&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Phase / Period
-
-&lt;ul&gt;
-&lt;li&gt;Concept, Design, Build&lt;/li&gt;
-&lt;li&gt;3 / 2019 (1 Week)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Team / Role
-
-&lt;ul&gt;
-&lt;li&gt;Sole Project&lt;/li&gt;
-&lt;li&gt;Maker, Coder&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Method / Technology
-
-&lt;ul&gt;
-&lt;li&gt;OpenWeatherMap API, moment.js, p5.js&lt;/li&gt;
-&lt;li&gt;html, css3, javascript, node.js&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>ChanoMa</title>
       <link>/project/2017_cepco/</link>
       <pubDate>Wed, 24 Oct 2018 00:00:00 -0400</pubDate>
@@ -2132,9 +2016,125 @@ In this design challenge, I set the project period is 5 days, 40h. So tradeoff b
     </item>
     
     <item>
+      <title>Creative Coding Showcase</title>
+      <link>/project/2018_organic/</link>
+      <pubDate>Sun, 21 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/2018_organic/</guid>
+      <description>
+
+&lt;h5 id=&#34;1-immersive-music-visualizer&#34;&gt;#1: Immersive Music Visualizer&lt;/h5&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/297242799&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;I imagined the space-trip and a scene in which we encountered unknown objects. I coded a sound visualizer which enables music experience more immersive in the 3D space.&lt;/p&gt;
+
+&lt;p&gt;When the user upload the music, this visualizer converts three music parameters into visualized elements. Users can manipulate the viewpoint in the 3D space.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;BPM (Beats Per Minutre) -&amp;gt; Velocity of balls&lt;/li&gt;
+&lt;li&gt;Sound Volume -&amp;gt; Dynamics of balls and the plane&lt;/li&gt;
+&lt;li&gt;Length of Music -&amp;gt; The number of random colored balls&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/org.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h6 id=&#34;project-information&#34;&gt;Project Information&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phase / Period
+
+&lt;ul&gt;
+&lt;li&gt;Concept, Design, Build&lt;/li&gt;
+&lt;li&gt;10 / 2018 (1 Day)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Team / Role
+
+&lt;ul&gt;
+&lt;li&gt;Sole Project&lt;/li&gt;
+&lt;li&gt;Maker, Coder&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Method / Technology
+
+&lt;ul&gt;
+&lt;li&gt;Iterative coding&lt;/li&gt;
+&lt;li&gt;html5, css3, javascript, three.js&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;2-simple-weather-forecast&#34;&gt;#2: Simple Weather Forecast&lt;/h5&gt;
+
+&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/ny.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;img/tokyo.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Recent weather App is very sophisticated but these functions are too much. I just wanted to know a weather and temperature forecast for today and tomorrow between two locations: NY (current living place) and Tokyo (original hometown). I Coded a simple weather forecast using OpenWeatherMap API.&lt;/p&gt;
+
+&lt;p&gt;During the iterative coding, I added some functions to make the experience multi-sensory.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Make environmental sound according to the weather for users to understand the weather without seeing the screen.&lt;/li&gt;
+&lt;li&gt;Set background image according to the location(NY/Tokyo) randomly to make the experience fun!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://iwabm.github.io/weather&#34; target=&#34;_blank&#34;&gt;You can experience here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h6 id=&#34;project-information-1&#34;&gt;Project Information&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Phase / Period
+
+&lt;ul&gt;
+&lt;li&gt;Concept, Design, Build&lt;/li&gt;
+&lt;li&gt;3 / 2019 (1 Week)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Team / Role
+
+&lt;ul&gt;
+&lt;li&gt;Sole Project&lt;/li&gt;
+&lt;li&gt;Maker, Coder&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Method / Technology
+
+&lt;ul&gt;
+&lt;li&gt;OpenWeatherMap API, moment.js, p5.js&lt;/li&gt;
+&lt;li&gt;html, css3, javascript, node.js&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>UBER UX RESEARCH AND DESIGN</title>
       <link>/project/2015_uber/</link>
-      <pubDate>Sun, 21 Oct 2018 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/2015_uber/</guid>
       <description>
