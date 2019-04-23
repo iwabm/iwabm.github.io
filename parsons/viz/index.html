@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="viz.css">
+  </head>
+
+  <body>
+    <div class="chart-container">
+      <div class="svg-container">
+      </div>
+      <div id="option">
+      <input name="updateButton"
+            id="button2"
+             type="button"
+             value="Paint the Earth"
+             onclick="updateData()" />
+      </div>
+      <input name="updateButton"
+            id="button1"
+             type="button"
+             value="Refresh"
+             onclick="refresh()" />
+      </div>
+    </div>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://unpkg.com/topojson@3"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="viz.js"></script>
+  </body>
+</html>
