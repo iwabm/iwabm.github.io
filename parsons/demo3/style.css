@@ -1,0 +1,45 @@
+.videobg {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    pointer-events: none;
+}
+
+.container {
+	height: 100vh;
+	overflow: hidden;
+	position: relative;
+  font-family: 'Over the Rainbow', cursive;
+	background: rgba(255, 255, 255, 0.25);
+}
+
+.contents {
+  width: 720px;
+  height: 80vh;
+  position: relative;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-top: 50px;
+  color: rgba(200,200,200,0.5);
+}
+
+span {
+  font-size: 2rem;
+  text-align: center;
+  color: rgba(0,0,0,0.5);
+}
+
+#button {
+  position: absolute;
+  margin: 0 auto 0 auto;
+  bottom: 0;
+  width: 100px;
+}

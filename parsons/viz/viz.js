@@ -251,14 +251,40 @@ var year = svg.append('g') // SVGのグループ
       .attr('stroke', 'none')
       .attr('fill', 'rgb(106, 90, 205)');
 
+  var div = d3.select("body").append("div")
+      .attr("class", "tooltip")
+      .style("opacity", 0);
+
 // mouse event (line)
 function handleMouseOver(d,i) {
       var arc = d3.select(this)
         .attr("opacity", 0.75);
       var sourceStr = this.id;
       var a = sourceStr.replace('p','#c');
+      var id = sourceStr.replace('p','');
       var cir = d3.select(a)
         .attr("opacity", 0.75);
+
+      console.log(sourceStr);
+      if(yearset[id][1]=='T'){
+        div
+          .style("right", "20px")
+          .style("bottom", "180px")
+          .style("opacity", 1)
+          .html('Total Eclipse<br><p class="ecli">A total eclipse occurs when the dark silhouette of the Moon completely obscures the intensely bright light of the Sun, allowing the much fainter solar corona to be visible. During one eclipse, totality occurs at best only in a narrow track on the surface of the Earth. This narrow track is called the path of totality.</p>');
+      } else if(yearset[id][1]=='A'){
+        div
+          .style("right", "20px")
+          .style("bottom", "180px")
+          .style("opacity", 1)
+          .html('Annual Eclipse<br><p class="ecli">An annular eclipse occurs when the Sun and Moon are exactly in line with the Earth, but the apparent size of the Moon is smaller than that of the Sun. Hence the Sun appears as a very bright ring, or annulus, surrounding the dark disk of the Moon.</p>');
+      } else {
+        div
+          .style("right", "20px")
+          .style("bottom", "180px")
+          .style("opacity", 1)
+          .html('Hybrid Eclipse<br><p class="ecli">A hybrid eclipse (also called annular / total eclipse) shifts between a total and annular eclipse. At the certain points on the surface of Earth, it appears as a total eclipse, whereas at other points it appears as the annular. Hybrid eclipses are comparatively rare.</p>');
+      }
 }
 
 function handleMouseOut(d, i) {
@@ -268,6 +294,8 @@ function handleMouseOut(d, i) {
       var a = sourceStr.replace('p','#c');
       d3.select(a)
         .attr("opacity", 0.25);
+      div
+        .style("opacity", 0)
 }
 
 // mouse event (circle)
@@ -303,7 +331,7 @@ function updateData() {
     var b = Math.floor( Math.random() * 255 ).toString(16);
     x[i].style.fill = "#"+ r + g + b;
     x[i].style.stroke = "none";
-    x[i].style.opacity = 0.45;
+    x[i].style.opacity = 0.85;
 
   }
 }

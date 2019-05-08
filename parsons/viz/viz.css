@@ -124,6 +124,27 @@ circle.pointed {
   }
 }
 
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    /* height: 100px; */
+    padding: 0.3em 1em;
+    color: white;
+    font-family: serif;
+    font-size: 14px;
+    /* background: lightsteelblue; */
+    pointer-events: none;
+    border: solid 1px #ffffff;
+    border-radius: 3px;
+}
+
+.ecli {
+  font-family: sans-serif;
+  font-size: 12px;
+  text-align: left;
+}
+
 #button1 {
   position: absolute;
   top:20px;

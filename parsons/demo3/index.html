@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>It's raining somewhere</title>
+	<link rel="shortcut icon" href="favicon.ico">
+	<link href="https://fonts.googleapis.com/css?family=Over+the+Rainbow" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/normalize.css" />
+	<link rel="stylesheet" type="text/css" href="css/demo.css" />
+	
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<link rel="stylesheet" href="css/fakeLoader.min.css">
+	
+</head>
+
+<body class="demo-3">
+	<div class="fakeLoader"></div>
+	<video class="videobg" src="media/rain.mp4" poster="media/video.jpg" autoplay loop muted>
+		<source src="media/rain.webm" type="video/web">
+		<source src="media/rain.mp4" type="video/mp4">
+	</video>
+	<canvas id="container" width="1" height="1" style="position:absolute"></canvas>
+	<div class="container">
+		
+			<div class="contents">
+				<h1>It's raining somewhere.</h1>
+				<div id="info"></div>
+				<div id="player"></div>
+				<img id="button" src="button.png" onclick="search()">
+			</div>
+	</div>
+		<p class="nosupport">Sorry, but your browser does not support WebGL!</p>
+	</div>
+	
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js">
+	<script src="js/fakeLoader.min.js"></script>
+	<script src="js/index3.min.js"></script>
+	<script src="weather.js"></script>
+</body>
+
+</html>

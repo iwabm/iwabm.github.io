@@ -23,6 +23,35 @@
     
     <item>
       <title></title>
+      <link>/parsons/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/parsons/demo/</guid>
+      <description> It&#39;s raining somewhere.      Weather    It&#39;s raining somewhere.      Sorry, but your browser does not support WebGL!
+     </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/parsons/demo3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/parsons/demo3/</guid>
+      <description> It&#39;s raining somewhere --        About   -- It&#39;s raining somewhere.     Sorry, but your browser does not support WebGL!
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/parsons/rainy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/parsons/rainy/</guid>
+      <description> Document   It&#39;s raining somewhere.       </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/parsons/viz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
