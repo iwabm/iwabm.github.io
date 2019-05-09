@@ -124,7 +124,7 @@ function search(){
     }
     song = res.tracks.track[getRandomInt(10)].name
     console.log(song)
-    youtubeURL = "https://www.googleapis.com/youtube/v3/search?type=video&part=snippet&q=" + song + "&key=AIzaSyCqE1u9cWpZiNN_-BX8LVUOUNdP_E044jM";
+    youtubeURL = "https://www.googleapis.com/youtube/v3/search?type=video&part=snippet&q=" + song + "&key=AIzaSyCnS5dJOFnDtIibR_lJxCGplkQZ1VIcqLs";
     return getParam(youtubeURL)
   })
   .then(res => {
