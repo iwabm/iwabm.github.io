@@ -120,7 +120,7 @@ for(var i=0;i<=19;i++){
   } else if(yearset[i][1] == 'T'){
     color = 'rgb(240, 248, 255)';
   } else {
-    color = 'rgb(106, 90, 205)';
+    color = 'rgb(235, 0, 235)';
   }
   //　線
   leng = dataset[i].length;
@@ -156,7 +156,7 @@ for(var i=0;i<=19;i++){
   } else if(yearset[i][1] == 'T'){
     color = 'rgb(240, 248, 255)';
   } else {
-    color = 'rgb(106, 90, 205)';
+    color = 'rgb(235, 0, 235)';
   }
 
   var circle = svg.append('g') // SVGのグループ
@@ -249,7 +249,7 @@ var year = svg.append('g') // SVGのグループ
       .attr('r', 10)
       // .attr("opacity", 0.25)
       .attr('stroke', 'none')
-      .attr('fill', 'rgb(106, 90, 205)');
+      .attr('fill', 'rgb(235, 0, 235)');
 
   var div = d3.select("body").append("div")
       .attr("class", "tooltip")
@@ -265,23 +265,23 @@ function handleMouseOver(d,i) {
       var cir = d3.select(a)
         .attr("opacity", 0.75);
 
-      console.log(sourceStr);
+      // console.log(sourceStr);
       if(yearset[id][1]=='T'){
         div
-          .style("right", "20px")
-          .style("bottom", "180px")
+          .style("left", "20px")
+          .style("bottom", "170px")
           .style("opacity", 1)
           .html('Total Eclipse<br><p class="ecli">A total eclipse occurs when the dark silhouette of the Moon completely obscures the intensely bright light of the Sun, allowing the much fainter solar corona to be visible. During one eclipse, totality occurs at best only in a narrow track on the surface of the Earth. This narrow track is called the path of totality.</p>');
       } else if(yearset[id][1]=='A'){
         div
-          .style("right", "20px")
-          .style("bottom", "180px")
+          .style("left", "20px")
+          .style("bottom", "170px")
           .style("opacity", 1)
           .html('Annual Eclipse<br><p class="ecli">An annular eclipse occurs when the Sun and Moon are exactly in line with the Earth, but the apparent size of the Moon is smaller than that of the Sun. Hence the Sun appears as a very bright ring, or annulus, surrounding the dark disk of the Moon.</p>');
       } else {
         div
-          .style("right", "20px")
-          .style("bottom", "180px")
+          .style("left", "20px")
+          .style("bottom", "170px")
           .style("opacity", 1)
           .html('Hybrid Eclipse<br><p class="ecli">A hybrid eclipse (also called annular / total eclipse) shifts between a total and annular eclipse. At the certain points on the surface of Earth, it appears as a total eclipse, whereas at other points it appears as the annular. Hybrid eclipses are comparatively rare.</p>');
       }
@@ -289,11 +289,11 @@ function handleMouseOver(d,i) {
 
 function handleMouseOut(d, i) {
       d3.select(this)
-        .attr("opacity", 0.25)
+        .attr("opacity", 0.3)
       var sourceStr = this.id;
       var a = sourceStr.replace('p','#c');
       d3.select(a)
-        .attr("opacity", 0.25);
+        .attr("opacity", 0.3);
       div
         .style("opacity", 0)
 }
@@ -303,24 +303,51 @@ function circleMouseOver(d,i) {
       d3.select(this)
         .attr("opacity", 0.75);
       var sourceStr = this.id;
+      console.log(sourceStr);
       var a = sourceStr.replace('c','#p');
+      var id = sourceStr.replace('c','');
       d3.select(a)
         // .transition().delay(500).duration(1000)
         // .attr("stroke-width", 20)
-        .attr("opacity", 0.75);
+        .attr("opacity", 1.0);
+      if(yearset[id][1]=='T'){
+        div
+          .style("left", "20px")
+          .style("bottom", "170px")
+          .style("opacity", 1)
+          .html('Total Eclipse<br><p class="ecli">A total eclipse occurs when the dark silhouette of the Moon completely obscures the intensely bright light of the Sun, allowing the much fainter solar corona to be visible. During one eclipse, totality occurs at best only in a narrow track on the surface of the Earth. This narrow track is called the path of totality.</p>');
+      } else if(yearset[id][1]=='A'){
+        div
+          .style("left", "20px")
+          .style("bottom", "170px")
+          .style("opacity", 1)
+          .html('Annual Eclipse<br><p class="ecli">An annular eclipse occurs when the Sun and Moon are exactly in line with the Earth, but the apparent size of the Moon is smaller than that of the Sun. Hence the Sun appears as a very bright ring, or annulus, surrounding the dark disk of the Moon.</p>');
+      } else {
+        div
+          .style("left", "20px")
+          .style("bottom", "170px")
+          .style("opacity", 1)
+          .html('Hybrid Eclipse<br><p class="ecli">A hybrid eclipse (also called annular / total eclipse) shifts between a total and annular eclipse. At the certain points on the surface of Earth, it appears as a total eclipse, whereas at other points it appears as the annular. Hybrid eclipses are comparatively rare.</p>');
+      }
 }
 
 function circleMouseOut(d, i) {
       d3.select(this)
-        .attr("opacity", 0.25);
+        .attr("opacity", 0.3);
       var sourceStr = this.id;
       var a = sourceStr.replace('c','#p');
       d3.select(a)
-        .attr("opacity", 0.25);
+        .attr("opacity", 0.3);
+      div
+        .style("opacity", 0);
 }
 
 function refresh() {
   location.reload();
+}
+
+function why() {
+  document.location = "https://www.youtube.com/watch?v=oNH3akWXaV8";
 }
 
 function updateData() {
@@ -330,8 +357,8 @@ function updateData() {
     var g = Math.floor( Math.random() * 255 ).toString(16);
     var b = Math.floor( Math.random() * 255 ).toString(16);
     x[i].style.fill = "#"+ r + g + b;
-    x[i].style.stroke = "none";
-    x[i].style.opacity = 0.85;
+    x[i].style.stroke = "#666666";
+    x[i].style.opacity = 0.5;
 
   }
 }
@@ -361,7 +388,7 @@ function updateData() {
 //       // } else if(yearset[i][1] == 'T'){
 //       //   color = 'rgb(240, 248, 255)';
 //       // } else {
-//       //   color = 'rgb(106, 90, 205)';
+//       //   color = 'rgb(235, 0, 235)';
 //       // }
 //
 //       len = dataset[j].length;
